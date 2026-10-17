@@ -100,6 +100,9 @@ def lead_credit(title_cell, artist):
     paren = re.findall(r"\((.*?)\)", title_cell.split('"')[-1] if '"' in title_cell else "")
     for p in paren:
         low = p.lower()
+        # charity and ensemble records: Band Aid, Artists for Grenfell, X Factor finalists, USA for Africa
+        if low.startswith(("as part of", "amongst", "among ", "as a member of", "as one of", "credited to")):
+            return False
         if low.startswith(("featuring", "feat.", "with ", "and ", "vs")):
             continue
         if re.search(r"\b(featuring|feat\.|with|and|&|x)\b", low) and norm(artist)[:6] in norm(p):
@@ -191,16 +194,18 @@ def main():
             pool.append(c)
         elif c["charted"] and not c["lead"]:
             log.append({"artist": c["artist"], "song": c["title"], "decision": "excluded", "rule": "not lead credit"})
-    # dedupe duets across acts (same article)
-    by_art = {}
+    # dedupe true duets: the same song article in the same year, where one act's row names the other.
+    # Different acts' recordings of one song (covers: Cilla Black and Dionne Warwick) are kept apart.
+    kept = []
     for c in pool:
         c["article"] = article_from_href(c["href"])
-        k = c["article"] or norm(c["title"]) + norm(c["artist"])
-        if k in by_art:
-            log.append({"artist": c["artist"], "song": c["title"], "decision": "duplicate", "rule": "duet counted once, under %s" % by_art[k]["artist"]})
+        dup = next((k for k in kept if c["article"] and k["article"] == c["article"] and k["year"] == c["year"]
+                    and (norm(k["artist"])[:6] in norm(c["title_cell"]) or norm(c["artist"])[:6] in norm(k["title_cell"]))), None)
+        if dup:
+            log.append({"artist": c["artist"], "song": c["title"], "decision": "duplicate", "rule": "duet counted once, under %s" % dup["artist"]})
             continue
-        by_art[k] = c
-    pool = list(by_art.values())
+        kept.append(c)
+    pool = kept
     # genre test, best peak first per act, until the cap is reached
     def best(c):
         return min(x for x in (c["us"], c["uk"]) if x is not None)
