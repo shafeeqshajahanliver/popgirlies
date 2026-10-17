@@ -9,7 +9,7 @@ UA = "Popgirlies-research/0.1 (private research corpus; contact via github.com/s
 TODAY = date.today().isoformat()
 _last = {}
 # seconds between requests, per host
-DELAY = {"en.wikipedia.org": 3, "musicbrainz.org": 1.1, "query.wikidata.org": 2,
+DELAY = {"en.wikipedia.org": 4, "musicbrainz.org": 1.1, "query.wikidata.org": 2,
          "lrclib.net": 1, "api.deezer.com": 0.5, "itunes.apple.com": 3,
          "coverartarchive.org": 1, "api.secondhandsongs.com": 10}
 
@@ -26,7 +26,7 @@ def fetch(url, binary=False, cache=True, headers=None):
     if wait > 0:
         time.sleep(wait)
     req = urllib.request.Request(url, headers={"User-Agent": UA, **(headers or {})})
-    for attempt in range(4):
+    for attempt in range(6):
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
                 data = r.read()
@@ -38,8 +38,9 @@ def fetch(url, binary=False, cache=True, headers=None):
             # iTunes signals throttling with 403
             # Cloudflare 52x (seen on lrclib.net) are transient too
             throttled = e.code == 429 or e.code >= 500 or (e.code == 403 and host == "itunes.apple.com")
-            if throttled and attempt < 3:
-                time.sleep((30 if e.code == 403 else 5) * (attempt + 1))
+            if throttled and attempt < 5:
+                # Wikipedia answers 429 when we go too fast: back off for minutes, not seconds
+                time.sleep((60 if e.code == 429 else 30 if e.code == 403 else 5) * (attempt + 1))
                 continue
             raise
     _last[host] = time.time()
