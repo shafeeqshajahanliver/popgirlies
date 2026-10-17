@@ -7,17 +7,18 @@
 3. **Hits.** Reached the US Billboard Hot 100 top 40 or the UK Singles Chart top 20, as listed in the artist's Wikipedia discography (which cites Billboard and the Official Charts Company), cross-checked against the Billboard weekly data for the US.
 4. **Cap.** At most 20 songs per artist: highest peak first (best of US and UK, US breaking ties), then weeks on chart.
 5. **Balance.** Roughly even across generations; under-filled generations are topped up from the next-ranked qualifying songs, never by relaxing the genre test.
-6. **Window.** 1983 (Madonna) to 2025, with an optional prologue for 1960–1982 (see below). Decision pending.
+6. **Window.** 1960 to 2025: a prologue of 90 songs for 1960–1982 (girl groups, Motown, 70s stars such as the Supremes, Diana Ross, Donna Summer, Olivia Newton-John, Kate Bush), then 1983 (Madonna) to 2025. Agreed with Shaf 17 October 2026.
 
 ## Generations
 
 | Generation | Years | Target |
 |---|---|---|
-| Prologue (optional) | 1960–1982 | ~90 |
+| Prologue | 1960–1982 | 90 |
 | MTV era | 1983–1992 | ~110 |
 | CD era | 1993–2001 | ~100 |
 | Idol era | 2002–2009 | ~100 |
 | Streaming dawn | 2010–2017 | ~100 |
 | TikTok era | 2018–2025 | ~100 |
 
-Without the prologue, each of the five main generations takes ~120.
+
+Queer identity plays no part in selection. See `docs/queer-lens.md` for how it will be analysed.
