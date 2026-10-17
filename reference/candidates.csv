@@ -195,7 +195,7 @@ All Saints,If You Wanna Party (I Found Lovin'),1995,,168,True,False,,,,All Saint
 All Saints,I Know Where It's At,1997,36,4,True,True,I Know Where It's At,beyond generation target,pop style in infobox,All Saints discography
 All Saints,Never Ever,1997,4,1,True,True,Never Ever (All Saints song),selected,pop style in infobox,All Saints discography
 All Saints,Under the Bridge,1998,,1,True,True,Under the Bridge,selected,"no infobox genre: kept as a roster act, flagged",All Saints discography
-All Saints,Lady Marmalade,1998,,1,True,True,Lady Marmalade,,,All Saints discography
+All Saints,Lady Marmalade,1998,,1,True,True,Lady Marmalade,selected,"no infobox genre: kept as a roster act, flagged",All Saints discography
 All Saints,Bootie Call,1998,,1,True,True,Bootie Call,genre,no pop style in infobox (Electro-funk),All Saints discography
 All Saints,War of Nerves,1998,,7,True,True,War of Nerves (song),beyond generation target,"no infobox genre: kept as a roster act, flagged",All Saints discography
 All Saints,Pure Shores,2000,,1,True,True,Pure Shores,selected,pop style in infobox,All Saints discography
@@ -306,7 +306,7 @@ Anne-Marie,Either Way,2017,,47,True,False,,,,Anne-Marie discography
 Anne-Marie,Heavy,2017,,37,True,False,,,,Anne-Marie discography
 Anne-Marie,Then,2017,,87,True,False,,,,Anne-Marie discography
 Anne-Marie,Remember I Told You,2017,,97,False,False,,,,Anne-Marie discography
-Anne-Marie,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),,,Anne-Marie discography
+Anne-Marie,Bridge over Troubled Water,2017,,1,False,True,,,,Anne-Marie discography
 Anne-Marie,Besándote,2017,,,False,False,,,,Anne-Marie discography
 Anne-Marie,Friends,2018,11,4,True,True,Friends (Marshmello and Anne-Marie song),beyond generation target,pop style in infobox,Anne-Marie discography
 Anne-Marie,2002,2018,,3,True,True,2002 (song),beyond generation target,pop style in infobox,Anne-Marie discography
@@ -320,7 +320,7 @@ Anne-Marie,Birthday,2020,,31,True,False,,,,Anne-Marie discography
 Anne-Marie,Her,2020,,,True,False,,,,Anne-Marie discography
 Anne-Marie,To Be Young,2020,,74,True,False,,,,Anne-Marie discography
 Anne-Marie,Problems,2020,,,True,False,,,,Anne-Marie discography
-Anne-Marie,Times Like These,2020,,1,True,True,Times Like These (Foo Fighters song),,,Anne-Marie discography
+Anne-Marie,Times Like These,2020,,1,False,True,,,,Anne-Marie discography
 Anne-Marie,Come Over,2020,,26,False,False,,,,Anne-Marie discography
 Anne-Marie,Don't Play,2021,,2,True,True,Don't Play,selected,pop style in infobox,Anne-Marie discography
 Anne-Marie,Way Too Long,2021,,37,True,False,,,,Anne-Marie discography
@@ -348,7 +348,7 @@ Annie Lennox,Walking on Broken Glass,1992,14,8,True,True,Walking on Broken Glass
 Annie Lennox,Cold,1992,,26,True,False,,,,Annie Lennox discography
 Annie Lennox,Little Bird,1993,49,3,True,True,Little Bird (Annie Lennox song),beyond generation target,pop style in infobox,Annie Lennox discography
 Annie Lennox,Love Song for a Vampire,1993,,3,True,True,Love Song for a Vampire,beyond generation target,pop style in infobox,Annie Lennox discography
-Annie Lennox,No More 'I Love You's',1995,23,2,True,True,"No More ""I Love You's""",selected,pop style in infobox,Annie Lennox discography
+Annie Lennox,No More 'I Love You's',1995,23,2,True,True,"No More ""I Love You's""",beyond generation target,pop style in infobox,Annie Lennox discography
 Annie Lennox,A Whiter Shade of Pale,1995,,16,True,True,A Whiter Shade of Pale,beyond generation target,pop style in infobox,Annie Lennox discography
 Annie Lennox,Waiting in Vain,1995,,31,True,False,,,,Annie Lennox discography
 Annie Lennox,Something So Right,1995,,44,True,False,,,,Annie Lennox discography
@@ -409,7 +409,7 @@ Aretha Franklin,Ain't No Way,1968,16,,True,True,Ain't No Way,over cap,,Aretha Fr
 Aretha Franklin,Think,1968,7,26,True,True,Think (Aretha Franklin song),beyond generation target,prologue: soul/R&B girl-group or Motown pop,Aretha Franklin discography
 Aretha Franklin,You Send Me,1968,56,,True,False,,,,Aretha Franklin discography
 Aretha Franklin,The House That Jack Built,1968,6,,True,True,The House That Jack Built (Aretha Franklin song),beyond generation target,prologue: soul/R&B girl-group or Motown pop,Aretha Franklin discography
-Aretha Franklin,I Say a Little Prayer,1968,10,4,True,True,I Say a Little Prayer,,,Aretha Franklin discography
+Aretha Franklin,I Say a Little Prayer,1968,10,4,True,True,I Say a Little Prayer,beyond generation target,prologue: soul/R&B girl-group or Motown pop,Aretha Franklin discography
 Aretha Franklin,See Saw,1968,14,,True,True,See Saw (Don Covay song),over cap,,Aretha Franklin discography
 Aretha Franklin,My Song,1968,31,,True,True,My Song (Johnny Ace song),over cap,,Aretha Franklin discography
 Aretha Franklin,Jim,1969,,,True,False,,,,Aretha Franklin discography
@@ -417,10 +417,10 @@ Aretha Franklin,The Weight,1969,19,,True,True,The Weight,over cap,,Aretha Frankl
 Aretha Franklin,Tracks of My Tears,1969,71,,True,False,,,,Aretha Franklin discography
 Aretha Franklin,I Can't See Myself Leaving You,1969,28,,True,True,I Can't See Myself Leaving You,over cap,,Aretha Franklin discography
 Aretha Franklin,Gentle on My Mind,1969,76,,True,False,,,,Aretha Franklin discography
-Aretha Franklin,Share Your Love with Me,1969,13,,True,True,Share Your Love with Me,beyond generation target,prologue: soul/R&B girl-group or Motown pop,Aretha Franklin discography
+Aretha Franklin,Share Your Love with Me,1969,13,,True,True,Share Your Love with Me,over cap,,Aretha Franklin discography
 Aretha Franklin,Eleanor Rigby,1969,17,,True,True,Eleanor Rigby,over cap,,Aretha Franklin discography
-Aretha Franklin,Call Me,1970,13,,True,True,Call Me (Aretha Franklin song),beyond generation target,prologue: soul/R&B girl-group or Motown pop,Aretha Franklin discography
-Aretha Franklin,Son of a Preacher Man,1970,13,,True,True,Son of a Preacher Man,,,Aretha Franklin discography
+Aretha Franklin,Call Me,1970,13,,True,True,Call Me (Aretha Franklin song),over cap,,Aretha Franklin discography
+Aretha Franklin,Son of a Preacher Man,1970,13,,True,True,Son of a Preacher Man,over cap,,Aretha Franklin discography
 Aretha Franklin,Don't Play That Song (You Lied),1970,11,13,True,True,Don't Play That Song (You Lied),beyond generation target,prologue: soul/R&B girl-group or Motown pop,Aretha Franklin discography
 Aretha Franklin,Spirit in the Dark,1970,23,,True,True,Spirit in the Dark (song),over cap,,Aretha Franklin discography
 Aretha Franklin,The Thrill Is Gone,1970,,,True,False,,,,Aretha Franklin discography
@@ -428,7 +428,7 @@ Aretha Franklin,Border Song (Holy Moses),1970,37,,True,True,Border Song,over cap
 Aretha Franklin,You and Me,1970,37,,True,True,,over cap,,Aretha Franklin discography
 Aretha Franklin,You're All I Need to Get By,1971,19,,True,True,You're All I Need to Get By,over cap,,Aretha Franklin discography
 Aretha Franklin,Bridge Over Troubled Water,1971,6,,True,True,Bridge over Troubled Water (song),beyond generation target,prologue: soul/R&B girl-group or Motown pop,Aretha Franklin discography
-Aretha Franklin,A Brand New Me,1971,6,,True,True,Brand New Me (Dusty Springfield song),,,Aretha Franklin discography
+Aretha Franklin,A Brand New Me,1971,6,,True,True,Brand New Me (Dusty Springfield song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Aretha Franklin discography
 Aretha Franklin,Spanish Harlem,1971,2,14,True,True,Spanish Harlem (song),selected,prologue: soul/R&B girl-group or Motown pop,Aretha Franklin discography
 Aretha Franklin,Rock Steady,1971,9,81,True,True,Rock Steady (Aretha Franklin song),genre,no pop style in infobox (Funk),Aretha Franklin discography
 Aretha Franklin,Oh Me Oh My (I'm a Fool for You Baby),1971,73,,True,False,,,,Aretha Franklin discography
@@ -516,9 +516,9 @@ Ariana Grande,Daydreamin',2013,,,True,False,,,,Ariana Grande discography
 Ariana Grande,You'll Never Know,2013,,,True,False,,,,Ariana Grande discography
 Ariana Grande,Problem,2014,2,1,True,True,Problem (Ariana Grande song),selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,Break Free,2014,4,16,True,True,Break Free (song),beyond generation target,pop style in infobox,Ariana Grande discography
-Ariana Grande,Bang Bang,2014,3,1,True,True,"Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)",,,Ariana Grande discography
+Ariana Grande,Bang Bang,2014,3,1,True,True,"Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)",selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,Love Me Harder,2014,7,48,True,True,Love Me Harder,over cap,,Ariana Grande discography
-Ariana Grande,Santa Tell Me,2014,5,8,True,True,Santa Tell Me,beyond generation target,pop style in infobox,Ariana Grande discography
+Ariana Grande,Santa Tell Me,2014,5,8,True,True,Santa Tell Me,over cap,,Ariana Grande discography
 Ariana Grande,Best Mistake,2014,49,154,True,False,,,,Ariana Grande discography
 Ariana Grande,Brand New You,2014,,,True,False,,,,Ariana Grande discography
 Ariana Grande,Break Your Heart Right Back,2014,,,True,False,,,,Ariana Grande discography
@@ -528,7 +528,7 @@ Ariana Grande,All My Love,2014,,194,False,False,,,,Ariana Grande discography
 Ariana Grande,Get on Your Knees,2014,88,86,False,False,,,,Ariana Grande discography
 Ariana Grande,One Last Time,2015,13,2,True,True,One Last Time (Ariana Grande song),selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,E Più Ti Penso,2015,,,True,False,,,,Ariana Grande discography
-Ariana Grande,Focus,2015,7,10,True,True,Focus (Ariana Grande song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Ariana Grande discography
+Ariana Grande,Focus,2015,7,10,True,True,Focus (Ariana Grande song),over cap,,Ariana Grande discography
 Ariana Grande,Adore,2015,93,,False,False,,,,Ariana Grande discography
 Ariana Grande,Boys Like You,2015,,,False,False,,,,Ariana Grande discography
 Ariana Grande,Wit It This Christmas,2015,,,True,False,,,,Ariana Grande discography
@@ -582,7 +582,7 @@ Ariana Grande,7 Rings,2019,1,1,True,True,7 Rings,selected,pop style in infobox,A
 Ariana Grande,"Break Up with Your Girlfriend, I'm Bored",2019,2,1,True,True,"Break Up with Your Girlfriend, I'm Bored",selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,Monopoly,2019,69,23,True,False,,,,Ariana Grande discography
 Ariana Grande,Boyfriend,2019,8,4,True,True,Boyfriend (Ariana Grande and Social House song),beyond generation target,pop style in infobox,Ariana Grande discography
-Ariana Grande,Don't Call Me Angel,2019,13,2,True,True,Don't Call Me Angel,,,Ariana Grande discography
+Ariana Grande,Don't Call Me Angel,2019,13,2,True,True,Don't Call Me Angel,selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,Rule the World,2019,94,,False,False,,,,Ariana Grande discography
 Ariana Grande,Good as Hell,2019,,,False,False,,,,Ariana Grande discography
 Ariana Grande,A Hand for Mrs. Claus,2019,,,True,False,,,,Ariana Grande discography
@@ -599,7 +599,7 @@ Ariana Grande,Nobody,2019,,,True,False,,,,Ariana Grande discography
 Ariana Grande,How I Look on You,2019,,,True,False,,,,Ariana Grande discography
 Ariana Grande,Got Her Own,2019,,,True,False,,,,Ariana Grande discography
 Ariana Grande,Stuck with U,2020,1,4,True,True,Stuck with U,selected,pop style in infobox,Ariana Grande discography
-Ariana Grande,Rain on Me,2020,1,1,True,True,Rain on Me (Lady Gaga and Ariana Grande song),,,Ariana Grande discography
+Ariana Grande,Rain on Me,2020,1,1,True,True,Rain on Me (Lady Gaga and Ariana Grande song),selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,Positions,2020,1,1,True,True,Positions (song),selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,34+35,2020,2,3,True,True,34+35,selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,Time,2020,,,False,False,,,,Ariana Grande discography
@@ -625,7 +625,7 @@ Ariana Grande,Test Drive,2021,61,38,True,False,,,,Ariana Grande discography
 Ariana Grande,Worst Behavior,2021,,,True,False,,,,Ariana Grande discography
 Ariana Grande,Main Thing,2021,,,True,False,,,,Ariana Grande discography
 Ariana Grande,I Don't Do Drugs,2021,57,,False,False,,,,Ariana Grande discography
-Ariana Grande,"Santa, Can't You Hear Me",2022,31,23,True,True,"Santa, Can't You Hear Me",,,Ariana Grande discography
+Ariana Grande,"Santa, Can't You Hear Me",2022,31,23,True,True,"Santa, Can't You Hear Me",over cap,,Ariana Grande discography
 Ariana Grande,Die for You,2023,1,,True,True,Die for You (The Weeknd song),selected,pop-adjacent style in infobox,Ariana Grande discography
 Ariana Grande,"Yes, And?",2024,1,2,True,True,"Yes, And?",selected,pop style in infobox,Ariana Grande discography
 Ariana Grande,We Can't Be Friends (Wait for Your Love),2024,1,2,True,True,We Can't Be Friends (Wait for Your Love),selected,pop style in infobox,Ariana Grande discography
@@ -647,7 +647,7 @@ Ariana Grande,Dear Old Shiz,2024,,,False,False,,,,Ariana Grande discography
 Ariana Grande,What Is This Feeling?,2024,62,16,True,True,,over cap,,Ariana Grande discography
 Ariana Grande,Dancing Through Life,2024,86,,False,False,,,,Ariana Grande discography
 Ariana Grande,One Short Day,2024,,,True,False,,,,Ariana Grande discography
-Ariana Grande,Twilight Zone,2025,18,5,True,True,Twilight Zone (Ariana Grande song),beyond generation target,pop style in infobox,Ariana Grande discography
+Ariana Grande,Twilight Zone,2025,18,5,True,True,Twilight Zone (Ariana Grande song),over cap,,Ariana Grande discography
 Ariana Grande,I Don't Know Why (I Just Do),2025,,,False,False,,,,Ariana Grande discography
 Ariana Grande,Supernatural,2025,17,,True,True,Supernatural (Ariana Grande song),over cap,,Ariana Grande discography
 Ariana Grande,Hampstead,2025,59,,True,False,,,,Ariana Grande discography
@@ -688,7 +688,7 @@ Ashanti,Only U,2004,13,2,True,True,Only U,selected,pop-adjacent style in infobox
 Ashanti,Wonderful,2004,5,1,False,True,,,,Ashanti discography
 Ashanti,Southside,2004,24,,False,True,,,,Ashanti discography
 Ashanti,Jimmy Choo,2004,,,False,False,,,,Ashanti discography
-Ashanti,Wake Up Everybody,2004,,,True,False,,,,Ashanti discography
+Ashanti,Wake Up Everybody,2004,,,False,False,,,,Ashanti discography
 Ashanti,Don't Let Them,2005,,38,True,False,,,,Ashanti discography
 Ashanti,Still on It,2005,,,True,False,,,,Ashanti discography
 Ashanti,Pac's Life,2006,,21,False,False,,,,Ashanti discography
@@ -696,7 +696,7 @@ Ashanti,Put a Little Umph in It,2007,,,False,False,,,,Ashanti discography
 Ashanti,The Way That I Love You,2008,37,,True,True,The Way That I Love You,beyond generation target,pop-adjacent style in infobox,Ashanti discography
 Ashanti,Good Good,2008,,,True,False,,,,Ashanti discography
 Ashanti,Body on Me,2008,42,17,False,True,,,,Ashanti discography
-Ashanti,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Ashanti discography
+Ashanti,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,beyond generation target,"no infobox genre: kept as a roster act, flagged",Ashanti discography
 Ashanti,"Want It, Need It",2009,96,,False,False,,,,Ashanti discography
 Ashanti,The Woman You Love,2011,,,True,False,,,,Ashanti discography
 Ashanti,Never Should Have,2013,,,True,False,,,,Ashanti discography
@@ -727,7 +727,7 @@ Atomic Kitten,See Ya,2000,,6,True,True,See Ya (Atomic Kitten song),beyond genera
 Atomic Kitten,I Want Your Love,2000,,10,True,True,I Want Your Love (Atomic Kitten song),beyond generation target,pop style in infobox,Atomic Kitten discography
 Atomic Kitten,Follow Me,2000,,20,True,True,Follow Me (Atomic Kitten song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Atomic Kitten discography
 Atomic Kitten,Whole Again,2001,,1,True,True,Whole Again,selected,pop style in infobox,Atomic Kitten discography
-Atomic Kitten,Eternal Flame,2001,,1,True,True,Eternal Flame (song),,,Atomic Kitten discography
+Atomic Kitten,Eternal Flame,2001,,1,True,True,Eternal Flame (song),selected,pop style in infobox,Atomic Kitten discography
 Atomic Kitten,You Are,2001,,90,True,False,,,,Atomic Kitten discography
 Atomic Kitten,It's OK!,2002,,3,True,True,It's OK! (Atomic Kitten song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Atomic Kitten discography
 Atomic Kitten,The Tide Is High (Get the Feeling),2002,,1,True,True,The Tide Is High,selected,pop style in infobox,Atomic Kitten discography
@@ -737,12 +737,12 @@ Atomic Kitten,Love Doesn't Have to Hurt,2003,,4,True,True,Love Doesn't Have to H
 Atomic Kitten,If You Come to Me,2003,,3,True,True,If You Come to Me,beyond generation target,"no infobox genre: kept as a roster act, flagged",Atomic Kitten discography
 Atomic Kitten,Ladies' Night,2003,,8,True,True,Ladies' Night (song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Atomic Kitten discography
 Atomic Kitten,Someone like Me,2004,,8,True,True,Someone like Me (song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Atomic Kitten discography
-Atomic Kitten,Right Now 2004,2004,,8,True,True,Right Now (Atomic Kitten song),,,Atomic Kitten discography
+Atomic Kitten,Right Now 2004,2004,,8,True,True,Right Now (Atomic Kitten song),beyond generation target,pop style in infobox,Atomic Kitten discography
 Atomic Kitten,Cradle,2005,,10,True,True,Cradle (song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Atomic Kitten discography
 Atomic Kitten,All Together Now (Strong Together),2006,,,False,False,,,,Atomic Kitten discography
 Atomic Kitten,Anyone Who Had a Heart,2008,,77,True,False,,,,Atomic Kitten discography
-Atomic Kitten,I Wish It Could Be Christmas Everyday,2013,,21,True,False,,,,Atomic Kitten discography
-Atomic Kitten,Southgate You're the One,2021,,14,True,True,Whole Again,,,Atomic Kitten discography
+Atomic Kitten,I Wish It Could Be Christmas Everyday,2013,,21,False,False,,,,Atomic Kitten discography
+Atomic Kitten,Southgate You're the One,2021,,14,True,True,Whole Again,beyond generation target,pop style in infobox,Atomic Kitten discography
 Ava Max,—,,,,True,False,,,,Ava Max discography
 Ava Max,Clap Your Hands,2017,,,False,False,,,,Ava Max discography
 Ava Max,Sweet but Psycho,2018,10,1,True,True,Sweet but Psycho,selected,pop style in infobox,Ava Max discography
@@ -760,7 +760,7 @@ Ava Max,Who's Laughing Now,2020,,93,True,False,,,,Ava Max discography
 Ava Max,OMG What's Happening,2020,,,True,False,,,,Ava Max discography
 Ava Max,Christmas Without You,2020,,43,True,False,,,,Ava Max discography
 Ava Max,My Head & My Heart,2020,45,18,True,True,My Head & My Heart,beyond generation target,pop style in infobox,Ava Max discography
-Ava Max,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,,,Ava Max discography
+Ava Max,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,beyond generation target,pop style in infobox,Ava Max discography
 Ava Max,EveryTime I Cry,2021,,99,True,False,,,,Ava Max discography
 Ava Max,The Motto,2021,42,12,True,True,The Motto (Tiësto and Ava Max song),beyond generation target,pop style in infobox,Ava Max discography
 Ava Max,Sad Boy,2021,,,False,False,,,,Ava Max discography
@@ -805,7 +805,7 @@ Avril Lavigne,Runaway,2007,,,True,False,,,,Avril Lavigne discography
 Avril Lavigne,Innocence,2007,,190,True,False,,,,Avril Lavigne discography
 Avril Lavigne,The Best Damn Thing,2008,,,True,False,,,,Avril Lavigne discography
 Avril Lavigne,Alice,2010,71,59,True,False,,,,Avril Lavigne discography
-Avril Lavigne,Wavin' Flag,2010,,89,True,False,,,,Avril Lavigne discography
+Avril Lavigne,Wavin' Flag,2010,,89,False,False,,,,Avril Lavigne discography
 Avril Lavigne,What the Hell,2011,11,16,True,True,What the Hell,beyond generation target,pop style in infobox,Avril Lavigne discography
 Avril Lavigne,Smile,2011,68,189,True,False,,,,Avril Lavigne discography
 Avril Lavigne,Wish You Were Here,2011,65,,True,False,,,,Avril Lavigne discography
@@ -838,7 +838,7 @@ Avril Lavigne,Dumb Blonde,2019,,,True,False,,,,Avril Lavigne discography
 Avril Lavigne,I Fell in Love with the Devil,2019,,,True,False,,,,Avril Lavigne discography
 Avril Lavigne,Right Where I'm Supposed to Be,2019,,,True,False,,,,Avril Lavigne discography
 Avril Lavigne,We Are Warriors,2020,,,True,False,,,,Avril Lavigne discography
-Avril Lavigne,Lean on Me,2020,,,True,False,,,,Avril Lavigne discography
+Avril Lavigne,Lean on Me,2020,,,False,False,,,,Avril Lavigne discography
 Avril Lavigne,Bite Me,2021,,61,True,False,,,,Avril Lavigne discography
 Avril Lavigne,Grow,2021,,,True,False,,,,Avril Lavigne discography
 Avril Lavigne,Love It When You Hate Me,2022,,,True,False,,,,Avril Lavigne discography
@@ -855,7 +855,7 @@ B*Witched,Jesse Hold On,1999,,4,True,True,Jesse Hold On,beyond generation target
 B*Witched,I Shall Be There,1999,,13,True,True,I Shall Be There,beyond generation target,pop style in infobox,B*Witched discography
 B*Witched,Jump Down,2000,,16,True,True,Jump Down,beyond generation target,"no infobox genre: kept as a roster act, flagged",B*Witched discography
 B*Witched,Love and Money,2013,,,True,False,,,,B*Witched discography
-B*Witched,I Wish It Could Be Christmas Every Day,2013,,21,True,False,,,,B*Witched discography
+B*Witched,I Wish It Could Be Christmas Every Day,2013,,21,False,False,,,,B*Witched discography
 B*Witched,The Stars Are Ours,2014,,,True,False,,,,B*Witched discography
 B*Witched,Hold On,2019,,,True,False,,,,B*Witched discography
 B*Witched,Birthday,2023,,,True,False,,,,B*Witched discography
@@ -872,7 +872,7 @@ Bananarama,Robert De Niro's Waiting...,1984,95,3,True,True,Robert De Niro's Wait
 Bananarama,Rough Justice,1984,,23,True,False,,,,Bananarama discography
 Bananarama,Hot Line to Heaven,1984,,58,True,False,,,,Bananarama discography
 Bananarama,The Wild Life,1984,70,,True,False,,,,Bananarama discography
-Bananarama,Do They Know It's Christmas?,1984,13,1,True,True,Do They Know It's Christmas?,selected,pop style in infobox,Bananarama discography
+Bananarama,Do They Know It's Christmas?,1984,13,1,False,True,,,,Bananarama discography
 Bananarama,Do Not Disturb,1985,,31,True,False,,,,Bananarama discography
 Bananarama,Venus,1986,1,8,True,True,Venus (Shocking Blue song),selected,pop style in infobox,Bananarama discography
 Bananarama,More Than Physical,1986,73,41,True,False,,,,Bananarama discography
@@ -880,12 +880,12 @@ Bananarama,A Trick of the Night,1987,76,32,True,False,,,,Bananarama discography
 Bananarama,I Heard a Rumour,1987,4,14,True,True,I Heard a Rumour,beyond generation target,pop style in infobox,Bananarama discography
 Bananarama,Love in the First Degree,1987,48,3,True,True,Love in the First Degree (Bananarama song),beyond generation target,pop style in infobox,Bananarama discography
 Bananarama,I Can't Help It,1987,47,20,True,True,I Can't Help It (Bananarama song),beyond generation target,pop style in infobox,Bananarama discography
-Bananarama,Let It Be,1987,,1,True,True,Let It Be (song),selected,pop-adjacent style in infobox,Bananarama discography
+Bananarama,Let It Be,1987,,1,False,True,,,,Bananarama discography
 Bananarama,I Want You Back,1988,,5,True,True,I Want You Back (Bananarama song),beyond generation target,pop style in infobox,Bananarama discography
 Bananarama,"Love, Truth and Honesty",1988,89,23,True,False,,,,Bananarama discography
-Bananarama,Nathan Jones,1988,,15,True,True,Nathan Jones (song),,,Bananarama discography
+Bananarama,Nathan Jones,1988,,15,True,True,Nathan Jones (song),beyond generation target,pop style in infobox,Bananarama discography
 Bananarama,Help!,1989,,3,True,True,Help! (song),beyond generation target,pop style in infobox,Bananarama discography
-Bananarama,Cruel Summer '89,1989,,19,True,True,Cruel Summer (Bananarama song),,,Bananarama discography
+Bananarama,Cruel Summer '89,1989,,19,True,True,Cruel Summer (Bananarama song),beyond generation target,pop style in infobox,Bananarama discography
 Bananarama,Only Your Love,1990,,27,True,False,,,,Bananarama discography
 Bananarama,Preacher Man,1990,,20,True,True,Preacher Man,genre,no pop style in infobox (Indie dance),Bananarama discography
 Bananarama,Long Train Running,1991,,30,True,False,,,,Bananarama discography
@@ -968,7 +968,7 @@ Barbra Streisand,Prisoner (Love Theme from Eyes of Laura Mars),1978,21,,True,Tru
 Barbra Streisand,You Don't Bring Me Flowers,1978,1,5,True,True,You Don't Bring Me Flowers,selected,"no infobox genre: kept as a roster act, flagged",Barbra Streisand discography
 Barbra Streisand,Superman,1979,,,True,False,,,,Barbra Streisand discography
 Barbra Streisand,The Main Event/Fight,1979,3,,True,True,The Main Event/Fight,beyond generation target,pop style in infobox,Barbra Streisand discography
-Barbra Streisand,No More Tears (Enough Is Enough),1979,1,3,True,True,No More Tears (Enough Is Enough),,,Barbra Streisand discography
+Barbra Streisand,No More Tears (Enough Is Enough),1979,1,3,True,True,No More Tears (Enough Is Enough),selected,pop style in infobox,Barbra Streisand discography
 Barbra Streisand,Kiss Me in the Rain,1979,37,,True,True,,no song article,,Barbra Streisand discography
 Barbra Streisand,Woman in Love,1980,1,1,True,True,Woman in Love,selected,pop style in infobox,Barbra Streisand discography
 Barbra Streisand,Guilty,1980,3,34,True,True,Guilty (Barbra Streisand and Barry Gibb song),beyond generation target,pop style in infobox,Barbra Streisand discography
@@ -1095,7 +1095,7 @@ Becky Hill,Hold On,2021,,,False,False,,,,Becky Hill discography
 Becky Hill,Don't Know About You,2021,,,False,False,,,,Becky Hill discography
 Becky Hill,Here for You,2022,,43,True,False,,,,Becky Hill discography
 Becky Hill,Run,2022,,21,True,False,,,,Becky Hill discography
-Becky Hill,Crazy What Love Can Do,2022,,5,True,True,Crazy What Love Can Do,,,Becky Hill discography
+Becky Hill,Crazy What Love Can Do,2022,,5,True,True,Crazy What Love Can Do,beyond generation target,pop style in infobox,Becky Hill discography
 Becky Hill,History,2022,,18,True,True,Joel Corry,beyond generation target,"no infobox genre: kept as a roster act, flagged",Becky Hill discography
 Becky Hill,Heaven,2023,,,True,False,,,,Becky Hill discography
 Becky Hill,Side Effects,2023,,35,True,False,,,,Becky Hill discography
@@ -1179,7 +1179,7 @@ Bette Midler,Chapel of Love,1980,,,True,False,,,,Bette Midler discography
 Bette Midler,All I Need to Know,1983,77,,True,False,,,,Bette Midler discography
 Bette Midler,Favorite Waste of Time,1983,78,,True,False,,,,Bette Midler discography
 Bette Midler,Beast of Burden,1984,71,,True,False,,,,Bette Midler discography
-Bette Midler,We Are the World,1985,1,1,True,True,We Are the World,,,Bette Midler discography
+Bette Midler,We Are the World,1985,1,1,False,True,,,,Bette Midler discography
 Bette Midler,Under the Boardwalk,1988,,,True,False,,,,Bette Midler discography
 Bette Midler,Wind Beneath My Wings,1989,1,5,True,True,Wind Beneath My Wings,selected,pop style in infobox,Bette Midler discography
 Bette Midler,I Know You by Heart,1989,,,True,False,,,,Bette Midler discography
@@ -1211,7 +1211,7 @@ Beyoncé,Summertime,2003,,,True,False,,,,Beyoncé singles discography
 Beyoncé,I Can't Take No More,2003,,,True,False,,,,Beyoncé singles discography
 Beyoncé,Daddy,2003,,,True,False,,,,Beyoncé singles discography
 Beyoncé,What's It Gonna Be,2003,,,True,False,,,,Beyoncé singles discography
-Beyoncé,What More Can I Give,2003,,,True,False,,,,Beyoncé singles discography
+Beyoncé,What More Can I Give,2003,,,False,False,,,,Beyoncé singles discography
 Beyoncé,Dangerously in Love 2,2003,57,,True,False,,,,Beyoncé singles discography
 Beyoncé,Sexy Lil Thug,2003,,,True,False,,,,Beyoncé singles discography
 Beyoncé,Naughty Girl,2004,3,10,True,True,Naughty Girl (Beyoncé song),beyond generation target,pop-adjacent style in infobox,Beyoncé singles discography
@@ -1229,7 +1229,7 @@ Beyoncé,Kitty Kat,2006,,,True,False,,,,Beyoncé singles discography
 Beyoncé,Freakum Dress,2006,,,True,False,,,,Beyoncé singles discography
 Beyoncé,Resentment,2006,,,True,False,,,,Beyoncé singles discography
 Beyoncé,Lost Yo Mind,2006,,,True,False,,,,Beyoncé singles discography
-Beyoncé,Listen,2007,61,8,True,True,Listen (Beyoncé song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Beyoncé singles discography
+Beyoncé,Listen,2007,61,8,True,True,Listen (Beyoncé song),over cap,,Beyoncé singles discography
 Beyoncé,Beautiful Liar,2007,3,1,True,True,Beautiful Liar,selected,pop style in infobox,Beyoncé singles discography
 Beyoncé,Get Me Bodied,2007,46,,True,False,,,,Beyoncé singles discography
 Beyoncé,Green Light,2007,,12,True,True,Green Light (Beyoncé song),over cap,,Beyoncé singles discography
@@ -1239,7 +1239,7 @@ Beyoncé,If I Were a Boy,2008,3,1,True,True,If I Were a Boy,selected,pop style i
 Beyoncé,Single Ladies (Put a Ring on It),2008,1,7,True,True,Single Ladies (Put a Ring on It),selected,pop style in infobox,Beyoncé singles discography
 Beyoncé,At Last,2008,67,,True,False,,,,Beyoncé singles discography
 Beyoncé,Love in This Club Part II,2008,18,,False,True,,,,Beyoncé singles discography
-Beyoncé,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Beyoncé singles discography
+Beyoncé,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,over cap,,Beyoncé singles discography
 Beyoncé,Ave Maria,2008,,150,True,False,,,,Beyoncé singles discography
 Beyoncé,Radio,2008,,,True,False,,,,Beyoncé singles discography
 Beyoncé,I'd Rather Go Blind,2008,,,True,False,,,,Beyoncé singles discography
@@ -1323,7 +1323,7 @@ Beyoncé,Already,2019,,95,True,False,,,,Beyoncé singles discography
 Beyoncé,Black Parade,2020,37,49,True,True,Black Parade (song),over cap,,Beyoncé singles discography
 Beyoncé,Savage Remix,2020,1,,False,True,,,,Beyoncé singles discography
 Beyoncé,Be Alive,2021,,,True,False,,,,Beyoncé singles discography
-Beyoncé,Say Her Name (Hell You Talmbout),2021,,,True,False,,,,Beyoncé singles discography
+Beyoncé,Say Her Name (Hell You Talmbout),2021,,,False,False,,,,Beyoncé singles discography
 Beyoncé,Break My Soul,2022,1,2,True,True,Break My Soul,selected,pop style in infobox,Beyoncé singles discography
 Beyoncé,Cuff It,2022,6,5,True,True,Cuff It,beyond generation target,pop style in infobox,Beyoncé singles discography
 Beyoncé,"Make Me Say It Again, Girl",2022,,,False,False,,,,Beyoncé singles discography
@@ -1352,7 +1352,7 @@ Beyoncé,Blackbiird,2024,27,,True,True,Blackbiird,over cap,,Beyoncé singles dis
 Beyoncé,Protector,2024,42,,True,False,,,,Beyoncé singles discography
 Beyoncé,My Rose,2024,54,,True,False,,,,Beyoncé singles discography
 Beyoncé,Bodyguard,2024,26,,True,True,Bodyguard (Beyoncé song),over cap,,Beyoncé singles discography
-Beyoncé,Jolene,2024,7,8,True,True,Jolene,,,Beyoncé singles discography
+Beyoncé,Jolene,2024,7,8,True,True,Jolene,beyond generation target,pop style in infobox,Beyoncé singles discography
 Beyoncé,Daughter,2024,37,,True,True,,over cap,,Beyoncé singles discography
 Beyoncé,Spaghettii,2024,31,,True,True,Linda Martell,over cap,,Beyoncé singles discography
 Beyoncé,Alliigator Tears,2024,52,,True,False,,,,Beyoncé singles discography
@@ -1392,7 +1392,7 @@ Billie Eilish,Bury a Friend,2019,14,6,True,True,Bury a Friend,beyond generation 
 Billie Eilish,Wish You Were Gay,2019,31,13,True,True,Wish You Were Gay,beyond generation target,pop style in infobox,Billie Eilish discography
 Billie Eilish,Bad Guy,2019,1,2,True,True,Bad Guy (Billie Eilish song),selected,pop style in infobox,Billie Eilish discography
 Billie Eilish,All the Good Girls Go to Hell,2019,46,77,True,False,,,,Billie Eilish discography
-Billie Eilish,Everything I Wanted,2019,8,3,True,True,Everything I Wanted,selected,pop style in infobox,Billie Eilish discography
+Billie Eilish,Everything I Wanted,2019,8,3,True,True,Everything I Wanted,beyond generation target,pop style in infobox,Billie Eilish discography
 Billie Eilish,Xanny,2019,35,,True,True,Xanny (song),beyond generation target,pop style in infobox,Billie Eilish discography
 Billie Eilish,8,2019,79,,True,False,,,,Billie Eilish discography
 Billie Eilish,My Strange Addiction,2019,43,,True,False,,,,Billie Eilish discography
@@ -1440,7 +1440,7 @@ Billie Piper,Girlfriend,1998,,1,True,True,Girlfriend (Billie song),selected,"no 
 Billie Piper,She Wants You,1998,,3,True,True,She Wants You,beyond generation target,pop style in infobox,Billie Piper discography
 Billie Piper,Last Christmas,1998,,,True,False,,,,Billie Piper discography
 Billie Piper,Honey to the Bee,1999,,3,True,True,Honey to the Bee,beyond generation target,"no infobox genre: kept as a roster act, flagged",Billie Piper discography
-Billie Piper,Thank ABBA for the Music,1999,,4,True,True,Thank ABBA for the Music,,,Billie Piper discography
+Billie Piper,Thank ABBA for the Music,1999,,4,True,True,Thank ABBA for the Music,beyond generation target,"no infobox genre: kept as a roster act, flagged",Billie Piper discography
 Billie Piper,Day & Night,2000,,1,True,True,Day & Night (Billie Piper song),selected,pop style in infobox,Billie Piper discography
 Billie Piper,Something Deep Inside,2000,,4,True,True,Something Deep Inside,beyond generation target,"no infobox genre: kept as a roster act, flagged",Billie Piper discography
 Billie Piper,Walk of Life,2000,,25,True,False,,,,Billie Piper discography
@@ -1496,9 +1496,9 @@ Blackpink,Kiss and Make Up,2018,93,36,True,False,,,,Blackpink discography
 Blackpink,Kill This Love,2019,41,33,True,False,,,,Blackpink discography
 Blackpink,Don't Know What to Do,2019,,,True,False,,,,Blackpink discography
 Blackpink,How You Like That,2020,33,20,True,True,How You Like That,beyond generation target,pop style in infobox,Blackpink discography
-Blackpink,Ice Cream,2020,13,39,True,True,Ice Cream (Blackpink and Selena Gomez song),,,Blackpink discography
+Blackpink,Ice Cream,2020,13,39,True,True,Ice Cream (Blackpink and Selena Gomez song),beyond generation target,pop style in infobox,Blackpink discography
 Blackpink,Lovesick Girls,2020,59,40,True,False,,,,Blackpink discography
-Blackpink,Sour Candy,2020,33,17,True,True,Sour Candy (Lady Gaga and Blackpink song),,,Blackpink discography
+Blackpink,Sour Candy,2020,33,17,True,True,Sour Candy (Lady Gaga and Blackpink song),beyond generation target,pop style in infobox,Blackpink discography
 Blackpink,Pink Venom,2022,22,22,True,True,Pink Venom,beyond generation target,pop style in infobox,Blackpink discography
 Blackpink,Shut Down,2022,25,24,True,True,Shut Down (Blackpink song),genre,no pop style in infobox (Hip-hop),Blackpink discography
 Blackpink,Ready for Love,2022,,,True,False,,,,Blackpink discography
@@ -1522,7 +1522,7 @@ Bobbie Gentry,Little Green Apples,1968,,,True,False,,,,Bobbie Gentry discography
 Bobbie Gentry,フール·オン·ザ·ヒル,1969,,,True,False,,,,Bobbie Gentry discography
 Bobbie Gentry,Let It Be Me,1969,36,,True,True,Let It Be Me (The Everly Brothers song),beyond generation target,pop style in infobox,Bobbie Gentry discography
 Bobbie Gentry,Touch 'Em with Love,1969,,,True,False,,,,Bobbie Gentry discography
-Bobbie Gentry,I'll Never Fall in Love Again,1969,,1,True,True,I'll Never Fall in Love Again,,,Bobbie Gentry discography
+Bobbie Gentry,I'll Never Fall in Love Again,1969,,1,True,True,I'll Never Fall in Love Again,selected,pop style in infobox,Bobbie Gentry discography
 Bobbie Gentry,Fancy,1969,31,,True,True,Fancy (Bobbie Gentry song),beyond generation target,prologue: soul/R&B girl-group or Motown pop,Bobbie Gentry discography
 Bobbie Gentry,All I Have to Do Is Dream,1969,27,3,True,True,All I Have to Do Is Dream,beyond generation target,pop style in infobox,Bobbie Gentry discography
 Bobbie Gentry,Raindrops Keep Fallin' on My Head,1970,,40,True,False,,,,Bobbie Gentry discography
@@ -1636,7 +1636,7 @@ Britney Spears,Don't Let Me Be the Last to Know,2001,,12,True,True,Don't Let Me 
 Britney Spears,I'm a Slave 4 U,2001,27,4,True,True,I'm a Slave 4 U,beyond generation target,pop-adjacent style in infobox,Britney Spears discography
 Britney Spears,Overprotected,2001,86,4,True,True,Overprotected,beyond generation target,pop style in infobox,Britney Spears discography
 Britney Spears,Right Now (Taste the Victory),2001,,,True,False,,,,Britney Spears discography
-Britney Spears,What's Going On,2001,27,6,True,True,What's Going On (song),,,Britney Spears discography
+Britney Spears,What's Going On,2001,27,6,False,True,,,,Britney Spears discography
 Britney Spears,I Run Away,2001,,,True,False,,,,Britney Spears discography
 Britney Spears,"I'm Not a Girl, Not Yet a Woman",2002,,2,True,True,"I'm Not a Girl, Not Yet a Woman",selected,pop style in infobox,Britney Spears discography
 Britney Spears,I Love Rock 'n' Roll,2002,,13,True,True,I Love Rock 'n' Roll,over cap,,Britney Spears discography
@@ -1703,7 +1703,7 @@ Britney Spears,Slumber Party,2016,86,,True,False,,,,Britney Spears discography
 Britney Spears,Private Show,2016,,,True,False,,,,Britney Spears discography
 Britney Spears,Clumsy,2016,,,True,False,,,,Britney Spears discography
 Britney Spears,Do You Wanna Come Over?,2016,,,True,False,,,,Britney Spears discography
-Britney Spears,Hands,2016,,,True,False,,,,Britney Spears discography
+Britney Spears,Hands,2016,,,False,False,,,,Britney Spears discography
 Britney Spears,Mood Ring,2020,,,True,False,,,,Britney Spears discography
 Britney Spears,Swimming in the Stars,2020,,,True,False,,,,Britney Spears discography
 Britney Spears,Matches,2020,,,True,False,,,,Britney Spears discography
@@ -1722,7 +1722,7 @@ Camila Cabello,Never Be the Same,2017,6,7,True,True,Never Be the Same (Camila Ca
 Camila Cabello,Love Incredible,2017,,,False,False,,,,Camila Cabello discography
 Camila Cabello,Hey Ma,2017,,,False,False,,,,Camila Cabello discography
 Camila Cabello,Know No Better,2017,87,15,False,True,,,,Camila Cabello discography
-Camila Cabello,Almost Like Praying,2017,20,,True,True,Almost Like Praying,,,Camila Cabello discography
+Camila Cabello,Almost Like Praying,2017,20,,False,True,,,,Camila Cabello discography
 Camila Cabello,I Have Questions,2017,,,True,False,,,,Camila Cabello discography
 Camila Cabello,OMG,2017,81,67,True,False,,,,Camila Cabello discography
 Camila Cabello,Real Friends,2017,,,True,False,,,,Camila Cabello discography
@@ -1982,14 +1982,14 @@ Carole King,Been to Canaan,1972,24,,True,True,Been to Canaan,beyond generation t
 Carole King,Believe in Humanity,1973,28,,True,True,,no song article,,Carole King discography
 Carole King,You Light Up My Life,1973,67,,True,False,,,,Carole King discography
 Carole King,Corazon,1973,37,,True,True,,no song article,,Carole King discography
-Carole King,Jazzman,1974,2,,True,True,Jazzman,selected,pop style in infobox,Carole King discography
+Carole King,Jazzman,1974,2,,True,True,Jazzman,beyond generation target,pop style in infobox,Carole King discography
 Carole King,Nightingale,1975,9,,True,True,Nightingale (Carole King song),beyond generation target,pop style in infobox,Carole King discography
 Carole King,Only Love Is Real,1976,28,,True,True,Only Love Is Real,genre,no pop style in infobox (Easy listening),Carole King discography
 Carole King,High Out of Time,1976,76,,True,False,,,,Carole King discography
 Carole King,Hard Rock Cafe,1977,30,,True,True,,no song article,,Carole King discography
 Carole King,Simple Things,1977,,,True,False,,,,Carole King discography
 Carole King,Morning Sun,1978,,,True,False,,,,Carole King discography
-Carole King,One Fine Day,1980,12,,True,True,One Fine Day (song),,,Carole King discography
+Carole King,One Fine Day,1980,12,,True,True,One Fine Day (song),beyond generation target,pop style in infobox,Carole King discography
 Carole King,One to One,1982,45,,True,False,,,,Carole King discography
 Carole King,City Streets,1989,,,True,False,,,,Carole King discography
 Carole King,Now and Forever,1992,,,True,False,,,,Carole King discography
@@ -2023,7 +2023,7 @@ Celine Dion,Unison,1990,,,True,False,,,,Celine Dion singles discography
 Celine Dion,Where Does My Heart Beat Now,1990,4,72,True,True,Where Does My Heart Beat Now,beyond generation target,pop style in infobox,Celine Dion singles discography
 Celine Dion,The Last to Know,1991,,,True,False,,,,Celine Dion singles discography
 Celine Dion,Beauty and the Beast,1991,9,9,True,True,Beauty and the Beast (Disney song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Celine Dion singles discography
-Celine Dion,Voices That Care,1991,11,,True,True,Voices That Care,,,Celine Dion singles discography
+Celine Dion,Voices That Care,1991,11,,True,True,Voices That Care,beyond generation target,pop style in infobox,Celine Dion singles discography
 Celine Dion,Je danse dans ma tête,1992,,,True,False,,,,Celine Dion singles discography
 Celine Dion,If You Asked Me To,1992,4,57,True,True,If You Asked Me To,beyond generation target,"no infobox genre: kept as a roster act, flagged",Celine Dion singles discography
 Celine Dion,Nothing Broken but My Heart,1992,29,,True,True,Nothing Broken but My Heart,over cap,,Celine Dion singles discography
@@ -2052,9 +2052,9 @@ Celine Dion,J'irai où tu iras,1996,,,True,False,,,,Celine Dion singles discogra
 Celine Dion,Send Me a Lover,1996,,,True,False,,,,Celine Dion singles discography
 Celine Dion,Call the Man,1997,,11,True,True,Call the Man,beyond generation target,pop style in infobox,Celine Dion singles discography
 Celine Dion,J'attendais,1997,,,True,False,,,,Celine Dion singles discography
-Celine Dion,Tell Him,1997,,3,True,True,Tell Him (Barbra Streisand and Celine Dion song),,,Celine Dion singles discography
+Celine Dion,Tell Him,1997,,3,True,True,Tell Him (Barbra Streisand and Celine Dion song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Celine Dion singles discography
 Celine Dion,Be the Man,1997,,,True,False,,,,Celine Dion singles discography
-Celine Dion,The Reason,1997,,11,True,True,The Reason (Celine Dion song),beyond generation target,pop style in infobox,Celine Dion singles discography
+Celine Dion,The Reason,1997,,11,True,True,The Reason (Celine Dion song),over cap,,Celine Dion singles discography
 Celine Dion,My Heart Will Go On,1997,1,1,True,True,My Heart Will Go On,selected,"no infobox genre: kept as a roster act, flagged",Celine Dion singles discography
 Celine Dion,Immortality,1998,,5,True,True,Immortality (Celine Dion song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Celine Dion singles discography
 Celine Dion,Zora sourit,1998,,,True,False,,,,Celine Dion singles discography
@@ -2067,7 +2067,7 @@ Celine Dion,Treat Her Like a Lady,1999,,29,True,False,,,,Celine Dion singles dis
 Celine Dion,That's the Way It Is,1999,6,12,True,True,That's the Way It Is (Celine Dion song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Celine Dion singles discography
 Celine Dion,Dans un autre monde,1999,,,True,False,,,,Celine Dion singles discography
 Celine Dion,Live (for the One I Love),2000,,,True,False,,,,Celine Dion singles discography
-Celine Dion,The First Time Ever I Saw Your Face,2000,,19,True,True,The First Time Ever I Saw Your Face,,,Celine Dion singles discography
+Celine Dion,The First Time Ever I Saw Your Face,2000,,19,True,True,The First Time Ever I Saw Your Face,over cap,,Celine Dion singles discography
 Celine Dion,I Want You to Need Me,2000,,,True,False,,,,Celine Dion singles discography
 Celine Dion,Sous le vent,2001,,,True,False,,,,Celine Dion singles discography
 Celine Dion,What More Can I Give,2001,,,True,False,,,,Celine Dion singles discography
@@ -2102,7 +2102,7 @@ Celine Dion,Parler à mon père,2012,,,True,False,,,,Celine Dion singles discogr
 Celine Dion,Le miracle,2012,,,True,False,,,,Celine Dion singles discography
 Celine Dion,Les petits pieds de Léa,2012,,,True,False,,,,Celine Dion singles discography
 Celine Dion,Qui peut vivre sans amour?,2013,,,True,False,,,,Celine Dion singles discography
-Celine Dion,Loved Me Back to Life,2013,,14,True,True,Loved Me Back to Life (song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Celine Dion singles discography
+Celine Dion,Loved Me Back to Life,2013,,14,True,True,Loved Me Back to Life (song),over cap,,Celine Dion singles discography
 Celine Dion,Vole,2013,,,True,False,,,,Celine Dion singles discography
 Celine Dion,Somebody Loves Somebody,2013,,,True,False,,,,Celine Dion singles discography
 Celine Dion,O Holy Night,2013,,62,True,False,,,,Celine Dion singles discography
@@ -2284,7 +2284,7 @@ Cheryl,Boy Like You,2009,,,True,False,,,,Cheryl discography
 Cheryl,Stand Up,2009,,,True,False,,,,Cheryl discography
 Cheryl,Parachute,2010,,5,True,True,Parachute (Cheryl Cole song),beyond generation target,pop style in infobox,Cheryl discography
 Cheryl,Promise This,2010,,1,True,True,Promise This,selected,pop style in infobox,Cheryl discography
-Cheryl,Everybody Hurts,2010,,1,True,True,Everybody Hurts (Helping Haiti song),,,Cheryl discography
+Cheryl,Everybody Hurts,2010,,1,False,True,,,,Cheryl discography
 Cheryl,Check It Out (Special Mix),2010,,11,False,True,,,,Cheryl discography
 Cheryl,The Flood,2011,,18,True,True,The Flood (Cheryl Cole song),beyond generation target,pop style in infobox,Cheryl discography
 Cheryl,Call My Name,2012,,1,True,True,Call My Name (Cheryl song),selected,pop style in infobox,Cheryl discography
@@ -2301,7 +2301,7 @@ Christina Aguilera,All I Wanna Do,1997,,,True,False,,,,Christina Aguilera discog
 Christina Aguilera,Just Be Free,1997,,,True,False,,,,Christina Aguilera discography
 Christina Aguilera,Reflection,1998,,,True,False,,,,Christina Aguilera discography
 Christina Aguilera,Genie in a Bottle,1999,1,1,True,True,Genie in a Bottle,selected,pop style in infobox,Christina Aguilera discography
-Christina Aguilera,The Christmas Song (Chestnuts Roasting on an Open Fire),1999,18,,True,True,The Christmas Song,genre,no pop style in infobox (Christmas),Christina Aguilera discography
+Christina Aguilera,The Christmas Song (Chestnuts Roasting on an Open Fire),1999,18,,True,True,The Christmas Song,over cap,,Christina Aguilera discography
 Christina Aguilera,What a Girl Wants,1999,1,3,True,True,What a Girl Wants (Christina Aguilera song),selected,pop style in infobox,Christina Aguilera discography
 Christina Aguilera,Love Will Find a Way,1999,,,True,False,,,,Christina Aguilera discography
 Christina Aguilera,Genio Atrapado,1999,,,True,False,,,,Christina Aguilera discography
@@ -2312,10 +2312,10 @@ Christina Aguilera,Pero Me Acuerdo de Ti,2000,,,True,False,,,,Christina Aguilera
 Christina Aguilera,Christmas Time,2000,,,True,False,,,,Christina Aguilera discography
 Christina Aguilera,Have Yourself a Merry Little Christmas,2000,,,True,False,,,,Christina Aguilera discography
 Christina Aguilera,Nobody Wants to Be Lonely,2001,13,4,True,True,Nobody Wants to Be Lonely,beyond generation target,pop style in infobox,Christina Aguilera discography
-Christina Aguilera,Lady Marmalade,2001,1,1,True,True,Lady Marmalade,,,Christina Aguilera discography
+Christina Aguilera,Lady Marmalade,2001,1,1,True,True,Lady Marmalade,selected,pop style in infobox,Christina Aguilera discography
 Christina Aguilera,Falsas Esperanzas,2001,,,True,False,,,,Christina Aguilera discography
-Christina Aguilera,What's Going On,2001,27,6,True,True,What's Going On (song),,,Christina Aguilera discography
-Christina Aguilera,El Ultimo Adios (The Last Goodbye),2001,,,True,False,,,,Christina Aguilera discography
+Christina Aguilera,What's Going On,2001,27,6,True,True,What's Going On (song),beyond generation target,pop-adjacent style in infobox,Christina Aguilera discography
+Christina Aguilera,El Ultimo Adios (The Last Goodbye),2001,,,False,False,,,,Christina Aguilera discography
 Christina Aguilera,So Emotional,2001,,,True,False,,,,Christina Aguilera discography
 Christina Aguilera,Dirrty,2002,48,1,True,True,Dirrty,selected,pop-adjacent style in infobox,Christina Aguilera discography
 Christina Aguilera,Beautiful,2002,2,1,True,True,Beautiful (Christina Aguilera song),selected,pop style in infobox,Christina Aguilera discography
@@ -2416,7 +2416,7 @@ Ciara,Can't Leave 'em Alone,2007,40,109,True,True,Can't Leave 'em Alone,beyond g
 Ciara,Promise Ring,2007,,,False,False,,,,Ciara discography
 Ciara,Go Girl,2008,78,,True,False,,,,Ciara discography
 Ciara,Stepped on My J'z,2008,90,,False,False,,,,Ciara discography
-Ciara,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Ciara discography
+Ciara,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,beyond generation target,"no infobox genre: kept as a roster act, flagged",Ciara discography
 Ciara,That's Right,2008,,,True,False,,,,Ciara discography
 Ciara,Never Ever,2009,66,,True,False,,,,Ciara discography
 Ciara,Love Sex Magic,2009,10,5,True,True,Love Sex Magic,beyond generation target,pop style in infobox,Ciara discography
@@ -2638,7 +2638,7 @@ Cyndi Lauper,All Through the Night,1984,5,64,True,True,All Through the Night (Ju
 Cyndi Lauper,Money Changes Everything,1984,27,108,True,True,Money Changes Everything,genre,no pop style in infobox (Hard rock; post-punk),Cyndi Lauper discography
 Cyndi Lauper,When You Were Mine,1985,,,True,False,,,,Cyndi Lauper discography
 Cyndi Lauper,The Goonies 'R' Good Enough,1985,10,130,True,True,The Goonies 'R' Good Enough,beyond generation target,pop style in infobox,Cyndi Lauper discography
-Cyndi Lauper,We Are the World,1985,1,1,True,True,We Are the World,,,Cyndi Lauper discography
+Cyndi Lauper,We Are the World,1985,1,1,False,True,,,,Cyndi Lauper discography
 Cyndi Lauper,True Colors,1986,1,12,True,True,True Colors (Cyndi Lauper song),genre,no pop style in infobox (Synth-rock),Cyndi Lauper discography
 Cyndi Lauper,Change of Heart,1986,3,67,True,True,Change of Heart (Cyndi Lauper song),beyond generation target,pop style in infobox,Cyndi Lauper discography
 Cyndi Lauper,What's Going On,1987,12,57,True,True,What's Going On (song),beyond generation target,pop style in infobox,Cyndi Lauper discography
@@ -2709,7 +2709,7 @@ Debbie Gibson,Eyes of the Child,1993,,,True,False,,,,Debbie Gibson discography
 Debbie Gibson,Shock Your Mama,1993,,74,True,False,,,,Debbie Gibson discography
 Debbie Gibson,How Can This Be?,1993,,,True,False,,,,Debbie Gibson discography
 Debbie Gibson,Free Me,1993,,,True,False,,,,Debbie Gibson discography
-Debbie Gibson,You're the One That I Want,1993,,13,True,True,You're the One That I Want,,,Debbie Gibson discography
+Debbie Gibson,You're the One That I Want,1993,,13,True,True,You're the One That I Want,beyond generation target,"no infobox genre: kept as a roster act, flagged",Debbie Gibson discography
 Debbie Gibson,For Better or Worse,1995,,,True,False,,,,Debbie Gibson discography
 Debbie Gibson,Didn't Have the Heart,1995,,,True,False,,,,Debbie Gibson discography
 Debbie Gibson,Only Words,1997,,,True,False,,,,Debbie Gibson discography
@@ -2770,7 +2770,7 @@ Demi Lovato,—,,,,True,False,,,,Demi Lovato discography
 Demi Lovato,This Is Me,2008,9,33,True,True,This Is Me (Demi Lovato and Joe Jonas song),beyond generation target,pop style in infobox,Demi Lovato discography
 Demi Lovato,Get Back,2008,43,,True,False,,,,Demi Lovato discography
 Demi Lovato,La La Land,2008,52,35,True,False,,,,Demi Lovato discography
-Demi Lovato,We Rock,2008,33,97,True,True,We Rock (Camp Rock song),beyond generation target,pop style in infobox,Demi Lovato discography
+Demi Lovato,We Rock,2008,33,97,False,True,,,,Demi Lovato discography
 Demi Lovato,Moves Me,2008,,,True,False,,,,Demi Lovato discography
 Demi Lovato,Who Will I Be,2008,,169,True,False,,,,Demi Lovato discography
 Demi Lovato,On the Line,2008,100,,True,False,,,,Demi Lovato discography
@@ -2778,13 +2778,13 @@ Demi Lovato,Don't Forget,2009,41,,True,False,,,,Demi Lovato discography
 Demi Lovato,Here We Go Again,2009,15,199,True,True,Here We Go Again (Demi Lovato song),beyond generation target,pop style in infobox,Demi Lovato discography
 Demi Lovato,Bounce,2009,,,True,False,,,,Demi Lovato discography
 Demi Lovato,Gift of a Friend,2009,,,True,False,,,,Demi Lovato discography
-Demi Lovato,Send It On,2009,20,,True,True,Send It On (Disney song),,,Demi Lovato discography
+Demi Lovato,Send It On,2009,20,,True,True,Send It On (Disney song),beyond generation target,pop style in infobox,Demi Lovato discography
 Demi Lovato,One and the Same,2009,82,,True,False,,,,Demi Lovato discography
 Demi Lovato,Catch Me,2009,89,,True,False,,,,Demi Lovato discography
 Demi Lovato,Remember December,2010,,80,True,False,,,,Demi Lovato discography
 Demi Lovato,Wouldn't Change a Thing,2010,,71,True,False,,,,Demi Lovato discography
 Demi Lovato,We'll Be a Dream,2010,76,,False,False,,,,Demi Lovato discography
-Demi Lovato,Can't Back Down,2010,,178,True,False,,,,Demi Lovato discography
+Demi Lovato,Can't Back Down,2010,,178,False,False,,,,Demi Lovato discography
 Demi Lovato,"Me, Myself and Time",2010,,,True,False,,,,Demi Lovato discography
 Demi Lovato,Make a Wave,2010,84,,True,False,,,,Demi Lovato discography
 Demi Lovato,Skyscraper,2011,10,7,True,True,Skyscraper (song),beyond generation target,pop style in infobox,Demi Lovato discography
@@ -2793,7 +2793,7 @@ Demi Lovato,Unbroken,2011,98,,True,False,,,,Demi Lovato discography
 Demi Lovato,All Night Long,2011,,,True,False,,,,Demi Lovato discography
 Demi Lovato,Lightweight,2011,,,True,False,,,,Demi Lovato discography
 Demi Lovato,Give Your Heart a Break,2012,16,194,True,True,Give Your Heart a Break,beyond generation target,pop style in infobox,Demi Lovato discography
-Demi Lovato,Heart Attack,2013,10,3,True,True,Heart Attack (Demi Lovato song),beyond generation target,pop style in infobox,Demi Lovato discography
+Demi Lovato,Heart Attack,2013,10,3,True,True,Heart Attack (Demi Lovato song),selected,pop style in infobox,Demi Lovato discography
 Demi Lovato,Made in the USA,2013,80,89,True,False,,,,Demi Lovato discography
 Demi Lovato,Let It Go,2013,38,42,True,True,Let It Go,beyond generation target,pop style in infobox,Demi Lovato discography
 Demi Lovato,Neon Lights,2013,36,15,True,True,Neon Lights (Demi Lovato song),beyond generation target,pop style in infobox,Demi Lovato discography
@@ -2980,7 +2980,7 @@ Diana Ross,If We Hold on Together,1992,,11,True,True,If We Hold on Together,over
 Diana Ross,Heart (Don't Change My Mind),1992,,31,True,False,,,,Diana Ross discography
 Diana Ross,The Best Years of My Life,1993,,28,True,False,,,,Diana Ross discography
 Diana Ross,That's Why I Call You My Friend,1993,,,True,False,,,,Diana Ross discography
-Diana Ross,Chain Reaction '93,1993,,20,True,True,Chain Reaction (Diana Ross song),,,Diana Ross discography
+Diana Ross,Chain Reaction '93,1993,,20,True,True,Chain Reaction (Diana Ross song),over cap,,Diana Ross discography
 Diana Ross,Your Love,1993,,14,True,True,,over cap,,Diana Ross discography
 Diana Ross,Someday We'll Be Together,1994,,,True,False,,,,Diana Ross discography
 Diana Ross,Take Me Higher,1995,,32,True,False,,,,Diana Ross discography
@@ -3016,9 +3016,9 @@ Dido,Life for Rent,2003,,8,True,True,Life for Rent (song),beyond generation targ
 Dido,Feels Like Fire,2003,,,False,False,,,,Dido discography
 Dido,Don't Leave Home,2004,,25,True,False,,,,Dido discography
 Dido,Sand in My Shoes,2004,,29,True,False,,,,Dido discography
-Dido,Do They Know It's Christmas?,2004,,1,True,True,Do They Know It's Christmas?,,,Dido discography
+Dido,Do They Know It's Christmas?,2004,,1,False,True,,,,Dido discography
 Dido,Don't Believe in Love,2008,,54,True,False,,,,Dido discography
-Dido,Sing,2008,,,True,False,,,,Dido discography
+Dido,Sing,2008,,,False,False,,,,Dido discography
 Dido,Quiet Times,2009,,,True,False,,,,Dido discography
 Dido,Everything to Lose,2010,,,True,False,,,,Dido discography
 Dido,Feelin' Good,2010,,,False,False,,,,Dido discography
@@ -3036,7 +3036,7 @@ Dionne Warwick,—,,,,True,False,,,,Dionne Warwick discography
 Dionne Warwick,Don't Make Me Over,1962,21,,True,True,Don't Make Me Over (song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Dionne Warwick discography
 Dionne Warwick,This Empty Place,1963,84,,True,False,,,,Dionne Warwick discography
 Dionne Warwick,Make the Music Play,1963,81,,True,False,,,,Dionne Warwick discography
-Dionne Warwick,Anyone Who Had a Heart,1963,8,42,True,True,Anyone Who Had a Heart (song),,,Dionne Warwick discography
+Dionne Warwick,Anyone Who Had a Heart,1963,8,42,True,True,Anyone Who Had a Heart (song),beyond generation target,pop style in infobox,Dionne Warwick discography
 Dionne Warwick,Walk On By,1964,6,9,True,True,Walk On By,beyond generation target,pop style in infobox,Dionne Warwick discography
 Dionne Warwick,You'll Never Get to Heaven (If You Break My Heart),1964,34,20,True,True,You'll Never Get to Heaven (If You Break My Heart),beyond generation target,pop style in infobox,Dionne Warwick discography
 Dionne Warwick,Reach Out for Me,1964,20,23,True,True,Reach Out for Me,beyond generation target,pop style in infobox,Dionne Warwick discography
@@ -3046,13 +3046,13 @@ Dionne Warwick,Here I Am,1965,65,,True,False,,,,Dionne Warwick discography
 Dionne Warwick,Looking with My Eyes,1965,64,,True,False,,,,Dionne Warwick discography
 Dionne Warwick,Are You There (With Another Girl),1965,39,,True,True,Are You There (With Another Girl),over cap,,Dionne Warwick discography
 Dionne Warwick,Message to Michael,1966,8,55,True,True,Message to Michael,beyond generation target,pop style in infobox,Dionne Warwick discography
-Dionne Warwick,Trains and Boats and Planes,1966,22,,True,True,Trains and Boats and Planes,beyond generation target,pop style in infobox,Dionne Warwick discography
-Dionne Warwick,I Just Don't Know What to Do with Myself,1966,26,,True,True,I Just Don't Know What to Do with Myself,,,Dionne Warwick discography
+Dionne Warwick,Trains and Boats and Planes,1966,22,,True,True,Trains and Boats and Planes,over cap,,Dionne Warwick discography
+Dionne Warwick,I Just Don't Know What to Do with Myself,1966,26,,True,True,I Just Don't Know What to Do with Myself,over cap,,Dionne Warwick discography
 Dionne Warwick,Another Night,1966,49,,True,False,,,,Dionne Warwick discography
 Dionne Warwick,The Beginning of Loneliness,1967,79,,True,False,,,,Dionne Warwick discography
 Dionne Warwick,The Windows of the World,1967,32,,True,True,The Windows of the World (song),over cap,,Dionne Warwick discography
 Dionne Warwick,I Say a Little Prayer,1967,4,,True,True,I Say a Little Prayer,beyond generation target,pop style in infobox,Dionne Warwick discography
-Dionne Warwick,Alfie,1967,15,,True,True,Alfie (Burt Bacharach song),,,Dionne Warwick discography
+Dionne Warwick,Alfie,1967,15,,True,True,Alfie (Burt Bacharach song),beyond generation target,pop style in infobox,Dionne Warwick discography
 Dionne Warwick,(Theme from) Valley of the Dolls,1967,2,28,True,True,(Theme from) Valley of the Dolls,selected,pop style in infobox,Dionne Warwick discography
 Dionne Warwick,Do You Know the Way to San Jose,1968,10,8,True,True,Do You Know the Way to San Jose,beyond generation target,pop style in infobox,Dionne Warwick discography
 Dionne Warwick,Who Is Gonna Love Me,1968,33,56,True,True,,over cap,,Dionne Warwick discography
@@ -3090,7 +3090,7 @@ Dionne Warwick,Don't Ever Take Your Love Away,1978,,,True,False,,,,Dionne Warwic
 Dionne Warwick,I'll Never Love This Way Again,1979,5,62,True,True,I'll Never Love This Way Again,beyond generation target,prologue: soul/R&B girl-group or Motown pop,Dionne Warwick discography
 Dionne Warwick,Déjà Vu,1979,15,,True,True,Déjà Vu (Dionne Warwick song),beyond generation target,pop style in infobox,Dionne Warwick discography
 Dionne Warwick,After You,1980,65,,True,False,,,,Dionne Warwick discography
-Dionne Warwick,No Night So Long,1980,23,,True,True,No Night So Long (song),beyond generation target,pop style in infobox,Dionne Warwick discography
+Dionne Warwick,No Night So Long,1980,23,,True,True,No Night So Long (song),over cap,,Dionne Warwick discography
 Dionne Warwick,Easy Love,1980,62,,True,False,,,,Dionne Warwick discography
 Dionne Warwick,We Never Said Goodbye,1980,,,True,False,,,,Dionne Warwick discography
 Dionne Warwick,Some Changes Are for Good,1981,65,,True,False,,,,Dionne Warwick discography
@@ -3159,7 +3159,7 @@ Doja Cat,Shimmy,2020,,,False,False,,,,Doja Cat discography
 Doja Cat,"Baby, I'm Jealous",2020,58,86,False,False,,,,Doja Cat discography
 Doja Cat,Do It,2020,,,False,False,,,,Doja Cat discography
 Doja Cat,Freak,2020,,,True,False,,,,Doja Cat discography
-Doja Cat,Motive,2020,32,16,True,True,Motive (song),,,Doja Cat discography
+Doja Cat,Motive,2020,32,16,True,True,Motive (song),beyond generation target,pop style in infobox,Doja Cat discography
 Doja Cat,Streets,2021,16,12,True,True,Streets (song),beyond generation target,pop-adjacent style in infobox,Doja Cat discography
 Doja Cat,Kiss Me More,2021,3,3,True,True,Kiss Me More,selected,pop style in infobox,Doja Cat discography
 Doja Cat,You Right,2021,11,9,True,True,You Right,beyond generation target,pop-adjacent style in infobox,Doja Cat discography
@@ -3533,7 +3533,7 @@ Donna Summer,I Don't Wanna Get Hurt,1989,,7,True,True,I Don't Wanna Get Hurt,bey
 Donna Summer,Love's About to Change My Heart,1989,85,20,True,True,Love's About to Change My Heart,over cap,,Donna Summer discography
 Donna Summer,Breakaway,1989,,,True,False,,,,Donna Summer discography
 Donna Summer,When Love Takes Over You,1989,,72,True,False,,,,Donna Summer discography
-Donna Summer,Spirit of the Forest,1989,,,True,False,,,,Donna Summer discography
+Donna Summer,Spirit of the Forest,1989,,,False,False,,,,Donna Summer discography
 Donna Summer,When Love Cries,1991,77,,True,False,,,,Donna Summer discography
 Donna Summer,Work That Magic,1991,,74,True,False,,,,Donna Summer discography
 Donna Summer,La Vie en rose,1993,,,True,False,,,,Donna Summer discography
@@ -3568,7 +3568,7 @@ Dua Lipa,New Rules,2017,6,1,True,True,New Rules,selected,pop style in infobox,Du
 Dua Lipa,Thinking 'Bout You,2017,,,True,False,,,,Dua Lipa discography
 Dua Lipa,My Love,2017,,,False,False,,,,Dua Lipa discography
 Dua Lipa,Homesick,2017,,,True,False,,,,Dua Lipa discography
-Dua Lipa,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),selected,"no infobox genre: kept as a roster act, flagged",Dua Lipa discography
+Dua Lipa,Bridge over Troubled Water,2017,,1,False,True,,,,Dua Lipa discography
 Dua Lipa,IDGAF,2018,49,3,True,True,IDGAF (Dua Lipa song),beyond generation target,pop style in infobox,Dua Lipa discography
 Dua Lipa,One Kiss,2018,26,1,True,True,One Kiss,selected,pop style in infobox,Dua Lipa discography
 Dua Lipa,Electricity,2018,62,4,True,True,Electricity (Silk City and Dua Lipa song),beyond generation target,pop style in infobox,Dua Lipa discography
@@ -3589,7 +3589,7 @@ Dua Lipa,Fever,2020,,79,True,False,,,,Dua Lipa discography
 Dua Lipa,Real Groove (Studio 2054 remix),2020,,95,True,False,,,,Dua Lipa discography
 Dua Lipa,Sugar (Remix),2020,,,False,False,,,,Dua Lipa discography
 Dua Lipa,Prisoner,2020,54,8,False,True,,,,Dua Lipa discography
-Dua Lipa,Times Like These,2020,,1,True,True,Times Like These (Live Lounge Allstars charity single),,,Dua Lipa discography
+Dua Lipa,Times Like These,2020,,1,False,True,,,,Dua Lipa discography
 Dua Lipa,Cool,2020,,,True,False,,,,Dua Lipa discography
 Dua Lipa,Pretty Please,2020,,,True,False,,,,Dua Lipa discography
 Dua Lipa,Good in Bed,2020,,,True,False,,,,Dua Lipa discography
@@ -3711,9 +3711,9 @@ Ella Eyre,Gravity,2015,,4,False,True,,,,Ella Eyre discography
 Ella Eyre,We Don't Have to Take Our Clothes Off,2015,,54,True,False,,,,Ella Eyre discography
 Ella Eyre,Came Here for Love,2017,,6,True,True,Came Here for Love,beyond generation target,pop style in infobox,Ella Eyre discography
 Ella Eyre,Ego,2017,,67,True,False,,,,Ella Eyre discography
-Ella Eyre,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),,,Ella Eyre discography
+Ella Eyre,Bridge over Troubled Water,2017,,1,False,True,,,,Ella Eyre discography
 Ella Eyre,Answerphone,2018,,5,True,True,Answerphone (Banx & Ranx and Ella Eyre song),genre,no pop style in infobox (Electro; dancehall),Ella Eyre discography
-Ella Eyre,Just Got Paid,2018,,11,True,True,Just Got Paid (Sigala song),,,Ella Eyre discography
+Ella Eyre,Just Got Paid,2018,,11,True,True,Just Got Paid (Sigala song),beyond generation target,pop style in infobox,Ella Eyre discography
 Ella Eyre,Mama,2019,,,True,False,,,,Ella Eyre discography
 Ella Eyre,New Me,2020,,,True,False,,,,Ella Eyre discography
 Ella Eyre,L.O.V.(e),2020,,,True,False,,,,Ella Eyre discography
@@ -3723,7 +3723,7 @@ Ella Eyre,Tell Me About It,2020,,,True,False,,,,Ella Eyre discography
 Ella Eyre,Wired,2020,,,True,False,,,,Ella Eyre discography
 Ella Eyre,Don't You Want Me,2020,,,True,False,,,,Ella Eyre discography
 Ella Eyre,Body Loose,2020,,,False,False,,,,Ella Eyre discography
-Ella Eyre,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,,,Ella Eyre discography
+Ella Eyre,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,beyond generation target,pop style in infobox,Ella Eyre discography
 Ella Eyre,Deep Down,2022,,62,True,False,,,,Ella Eyre discography
 Ella Eyre,No Angels,2023,,,True,False,,,,Ella Eyre discography
 Ella Eyre,Head in the Ground,2023,,,True,False,,,,Ella Eyre discography
@@ -3744,7 +3744,7 @@ Ella Henderson,Mirror Man,2015,,96,True,False,,,,Ella Henderson discography
 Ella Henderson,Glitterball,2015,,4,False,True,,,,Ella Henderson discography
 Ella Henderson,Here for You,2015,,18,False,True,,,,Ella Henderson discography
 Ella Henderson,Empire,2015,,,True,False,,,,Ella Henderson discography
-Ella Henderson,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),,,Ella Henderson discography
+Ella Henderson,Bridge over Troubled Water,2017,,1,False,True,,,,Ella Henderson discography
 Ella Henderson,Glorious,2019,,,True,False,,,,Ella Henderson discography
 Ella Henderson,Young,2019,,,True,False,,,,Ella Henderson discography
 Ella Henderson,Friends,2019,,,True,False,,,,Ella Henderson discography
@@ -3770,7 +3770,7 @@ Ella Henderson,0800 Heaven,2023,,9,True,True,0800 Heaven,beyond generation targe
 Ella Henderson,Rest of Our Days,2023,,,True,False,,,,Ella Henderson discography
 Ella Henderson,I Go Dancing,2023,,,False,False,,,,Ella Henderson discography
 Ella Henderson,Lifeline,2023,,,False,False,,,,Ella Henderson discography
-Ella Henderson,Alibi,2024,,10,True,True,Alibi (Ella Henderson song),,,Ella Henderson discography
+Ella Henderson,Alibi,2024,,10,True,True,Alibi (Ella Henderson song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Ella Henderson discography
 Ella Henderson,"Mamma, You Were Right",2024,,,True,False,,,,Ella Henderson discography
 Ella Henderson,Under the Sun,2024,,,True,False,,,,Ella Henderson discography
 Ella Henderson,Filthy Rich,2024,,58,True,False,,,,Ella Henderson discography
@@ -3803,7 +3803,7 @@ Ellie Goulding,Goodness Gracious,2014,,16,True,True,Goodness Gracious,beyond gen
 Ellie Goulding,Beating Heart,2014,88,9,True,True,Beating Heart (Ellie Goulding song),beyond generation target,pop style in infobox,Ellie Goulding discography
 Ellie Goulding,Flashlight,2014,,47,False,False,,,,Ellie Goulding discography
 Ellie Goulding,Outside,2014,29,6,False,True,,,,Ellie Goulding discography
-Ellie Goulding,Do They Know It's Christmas?,2014,63,1,True,True,Do They Know It's Christmas?,,,Ellie Goulding discography
+Ellie Goulding,Do They Know It's Christmas?,2014,63,1,False,True,,,,Ellie Goulding discography
 Ellie Goulding,Fall into the Sky,2014,,,False,False,,,,Ellie Goulding discography
 Ellie Goulding,Love Me Like You Do,2015,3,1,True,True,Love Me like You Do,selected,pop style in infobox,Ellie Goulding discography
 Ellie Goulding,On My Mind,2015,13,5,True,True,On My Mind (Ellie Goulding song),beyond generation target,pop style in infobox,Ellie Goulding discography
@@ -3827,7 +3827,7 @@ Ellie Goulding,Worry About Me,2020,,78,True,False,,,,Ellie Goulding discography
 Ellie Goulding,Power,2020,,86,True,False,,,,Ellie Goulding discography
 Ellie Goulding,Slow Grenade,2020,,,True,False,,,,Ellie Goulding discography
 Ellie Goulding,Love I'm Given,2020,,,True,False,,,,Ellie Goulding discography
-Ellie Goulding,Times Like These,2020,,1,True,True,Times Like These (Foo Fighters song),genre,no pop style in infobox (Alternative rock; hard rock),Ellie Goulding discography
+Ellie Goulding,Times Like These,2020,,1,False,True,,,,Ellie Goulding discography
 Ellie Goulding,New Love,2021,,65,False,False,,,,Ellie Goulding discography
 Ellie Goulding,Easy Lover,2022,,,True,False,,,,Ellie Goulding discography
 Ellie Goulding,All by Myself,2022,,,True,False,,,,Ellie Goulding discography
@@ -3878,7 +3878,7 @@ Emeli Sandé,Garden,2016,,,True,False,,,,Emeli Sandé discography
 Emeli Sandé,Thunder,2016,,,False,False,,,,Emeli Sandé discography
 Emeli Sandé,Highs & Lows,2017,,,True,False,,,,Emeli Sandé discography
 Emeli Sandé,Starlight,2017,,,True,False,,,,Emeli Sandé discography
-Emeli Sandé,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),,,Emeli Sandé discography
+Emeli Sandé,Bridge over Troubled Water,2017,,1,False,True,,,,Emeli Sandé discography
 Emeli Sandé,Love Me More,2017,,,False,False,,,,Emeli Sandé discography
 Emeli Sandé,Survive,2018,,,False,False,,,,Emeli Sandé discography
 Emeli Sandé,Bungee Jumping,2018,,,False,False,,,,Emeli Sandé discography
@@ -3915,7 +3915,7 @@ Emma Bunton,Free Me,2003,,5,True,True,Free Me (Emma Bunton song),beyond generati
 Emma Bunton,Maybe,2003,,6,True,True,Maybe (Emma Bunton song),beyond generation target,pop style in infobox,Emma Bunton discography
 Emma Bunton,I'll Be There,2004,,7,True,True,I'll Be There (Emma Bunton song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Emma Bunton discography
 Emma Bunton,Crickets Sing for Anamaria,2004,,15,True,True,Crickets Sing for Anamaria,beyond generation target,"no infobox genre: kept as a roster act, flagged",Emma Bunton discography
-Emma Bunton,Downtown,2006,,3,True,True,Downtown (Petula Clark song),,,Emma Bunton discography
+Emma Bunton,Downtown,2006,,3,True,True,Downtown (Petula Clark song),beyond generation target,pop-adjacent style in infobox,Emma Bunton discography
 Emma Bunton,Something Tells Me,2006,,119,True,False,,,,Emma Bunton discography
 Emma Bunton,"Perhaps, Perhaps, Perhaps",2006,,122,True,False,,,,Emma Bunton discography
 Emma Bunton,All I Need to Know,2007,,60,True,False,,,,Emma Bunton discography
@@ -3932,7 +3932,7 @@ En Vogue,You Don't Have to Worry,1990,,94,True,False,,,,En Vogue discography
 En Vogue,Don't Go,1991,,117,True,False,,,,En Vogue discography
 En Vogue,Strange,1991,,,True,False,,,,En Vogue discography
 En Vogue,My Lovin' (You're Never Gonna Get It),1992,2,4,True,True,My Lovin' (You're Never Gonna Get It),selected,pop style in infobox,En Vogue discography
-En Vogue,Giving Him Something He Can Feel,1992,6,44,True,True,Something He Can Feel,,,En Vogue discography
+En Vogue,Giving Him Something He Can Feel,1992,6,44,True,True,Something He Can Feel,beyond generation target,pop-adjacent style in infobox,En Vogue discography
 En Vogue,Yesterday,1992,,,True,False,,,,En Vogue discography
 En Vogue,Free Your Mind,1992,8,16,True,True,Free Your Mind (En Vogue song),beyond generation target,pop style in infobox,En Vogue discography
 En Vogue,"Give It Up, Turn It Loose",1992,15,22,True,True,"Give It Up, Turn It Loose",beyond generation target,"no infobox genre: kept as a roster act, flagged",En Vogue discography
@@ -3940,7 +3940,7 @@ En Vogue,Love Don't Love You,1993,36,64,True,True,Love Don't Love You,beyond gen
 En Vogue,Runaway Love,1993,51,36,True,False,,,,En Vogue discography
 En Vogue,What Is Love,1993,,,True,False,,,,En Vogue discography
 En Vogue,Whatta Man,1993,3,7,True,True,Whatta Man,beyond generation target,pop-adjacent style in infobox,En Vogue discography
-En Vogue,Freedom (Theme from Panther),1995,45,,True,False,,,,En Vogue discography
+En Vogue,Freedom (Theme from Panther),1995,45,,False,False,,,,En Vogue discography
 En Vogue,Don't Let Go (Love),1996,2,5,True,True,Don't Let Go (Love),selected,pop-adjacent style in infobox,En Vogue discography
 En Vogue,Whatever,1997,16,14,True,True,Whatever (En Vogue song),genre,no pop style in infobox (Funk),En Vogue discography
 En Vogue,"Too Gone, Too Long",1997,33,20,True,True,"Too Gone, Too Long",beyond generation target,"no infobox genre: kept as a roster act, flagged",En Vogue discography
@@ -3974,7 +3974,7 @@ Eternal,Secrets,1996,,9,True,True,Secrets (Eternal song),beyond generation targe
 Eternal,Don't You Love Me,1997,,3,True,True,Don't You Love Me (Eternal song),beyond generation target,pop style in infobox,Eternal discography
 Eternal,I Wanna Be the Only One,1997,,1,True,True,I Wanna Be the Only One,selected,pop-adjacent style in infobox,Eternal discography
 Eternal,The Megamix,1997,,,True,False,,,,Eternal discography
-Eternal,Angel of Mine,1997,,4,True,True,Angel of Mine,,,Eternal discography
+Eternal,Angel of Mine,1997,,4,True,True,Angel of Mine,beyond generation target,pop-adjacent style in infobox,Eternal discography
 Eternal,What'cha Gonna Do,1999,,16,True,True,What'cha Gonna Do,beyond generation target,pop-adjacent style in infobox,Eternal discography
 Exposé,—,,,,True,False,,,,Exposé discography
 Exposé,Point of No Return,1985,,,True,False,,,,Exposé discography
@@ -4004,12 +4004,12 @@ Faith Hill,It Matters to Me,1995,74,,True,False,,,,Faith Hill discography
 Faith Hill,Someone Else's Dream,1996,,,True,False,,,,Faith Hill discography
 Faith Hill,You Can't Lose Me,1996,,,True,False,,,,Faith Hill discography
 Faith Hill,I Can't Do That Anymore,1996,,,True,False,,,,Faith Hill discography
-Faith Hill,Hope,1996,,,True,False,,,,Faith Hill discography
+Faith Hill,Hope,1996,,,False,False,,,,Faith Hill discography
 Faith Hill,It's Your Love,1997,7,,False,True,,,,Faith Hill discography
 Faith Hill,This Kiss,1998,7,13,True,True,This Kiss (Faith Hill song),beyond generation target,pop style in infobox,Faith Hill discography
 Faith Hill,Just to Hear You Say That You Love Me,1998,,,True,False,,,,Faith Hill discography
 Faith Hill,Let Me Let Go,1998,33,72,True,True,Let Me Let Go,genre,no pop style in infobox (Country),Faith Hill discography
-Faith Hill,One Heart at a Time,1998,56,,True,False,,,,Faith Hill discography
+Faith Hill,One Heart at a Time,1998,56,,False,False,,,,Faith Hill discography
 Faith Hill,Love Ain't Like That,1999,68,,True,False,,,,Faith Hill discography
 Faith Hill,The Secret of Life,1999,46,,True,False,,,,Faith Hill discography
 Faith Hill,Breathe,1999,2,33,True,True,Breathe (Faith Hill song),selected,pop style in infobox,Faith Hill discography
@@ -4035,7 +4035,7 @@ Faith Hill,A Baby Changes Everything,2008,,,True,False,,,,Faith Hill discography
 Faith Hill,Come Home,2011,82,,True,False,,,,Faith Hill discography
 Faith Hill,American Heart,2012,,,True,False,,,,Faith Hill discography
 Faith Hill,Meanwhile Back at Mama's,2014,41,,False,False,,,,Faith Hill discography
-Faith Hill,Forever Country,2016,21,,True,True,Forever Country,,,Faith Hill discography
+Faith Hill,Forever Country,2016,21,,True,True,Forever Country,genre,no pop style in infobox (Country),Faith Hill discography
 Faith Hill,Speak to a Girl,2017,61,,True,False,,,,Faith Hill discography
 Faith Hill,The Rest of Our Life,2017,98,,True,False,,,,Faith Hill discography
 Fergie,—,,,,True,False,,,,Fergie discography
@@ -4045,23 +4045,23 @@ Fergie,Glamorous,2007,1,6,True,True,Glamorous (song),selected,pop style in infob
 Fergie,Big Girls Don't Cry,2007,1,2,True,True,Big Girls Don't Cry (Fergie song),selected,pop style in infobox,Fergie discography
 Fergie,Clumsy,2007,5,62,True,True,Clumsy (Fergie song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Fergie discography
 Fergie,Impacto,2007,56,,False,False,,,,Fergie discography
-Fergie,Sing,2007,,,True,False,,,,Fergie discography
+Fergie,Sing,2007,,,False,False,,,,Fergie discography
 Fergie,Pick It Up,2007,,,True,False,,,,Fergie discography
 Fergie,Finally,2008,,,True,False,,,,Fergie discography
 Fergie,Party People,2008,40,14,False,True,,,,Fergie discography
 Fergie,That Ain't Cool,2008,,,False,False,,,,Fergie discography
-Fergie,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Fergie discography
+Fergie,Just Stand Up!,2008,11,26,False,True,,,,Fergie discography
 Fergie,Labels or Love,2008,,,True,False,,,,Fergie discography
 Fergie,Here I Come,2008,,,True,False,,,,Fergie discography
 Fergie,Gettin' Over You,2010,31,1,False,True,,,,Fergie discography
 Fergie,Beautiful Dangerous,2010,,,False,False,,,,Fergie discography
-Fergie,We Are the World 25 for Haiti,2010,2,50,True,True,We Are the World 25 for Haiti,,,Fergie discography
-Fergie,L.O.V.E. (Let One Voice Emerge),2012,,,True,False,,,,Fergie discography
+Fergie,We Are the World 25 for Haiti,2010,2,50,False,True,,,,Fergie discography
+Fergie,L.O.V.E. (Let One Voice Emerge),2012,,,False,False,,,,Fergie discography
 Fergie,Feel Alive,2012,,,True,False,,,,Fergie discography
 Fergie,A Little Party Never Killed Nobody (All We Got),2013,77,90,True,False,,,,Fergie discography
 Fergie,Netflix,2013,,,False,False,,,,Fergie discography
 Fergie,L.A. Love (La La),2014,27,3,True,True,L.A. Love (La La),beyond generation target,pop style in infobox,Fergie discography
-Fergie,Love Song to the Earth,2015,,,True,False,,,,Fergie discography
+Fergie,Love Song to the Earth,2015,,,False,False,,,,Fergie discography
 Fergie,M.I.L.F. $,2016,34,56,True,True,M.I.L.F. $,beyond generation target,"no infobox genre: kept as a roster act, flagged",Fergie discography
 Fergie,Life Goes On,2016,,,True,False,,,,Fergie discography
 Fergie,You Already Know,2017,,96,True,False,,,,Fergie discography
@@ -4076,7 +4076,7 @@ Fifth Harmony,Boss,2014,43,21,True,False,,,,Fifth Harmony discography
 Fifth Harmony,Sledgehammer,2014,40,112,True,True,Sledgehammer (Fifth Harmony song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Fifth Harmony discography
 Fifth Harmony,Them Girls Be Like,2014,,,True,False,,,,Fifth Harmony discography
 Fifth Harmony,All I Want for Christmas Is You,2014,,,True,False,,,,Fifth Harmony discography
-Fifth Harmony,Worth It,2015,12,3,True,True,Worth It (Fifth Harmony song),beyond generation target,pop style in infobox,Fifth Harmony discography
+Fifth Harmony,Worth It,2015,12,3,True,True,Worth It (Fifth Harmony song),selected,pop style in infobox,Fifth Harmony discography
 Fifth Harmony,I'm in Love with a Monster,2015,,,True,False,,,,Fifth Harmony discography
 Fifth Harmony,Work from Home,2016,4,2,True,True,Work from Home (song),selected,pop style in infobox,Fifth Harmony discography
 Fifth Harmony,All in My Head (Flex),2016,24,25,True,True,All in My Head (Flex),beyond generation target,pop-adjacent style in infobox,Fifth Harmony discography
@@ -4140,7 +4140,7 @@ Geri Halliwell,Ride It,2004,,4,True,True,Ride It (Geri Halliwell song),beyond ge
 Geri Halliwell,Desire,2005,,22,True,False,,,,Geri Halliwell discography
 Geri Halliwell,Half of Me,2013,,,True,False,,,,Geri Halliwell discography
 Geri Halliwell,Angels in Chains,2017,,,True,False,,,,Geri Halliwell discography
-Geri Halliwell,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),selected,"no infobox genre: kept as a roster act, flagged",Geri Halliwell discography
+Geri Halliwell,Bridge over Troubled Water,2017,,1,False,True,,,,Geri Halliwell discography
 Gina G,—,,,,True,False,,,,Gina G discography
 Gina G,Love the Life,1992,,,True,False,,,,Gina G discography
 Gina G,Ooh Aah... Just a Little Bit,1996,12,1,True,True,Ooh Aah... Just a Little Bit,selected,pop style in infobox,Gina G discography
@@ -4168,7 +4168,7 @@ Girls Aloud,See the Day,2005,,9,True,True,See the Day,beyond generation target,p
 Girls Aloud,Whole Lotta History,2006,,6,True,True,Whole Lotta History,beyond generation target,pop style in infobox,Girls Aloud discography
 Girls Aloud,Something Kinda Ooooh,2006,,3,True,True,Something Kinda Ooooh,beyond generation target,pop style in infobox,Girls Aloud discography
 Girls Aloud,I Think We're Alone Now,2006,,4,True,True,I Think We're Alone Now,beyond generation target,pop style in infobox,Girls Aloud discography
-Girls Aloud,Walk This Way,2007,,1,True,True,Walk This Way,,,Girls Aloud discography
+Girls Aloud,Walk This Way,2007,,1,True,True,Walk This Way,genre,no pop style in infobox (Dance-rock),Girls Aloud discography
 Girls Aloud,Sexy! No No No...,2007,,5,True,True,Sexy! No No No...,genre,no pop style in infobox (Electropunk),Girls Aloud discography
 Girls Aloud,Call the Shots,2007,,3,True,True,Call the Shots,beyond generation target,pop style in infobox,Girls Aloud discography
 Girls Aloud,Can't Speak French,2008,,9,True,True,Can't Speak French,beyond generation target,pop style in infobox,Girls Aloud discography
@@ -4242,19 +4242,19 @@ Gloria Estefan,Out of Nowhere,2001,,94,True,False,,,,Gloria Estefan singles disc
 Gloria Estefan,Wrapped,2003,,,True,False,,,,Gloria Estefan singles discography
 Gloria Estefan,I Wish You,2003,,,True,False,,,,Gloria Estefan singles discography
 Gloria Estefan,Te Amaré,2003,,,True,False,,,,Gloria Estefan singles discography
-Gloria Estefan,What More Can I Give,2003,,,True,False,,,,Gloria Estefan singles discography
+Gloria Estefan,What More Can I Give,2003,,,False,False,,,,Gloria Estefan singles discography
 Gloria Estefan,Tu Fotografía,2004,,,True,False,,,,Gloria Estefan singles discography
 Gloria Estefan,Doctor Pressure,2005,,3,True,True,Doctor Pressure,beyond generation target,"no infobox genre: kept as a roster act, flagged",Gloria Estefan singles discography
 Gloria Estefan,No Llores,2007,,,True,False,,,,Gloria Estefan singles discography
 Gloria Estefan,Me Odio,2007,,,True,False,,,,Gloria Estefan singles discography
-Gloria Estefan,Somos El Mundo,2010,,,True,False,,,,Gloria Estefan singles discography
-Gloria Estefan,Almost Like Praying,2017,20,,True,True,Almost Like Praying,over cap,,Gloria Estefan singles discography
+Gloria Estefan,Somos El Mundo,2010,,,False,False,,,,Gloria Estefan singles discography
+Gloria Estefan,Almost Like Praying,2017,20,,False,True,,,,Gloria Estefan singles discography
 Gloria Estefan,Bemba Colorá,2024,,,False,False,,,,Gloria Estefan singles discography
 Gloria Gaynor,—,,,,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,She'll Be Sorry,1965,,,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,Honey Bee,1974,,,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,Never Can Say Goodbye,1974,9,2,True,True,Never Can Say Goodbye,beyond generation target,pop style in infobox,Gloria Gaynor discography
-Gloria Gaynor,"Reach Out, I'll Be There",1975,60,14,True,True,Reach Out I'll Be There,,,Gloria Gaynor discography
+Gloria Gaynor,"Reach Out, I'll Be There",1975,60,14,True,True,Reach Out I'll Be There,beyond generation target,pop style in infobox,Gloria Gaynor discography
 Gloria Gaynor,Walk On By,1975,98,,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,All I Need Is Your Sweet Lovin',1975,,44,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,Casanova Brown,1975,,,True,False,,,,Gloria Gaynor discography
@@ -4272,7 +4272,7 @@ Gloria Gaynor,You're All I Need to Get By,1978,,,True,False,,,,Gloria Gaynor dis
 Gloria Gaynor,Kidnapped,1978,,,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,This Love Affair,1978,,,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,Substitute,1978,,,True,False,,,,Gloria Gaynor discography
-Gloria Gaynor,I Will Survive,1978,1,1,True,True,I Will Survive,,,Gloria Gaynor discography
+Gloria Gaynor,I Will Survive,1978,1,1,True,True,I Will Survive,genre,no pop style in infobox (hlist),Gloria Gaynor discography
 Gloria Gaynor,Anybody Wanna Party?,1979,,,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,I Said Yes,1979,,,True,False,,,,Gloria Gaynor discography
 Gloria Gaynor,Love Is Just a Heartbeat Away (Nocturna's Theme),1979,,,True,False,,,,Gloria Gaynor discography
@@ -4344,7 +4344,7 @@ Gracie Abrams,Minibar,2026,99,,True,False,,,,Gracie Abrams discography
 Gwen Stefani,—,,,,True,False,,,,Gwen Stefani discography
 Gwen Stefani,South Side,2000,14,,False,True,,,,Gwen Stefani discography
 Gwen Stefani,Let Me Blow Ya Mind,2001,2,4,False,True,,,,Gwen Stefani discography
-Gwen Stefani,What's Going On,2001,27,6,True,True,What's Going On (song),,,Gwen Stefani discography
+Gwen Stefani,What's Going On,2001,27,6,False,True,,,,Gwen Stefani discography
 Gwen Stefani,What You Waiting For?,2004,47,4,True,True,What You Waiting For?,beyond generation target,pop style in infobox,Gwen Stefani discography
 Gwen Stefani,Rich Girl,2004,7,4,True,True,Rich Girl (Gwen Stefani song),genre,no pop style in infobox (Reggae; ragga),Gwen Stefani discography
 Gwen Stefani,Hollaback Girl,2005,1,8,True,True,Hollaback Girl,selected,pop style in infobox,Gwen Stefani discography
@@ -4369,7 +4369,7 @@ Gwen Stefani,Kings Never Die,2015,80,82,False,False,,,,Gwen Stefani discography
 Gwen Stefani,Shine,2015,,,True,False,,,,Gwen Stefani discography
 Gwen Stefani,Make Me Like You,2016,54,140,True,False,,,,Gwen Stefani discography
 Gwen Stefani,Misery,2016,,171,True,False,,,,Gwen Stefani discography
-Gwen Stefani,Hands,2016,,,True,False,,,,Gwen Stefani discography
+Gwen Stefani,Hands,2016,,,False,False,,,,Gwen Stefani discography
 Gwen Stefani,Go Ahead and Break My Heart,2016,70,,False,False,,,,Gwen Stefani discography
 Gwen Stefani,You Make It Feel Like Christmas,2017,46,69,True,False,,,,Gwen Stefani discography
 Gwen Stefani,Santa Baby,2017,,,True,False,,,,Gwen Stefani discography
@@ -4423,7 +4423,7 @@ Hailee Steinfeld,Afterlife,2019,,,True,False,,,,Hailee Steinfeld discography
 Hailee Steinfeld,Woke Up Late,2019,,,False,False,,,,Hailee Steinfeld discography
 Hailee Steinfeld,Wrong Direction,2020,,,True,False,,,,Hailee Steinfeld discography
 Hailee Steinfeld,I Love You's,2020,,,True,False,,,,Hailee Steinfeld discography
-Hailee Steinfeld,Times Like These,2020,,1,True,True,Times Like These (Foo Fighters song),,,Hailee Steinfeld discography
+Hailee Steinfeld,Times Like These,2020,,1,False,True,,,,Hailee Steinfeld discography
 Hailee Steinfeld,Masterpiece,2020,,,False,False,,,,Hailee Steinfeld discography
 Hailee Steinfeld,Coast,2022,,,True,False,,,,Hailee Steinfeld discography
 Hailee Steinfeld,SunKissing,2023,,,True,False,,,,Hailee Steinfeld discography
@@ -4438,7 +4438,7 @@ Halsey,Drive,2015,,,True,False,,,,Halsey discography
 Halsey,The Feeling,2015,31,34,False,True,,,,Halsey discography
 Halsey,Colors,2016,,,True,False,,,,Halsey discography
 Halsey,Castle,2016,,,True,False,,,,Halsey discography
-Halsey,Hands,2016,,,True,False,,,,Halsey discography
+Halsey,Hands,2016,,,False,False,,,,Halsey discography
 Halsey,Closer,2016,1,1,False,True,,,,Halsey discography
 Halsey,Tokyo Narita (Freestyle),2016,,,True,False,,,,Halsey discography
 Halsey,Gasoline,2016,,,True,False,,,,Halsey discography
@@ -4525,7 +4525,7 @@ Helen Reddy,Ain't No Way to Treat a Lady,1975,8,,True,True,Ain't No Way to Treat
 Helen Reddy,Somewhere in the Night,1975,19,,True,True,Somewhere in the Night (Helen Reddy song),genre,no pop style in infobox (Easy listening),Helen Reddy discography
 Helen Reddy,I Can't Hear You No More,1976,29,,True,True,I Can't Hear You No More,genre,no pop style in infobox (Easy listening),Helen Reddy discography
 Helen Reddy,Gladiola,1976,,,True,False,,,,Helen Reddy discography
-Helen Reddy,You're My World,1977,18,,True,True,You're My World,,,Helen Reddy discography
+Helen Reddy,You're My World,1977,18,,True,True,You're My World,genre,no pop style in infobox (Easy listening),Helen Reddy discography
 Helen Reddy,The Happy Girls,1977,57,,True,False,,,,Helen Reddy discography
 Helen Reddy,Candle on the Water,1977,,,True,False,,,,Helen Reddy discography
 Helen Reddy,We'll Sing in the Sunshine,1978,,,True,False,,,,Helen Reddy discography
@@ -4536,7 +4536,7 @@ Helen Reddy,Take What You Find,1980,,,True,False,,,,Helen Reddy discography
 Helen Reddy,I Can't Say Goodbye to You,1981,88,43,True,False,,,,Helen Reddy discography
 Helen Reddy,Don't Tell Me Tonight,1983,,,True,False,,,,Helen Reddy discography
 Helen Reddy,Imagination,1983,,,True,False,,,,Helen Reddy discography
-Helen Reddy,Voices That Care,1991,11,,True,True,Voices That Care,beyond generation target,pop style in infobox,Helen Reddy discography
+Helen Reddy,Voices That Care,1991,11,,False,True,,,,Helen Reddy discography
 Helen Reddy,Surrender,1998,,,True,False,,,,Helen Reddy discography
 Hilary Duff,What Dreams Are Made Of (Mine),,,,True,False,,,,Hilary Duff discography
 Hilary Duff,—,,,,True,False,,,,Hilary Duff discography
@@ -4575,8 +4575,8 @@ Ice Spice,Munch (Feelin' U),2022,,,True,False,,,,Ice Spice discography
 Ice Spice,Bikini Bottom,2022,,,True,False,,,,Ice Spice discography
 Ice Spice,In Ha Mood,2023,58,58,True,False,,,,Ice Spice discography
 Ice Spice,Boy's a Liar Pt. 2,2023,3,,True,True,Boy's a Liar Pt. 2,selected,pop style in infobox,Ice Spice discography
-Ice Spice,Princess Diana,2023,4,22,True,True,Princess Diana (song),,,Ice Spice discography
-Ice Spice,Barbie World,2023,7,4,True,True,Barbie World,,,Ice Spice discography
+Ice Spice,Princess Diana,2023,4,22,True,True,Princess Diana (song),beyond generation target,pop-adjacent style in infobox,Ice Spice discography
+Ice Spice,Barbie World,2023,7,4,True,True,Barbie World,beyond generation target,pop style in infobox,Ice Spice discography
 Ice Spice,Deli,2023,41,72,True,False,,,,Ice Spice discography
 Ice Spice,Pretty Girl,2023,,,True,False,,,,Ice Spice discography
 Ice Spice,Karma (Remix),2023,2,,False,True,,,,Ice Spice discography
@@ -4610,7 +4610,7 @@ Iggy Azalea,Know About Me (Remix),2014,,,False,False,,,,Iggy Azalea discography
 Iggy Azalea,Impossible Is Nothing,2014,,168,True,False,,,,Iggy Azalea discography
 Iggy Azalea,Iggy SZN,2014,,,True,False,,,,Iggy Azalea discography
 Iggy Azalea,Trouble,2015,67,7,True,True,Trouble (Iggy Azalea song),beyond generation target,pop style in infobox,Iggy Azalea discography
-Iggy Azalea,Pretty Girls,2015,29,16,True,True,Pretty Girls (Britney Spears and Iggy Azalea song),,,Iggy Azalea discography
+Iggy Azalea,Pretty Girls,2015,29,16,True,True,Pretty Girls (Britney Spears and Iggy Azalea song),genre,no pop style in infobox (Electro-hop),Iggy Azalea discography
 Iggy Azalea,Go Hard or Go Home,2015,86,110,True,False,,,,Iggy Azalea discography
 Iggy Azalea,All Hands on Deck (Remix),2015,,156,False,False,,,,Iggy Azalea discography
 Iggy Azalea,Team,2016,42,62,True,False,,,,Iggy Azalea discography
@@ -4657,8 +4657,8 @@ Jennifer Lopez,Love Don't Cost a Thing,2000,3,1,True,True,Love Don't Cost a Thin
 Jennifer Lopez,Play,2001,18,3,True,True,Play (Jennifer Lopez song),beyond generation target,pop style in infobox,Jennifer Lopez discography
 Jennifer Lopez,I'm Real,2001,1,4,True,True,I'm Real,selected,pop style in infobox,Jennifer Lopez discography
 Jennifer Lopez,Ain't It Funny,2001,,3,True,True,Ain't It Funny,beyond generation target,pop style in infobox,Jennifer Lopez discography
-Jennifer Lopez,El Ultimo Adios (The Last Goodbye),2001,,,True,False,,,,Jennifer Lopez discography
-Jennifer Lopez,What's Going On,2001,27,6,True,True,What's Going On (song),,,Jennifer Lopez discography
+Jennifer Lopez,El Ultimo Adios (The Last Goodbye),2001,,,False,False,,,,Jennifer Lopez discography
+Jennifer Lopez,What's Going On,2001,27,6,False,True,,,,Jennifer Lopez discography
 Jennifer Lopez,I'm Gonna Be Alright (Track Masters remix),2002,10,3,True,True,I'm Gonna Be Alright,beyond generation target,pop-adjacent style in infobox,Jennifer Lopez discography
 Jennifer Lopez,Alive,2002,,,True,False,,,,Jennifer Lopez discography
 Jennifer Lopez,Jenny from the Block,2002,3,3,True,True,Jenny from the Block,beyond generation target,pop-adjacent style in infobox,Jennifer Lopez discography
@@ -4696,11 +4696,11 @@ Jennifer Lopez,El Mismo Sol,2015,,,False,False,,,,Jennifer Lopez discography
 Jennifer Lopez,Try Me,2015,,113,False,False,,,,Jennifer Lopez discography
 Jennifer Lopez,Ain't Your Mama,2016,76,182,True,False,,,,Jennifer Lopez discography
 Jennifer Lopez,Chegaste,2016,,,True,False,,,,Jennifer Lopez discography
-Jennifer Lopez,Hands,2016,,,True,False,,,,Jennifer Lopez discography
+Jennifer Lopez,Hands,2016,,,False,False,,,,Jennifer Lopez discography
 Jennifer Lopez,Love Make the World Go Round,2016,72,,True,False,,,,Jennifer Lopez discography
 Jennifer Lopez,Ni Tú Ni Yo,2017,,,True,False,,,,Jennifer Lopez discography
 Jennifer Lopez,"Amor, Amor, Amor",2017,,,True,False,,,,Jennifer Lopez discography
-Jennifer Lopez,Almost Like Praying,2017,20,,True,True,Almost Like Praying,,,Jennifer Lopez discography
+Jennifer Lopez,Almost Like Praying,2017,20,,False,True,,,,Jennifer Lopez discography
 Jennifer Lopez,Us,2018,,,True,False,,,,Jennifer Lopez discography
 Jennifer Lopez,Se Acabó el Amor,2018,,,True,False,,,,Jennifer Lopez discography
 Jennifer Lopez,El Anillo,2018,,,True,False,,,,Jennifer Lopez discography
@@ -4750,8 +4750,8 @@ Jess Glynne,Broken,2018,,,True,False,,,,Jess Glynne discography
 Jess Glynne,Come Alive,2018,,80,True,False,,,,Jess Glynne discography
 Jess Glynne,One Touch,2019,,19,True,True,One Touch (Jess Glynne and Jax Jones song),beyond generation target,pop style in infobox,Jess Glynne discography
 Jess Glynne,This Christmas,2020,,3,True,True,This Christmas (Donny Hathaway song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Jess Glynne discography
-Jess Glynne,Times Like These,2020,,1,True,True,Times Like These (Foo Fighters song),,,Jess Glynne discography
-Jess Glynne,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,,,Jess Glynne discography
+Jess Glynne,Times Like These,2020,,1,False,True,,,,Jess Glynne discography
+Jess Glynne,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,beyond generation target,pop style in infobox,Jess Glynne discography
 Jess Glynne,Lie for You,2020,,,False,False,,,,Jess Glynne discography
 Jess Glynne,Silly Me,2023,,,True,False,,,,Jess Glynne discography
 Jess Glynne,What Do You Do?,2023,,,True,False,,,,Jess Glynne discography
@@ -4772,7 +4772,7 @@ Jessica Simpson,Sweetest Sin,2003,,,True,False,,,,Jessica Simpson discography
 Jessica Simpson,With You,2003,14,7,True,True,With You (Jessica Simpson song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Jessica Simpson discography
 Jessica Simpson,Take My Breath Away,2004,20,159,True,True,Take My Breath Away,beyond generation target,"no infobox genre: kept as a roster act, flagged",Jessica Simpson discography
 Jessica Simpson,Angels,2004,,,True,False,,,,Jessica Simpson discography
-Jessica Simpson,These Boots Are Made for Walkin',2005,14,4,True,True,These Boots Are Made for Walkin',,,Jessica Simpson discography
+Jessica Simpson,These Boots Are Made for Walkin',2005,14,4,True,True,These Boots Are Made for Walkin',beyond generation target,pop style in infobox,Jessica Simpson discography
 Jessica Simpson,A Public Affair,2006,14,20,True,True,A Public Affair (song),beyond generation target,pop style in infobox,Jessica Simpson discography
 Jessica Simpson,I Belong to Me,2006,,,True,False,,,,Jessica Simpson discography
 Jessica Simpson,Come On Over,2008,65,,True,False,,,,Jessica Simpson discography
@@ -4815,12 +4815,12 @@ Jessie J,You've Lost That Lovin' Feelin',2015,,,True,False,,,,Jessie J discograp
 Jessie J,Flashlight,2015,61,13,True,True,Flashlight (Jessie J song),beyond generation target,pop style in infobox,Jessie J discography
 Jessie J,Ain't Been Done,2015,,,True,False,,,,Jessie J discography
 Jessie J,Man With The Bag,2015,,70,True,False,,,,Jessie J discography
-Jessie J,Where's the Love?,2016,,47,True,False,,,,Jessie J discography
+Jessie J,Where's the Love?,2016,,47,False,False,,,,Jessie J discography
 Jessie J,Real Deal,2017,,,True,False,,,,Jessie J discography
 Jessie J,Think About That,2017,,,True,False,,,,Jessie J discography
 Jessie J,Not My Ex,2017,,,True,False,,,,Jessie J discography
 Jessie J,Queen,2017,,,True,False,,,,Jessie J discography
-Jessie J,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),,,Jessie J discography
+Jessie J,Bridge over Troubled Water,2017,,1,False,True,,,,Jessie J discography
 Jessie J,Love Will Save the World,2018,,,True,False,,,,Jessie J discography
 Jessie J,Rockin' Around the Christmas Tree,2018,,,True,False,,,,Jessie J discography
 Jessie J,This Christmas Day,2018,,,True,False,,,,Jessie J discography
@@ -4919,7 +4919,7 @@ Jordin Sparks,One Step at a Time,2008,17,16,True,True,One Step at a Time (Jordin
 Jordin Sparks,Battlefield,2009,10,11,True,True,Battlefield (song),beyond generation target,pop style in infobox,Jordin Sparks discography
 Jordin Sparks,S.O.S. (Let the Music Play),2009,,13,True,True,S.O.S. (Let the Music Play),beyond generation target,pop style in infobox,Jordin Sparks discography
 Jordin Sparks,Don't Let It Go to Your Head,2010,,,True,False,,,,Jordin Sparks discography
-Jordin Sparks,We Are the World 25 for Haiti,2010,2,50,True,True,We Are the World 25 for Haiti,,,Jordin Sparks discography
+Jordin Sparks,We Are the World 25 for Haiti,2010,2,50,False,True,,,,Jordin Sparks discography
 Jordin Sparks,I Am Woman,2011,82,,True,False,,,,Jordin Sparks discography
 Jordin Sparks,Celebrate,2012,,,True,False,,,,Jordin Sparks discography
 Jordin Sparks,One Wing,2012,,,True,False,,,,Jordin Sparks discography
@@ -4944,18 +4944,18 @@ Joss Stone,Fell in Love with a Boy,2004,,18,True,True,Fell in Love with a Girl,b
 Joss Stone,Super Duper Love,2004,,18,True,True,Super Duper Love (Are You Diggin' on Me),beyond generation target,"no infobox genre: kept as a roster act, flagged",Joss Stone discography
 Joss Stone,You Had Me,2004,,9,True,True,You Had Me,beyond generation target,pop-adjacent style in infobox,Joss Stone discography
 Joss Stone,Right to Be Wrong,2004,,29,True,False,,,,Joss Stone discography
-Joss Stone,Do They Know It's Christmas?,2004,,1,True,True,Do They Know It's Christmas?,,,Joss Stone discography
+Joss Stone,Do They Know It's Christmas?,2004,,1,False,True,,,,Joss Stone discography
 Joss Stone,Spoiled,2005,,32,True,False,,,,Joss Stone discography
 Joss Stone,Cry Baby/Piece of My Heart,2005,32,,True,True,Cry Baby (Garnet Mimms song),beyond generation target,pop-adjacent style in infobox,Joss Stone discography
 Joss Stone,Don't Cha Wanna Ride,2005,,20,True,True,Don't Cha Wanna Ride,beyond generation target,pop-adjacent style in infobox,Joss Stone discography
-Joss Stone,Come Together Now,2005,,,True,False,,,,Joss Stone discography
+Joss Stone,Come Together Now,2005,,,False,False,,,,Joss Stone discography
 Joss Stone,Cry Baby Cry,2006,,71,False,False,,,,Joss Stone discography
 Joss Stone,Tell Me 'bout It,2007,83,28,True,False,,,,Joss Stone discography
 Joss Stone,Tell Me What We're Gonna Do Now,2007,,84,True,False,,,,Joss Stone discography
 Joss Stone,L-O-V-E,2007,,100,True,False,,,,Joss Stone discography
 Joss Stone,All I Want for Christmas,2007,,,True,False,,,,Joss Stone discography
 Joss Stone,Baby Baby Baby,2007,,,True,False,,,,Joss Stone discography
-Joss Stone,Sing,2007,,161,True,False,,,,Joss Stone discography
+Joss Stone,Sing,2007,,161,False,False,,,,Joss Stone discography
 Joss Stone,Calling It Christmas,2007,,123,True,False,,,,Joss Stone discography
 Joss Stone,Tip of My Tongue,2008,,,False,False,,,,Joss Stone discography
 Joss Stone,Free Me,2009,,,True,False,,,,Joss Stone discography
@@ -5006,7 +5006,7 @@ Juice Newton,Until Tonight,1979,,,True,False,,,,Juice Newton discography
 Juice Newton,Sunshine,1980,,,True,False,,,,Juice Newton discography
 Juice Newton,You Fill My Life,1980,,,True,False,,,,Juice Newton discography
 Juice Newton,Angel of the Morning,1981,4,,True,True,Angel of the Morning,beyond generation target,pop-adjacent style in infobox,Juice Newton discography
-Juice Newton,Queen of Hearts,1981,2,,True,True,Queen of Hearts (Hank DeVito song),selected,pop style in infobox,Juice Newton discography
+Juice Newton,Queen of Hearts,1981,2,,True,True,Queen of Hearts (Hank DeVito song),beyond generation target,pop style in infobox,Juice Newton discography
 Juice Newton,The Sweetest Thing (I've Ever Known),1981,7,,True,True,The Sweetest Thing (I've Ever Known),beyond generation target,pop style in infobox,Juice Newton discography
 Juice Newton,Love's Been a Little Bit Hard on Me,1982,7,,True,True,Love's Been a Little Bit Hard on Me,beyond generation target,pop style in infobox,Juice Newton discography
 Juice Newton,Break It to Me Gently,1982,11,,True,True,Break It to Me Gently,genre,no pop style in infobox (Vocal; country),Juice Newton discography
@@ -5175,7 +5175,7 @@ Karol G,Provenza,2022,25,,True,True,Provenza (song),beyond generation target,pop
 Karol G,Gatúbela,2022,37,,True,True,Gatúbela,beyond generation target,pop-adjacent style in infobox,Karol G discography
 Karol G,Cairo,2022,82,,True,False,,,,Karol G discography
 Karol G,X Si Volvemos,2023,48,,True,False,,,,Karol G discography
-Karol G,TQG,2023,7,,True,True,TQG,,,Karol G discography
+Karol G,TQG,2023,7,,True,True,TQG,beyond generation target,pop-adjacent style in infobox,Karol G discography
 Karol G,Mientras Me Curo del Cora,2023,68,,True,False,,,,Karol G discography
 Karol G,Amargura,2023,85,,True,False,,,,Karol G discography
 Karol G,S91,2023,45,,True,False,,,,Karol G discography
@@ -5444,7 +5444,7 @@ Kelly Clarkson,Second Hand Heart,2015,,21,False,False,,,,Kelly Clarkson discogra
 Kelly Clarkson,Run Run Run,2015,,,True,False,,,,Kelly Clarkson discography
 Kelly Clarkson,Take You High,2015,,,True,False,,,,Kelly Clarkson discography
 Kelly Clarkson,Someone,2015,,,True,False,,,,Kelly Clarkson discography
-Kelly Clarkson,This Is for My Girls,2016,,,True,False,,,,Kelly Clarkson discography
+Kelly Clarkson,This Is for My Girls,2016,,,False,False,,,,Kelly Clarkson discography
 Kelly Clarkson,Softly and Tenderly,2016,,,False,False,,,,Kelly Clarkson discography
 Kelly Clarkson,River Rose's Magical Lullaby,2016,,,True,False,,,,Kelly Clarkson discography
 Kelly Clarkson,It's Quiet Uptown,2016,,,True,False,,,,Kelly Clarkson discography
@@ -5468,7 +5468,7 @@ Kelly Clarkson,I Dare You,2020,86,,True,False,,,,Kelly Clarkson discography
 Kelly Clarkson,Under the Mistletoe,2020,59,61,True,False,,,,Kelly Clarkson discography
 Kelly Clarkson,I Run to You,2020,,,True,False,,,,Kelly Clarkson discography
 Kelly Clarkson,All I Want for Christmas Is You,2020,,,True,False,,,,Kelly Clarkson discography
-Kelly Clarkson,Just Sing,2020,,,True,False,,,,Kelly Clarkson discography
+Kelly Clarkson,Just Sing,2020,,,False,False,,,,Kelly Clarkson discography
 Kelly Clarkson,Christmas Isn't Canceled (Just You),2021,79,,True,False,,,,Kelly Clarkson discography
 Kelly Clarkson,I Would've Loved You,2021,,,False,False,,,,Kelly Clarkson discography
 Kelly Clarkson,When You Say Nothing at All,2021,,,True,False,,,,Kelly Clarkson discography
@@ -5710,7 +5710,7 @@ Kim Wilde,The Touch,1984,,56,True,False,,,,Kim Wilde discography
 Kim Wilde,Rage to Love,1985,,19,True,True,Rage to Love,genre,no pop style in infobox (Rockabilly),Kim Wilde discography
 Kim Wilde,Schoolgirl,1986,,,True,False,,,,Kim Wilde discography
 Kim Wilde,Say You Really Want Me,1986,,,True,False,,,,Kim Wilde discography
-Kim Wilde,You Keep Me Hangin' On,1986,1,2,True,True,You Keep Me Hangin' On,,,Kim Wilde discography
+Kim Wilde,You Keep Me Hangin' On,1986,1,2,True,True,You Keep Me Hangin' On,selected,pop style in infobox,Kim Wilde discography
 Kim Wilde,Another Step (Closer to You),1987,,6,True,True,Another Step (Closer to You),beyond generation target,pop style in infobox,Kim Wilde discography
 Kim Wilde,Rockin' Around the Christmas Tree,1987,,3,True,True,Rockin' Around the Christmas Tree,beyond generation target,"no infobox genre: kept as a roster act, flagged",Kim Wilde discography
 Kim Wilde,Hey Mister Heartache,1988,,31,True,False,,,,Kim Wilde discography
@@ -5758,7 +5758,7 @@ Kim Wilde,Trail of Destruction,2024,,,True,False,,,,Kim Wilde discography
 Kim Wilde,Midnight Train,2024,,,True,False,,,,Kim Wilde discography
 Kim Wilde,Scorpio,2025,,,True,False,,,,Kim Wilde discography
 Kylie Minogue,—,,,,True,False,,,,Kylie Minogue singles discography
-Kylie Minogue,A World Without Music,1985,,,True,False,,,,Kylie Minogue singles discography
+Kylie Minogue,A World Without Music,1985,,,False,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Locomotion,1987,,,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,I Should Be So Lucky,1987,28,1,True,True,I Should Be So Lucky,selected,pop style in infobox,Kylie Minogue singles discography
 Kylie Minogue,Got to Be Certain,1988,,2,True,True,Got to Be Certain,selected,pop style in infobox,Kylie Minogue singles discography
@@ -5768,11 +5768,11 @@ Kylie Minogue,Especially for You,1988,,1,True,True,Especially for You,selected,p
 Kylie Minogue,It's No Secret,1988,37,,True,True,It's No Secret (Kylie Minogue song),over cap,,Kylie Minogue singles discography
 Kylie Minogue,Turn It into Love,1988,,,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Hand on Your Heart,1989,,1,True,True,Hand on Your Heart,selected,pop style in infobox,Kylie Minogue singles discography
-Kylie Minogue,Wouldn't Change a Thing,1989,,2,True,True,Wouldn't Change a Thing (Kylie Minogue song),beyond generation target,pop style in infobox,Kylie Minogue singles discography
+Kylie Minogue,Wouldn't Change a Thing,1989,,2,True,True,Wouldn't Change a Thing (Kylie Minogue song),selected,pop style in infobox,Kylie Minogue singles discography
 Kylie Minogue,Never Too Late,1989,,4,True,True,Never Too Late (Kylie Minogue song),over cap,,Kylie Minogue singles discography
-Kylie Minogue,Do They Know It's Christmas?,1989,,1,True,True,Do They Know It's Christmas?,,,Kylie Minogue singles discography
+Kylie Minogue,Do They Know It's Christmas?,1989,,1,False,True,,,,Kylie Minogue singles discography
 Kylie Minogue,Tears on My Pillow,1990,,1,True,True,Tears on My Pillow,selected,pop style in infobox,Kylie Minogue singles discography
-Kylie Minogue,Better the Devil You Know,1990,,2,True,True,Better the Devil You Know,beyond generation target,pop style in infobox,Kylie Minogue singles discography
+Kylie Minogue,Better the Devil You Know,1990,,2,True,True,Better the Devil You Know,selected,pop style in infobox,Kylie Minogue singles discography
 Kylie Minogue,Step Back in Time,1990,,4,True,True,Step Back in Time,over cap,,Kylie Minogue singles discography
 Kylie Minogue,What Do I Have to Do,1991,,6,True,True,What Do I Have to Do,over cap,,Kylie Minogue singles discography
 Kylie Minogue,Shocked,1991,,6,True,True,Shocked (song),over cap,,Kylie Minogue singles discography
@@ -5798,7 +5798,7 @@ Kylie Minogue,Kids,2000,,2,True,True,Kids (Robbie Williams and Kylie Minogue son
 Kylie Minogue,Please Stay,2000,,10,True,True,Please Stay (Kylie Minogue song),over cap,,Kylie Minogue singles discography
 Kylie Minogue,Your Disco Needs You,2001,,152,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Can't Get You Out of My Head,2001,7,1,True,True,Can't Get You Out of My Head,selected,pop style in infobox,Kylie Minogue singles discography
-Kylie Minogue,In Your Eyes,2002,,3,True,True,In Your Eyes (Kylie Minogue song),over cap,,Kylie Minogue singles discography
+Kylie Minogue,In Your Eyes,2002,,3,True,True,In Your Eyes (Kylie Minogue song),beyond generation target,pop style in infobox,Kylie Minogue singles discography
 Kylie Minogue,Love at First Sight,2002,23,2,True,True,Love at First Sight (Kylie Minogue song),selected,pop style in infobox,Kylie Minogue singles discography
 Kylie Minogue,Come into My World,2002,91,8,True,True,Come into My World,over cap,,Kylie Minogue singles discography
 Kylie Minogue,Slow,2003,91,1,True,True,Slow (Kylie Minogue song),selected,pop style in infobox,Kylie Minogue singles discography
@@ -5821,7 +5821,7 @@ Kylie Minogue,All the Lovers,2010,,3,True,True,All the Lovers,over cap,,Kylie Mi
 Kylie Minogue,Get Outta My Way,2010,,12,True,True,Get Outta My Way,over cap,,Kylie Minogue singles discography
 Kylie Minogue,Better than Today,2010,,32,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Higher,2010,,8,False,True,,,,Kylie Minogue singles discography
-Kylie Minogue,Everybody Hurts,2010,,1,True,True,Everybody Hurts,selected,pop-adjacent style in infobox,Kylie Minogue singles discography
+Kylie Minogue,Everybody Hurts,2010,,1,False,True,,,,Kylie Minogue singles discography
 Kylie Minogue,Put Your Hands Up (If You Feel Love),2011,,93,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,We Are One,2011,,,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Timebomb,2012,,31,True,False,,,,Kylie Minogue singles discography
@@ -5830,7 +5830,7 @@ Kylie Minogue,Limpido,2013,,,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Into the Blue,2014,,12,True,True,Into the Blue (Kylie Minogue song),over cap,,Kylie Minogue singles discography
 Kylie Minogue,I Was Gonna Cancel,2014,,59,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Crystallize,2014,,60,True,False,,,,Kylie Minogue singles discography
-Kylie Minogue,God Only Knows,2014,,20,True,True,God Only Knows,over cap,,Kylie Minogue singles discography
+Kylie Minogue,God Only Knows,2014,,20,False,True,,,,Kylie Minogue singles discography
 Kylie Minogue,Only You,2015,,155,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,100 Degrees,2015,,,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Every Day's Like Christmas,2015,,,True,False,,,,Kylie Minogue singles discography
@@ -5852,7 +5852,7 @@ Kylie Minogue,On oublie le reste,2019,,,False,False,,,,Kylie Minogue singles dis
 Kylie Minogue,Say Something,2020,,56,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Magic,2020,,53,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Real Groove,2020,,95,True,False,,,,Kylie Minogue singles discography
-Kylie Minogue,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,over cap,,Kylie Minogue singles discography
+Kylie Minogue,Stop Crying Your Heart Out,2020,,7,False,True,,,,Kylie Minogue singles discography
 Kylie Minogue,Miss a Thing,2020,,,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,Supernova,2020,,,True,False,,,,Kylie Minogue singles discography
 Kylie Minogue,A Second to Midnight,2021,,,True,False,,,,Kylie Minogue singles discography
@@ -6024,7 +6024,7 @@ Lady Gaga,Disease,2024,27,7,True,True,Disease (Lady Gaga song),beyond generation
 Lady Gaga,Santa Claus Is Coming to Town,2024,,,True,False,,,,Lady Gaga discography
 Lady Gaga,The Joker,2024,,,True,False,,,,Lady Gaga discography
 Lady Gaga,Happy Mistake,2024,,,True,False,,,,Lady Gaga discography
-Lady Gaga,Abracadabra,2025,13,3,True,True,Abracadabra (Lady Gaga song),selected,pop style in infobox,Lady Gaga discography
+Lady Gaga,Abracadabra,2025,13,3,True,True,Abracadabra (Lady Gaga song),beyond generation target,pop style in infobox,Lady Gaga discography
 Lady Gaga,The Dead Dance,2025,40,13,True,True,The Dead Dance,over cap,,Lady Gaga discography
 Lady Gaga,Garden of Eden,2025,52,23,True,False,,,,Lady Gaga discography
 Lady Gaga,Perfect Celebrity,2025,81,,True,False,,,,Lady Gaga discography
@@ -6107,7 +6107,7 @@ Lana Del Rey,God Save Our Young Blood,2018,,,False,False,,,,Lana Del Rey discogr
 Lana Del Rey,Hope Is a Dangerous Thing for a Woman Like Me to Have – but I Have It,2019,,99,True,False,,,,Lana Del Rey discography
 Lana Del Rey,Doin' Time,2019,59,42,True,False,,,,Lana Del Rey discography
 Lana Del Rey,The Greatest,2019,,,True,False,,,,Lana Del Rey discography
-Lana Del Rey,Don't Call Me Angel,2019,13,2,True,True,Don't Call Me Angel,,,Lana Del Rey discography
+Lana Del Rey,Don't Call Me Angel,2019,13,2,True,True,Don't Call Me Angel,selected,pop style in infobox,Lana Del Rey discography
 Lana Del Rey,Season of the Witch,2019,,,True,False,,,,Lana Del Rey discography
 Lana Del Rey,Looking for America,2019,,,True,False,,,,Lana Del Rey discography
 Lana Del Rey,Fuck It I Love You,2019,,59,True,False,,,,Lana Del Rey discography
@@ -6169,7 +6169,7 @@ LeAnn Rimes,One Way Ticket (Because I Can),1996,,,True,False,,,,LeAnn Rimes disc
 LeAnn Rimes,Unchained Melody,1996,,,True,False,,,,LeAnn Rimes discography
 LeAnn Rimes,The Light in Your Eyes,1997,,,True,False,,,,LeAnn Rimes discography
 LeAnn Rimes,How Do I Live,1997,2,7,True,True,How Do I Live,selected,pop style in infobox,LeAnn Rimes discography
-LeAnn Rimes,You Light Up My Life,1997,34,,True,True,You Light Up My Life (song),,,LeAnn Rimes discography
+LeAnn Rimes,You Light Up My Life,1997,34,,True,True,You Light Up My Life (song),genre,no pop style in infobox (Country),LeAnn Rimes discography
 LeAnn Rimes,On the Side of Angels,1998,,,True,False,,,,LeAnn Rimes discography
 LeAnn Rimes,Commitment,1998,,38,True,False,,,,LeAnn Rimes discography
 LeAnn Rimes,Looking Through Your Eyes,1998,18,38,True,True,Looking Through Your Eyes,beyond generation target,"no infobox genre: kept as a roster act, flagged",LeAnn Rimes discography
@@ -6203,7 +6203,7 @@ LeAnn Rimes,Till We Ain't Strangers Anymore,2007,,,False,False,,,,LeAnn Rimes di
 LeAnn Rimes,In Front of the Alamo,2007,,,False,False,,,,LeAnn Rimes discography
 LeAnn Rimes,Good Friend and a Glass of Wine,2008,,,True,False,,,,LeAnn Rimes discography
 LeAnn Rimes,What I Cannot Change,2008,,,True,False,,,,LeAnn Rimes discography
-LeAnn Rimes,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,LeAnn Rimes discography
+LeAnn Rimes,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,beyond generation target,"no infobox genre: kept as a roster act, flagged",LeAnn Rimes discography
 LeAnn Rimes,When It's Good,2009,,,False,False,,,,LeAnn Rimes discography
 LeAnn Rimes,Swingin',2010,,,True,False,,,,LeAnn Rimes discography
 LeAnn Rimes,Crazy Women,2010,,,True,False,,,,LeAnn Rimes discography
@@ -6227,7 +6227,7 @@ LeAnn Rimes,Spaceship,2023,,,True,False,,,,LeAnn Rimes discography
 LeAnn Rimes,Innocent,2023,,,True,False,,,,LeAnn Rimes discography
 LeAnn Rimes,Jealous of Myself,2023,,,False,False,,,,LeAnn Rimes discography
 Leona Lewis,—,,,,True,False,,,,Leona Lewis discography
-Leona Lewis,A Moment Like This,2006,,1,True,True,A Moment Like This,,,Leona Lewis discography
+Leona Lewis,A Moment Like This,2006,,1,True,True,A Moment Like This,selected,"no infobox genre: kept as a roster act, flagged",Leona Lewis discography
 Leona Lewis,Bleeding Love,2007,1,1,True,True,Bleeding Love,selected,pop style in infobox,Leona Lewis discography
 Leona Lewis,Forgiveness,2007,,46,True,False,,,,Leona Lewis discography
 Leona Lewis,Whatever It Takes,2007,,61,True,False,,,,Leona Lewis discography
@@ -6242,7 +6242,7 @@ Leona Lewis,Better in Time,2008,11,2,True,True,Better in Time,selected,pop style
 Leona Lewis,Footprints in the Sand,2008,,2,True,True,Footprints in the Sand (Leona Lewis song),selected,pop style in infobox,Leona Lewis discography
 Leona Lewis,Forgive Me,2008,,5,True,True,Forgive Me (Leona Lewis song),beyond generation target,pop style in infobox,Leona Lewis discography
 Leona Lewis,Run,2008,81,1,True,True,Run (Snow Patrol song),selected,pop style in infobox,Leona Lewis discography
-Leona Lewis,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Leona Lewis discography
+Leona Lewis,Just Stand Up!,2008,11,26,False,True,,,,Leona Lewis discography
 Leona Lewis,Misses Glass,2008,,98,True,False,,,,Leona Lewis discography
 Leona Lewis,Private Party,2008,,,True,False,,,,Leona Lewis discography
 Leona Lewis,I Will Be,2009,66,160,True,False,,,,Leona Lewis discography
@@ -6252,7 +6252,7 @@ Leona Lewis,Stop Crying Your Heart Out,2009,,29,True,False,,,,Leona Lewis discog
 Leona Lewis,I See You (Theme from Avatar),2009,,,True,False,,,,Leona Lewis discography
 Leona Lewis,I Got You,2010,,14,True,True,I Got You (Leona Lewis song),beyond generation target,pop style in infobox,Leona Lewis discography
 Leona Lewis,Inaspettata (Unexpected),2010,,,False,False,,,,Leona Lewis discography
-Leona Lewis,Everybody Hurts,2010,,1,True,True,Everybody Hurts,,,Leona Lewis discography
+Leona Lewis,Everybody Hurts,2010,,1,False,True,,,,Leona Lewis discography
 Leona Lewis,My Hands,2010,,145,True,False,,,,Leona Lewis discography
 Leona Lewis,Love Letter,2010,,,True,False,,,,Leona Lewis discography
 Leona Lewis,Collide,2011,,4,True,True,Collide (Leona Lewis and Avicii song),beyond generation target,pop style in infobox,Leona Lewis discography
@@ -6265,7 +6265,7 @@ Leona Lewis,O Holy Night,2013,,,True,False,,,,Leona Lewis discography
 Leona Lewis,Fire Under My Feet,2015,,51,True,False,,,,Leona Lewis discography
 Leona Lewis,I Am,2015,,,True,False,,,,Leona Lewis discography
 Leona Lewis,Thunder,2015,,,True,False,,,,Leona Lewis discography
-Leona Lewis,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),,,Leona Lewis discography
+Leona Lewis,Bridge over Troubled Water,2017,,1,False,True,,,,Leona Lewis discography
 Leona Lewis,You Are the Reason,2018,,43,True,False,,,,Leona Lewis discography
 Leona Lewis,Amore,2018,,,False,False,,,,Leona Lewis discography
 Leona Lewis,Headlights,2018,,,True,False,,,,Leona Lewis discography
@@ -6333,7 +6333,7 @@ Lily Allen,Not Fair,2009,,5,True,True,Not Fair,genre,no pop style in infobox (Co
 Lily Allen,Fuck You,2009,68,104,True,False,,,,Lily Allen discography
 Lily Allen,22,2009,,14,True,True,22 (Lily Allen song),beyond generation target,pop style in infobox,Lily Allen discography
 Lily Allen,Who'd Have Known,2009,,39,True,False,,,,Lily Allen discography
-Lily Allen,Beds Are Burning,2009,,,True,False,,,,Lily Allen discography
+Lily Allen,Beds Are Burning,2009,,,False,False,,,,Lily Allen discography
 Lily Allen,Everyone's at It,2009,,117,True,False,,,,Lily Allen discography
 Lily Allen,Just Be Good to Green,2010,,5,False,True,,,,Lily Allen discography
 Lily Allen,Back to the Start,2010,,,True,False,,,,Lily Allen discography
@@ -6393,7 +6393,7 @@ Linda Ronstadt,Silver Threads and Golden Needles,1974,67,,True,False,,,,Linda Ro
 Linda Ronstadt,Colorado,1974,108,,True,False,,,,Linda Ronstadt singles discography
 Linda Ronstadt,You're No Good,1974,1,,True,True,You're No Good,genre,no pop style in infobox (Rock; southern rock),Linda Ronstadt singles discography
 Linda Ronstadt,I Can't Help It (If I'm Still in Love with You),1974,,,True,False,,,,Linda Ronstadt singles discography
-Linda Ronstadt,When Will I Be Loved,1975,2,,True,True,When Will I Be Loved,selected,pop-adjacent style in infobox,Linda Ronstadt singles discography
+Linda Ronstadt,When Will I Be Loved,1975,2,,True,True,When Will I Be Loved,beyond generation target,pop-adjacent style in infobox,Linda Ronstadt singles discography
 Linda Ronstadt,Heat Wave,1975,5,,True,True,Heat Wave (1963 song),genre,no pop style in infobox (Rock),Linda Ronstadt singles discography
 Linda Ronstadt,Love Is a Rose,1975,63,,True,False,,,,Linda Ronstadt singles discography
 Linda Ronstadt,Tracks of My Tears,1975,25,42,True,True,The Tracks of My Tears,genre,no pop style in infobox (Rock; country rock),Linda Ronstadt singles discography
@@ -6475,7 +6475,7 @@ Lisa Stansfield,People Hold On,1989,,11,True,True,People Hold On,beyond generati
 Lisa Stansfield,My Telephone,1989,,52,True,False,,,,Lisa Stansfield discography
 Lisa Stansfield,This Is the Right Time,1989,21,13,True,True,This Is the Right Time,beyond generation target,pop style in infobox,Lisa Stansfield discography
 Lisa Stansfield,All Around the World,1989,3,1,True,True,All Around the World (Lisa Stansfield song),selected,pop style in infobox,Lisa Stansfield discography
-Lisa Stansfield,Do They Know It's Christmas?,1989,,1,True,True,Do They Know It's Christmas?,,,Lisa Stansfield discography
+Lisa Stansfield,Do They Know It's Christmas?,1989,,1,False,True,,,,Lisa Stansfield discography
 Lisa Stansfield,Live Together,1990,,10,True,True,Live Together,beyond generation target,pop-adjacent style in infobox,Lisa Stansfield discography
 Lisa Stansfield,What Did I Do to You?,1990,,25,True,False,,,,Lisa Stansfield discography
 Lisa Stansfield,You Can't Deny It,1990,14,,True,True,You Can't Deny It,beyond generation target,pop style in infobox,Lisa Stansfield discography
@@ -6551,7 +6551,7 @@ Little Eva,Just One Word Ain't Enough,1967,,,True,False,,,,Little Eva
 Little Eva,Loco-Motion,1972,,11,True,True,,no song article,,Little Eva
 Little Mix,—,,,,True,False,,,,Little Mix discography
 Little Mix,Cannonball,2011,,1,True,True,Cannonball (Damien Rice song),selected,"no infobox genre: kept as a roster act, flagged",Little Mix discography
-Little Mix,Wishing on a Star,2011,,1,True,True,Wishing on a Star,selected,pop-adjacent style in infobox,Little Mix discography
+Little Mix,Wishing on a Star,2011,,1,False,True,,,,Little Mix discography
 Little Mix,Wings,2012,79,1,True,True,Wings (Little Mix song),selected,pop style in infobox,Little Mix discography
 Little Mix,DNA,2012,,3,True,True,DNA (Little Mix song),beyond generation target,pop style in infobox,Little Mix discography
 Little Mix,Change Your Life,2013,,12,True,True,Change Your Life (Little Mix song),over cap,,Little Mix discography
@@ -6605,7 +6605,7 @@ Little Mix,Not a Pop Song,2020,,49,True,False,,,,Little Mix discography
 Little Mix,Happiness,2020,,43,True,False,,,,Little Mix discography
 Little Mix,Confetti,2021,,9,True,True,Confetti (Little Mix song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Little Mix discography
 Little Mix,Heartbreak Anthem,2021,,3,True,True,Heartbreak Anthem,beyond generation target,pop style in infobox,Little Mix discography
-Little Mix,Kiss My (Uh-Oh),2021,,10,True,True,Kiss My (Uh-Oh),,,Little Mix discography
+Little Mix,Kiss My (Uh-Oh),2021,,10,True,True,Kiss My (Uh-Oh),beyond generation target,pop style in infobox,Little Mix discography
 Little Mix,Love (Sweet Love),2021,,33,True,False,,,,Little Mix discography
 Little Mix,No,2021,,35,True,False,,,,Little Mix discography
 Little Mix,Between Us,2021,,47,True,False,,,,Little Mix discography
@@ -6806,7 +6806,7 @@ Mabel,OK (Anxiety Anthem),2019,,,True,False,,,,Mabel discography
 Mabel,Boyfriend,2020,,10,True,True,Boyfriend (Mabel song),beyond generation target,pop style in infobox,Mabel discography
 Mabel,West Ten,2020,,5,True,True,West Ten,genre,no pop style in infobox (UK garage),Mabel discography
 Mabel,Tick Tock,2020,,8,True,True,Tick Tock (Clean Bandit and Mabel song),beyond generation target,pop style in infobox,Mabel discography
-Mabel,Times Like These,2020,,1,True,True,Times Like These (Foo Fighters song),,,Mabel discography
+Mabel,Times Like These,2020,,1,False,True,,,,Mabel discography
 Mabel,Let Them Know,2021,,19,True,True,Let Them Know,beyond generation target,pop style in infobox,Mabel discography
 Mabel,Take It Home,2021,,,True,False,,,,Mabel discography
 Mabel,Time After Time,2021,,71,True,False,,,,Mabel discography
@@ -6989,7 +6989,7 @@ Mariah Carey,Now That I Know,1993,,,True,False,,,,Mariah Carey singles discograp
 Mariah Carey,Without You,1994,3,1,True,True,Without You (Mariah Carey recording),selected,"no infobox genre: kept as a roster act, flagged",Mariah Carey singles discography
 Mariah Carey,Never Forget You,1994,3,,True,True,Never Forget You (Mariah Carey song),over cap,,Mariah Carey singles discography
 Mariah Carey,Anytime You Need a Friend,1994,12,8,True,True,Anytime You Need a Friend,over cap,,Mariah Carey singles discography
-Mariah Carey,Endless Love,1994,2,3,True,True,Endless Love (song),,,Mariah Carey singles discography
+Mariah Carey,Endless Love,1994,2,3,True,True,Endless Love (song),over cap,,Mariah Carey singles discography
 Mariah Carey,All I Want for Christmas Is You,1994,1,1,True,True,All I Want for Christmas Is You,selected,pop style in infobox,Mariah Carey singles discography
 Mariah Carey,Miss You Most (At Christmas Time),1994,,,True,False,,,,Mariah Carey singles discography
 Mariah Carey,Silent Night,1994,,,True,False,,,,Mariah Carey singles discography
@@ -7010,8 +7010,8 @@ Mariah Carey,The Roof (Back in Time),1998,,87,True,False,,,,Mariah Carey singles
 Mariah Carey,Breakdown,1998,,98,True,False,,,,Mariah Carey singles discography
 Mariah Carey,My All,1998,1,4,True,True,My All,selected,pop-adjacent style in infobox,Mariah Carey singles discography
 Mariah Carey,Sweetheart,1998,,,True,False,,,,Mariah Carey singles discography
-Mariah Carey,When You Believe,1998,15,4,True,True,When You Believe,,,Mariah Carey singles discography
-Mariah Carey,(You Make Me Feel Like) A Natural Woman,1998,,,True,False,,,,Mariah Carey singles discography
+Mariah Carey,When You Believe,1998,15,4,True,True,When You Believe,over cap,,Mariah Carey singles discography
+Mariah Carey,(You Make Me Feel Like) A Natural Woman,1998,,,False,False,,,,Mariah Carey singles discography
 Mariah Carey,I Still Believe,1999,4,16,True,True,I Still Believe (Brenda K. Starr song),over cap,,Mariah Carey singles discography
 Mariah Carey,Heartbreaker,1999,1,5,True,True,Heartbreaker (Mariah Carey song),selected,pop style in infobox,Mariah Carey singles discography
 Mariah Carey,Thank God I Found You,1999,1,10,True,True,Thank God I Found You,selected,pop style in infobox,Mariah Carey singles discography
@@ -7024,7 +7024,7 @@ Mariah Carey,Reflections (Care Enough),2001,,,True,False,,,,Mariah Carey singles
 Mariah Carey,Never Too Far,2001,,32,True,False,,,,Mariah Carey singles discography
 Mariah Carey,Don't Stop (Funkin' 4 Jamaica),2001,,32,True,False,,,,Mariah Carey singles discography
 Mariah Carey,Never Too Far/Hero Medley,2001,81,,True,False,,,,Mariah Carey singles discography
-Mariah Carey,What More Can I Give,2001,,,True,False,,,,Mariah Carey singles discography
+Mariah Carey,What More Can I Give,2001,,,False,False,,,,Mariah Carey singles discography
 Mariah Carey,Through the Rain,2002,81,8,True,True,Through the Rain,over cap,,Mariah Carey singles discography
 Mariah Carey,Boy (I Need You),2002,,17,True,True,Boy (I Need You),over cap,,Mariah Carey singles discography
 Mariah Carey,Irresistible (Westside Connection),2002,,,True,False,,,,Mariah Carey singles discography
@@ -7047,7 +7047,7 @@ Mariah Carey,Bye Bye,2008,19,30,True,True,Bye Bye (Mariah Carey song),over cap,,
 Mariah Carey,I'll Be Lovin' U Long Time,2008,58,84,True,False,,,,Mariah Carey singles discography
 Mariah Carey,Right to Dream,2008,,,True,False,,,,Mariah Carey singles discography
 Mariah Carey,I Stay in Love,2008,,95,True,False,,,,Mariah Carey singles discography
-Mariah Carey,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,over cap,,Mariah Carey singles discography
+Mariah Carey,Just Stand Up!,2008,11,26,False,True,,,,Mariah Carey singles discography
 Mariah Carey,Migrate,2008,92,,True,False,,,,Mariah Carey singles discography
 Mariah Carey,Side Effects,2008,,,True,False,,,,Mariah Carey singles discography
 Mariah Carey,I'm That Chick,2008,,,True,False,,,,Mariah Carey singles discography
@@ -7062,7 +7062,7 @@ Mariah Carey,Up Out My Face,2010,100,,True,False,,,,Mariah Carey singles discogr
 Mariah Carey,Angels Cry,2010,,81,True,False,,,,Mariah Carey singles discography
 Mariah Carey,Oh Santa!,2010,100,,True,False,,,,Mariah Carey singles discography
 Mariah Carey,Auld Lang Syne (The New Year's Anthem),2010,,,True,False,,,,Mariah Carey singles discography
-Mariah Carey,Everybody Hurts,2010,,1,True,True,Everybody Hurts (Helping Haiti song),over cap,,Mariah Carey singles discography
+Mariah Carey,Everybody Hurts,2010,,1,False,True,,,,Mariah Carey singles discography
 Mariah Carey,Santa Claus Is Coming to Town,2010,,,True,False,,,,Mariah Carey singles discography
 Mariah Carey,O Little Town of Bethlehem,2010,,,True,False,,,,Mariah Carey singles discography
 Mariah Carey,The First Noel,2010,,,True,False,,,,Mariah Carey singles discography
@@ -7131,7 +7131,7 @@ Marina and the Diamonds,Gold,2015,,,True,False,,,,Marina and the Diamonds discog
 Marina and the Diamonds,Savages,2015,,,True,False,,,,Marina and the Diamonds discography
 Marina and the Diamonds,Better Than That,2015,,,True,False,,,,Marina and the Diamonds discography
 Marina and the Diamonds,Disconnect,2017,,,True,False,,,,Marina and the Diamonds discography
-Marina and the Diamonds,With a Little Help from My Friends,2018,,89,True,False,,,,Marina and the Diamonds discography
+Marina and the Diamonds,With a Little Help from My Friends,2018,,89,False,False,,,,Marina and the Diamonds discography
 Marina and the Diamonds,Baby,2018,,15,False,True,,,,Marina and the Diamonds discography
 Marina and the Diamonds,Handmade Heaven,2019,,,True,False,,,,Marina and the Diamonds discography
 Marina and the Diamonds,Superstar,2019,,,True,False,,,,Marina and the Diamonds discography
@@ -7201,8 +7201,8 @@ Mary Wells,You Beat Me to the Punch,1962,9,,True,True,You Beat Me to the Punch,b
 Mary Wells,Two Lovers,1962,7,,True,True,Two Lovers (Mary Wells song),beyond generation target,prologue: soul/R&B girl-group or Motown pop,Mary Wells discography
 Mary Wells,Laughing Boy,1963,15,,True,True,Laughing Boy (song),beyond generation target,pop style in infobox,Mary Wells discography
 Mary Wells,Your Old Standby,1963,40,,True,True,Your Old Standby,beyond generation target,prologue: soul/R&B girl-group or Motown pop,Mary Wells discography
-Mary Wells,You Lost the Sweetest Boy,1963,22,,True,True,You Lost the Sweetest Boy,,,Mary Wells discography
-Mary Wells,My Guy,1964,1,5,True,True,My Guy,,,Mary Wells discography
+Mary Wells,You Lost the Sweetest Boy,1963,22,,True,True,You Lost the Sweetest Boy,genre,no pop style in infobox (Rock),Mary Wells discography
+Mary Wells,My Guy,1964,1,5,True,True,My Guy,selected,prologue: soul/R&B girl-group or Motown pop,Mary Wells discography
 Mary Wells,Once Upon a Time,1964,19,50,True,True,Once Upon a Time (Marvin Gaye and Mary Wells song),beyond generation target,pop style in infobox,Mary Wells discography
 Mary Wells,When I'm Gone,1964,,,True,False,,,,Mary Wells discography
 Mary Wells,Whisper You Love Me Boy,1964,,,True,False,,,,Mary Wells discography
@@ -7282,7 +7282,7 @@ Megan Thee Stallion,It Was a... (Masked Christmas),2021,,,False,False,,,,Megan T
 Megan Thee Stallion,Dolla Sign Slime,2021,47,,False,False,,,,Megan Thee Stallion discography
 Megan Thee Stallion,Eat It,2021,82,,True,False,,,,Megan Thee Stallion discography
 Megan Thee Stallion,Lick,2022,,,True,False,,,,Megan Thee Stallion discography
-Megan Thee Stallion,Sweetest Pie,2022,15,31,True,True,Sweetest Pie,,,Megan Thee Stallion discography
+Megan Thee Stallion,Sweetest Pie,2022,15,31,True,True,Sweetest Pie,beyond generation target,pop style in infobox,Megan Thee Stallion discography
 Megan Thee Stallion,Plan B,2022,29,,True,True,Plan B (song),genre,no pop style in infobox (Hip hop),Megan Thee Stallion discography
 Megan Thee Stallion,Pressurelicious,2022,55,,True,False,,,,Megan Thee Stallion discography
 Megan Thee Stallion,Her,2022,62,,True,False,,,,Megan Thee Stallion discography
@@ -7336,7 +7336,7 @@ Meghan Trainor,No Good for You,2015,,,True,False,,,,Meghan Trainor discography
 Meghan Trainor,No,2016,3,11,True,True,No (Meghan Trainor song),selected,pop style in infobox,Meghan Trainor discography
 Meghan Trainor,Me Too,2016,13,84,True,True,Me Too (Meghan Trainor song),beyond generation target,pop-adjacent style in infobox,Meghan Trainor discography
 Meghan Trainor,Better,2016,,,True,False,,,,Meghan Trainor discography
-Meghan Trainor,Hands,2016,,,True,False,,,,Meghan Trainor discography
+Meghan Trainor,Hands,2016,,,False,False,,,,Meghan Trainor discography
 Meghan Trainor,Watch Me Do,2016,,,True,False,,,,Meghan Trainor discography
 Meghan Trainor,I Love Me,2016,,,True,False,,,,Meghan Trainor discography
 Meghan Trainor,Mom,2016,,,True,False,,,,Meghan Trainor discography
@@ -7435,10 +7435,10 @@ Melanie C,Think About It,2011,,95,True,False,,,,Melanie C discography
 Melanie C,Weak,2011,,,True,False,,,,Melanie C discography
 Melanie C,Let There Be Love,2011,,,True,False,,,,Melanie C discography
 Melanie C,I Know Him So Well,2012,,153,True,False,,,,Melanie C discography
-Melanie C,"He Ain't Heavy, He's My Brother",2012,,1,True,True,"He Ain't Heavy, He's My Brother",selected,"no infobox genre: kept as a roster act, flagged",Melanie C discography
+Melanie C,"He Ain't Heavy, He's My Brother",2012,,1,False,True,,,,Melanie C discography
 Melanie C,Loving You,2013,,14,True,True,Loving You (Matt Cardle and Melanie C song),beyond generation target,pop style in infobox,Melanie C discography
 Melanie C,Cool as You,2014,,,False,False,,,,Melanie C discography
-Melanie C,Let's Groove,2015,,,True,False,,,,Melanie C discography
+Melanie C,Let's Groove,2015,,,False,False,,,,Melanie C discography
 Melanie C,Anymore,2016,,,True,False,,,,Melanie C discography
 Melanie C,Dear Life,2016,,,True,False,,,,Melanie C discography
 Melanie C,Cosmic Shower (Lost Humanity),2016,,,False,False,,,,Melanie C discography
@@ -7451,7 +7451,7 @@ Melanie C,Blame It on Me,2020,,,True,False,,,,Melanie C discography
 Melanie C,In and Out of Love,2020,,,True,False,,,,Melanie C discography
 Melanie C,Fearless,2020,,,True,False,,,,Melanie C discography
 Melanie C,Into You,2020,,,True,False,,,,Melanie C discography
-Melanie C,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,,,Melanie C discography
+Melanie C,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,beyond generation target,pop style in infobox,Melanie C discography
 Melanie C,Touch Me,2021,,,True,False,,,,Melanie C discography
 Melanie C,AM Gold (Tobtok Remix),2022,,,False,False,,,,Melanie C discography
 Melanie C,Call Me a Lioness,2023,,,False,False,,,,Melanie C discography
@@ -7464,7 +7464,7 @@ Mica Paris,—,,,,True,False,,,,Mica Paris discography
 Mica Paris,My One Temptation,1988,97,7,True,True,My One Temptation,beyond generation target,pop-adjacent style in infobox,Mica Paris discography
 Mica Paris,Like Dreamers Do,1988,,26,True,False,,,,Mica Paris discography
 Mica Paris,Breathe Life into Me,1988,,26,True,False,,,,Mica Paris discography
-Mica Paris,Where Is the Love,1989,,19,True,True,Where Is the Love (Roberta Flack and Donny Hathaway song),,,Mica Paris discography
+Mica Paris,Where Is the Love,1989,,19,True,True,Where Is the Love (Roberta Flack and Donny Hathaway song),beyond generation target,pop-adjacent style in infobox,Mica Paris discography
 Mica Paris,Contribution,1990,,33,True,False,,,,Mica Paris discography
 Mica Paris,South of the River,1990,,50,True,False,,,,Mica Paris discography
 Mica Paris,If I Love U 2 Nite,1991,,43,True,False,,,,Mica Paris discography
@@ -7507,7 +7507,7 @@ Miley Cyrus,Start All Over,2008,68,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,7 Things,2008,9,25,True,True,7 Things,beyond generation target,pop style in infobox,Miley Cyrus discography
 Miley Cyrus,Fly on the Wall,2008,84,16,True,True,Fly on the Wall (song),genre,no pop style in infobox (Rock),Miley Cyrus discography
 Miley Cyrus,I Thought I Lost You,2008,,192,True,False,,,,Miley Cyrus discography
-Miley Cyrus,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Miley Cyrus discography
+Miley Cyrus,Just Stand Up!,2008,11,26,False,True,,,,Miley Cyrus discography
 Miley Cyrus,Breakout,2008,56,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Girls Just Wanna Have Fun,2008,,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Goodbye,2008,,,True,False,,,,Miley Cyrus discography
@@ -7522,8 +7522,8 @@ Miley Cyrus,When I Look at You,2010,16,79,True,True,When I Look at You,beyond ge
 Miley Cyrus,Can't Be Tamed,2010,8,13,True,True,Can't Be Tamed (song),beyond generation target,pop style in infobox,Miley Cyrus discography
 Miley Cyrus,Who Owns My Heart,2010,,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Nothing to Lose,2010,,,False,False,,,,Miley Cyrus discography
-Miley Cyrus,Everybody Hurts,2010,,1,True,True,Everybody Hurts,,,Miley Cyrus discography
-Miley Cyrus,We Are the World 25 for Haiti,2010,2,50,True,True,We Are the World 25 for Haiti,,,Miley Cyrus discography
+Miley Cyrus,Everybody Hurts,2010,,1,False,True,,,,Miley Cyrus discography
+Miley Cyrus,We Are the World 25 for Haiti,2010,2,50,False,True,,,,Miley Cyrus discography
 Miley Cyrus,I Hope You Find It,2010,,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Liberty Walk,2010,,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Stay,2010,75,,True,False,,,,Miley Cyrus discography
@@ -7596,7 +7596,7 @@ Miley Cyrus,Violet Chemistry,2023,,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Muddy Feet,2023,,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Island,2023,,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Doctor (Work It Out),2024,74,46,True,False,,,,Miley Cyrus discography
-Miley Cyrus,II Most Wanted,2024,6,9,True,True,II Most Wanted,,,Miley Cyrus discography
+Miley Cyrus,II Most Wanted,2024,6,9,True,True,II Most Wanted,genre,no pop style in infobox (Country),Miley Cyrus discography
 Miley Cyrus,Psycho Killer,2024,,,True,False,,,,Miley Cyrus discography
 Miley Cyrus,End of the World,2025,52,23,True,False,,,,Miley Cyrus discography
 Miley Cyrus,Easy Lover,2025,82,64,True,False,,,,Miley Cyrus discography
@@ -7628,7 +7628,7 @@ Monica,—,,,,True,False,,,,Monica discography
 Monica,Don't Take It Personal (Just One of Dem Days),1995,2,32,True,True,Don't Take It Personal (Just One of Dem Days),selected,"no infobox genre: kept as a roster act, flagged",Monica discography
 Monica,Like This and Like That,1995,7,33,True,True,Like This and Like That,beyond generation target,"no infobox genre: kept as a roster act, flagged",Monica discography
 Monica,Before You Walk Out of My Life,1995,7,22,True,True,Before You Walk Out of My Life,beyond generation target,pop-adjacent style in infobox,Monica discography
-Monica,Freedom,1995,44,,True,False,,,,Monica discography
+Monica,Freedom,1995,44,,False,False,,,,Monica discography
 Monica,Why I Love You So Much,1996,9,,True,True,Why I Love You So Much,beyond generation target,pop-adjacent style in infobox,Monica discography
 Monica,Ain't Nobody,1996,9,,True,True,Ain't Nobody (Monica song),beyond generation target,pop-adjacent style in infobox,Monica discography
 Monica,For You I Will,1997,4,27,True,True,For You I Will (Monica song),beyond generation target,pop style in infobox,Monica discography
@@ -7643,7 +7643,7 @@ Monica,All Eyez on Me,2002,69,,True,False,,,,Monica discography
 Monica,So Gone,2003,10,82,True,True,So Gone,beyond generation target,"no infobox genre: kept as a roster act, flagged",Monica discography
 Monica,Knock Knock,2003,75,,True,False,,,,Monica discography
 Monica,U Should've Known Better,2004,19,,True,True,U Should've Known Better,beyond generation target,"no infobox genre: kept as a roster act, flagged",Monica discography
-Monica,Wake Up Everybody,2004,,,True,False,,,,Monica discography
+Monica,Wake Up Everybody,2004,,,False,False,,,,Monica discography
 Monica,Everytime tha Beat Drop,2006,48,,True,False,,,,Monica discography
 Monica,A Dozen Roses (You Remind Me),2006,,,True,False,,,,Monica discography
 Monica,Sideline Ho,2007,,,True,False,,,,Monica discography
@@ -7680,10 +7680,10 @@ Mýa,"Best of Me, Part 2",2000,,,True,False,,,,Mýa discography
 Mýa,Case of the Ex,2000,2,3,True,True,Case of the Ex,selected,pop style in infobox,Mýa discography
 Mýa,Free,2000,42,11,True,True,Free (Mya song),beyond generation target,pop style in infobox,Mýa discography
 Mýa,Girls Dem Sugar,2000,54,13,False,True,,,,Mýa discography
-Mýa,Lady Marmalade,2001,1,1,True,True,Lady Marmalade,,,Mýa discography
+Mýa,Lady Marmalade,2001,1,1,True,True,Lady Marmalade,selected,pop style in infobox,Mýa discography
 Mýa,My Love Is Like...Wo,2003,13,33,True,True,My Love Is Like...Wo,beyond generation target,"no infobox genre: kept as a roster act, flagged",Mýa discography
 Mýa,Fallen,2003,51,,True,False,,,,Mýa discography
-Mýa,What More Can I Give,2003,,,True,False,,,,Mýa discography
+Mýa,What More Can I Give,2003,,,False,False,,,,Mýa discography
 Mýa,Thin Line,2003,,,False,False,,,,Mýa discography
 Mýa,Sugar Daddy,2005,,,False,False,,,,Mýa discography
 Mýa,Forever in Our Hearts,2005,,,True,False,,,,Mýa discography
@@ -7692,7 +7692,7 @@ Mýa,Lock U Down,2007,,,True,False,,,,Mýa discography
 Mýa,Ridin',2007,,,True,False,,,,Mýa discography
 Mýa,I Will Give It All to You,2007,,,False,False,,,,Mýa discography
 Mýa,Paradise,2008,,,True,False,,,,Mýa discography
-Mýa,We Are the World 25 for Haiti,2010,2,50,True,True,We Are the World 25 for Haiti,,,Mýa discography
+Mýa,We Are the World 25 for Haiti,2010,2,50,False,True,,,,Mýa discography
 Mýa,Fabulous Life,2011,,,True,False,,,,Mýa discography
 Mýa,Runnin' Back,2011,,,True,False,,,,Mýa discography
 Mýa,Earthquake,2011,,,True,False,,,,Mýa discography
@@ -7882,7 +7882,7 @@ Natasha Bedingfield,Love Like This,2007,11,20,True,True,Love Like This (Natasha 
 Natasha Bedingfield,Pocketful of Sunshine,2008,5,,True,True,Pocketful of Sunshine,beyond generation target,pop style in infobox,Natasha Bedingfield discography
 Natasha Bedingfield,Angel,2008,63,,True,False,,,,Natasha Bedingfield discography
 Natasha Bedingfield,Bruised Water,2008,,42,True,False,,,,Natasha Bedingfield discography
-Natasha Bedingfield,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Natasha Bedingfield discography
+Natasha Bedingfield,Just Stand Up!,2008,11,26,False,True,,,,Natasha Bedingfield discography
 Natasha Bedingfield,Touch,2010,,,True,False,,,,Natasha Bedingfield discography
 Natasha Bedingfield,Strip Me,2010,91,,True,False,,,,Natasha Bedingfield discography
 Natasha Bedingfield,Let Me Know,2010,,,False,False,,,,Natasha Bedingfield discography
@@ -7910,7 +7910,7 @@ Nelly Furtado,—,,,,True,False,,,,Nelly Furtado discography
 Nelly Furtado,I'm Like a Bird,2000,9,5,True,True,I'm Like a Bird,beyond generation target,pop style in infobox,Nelly Furtado discography
 Nelly Furtado,Turn Off the Light,2001,5,4,True,True,Turn Off the Light,beyond generation target,pop style in infobox,Nelly Furtado discography
 Nelly Furtado,Shit on the Radio (Remember the Days),2001,,18,True,True,Shit on the Radio (Remember the Days),beyond generation target,pop-adjacent style in infobox,Nelly Furtado discography
-Nelly Furtado,What's Going On,2001,27,6,True,True,What's Going On (song),beyond generation target,pop-adjacent style in infobox,Nelly Furtado discography
+Nelly Furtado,What's Going On,2001,27,6,False,True,,,,Nelly Furtado discography
 Nelly Furtado,"Hey, Man!",2002,,,True,False,,,,Nelly Furtado discography
 Nelly Furtado,Ching Ching,2002,,,False,False,,,,Nelly Furtado discography
 Nelly Furtado,Powerless (Say What You Want),2003,,13,True,True,Powerless (Say What You Want),beyond generation target,"no infobox genre: kept as a roster act, flagged",Nelly Furtado discography
@@ -7939,7 +7939,7 @@ Nelly Furtado,Sunglasses,2009,,,False,False,,,,Nelly Furtado discography
 Nelly Furtado,Bajo Otra Luz,2010,,,True,False,,,,Nelly Furtado discography
 Nelly Furtado,Night Is Young,2010,,,True,False,,,,Nelly Furtado discography
 Nelly Furtado,Who Wants to Be Alone,2010,,91,False,False,,,,Nelly Furtado discography
-Nelly Furtado,Wavin' Flag,2010,,104,True,False,,,,Nelly Furtado discography
+Nelly Furtado,Wavin' Flag,2010,,104,False,False,,,,Nelly Furtado discography
 Nelly Furtado,Hot-n-Fun,2010,,49,False,False,,,,Nelly Furtado discography
 Nelly Furtado,Big Hoops (Bigger the Better),2012,,14,True,True,Big Hoops (Bigger the Better),beyond generation target,"no infobox genre: kept as a roster act, flagged",Nelly Furtado discography
 Nelly Furtado,Spirit Indestructible,2012,,,True,False,,,,Nelly Furtado discography
@@ -8055,7 +8055,7 @@ Nicki Minaj,I Wanna Be with You,2013,,,False,False,,,,Nicki Minaj discography
 Nicki Minaj,Clappers,2013,,,False,False,,,,Nicki Minaj discography
 Nicki Minaj,Lay It Down,2013,,,False,False,,,,Nicki Minaj discography
 Nicki Minaj,Pills n Potions,2014,24,31,True,True,Pills n Potions,over cap,,Nicki Minaj discography
-Nicki Minaj,Bang Bang,2014,3,1,True,True,"Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)",,,Nicki Minaj discography
+Nicki Minaj,Bang Bang,2014,3,1,True,True,"Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)",selected,pop style in infobox,Nicki Minaj discography
 Nicki Minaj,Anaconda,2014,2,3,True,True,Anaconda (song),genre,no pop style in infobox (Dirty rap; hip-hop),Nicki Minaj discography
 Nicki Minaj,Only,2014,12,35,True,True,Only (Nicki Minaj song),genre,no pop style in infobox (Hardcore rap),Nicki Minaj discography
 Nicki Minaj,Bed of Lies,2014,62,73,True,False,,,,Nicki Minaj discography
@@ -8156,7 +8156,7 @@ Nicki Minaj,Move Ya Hips,2020,19,,False,True,,,,Nicki Minaj discography
 Nicki Minaj,Expensive,2020,83,,False,False,,,,Nicki Minaj discography
 Nicki Minaj,Oh My Gawd,2020,,,False,False,,,,Nicki Minaj discography
 Nicki Minaj,Whole Lotta Choppas (Remix),2020,35,,False,True,,,,Nicki Minaj discography
-Nicki Minaj,Yikes,2020,23,69,True,True,Yikes (Nicki Minaj song),beyond generation target,pop-adjacent style in infobox,Nicki Minaj discography
+Nicki Minaj,Yikes,2020,23,69,True,True,Yikes (Nicki Minaj song),over cap,,Nicki Minaj discography
 Nicki Minaj,Whole Lotta Money (Remix),2021,16,,False,True,,,,Nicki Minaj discography
 Nicki Minaj,Boyz,2021,,4,False,True,,,,Nicki Minaj discography
 Nicki Minaj,Seeing Green,2021,12,42,True,True,,no song article,,Nicki Minaj discography
@@ -8203,7 +8203,7 @@ Nicki Minaj,Just the Memories,2023,,,True,False,,,,Nicki Minaj discography
 Nicki Minaj,Love Me Enough,2023,,,True,False,,,,Nicki Minaj discography
 Nicki Minaj,Everybody,2024,24,26,True,True,Everybody (Nicki Minaj song),over cap,,Nicki Minaj discography
 Nicki Minaj,FTCU,2024,15,40,True,True,FTCU,beyond generation target,pop-adjacent style in infobox,Nicki Minaj discography
-Nicki Minaj,Big Foot,2024,23,56,True,True,Big Foot (Nicki Minaj song),genre,no pop style in infobox (Hip hop),Nicki Minaj discography
+Nicki Minaj,Big Foot,2024,23,56,True,True,Big Foot (Nicki Minaj song),over cap,,Nicki Minaj discography
 Nicki Minaj,AGATS2 (Insecure),2024,68,89,True,False,,,,Nicki Minaj discography
 Normani,—,,,,True,False,,,,Normani discography
 Normani,Love Lies,2018,9,12,True,True,Love Lies (song),beyond generation target,pop-adjacent style in infobox,Normani discography
@@ -8279,7 +8279,7 @@ Olivia Newton-John,Don't Cut Me Down,1995,,,True,False,,,,Olivia Newton-John sin
 Olivia Newton-John,Had to Be,1995,,22,True,False,,,,Olivia Newton-John singles discography
 Olivia Newton-John,Back with a Heart,1998,,,True,False,,,,Olivia Newton-John singles discography
 Olivia Newton-John,Precious Love,1998,,,True,False,,,,Olivia Newton-John singles discography
-Olivia Newton-John,I Touch Myself,2014,,,True,False,,,,Olivia Newton-John singles discography
+Olivia Newton-John,I Touch Myself,2014,,,False,False,,,,Olivia Newton-John singles discography
 Olivia Newton-John,You Have to Believe,2015,,,False,False,,,,Olivia Newton-John singles discography
 Olivia Rodrigo,—,,,,True,False,,,,Olivia Rodrigo discography
 Olivia Rodrigo,Let It Glow,2016,,,True,False,,,,Olivia Rodrigo discography
@@ -8350,19 +8350,19 @@ Paloma Faith,Picking Up the Pieces,2012,,7,True,True,Picking Up the Pieces (Palo
 Paloma Faith,30 Minute Love Affair,2012,,50,True,False,,,,Paloma Faith discography
 Paloma Faith,Never Tear Us Apart,2012,,16,True,True,Never Tear Us Apart,beyond generation target,"no infobox genre: kept as a roster act, flagged",Paloma Faith discography
 Paloma Faith,Just Be,2012,,66,True,False,,,,Paloma Faith discography
-Paloma Faith,"He Ain't Heavy, He's My Brother",2012,,1,True,True,"He Ain't Heavy, He's My Brother",,,Paloma Faith discography
+Paloma Faith,"He Ain't Heavy, He's My Brother",2012,,1,False,True,,,,Paloma Faith discography
 Paloma Faith,Black & Blue,2013,,,True,False,,,,Paloma Faith discography
 Paloma Faith,Can't Rely on You,2014,,10,True,True,Can't Rely on You,beyond generation target,pop-adjacent style in infobox,Paloma Faith discography
 Paloma Faith,Only Love Can Hurt Like This,2014,,6,True,True,Only Love Can Hurt Like This,beyond generation target,pop style in infobox,Paloma Faith discography
 Paloma Faith,Trouble with My Baby,2014,,,True,False,,,,Paloma Faith discography
 Paloma Faith,Ready for the Good Life,2014,,68,True,False,,,,Paloma Faith discography
 Paloma Faith,Changing,2014,,1,False,True,,,,Paloma Faith discography
-Paloma Faith,God Only Knows,2014,,20,True,True,God Only Knows,,,Paloma Faith discography
-Paloma Faith,Do They Know It's Christmas?,2014,,1,True,True,Do They Know It's Christmas?,,,Paloma Faith discography
+Paloma Faith,God Only Knows,2014,,20,True,True,God Only Knows,beyond generation target,pop style in infobox,Paloma Faith discography
+Paloma Faith,Do They Know It's Christmas?,2014,,1,False,True,,,,Paloma Faith discography
 Paloma Faith,Beauty Remains,2015,,,True,False,,,,Paloma Faith discography
 Paloma Faith,Crybaby,2017,,36,True,False,,,,Paloma Faith discography
 Paloma Faith,Guilty,2017,,,True,False,,,,Paloma Faith discography
-Paloma Faith,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),,,Paloma Faith discography
+Paloma Faith,Bridge over Troubled Water,2017,,1,False,True,,,,Paloma Faith discography
 Paloma Faith,'Til I'm Done,2018,,95,True,False,,,,Paloma Faith discography
 Paloma Faith,Warrior,2018,,,True,False,,,,Paloma Faith discography
 Paloma Faith,Lullaby,2018,,6,True,True,Lullaby (Sigala and Paloma Faith song),beyond generation target,pop style in infobox,Paloma Faith discography
@@ -8373,8 +8373,8 @@ Paloma Faith,Movin' Too Fast,2019,,,False,False,,,,Paloma Faith discography
 Paloma Faith,Mistakes,2020,,,True,False,,,,Paloma Faith discography
 Paloma Faith,Better Than This,2020,,,True,False,,,,Paloma Faith discography
 Paloma Faith,Gold,2020,,,True,False,,,,Paloma Faith discography
-Paloma Faith,Times Like These,2020,,1,True,True,Times Like These (Foo Fighters song),,,Paloma Faith discography
-Paloma Faith,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,,,Paloma Faith discography
+Paloma Faith,Times Like These,2020,,1,False,True,,,,Paloma Faith discography
+Paloma Faith,Stop Crying Your Heart Out,2020,,7,True,True,Stop Crying Your Heart Out,beyond generation target,pop style in infobox,Paloma Faith discography
 Paloma Faith,Monster,2021,,,True,False,,,,Paloma Faith discography
 Paloma Faith,How You Leave a Man,2023,,,True,False,,,,Paloma Faith discography
 Paloma Faith,Bad Woman,2023,,,True,False,,,,Paloma Faith discography
@@ -8537,7 +8537,7 @@ Petula Clark,Blue Eyes Crying in the Rain,1981,,,True,False,,,,Petula Clark disc
 Petula Clark,Dreamin' with My Eyes Wide Open,1982,,,True,False,,,,Petula Clark discography
 Petula Clark,Mister Orwell,1985,,,True,False,,,,Petula Clark discography
 Petula Clark,Life's a Game,1988,,,True,False,,,,Petula Clark discography
-Petula Clark,Downtown '88,1988,,10,True,True,Downtown (Petula Clark song),,,Petula Clark discography
+Petula Clark,Downtown '88,1988,,10,True,True,Downtown (Petula Clark song),beyond generation target,pop style in infobox,Petula Clark discography
 Petula Clark,I Couldn't Live Without Your Love '89,1989,,,True,False,,,,Petula Clark discography
 Petula Clark,Someone Like You,1990,,,True,False,,,,Petula Clark discography
 Petula Clark,Oxygen,1992,,,True,False,,,,Petula Clark discography
@@ -8547,11 +8547,11 @@ Pink,—,,,,True,False,,,,Pink discography
 Pink,There You Go,2000,7,6,True,True,There You Go,beyond generation target,pop-adjacent style in infobox,Pink discography
 Pink,Most Girls,2000,4,5,True,True,Most Girls (Pink song),beyond generation target,pop-adjacent style in infobox,Pink discography
 Pink,You Make Me Sick,2000,33,9,True,True,You Make Me Sick,beyond generation target,"no infobox genre: kept as a roster act, flagged",Pink discography
-Pink,Lady Marmalade,2001,1,1,True,True,Lady Marmalade,,,Pink discography
-Pink,Get the Party Started,2001,4,2,True,True,Get the Party Started,selected,pop style in infobox,Pink discography
+Pink,Lady Marmalade,2001,1,1,True,True,Lady Marmalade,selected,pop style in infobox,Pink discography
+Pink,Get the Party Started,2001,4,2,True,True,Get the Party Started,beyond generation target,pop style in infobox,Pink discography
 Pink,Don't Let Me Get Me,2002,8,6,True,True,Don't Let Me Get Me,genre,no pop style in infobox (Rock),Pink discography
 Pink,Just Like a Pill,2002,8,1,True,True,Just Like a Pill,selected,pop style in infobox,Pink discography
-Pink,Family Portrait,2002,20,11,True,True,Family Portrait (song),beyond generation target,pop-adjacent style in infobox,Pink discography
+Pink,Family Portrait,2002,20,11,True,True,Family Portrait (song),over cap,,Pink discography
 Pink,Feel Good Time,2003,60,3,True,True,Feel Good Time,genre,no pop style in infobox (Dance-punk; psychedelic rock; electronic rock),Pink discography
 Pink,Trouble,2003,68,7,True,True,Trouble (Pink song),genre,no pop style in infobox (Punk rock; alternative rock),Pink discography
 Pink,God Is a DJ,2003,,11,True,True,God Is a DJ (Pink song),over cap,,Pink discography
@@ -8564,7 +8564,7 @@ Pink,Dear Mr. President,2006,,,True,False,,,,Pink discography
 Pink,I Am Not My Hair,2006,,,False,False,,,,Pink discography
 Pink,Rock and Roll Heaven's Gate,2006,,,False,False,,,,Pink discography
 Pink,Leave Me Alone (I'm Lonely),2007,,34,True,False,,,,Pink discography
-Pink,Sing,2007,,161,True,False,,,,Pink discography
+Pink,Sing,2007,,161,False,False,,,,Pink discography
 Pink,So What,2008,1,1,True,True,So What (Pink song),selected,pop style in infobox,Pink discography
 Pink,Sober,2008,15,9,True,True,Sober (Pink song),beyond generation target,pop style in infobox,Pink discography
 Pink,Please Don't Leave Me,2009,17,12,True,True,Please Don't Leave Me,over cap,,Pink discography
@@ -8574,10 +8574,10 @@ Pink,I Don't Believe You,2009,,62,True,False,,,,Pink discography
 Pink,Glitter in the Air,2010,18,,True,True,Glitter in the Air,over cap,,Pink discography
 Pink,Raise Your Glass,2010,1,13,True,True,Raise Your Glass,selected,pop style in infobox,Pink discography
 Pink,Fuckin' Perfect,2010,2,10,True,True,Fuckin' Perfect,selected,pop style in infobox,Pink discography
-Pink,We Are the World 25 for Haiti,2010,2,50,True,True,We Are the World 25 for Haiti,,,Pink discography
+Pink,We Are the World 25 for Haiti,2010,2,50,False,True,,,,Pink discography
 Pink,Won't Back Down,2010,62,82,False,False,,,,Pink discography
 Pink,Bridge of Light,2011,,,True,False,,,,Pink discography
-Pink,Blow Me (One Last Kiss),2012,5,3,True,True,Blow Me (One Last Kiss),beyond generation target,pop style in infobox,Pink discography
+Pink,Blow Me (One Last Kiss),2012,5,3,True,True,Blow Me (One Last Kiss),selected,pop style in infobox,Pink discography
 Pink,Try,2012,9,8,True,True,Try (Pink song),beyond generation target,pop style in infobox,Pink discography
 Pink,Just Give Me a Reason,2013,1,2,True,True,Just Give Me a Reason,selected,pop style in infobox,Pink discography
 Pink,True Love,2013,53,16,True,True,True Love (Pink song),over cap,,Pink discography
@@ -8588,7 +8588,7 @@ Pink,Slut Like You,2013,,,True,False,,,,Pink discography
 Pink,Today's the Day,2015,,,True,False,,,,Pink discography
 Pink,Just Like Fire,2016,10,19,True,True,Just Like Fire,beyond generation target,pop style in infobox,Pink discography
 Pink,Setting the World on Fire,2016,29,,True,True,Setting the World on Fire,over cap,,Pink discography
-Pink,Hands,2016,,,True,False,,,,Pink discography
+Pink,Hands,2016,,,False,False,,,,Pink discography
 Pink,What About Us,2017,13,3,True,True,What About Us (Pink song),beyond generation target,pop style in infobox,Pink discography
 Pink,Beautiful Trauma,2017,78,25,True,False,,,,Pink discography
 Pink,Waterfall,2017,,47,False,False,,,,Pink discography
@@ -8650,7 +8650,7 @@ Pixie Lott,—,,,,True,False,,,,Pixie Lott discography
 Pixie Lott,"Mama Do (Uh Oh, Uh Oh)",2009,,1,True,True,"Mama Do (Uh Oh, Uh Oh)",selected,pop style in infobox,Pixie Lott discography
 Pixie Lott,Boys and Girls,2009,,1,True,True,Boys and Girls (Pixie Lott song),selected,pop style in infobox,Pixie Lott discography
 Pixie Lott,Cry Me Out,2009,,12,True,True,Cry Me Out,beyond generation target,"no infobox genre: kept as a roster act, flagged",Pixie Lott discography
-Pixie Lott,I Got Soul,2009,,10,True,True,I Got Soul,beyond generation target,pop-adjacent style in infobox,Pixie Lott discography
+Pixie Lott,I Got Soul,2009,,10,False,True,,,,Pixie Lott discography
 Pixie Lott,Use Somebody,2009,,41,True,False,,,,Pixie Lott discography
 Pixie Lott,Gravity,2010,,20,True,True,Gravity (Pixie Lott song),beyond generation target,pop style in infobox,Pixie Lott discography
 Pixie Lott,Turn It Up,2010,,11,True,True,Turn It Up (Pixie Lott song),beyond generation target,pop style in infobox,Pixie Lott discography
@@ -8667,7 +8667,7 @@ Pixie Lott,Caravan of Love,2014,,129,True,False,,,,Pixie Lott discography
 Pixie Lott,Wild Heart,2014,,,False,False,,,,Pixie Lott discography
 Pixie Lott,Baby,2017,,97,True,False,,,,Pixie Lott discography
 Pixie Lott,Won't Forget You,2017,,,True,False,,,,Pixie Lott discography
-Pixie Lott,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),selected,"no infobox genre: kept as a roster act, flagged",Pixie Lott discography
+Pixie Lott,Bridge over Troubled Water,2017,,1,False,True,,,,Pixie Lott discography
 Pixie Lott,Safe,2021,,,False,False,,,,Pixie Lott discography
 Pixie Lott,Somebody's Daughter,2024,,,True,False,,,,Pixie Lott discography
 Pixie Lott,Midnight Trash,2024,,,True,False,,,,Pixie Lott discography
@@ -8681,7 +8681,7 @@ Rachel Stevens,Sweet Dreams My L.A. Ex,2003,,2,True,True,Sweet Dreams My L.A. Ex
 Rachel Stevens,Funky Dory,2003,,26,True,False,,,,Rachel Stevens discography
 Rachel Stevens,Some Girls,2004,,2,True,True,Some Girls (Rachel Stevens song),selected,pop style in infobox,Rachel Stevens discography
 Rachel Stevens,"More, More, More",2004,,3,True,True,"More, More, More",beyond generation target,pop style in infobox,Rachel Stevens discography
-Rachel Stevens,Do They Know It's Christmas?,2004,,1,True,True,Do They Know It's Christmas?,,,Rachel Stevens discography
+Rachel Stevens,Do They Know It's Christmas?,2004,,1,False,True,,,,Rachel Stevens discography
 Rachel Stevens,Negotiate with Love,2005,,10,True,True,Negotiate with Love,beyond generation target,pop style in infobox,Rachel Stevens discography
 Rachel Stevens,So Good,2005,,10,True,True,So Good (Rachel Stevens song),beyond generation target,pop style in infobox,Rachel Stevens discography
 Rachel Stevens,I Said Never Again (But Here We Are),2005,,12,True,True,I Said Never Again (But Here We Are),beyond generation target,pop style in infobox,Rachel Stevens discography
@@ -8698,7 +8698,7 @@ Raye,Distraction,2016,,,True,False,,,,Raye discography
 Raye,Ambition,2016,,,True,False,,,,Raye discography
 Raye,The Line,2017,,65,True,False,,,,Raye discography
 Raye,Decline,2017,,15,True,True,Decline (song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Raye discography
-Raye,Bridge over Troubled Water,2017,,1,True,True,Bridge over Troubled Water (song),,,Raye discography
+Raye,Bridge over Troubled Water,2017,,1,False,True,,,,Raye discography
 Raye,Glue,2017,,,True,False,,,,Raye discography
 Raye,Sober (Stripped),2017,,,True,False,,,,Raye discography
 Raye,Check,2018,,26,True,False,,,,Raye discography
@@ -8795,7 +8795,7 @@ Rihanna,Rehab,2008,18,16,True,True,Rehab (Rihanna song),over cap,,Rihanna single
 Rihanna,If I Never See Your Face Again,2008,51,28,False,False,,,,Rihanna singles discography
 Rihanna,Live Your Life,2008,1,2,False,True,,,,Rihanna singles discography
 Rihanna,Numba 1 (Tide Is High),2008,,,False,False,,,,Rihanna singles discography
-Rihanna,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Rihanna singles discography
+Rihanna,Just Stand Up!,2008,11,26,False,True,,,,Rihanna singles discography
 Rihanna,Breakin' Dishes,2008,82,19,True,True,Breakin' Dishes,over cap,,Rihanna singles discography
 Rihanna,Russian Roulette,2009,9,2,True,True,Russian Roulette (Rihanna song),selected,pop style in infobox,Rihanna singles discography
 Rihanna,Hard,2009,8,42,True,True,Hard (Rihanna song),over cap,,Rihanna singles discography
@@ -8852,7 +8852,7 @@ Rihanna,Bad,2013,21,112,False,True,,,,Rihanna singles discography
 Rihanna,The Monster,2013,1,1,False,True,,,,Rihanna singles discography
 Rihanna,Jump,2014,,150,True,False,,,,Rihanna singles discography
 Rihanna,Can't Remember to Forget You,2014,15,11,False,True,,,,Rihanna singles discography
-Rihanna,FourFiveSeconds,2015,4,3,True,True,FourFiveSeconds,beyond generation target,pop style in infobox,Rihanna singles discography
+Rihanna,FourFiveSeconds,2015,4,3,True,True,FourFiveSeconds,selected,pop style in infobox,Rihanna singles discography
 Rihanna,Towards the Sun,2015,,76,True,False,,,,Rihanna singles discography
 Rihanna,Bitch Better Have My Money,2015,15,27,True,True,Bitch Better Have My Money,over cap,,Rihanna singles discography
 Rihanna,American Oxygen,2015,78,71,True,False,,,,Rihanna singles discography
@@ -8906,7 +8906,7 @@ Rita Ora,Doing It,2015,,8,False,True,,,,Rita Ora discography
 Rita Ora,New York Raining,2015,,29,False,False,,,,Rita Ora discography
 Rita Ora,Your Song,2017,,7,True,True,Your Song (Rita Ora song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Rita Ora discography
 Rita Ora,Anywhere,2017,,2,True,True,Anywhere (Rita Ora song),selected,pop style in infobox,Rita Ora discography
-Rita Ora,Bridge over Troubled Water,2017,,1,True,True,Bridge Over Troubled Water (song),,,Rita Ora discography
+Rita Ora,Bridge over Troubled Water,2017,,1,False,True,,,,Rita Ora discography
 Rita Ora,Lonely Together,2017,,4,False,True,,,,Rita Ora discography
 Rita Ora,For You,2018,76,8,True,True,For You (Liam Payne and Rita Ora song),beyond generation target,pop style in infobox,Rita Ora discography
 Rita Ora,Girls,2018,,22,True,False,,,,Rita Ora discography
@@ -8916,7 +8916,7 @@ Rita Ora,Only Want You,2019,,60,True,False,,,,Rita Ora discography
 Rita Ora,Carry On,2019,,26,True,False,,,,Rita Ora discography
 Rita Ora,Ritual,2019,,24,True,False,,,,Rita Ora discography
 Rita Ora,How to Be Lonely,2020,,57,True,False,,,,Rita Ora discography
-Rita Ora,Times Like These,2020,,1,True,True,Times Like These (Foo Fighters song),genre,no pop style in infobox (Alternative rock; hard rock),Rita Ora discography
+Rita Ora,Times Like These,2020,,1,False,True,,,,Rita Ora discography
 Rita Ora,Big,2021,,53,True,False,,,,Rita Ora discography
 Rita Ora,You for Me,2021,,23,True,False,,,,Rita Ora discography
 Rita Ora,Follow Me,2021,,,True,False,,,,Rita Ora discography
@@ -9240,7 +9240,7 @@ Salt-N-Pepa,You Showed Me,1991,47,15,True,True,You Showed Me,beyond generation t
 Salt-N-Pepa,Backyard,1991,73,,True,False,,,,Salt-N-Pepa discography
 Salt-N-Pepa,Start Me Up,1992,,39,True,False,,,,Salt-N-Pepa discography
 Salt-N-Pepa,Shoop,1993,4,13,True,True,Shoop,genre,no pop style in infobox (Hip hop),Salt-N-Pepa discography
-Salt-N-Pepa,Whatta Man,1993,3,7,True,True,Whatta Man,,,Salt-N-Pepa discography
+Salt-N-Pepa,Whatta Man,1993,3,7,True,True,Whatta Man,beyond generation target,pop-adjacent style in infobox,Salt-N-Pepa discography
 Salt-N-Pepa,None of Your Business,1994,32,19,True,True,None of Your Business,beyond generation target,pop style in infobox,Salt-N-Pepa discography
 Salt-N-Pepa,Heaven 'n Hell,1994,32,,True,True,Heaven 'n Hell,beyond generation target,"no infobox genre: kept as a roster act, flagged",Salt-N-Pepa discography
 Salt-N-Pepa,Ain't Nuthin' But a She Thing,1995,38,,True,True,,no song article,,Salt-N-Pepa discography
@@ -9263,7 +9263,7 @@ Samantha Fox,True Devotion,1987,,62,True,False,,,,Samantha Fox discography
 Samantha Fox,Naughty Girls (Need Love Too),1988,3,31,True,True,Naughty Girls (Need Love Too),genre,no pop style in infobox (Freestyle),Samantha Fox discography
 Samantha Fox,Love House,1988,,32,True,False,,,,Samantha Fox discography
 Samantha Fox,I Wanna Have Some Fun,1988,8,63,True,True,I Wanna Have Some Fun (song),beyond generation target,pop style in infobox,Samantha Fox discography
-Samantha Fox,I Only Wanna Be with You,1989,31,16,True,True,I Only Want to Be with You,,,Samantha Fox discography
+Samantha Fox,I Only Wanna Be with You,1989,31,16,True,True,I Only Want to Be with You,beyond generation target,pop style in infobox,Samantha Fox discography
 Samantha Fox,(Hurt Me! Hurt Me!) But the Pants Stay On,1991,,,True,False,,,,Samantha Fox discography
 Samantha Fox,Another Woman (Too Many People),1991,,85,True,False,,,,Samantha Fox discography
 Samantha Fox,Just One Night,1991,,,True,False,,,,Samantha Fox discography
@@ -9285,7 +9285,7 @@ Samantha Fox,Hot Stuff,2015,,,True,False,,,,Samantha Fox discography
 Samantha Fox,La Isla Bonita,2015,,,True,False,,,,Samantha Fox discography
 Samantha Fox,Touch Me 2016,2016,,,True,False,,,,Samantha Fox discography
 Samantha Fox,Hot Boy,2018,,,True,False,,,,Samantha Fox discography
-Samantha Mumba,Gotta Tell You,2000,4,2,True,True,Gotta Tell You (song),selected,"no infobox genre: kept as a roster act, flagged",Samantha Mumba discography
+Samantha Mumba,Gotta Tell You,2000,4,2,True,True,Gotta Tell You (song),beyond generation target,"no infobox genre: kept as a roster act, flagged",Samantha Mumba discography
 Samantha Mumba,Body II Body,2000,,5,True,True,Body II Body,beyond generation target,"no infobox genre: kept as a roster act, flagged",Samantha Mumba discography
 Samantha Mumba,Always Come Back to Your Love,2001,,3,True,True,Always Come Back to Your Love,beyond generation target,pop style in infobox,Samantha Mumba discography
 Samantha Mumba,"Baby, Come Over (This Is Our Night)",2001,49,5,True,True,"Baby, Come Over (This Is Our Night)",genre,no pop style in infobox (Club),Samantha Mumba discography
@@ -9381,7 +9381,7 @@ Selena Gomez,Tell Me Something I Don't Know,2008,58,,True,False,,,,Selena Gomez 
 Selena Gomez,Cruella de Vil,2008,,,True,False,,,,Selena Gomez discography
 Selena Gomez,Whoa Oh! (Me vs. Everyone),2009,,,False,False,,,,Selena Gomez discography
 Selena Gomez,Magic,2009,61,90,True,False,,,,Selena Gomez discography
-Selena Gomez,Send It On,2009,20,,True,True,Send It On (Disney song),,,Selena Gomez discography
+Selena Gomez,Send It On,2009,20,,True,True,Send It On (Disney song),beyond generation target,pop style in infobox,Selena Gomez discography
 Selena Gomez,New Classic,2009,,,True,False,,,,Selena Gomez discography
 Selena Gomez,One and the Same,2009,82,,True,False,,,,Selena Gomez discography
 Selena Gomez,Shake It Up,2011,,,True,False,,,,Selena Gomez discography
@@ -9401,7 +9401,7 @@ Selena Gomez,Hands to Myself,2016,7,14,True,True,Hands to Myself,beyond generati
 Selena Gomez,Kill Em with Kindness,2016,39,35,True,True,Kill Em with Kindness,beyond generation target,pop style in infobox,Selena Gomez discography
 Selena Gomez,We Don't Talk Anymore,2016,9,14,False,True,,,,Selena Gomez discography
 Selena Gomez,Trust Nobody,2016,,92,False,False,,,,Selena Gomez discography
-Selena Gomez,Hands,2016,,,True,False,,,,Selena Gomez discography
+Selena Gomez,Hands,2016,,,False,False,,,,Selena Gomez discography
 Selena Gomez,It Ain't Me,2017,10,7,True,True,It Ain't Me,beyond generation target,pop style in infobox,Selena Gomez discography
 Selena Gomez,Bad Liar,2017,20,21,True,True,Bad Liar (Selena Gomez song),beyond generation target,pop style in infobox,Selena Gomez discography
 Selena Gomez,Fetish,2017,27,33,True,True,Fetish (song),beyond generation target,pop style in infobox,Selena Gomez discography
@@ -9453,7 +9453,7 @@ Selena Gomez,Stained,2025,,,True,False,,,,Selena Gomez discography
 Selena Gomez,Pick It Up,2025,45,,False,False,,,,Selena Gomez discography
 Selena Gomez,Te Olvido (La La),2026,,,True,False,,,,Selena Gomez discography
 Shakira,—,,,,True,False,,,,Shakira discography
-Shakira,"Whenever, Wherever",2001,6,2,True,True,"Whenever, Wherever",selected,pop style in infobox,Shakira discography
+Shakira,"Whenever, Wherever",2001,6,2,True,True,"Whenever, Wherever",beyond generation target,pop style in infobox,Shakira discography
 Shakira,Underneath Your Clothes,2002,9,3,True,True,Underneath Your Clothes,genre,no pop style in infobox (Rock<ref>{{cite news; url=https://www.chron.com/neighborhood),Shakira discography
 Shakira,Objection (Tango),2002,55,17,True,True,Objection (Tango),beyond generation target,pop style in infobox,Shakira discography
 Shakira,Te Dejo Madrid,2002,,,True,False,,,,Shakira discography
@@ -9467,10 +9467,10 @@ Shakira,Día de Enero,2006,,,True,False,,,,Shakira discography
 Shakira,Hips Don't Lie,2006,1,1,True,True,Hips Don't Lie,selected,pop style in infobox,Shakira discography
 Shakira,Illegal,2006,,34,True,False,,,,Shakira discography
 Shakira,Las de la Intuición,2007,,,True,False,,,,Shakira discography
-Shakira,Beautiful Liar,2007,3,1,True,True,Beautiful Liar,,,Shakira discography
+Shakira,Beautiful Liar,2007,3,1,True,True,Beautiful Liar,selected,pop style in infobox,Shakira discography
 Shakira,"Te Lo Agradezco, Pero No",2007,,,False,False,,,,Shakira discography
 Shakira,Si Tú No Vuelves,2007,,,False,False,,,,Shakira discography
-Shakira,Sing,2007,,161,True,False,,,,Shakira discography
+Shakira,Sing,2007,,161,False,False,,,,Shakira discography
 Shakira,Despedida,2008,,,True,False,,,,Shakira discography
 Shakira,She Wolf,2009,11,4,True,True,She Wolf (Shakira song),beyond generation target,pop style in infobox,Shakira discography
 Shakira,Did It Again,2009,,26,True,False,,,,Shakira discography
@@ -9503,7 +9503,7 @@ Shakira,Deja Vu,2017,,,True,False,,,,Shakira discography
 Shakira,Comme moi,2017,,,True,False,,,,Shakira discography
 Shakira,Me Enamoré,2017,83,,True,False,,,,Shakira discography
 Shakira,Perro Fiel,2017,100,,True,False,,,,Shakira discography
-Shakira,"Y, ¿Si Fuera Ella? (+ Es +)",2017,,,True,False,,,,Shakira discography
+Shakira,"Y, ¿Si Fuera Ella? (+ Es +)",2017,,,False,False,,,,Shakira discography
 Shakira,Amarillo,2017,,,True,False,,,,Shakira discography
 Shakira,Trap,2018,,,True,False,,,,Shakira discography
 Shakira,Clandestino,2018,,,True,False,,,,Shakira discography
@@ -9599,7 +9599,7 @@ Sheena Easton,Machinery,1982,57,38,True,False,,,,Sheena Easton discography
 Sheena Easton,Are You Man Enough,1982,,,True,False,,,,Sheena Easton discography
 Sheena Easton,I Wouldn't Beg for Water,1982,64,,True,False,,,,Sheena Easton discography
 Sheena Easton,Ice Out in the Rain,1982,,,True,False,,,,Sheena Easton discography
-Sheena Easton,We've Got Tonight,1983,6,28,True,True,We've Got Tonite,,,Sheena Easton discography
+Sheena Easton,We've Got Tonight,1983,6,28,True,True,We've Got Tonite,genre,no pop style in infobox (Country),Sheena Easton discography
 Sheena Easton,Telefone (Long Distance Love Affair),1983,9,84,True,True,Telefone (Long Distance Love Affair),beyond generation target,"no infobox genre: kept as a roster act, flagged",Sheena Easton discography
 Sheena Easton,Almost Over You,1983,25,89,True,True,Almost Over You,beyond generation target,pop style in infobox,Sheena Easton discography
 Sheena Easton,Devil in a Fast Car,1984,79,,True,False,,,,Sheena Easton discography
@@ -9679,7 +9679,7 @@ Sheryl Crow,What You Give Away,2007,,,True,False,,,,Sheryl Crow discography
 Sheryl Crow,Love Is Free,2008,77,76,True,False,,,,Sheryl Crow discography
 Sheryl Crow,Now That You're Gone,2008,,,True,False,,,,Sheryl Crow discography
 Sheryl Crow,So Glad We Made It,2008,,,True,False,,,,Sheryl Crow discography
-Sheryl Crow,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,,,Sheryl Crow discography
+Sheryl Crow,Just Stand Up!,2008,11,26,True,True,Just Stand Up!,beyond generation target,"no infobox genre: kept as a roster act, flagged",Sheryl Crow discography
 Sheryl Crow,Out of Our Heads,2009,,,True,False,,,,Sheryl Crow discography
 Sheryl Crow,The Christmas Song,2009,,,True,False,,,,Sheryl Crow discography
 Sheryl Crow,Lean on Me,2010,47,,True,False,,,,Sheryl Crow discography
@@ -9767,7 +9767,7 @@ Sinéad O'Connor,4th and Vine,2013,,,True,False,,,,Sinéad O'Connor discography
 Sinéad O'Connor,Old Lady,2013,,,True,False,,,,Sinéad O'Connor discography
 Sinéad O'Connor,Take Me to Church,2014,,,True,False,,,,Sinéad O'Connor discography
 Sinéad O'Connor,8 Good Reasons,2014,,,True,False,,,,Sinéad O'Connor discography
-Sinéad O'Connor,Do They Know It's Christmas?,2014,63,1,True,True,Do They Know It's Christmas?,,,Sinéad O'Connor discography
+Sinéad O'Connor,Do They Know It's Christmas?,2014,63,1,False,True,,,,Sinéad O'Connor discography
 Sinéad O'Connor,Trouble of the World,2020,,,True,False,,,,Sinéad O'Connor discography
 Sister Sledge,—,,,,True,False,,,,Sister Sledge discography
 Sister Sledge,Time Will Tell,1971,,,True,False,,,,Sister Sledge discography
@@ -9880,11 +9880,11 @@ Spice Girls,2 Become 1,1996,4,1,True,True,2 Become 1,selected,pop style in infob
 Spice Girls,Mama,1997,,1,True,True,Mama (Spice Girls song),selected,pop style in infobox,Spice Girls discography
 Spice Girls,Spice Up Your Life,1997,18,1,True,True,Spice Up Your Life,selected,"no infobox genre: kept as a roster act, flagged",Spice Girls discography
 Spice Girls,Too Much,1997,9,1,True,True,Too Much (Spice Girls song),selected,pop style in infobox,Spice Girls discography
-Spice Girls,Stop,1998,16,2,True,True,Stop (Spice Girls song),selected,pop style in infobox,Spice Girls discography
+Spice Girls,Stop,1998,16,2,True,True,Stop (Spice Girls song),beyond generation target,pop style in infobox,Spice Girls discography
 Spice Girls,Viva Forever,1998,,1,True,True,Viva Forever,selected,pop style in infobox,Spice Girls discography
 Spice Girls,Goodbye,1998,11,1,True,True,Goodbye (Spice Girls song),selected,pop style in infobox,Spice Girls discography
-Spice Girls,(How Does It Feel to Be) On Top of the World,1998,,9,True,True,(How Does It Feel to Be) On Top of the World,beyond generation target,pop style in infobox,Spice Girls discography
-Spice Girls,It's Only Rock 'n Roll (But I Like It),1999,,19,True,True,It's Only Rock 'n Roll (But I Like It),genre,no pop style in infobox (Hard rock),Spice Girls discography
+Spice Girls,(How Does It Feel to Be) On Top of the World,1998,,9,False,True,,,,Spice Girls discography
+Spice Girls,It's Only Rock 'n Roll (But I Like It),1999,,19,False,True,,,,Spice Girls discography
 Spice Girls,Holler,2000,,1,True,True,Holler (Spice Girls song),selected,pop-adjacent style in infobox,Spice Girls discography
 Spice Girls,Headlines (Friendship Never Ends),2007,90,11,True,True,Headlines (Friendship Never Ends),beyond generation target,pop style in infobox,Spice Girls discography
 Sugababes,—,,,,True,False,,,,Sugababes discography
@@ -9901,7 +9901,7 @@ Sugababes,Hole in the Head,2003,96,1,True,True,Hole in the Head,selected,pop sty
 Sugababes,Too Lost in You,2003,,10,True,True,Too Lost in You,beyond generation target,pop style in infobox,Sugababes discography
 Sugababes,In the Middle,2004,,8,True,True,In the Middle (Sugababes song),beyond generation target,pop style in infobox,Sugababes discography
 Sugababes,Caught in a Moment,2004,,8,True,True,Caught in a Moment,beyond generation target,"no infobox genre: kept as a roster act, flagged",Sugababes discography
-Sugababes,Do They Know It's Christmas?,2004,,1,True,True,Do They Know It's Christmas?,,,Sugababes discography
+Sugababes,Do They Know It's Christmas?,2004,,1,False,True,,,,Sugababes discography
 Sugababes,Push the Button,2005,,1,True,True,Push the Button (Sugababes song),selected,pop style in infobox,Sugababes discography
 Sugababes,Ugly,2005,,3,True,True,Ugly (Sugababes song),beyond generation target,pop style in infobox,Sugababes discography
 Sugababes,Red Dress,2006,,4,True,True,Red Dress (Sugababes song),beyond generation target,pop style in infobox,Sugababes discography
@@ -9910,7 +9910,7 @@ Sugababes,Easy,2006,,8,True,True,Easy (Sugababes song),beyond generation target,
 Sugababes,Walk This Way,2007,,1,True,True,Walk This Way,genre,no pop style in infobox (Dance-rock),Sugababes discography
 Sugababes,About You Now,2007,,1,True,True,About You Now,selected,pop style in infobox,Sugababes discography
 Sugababes,Change,2007,,13,True,True,Change (Sugababes song),over cap,,Sugababes discography
-Sugababes,Sing,2007,,161,True,False,,,,Sugababes discography
+Sugababes,Sing,2007,,161,False,False,,,,Sugababes discography
 Sugababes,Denial,2008,,15,True,True,Denial (Sugababes song),over cap,,Sugababes discography
 Sugababes,Girls,2008,,3,True,True,Girls (Sugababes song),beyond generation target,pop style in infobox,Sugababes discography
 Sugababes,No Can Do,2008,,23,True,False,,,,Sugababes discography
@@ -9936,7 +9936,7 @@ TLC,Creep,1994,1,6,True,True,Creep (TLC song),selected,pop-adjacent style in inf
 TLC,Red Light Special,1995,2,18,True,True,Red Light Special,selected,"no infobox genre: kept as a roster act, flagged",TLC discography
 TLC,Waterfalls,1995,1,4,True,True,Waterfalls (TLC song),selected,pop style in infobox,TLC discography
 TLC,Diggin' on You,1995,5,18,True,True,Diggin' on You,beyond generation target,pop style in infobox,TLC discography
-TLC,Freedom (Theme from Panther),1995,45,,True,False,,,,TLC discography
+TLC,Freedom (Theme from Panther),1995,45,,False,False,,,,TLC discography
 TLC,Kick Your Game,1995,,,True,False,,,,TLC discography
 TLC,This Is How It Works,1996,,,True,False,,,,TLC discography
 TLC,Silly Ho,1998,59,,True,False,,,,TLC discography
@@ -9954,7 +9954,7 @@ TLC,3D,2002,,,True,False,,,,TLC discography
 TLC,Dirty Dirty,2002,,,True,False,,,,TLC discography
 TLC,Damaged,2003,53,,True,False,,,,TLC discography
 TLC,Come Get Some,2004,,,True,False,,,,TLC discography
-TLC,Voice of Love,2004,,,True,False,,,,TLC discography
+TLC,Voice of Love,2004,,,False,False,,,,TLC discography
 TLC,I Bet,2005,,,True,False,,,,TLC discography
 TLC,Crooked Smile,2013,27,114,False,True,,,,TLC discography
 TLC,Gift Wrapped Kiss,2014,,,True,False,,,,TLC discography
@@ -10016,7 +10016,7 @@ Tate McRae,Messier,2023,,,True,False,,,,Tate McRae discography
 Tate McRae,Guilty Conscience,2023,,,True,False,,,,Tate McRae discography
 Tate McRae,It's OK I'm OK,2024,20,14,True,True,It's OK I'm OK,beyond generation target,pop style in infobox,Tate McRae discography
 Tate McRae,2 Hands,2024,41,8,True,True,2 Hands,beyond generation target,pop style in infobox,Tate McRae discography
-Tate McRae,Sports Car,2025,16,3,True,True,Sports Car (song),selected,pop style in infobox,Tate McRae discography
+Tate McRae,Sports Car,2025,16,3,True,True,Sports Car (song),beyond generation target,pop style in infobox,Tate McRae discography
 Tate McRae,Revolving Door,2025,22,9,True,True,Revolving Door (Tate McRae song),beyond generation target,pop style in infobox,Tate McRae discography
 Tate McRae,Just Keep Watching,2025,33,6,True,True,Just Keep Watching,beyond generation target,pop style in infobox,Tate McRae discography
 Tate McRae,Tit for Tat,2025,3,6,True,True,Tit for Tat (Tate McRae song),selected,pop style in infobox,Tate McRae discography
@@ -10071,7 +10071,7 @@ Taylor Dayne,Thinking Out Loud,2023,,,True,False,,,,Taylor Dayne discography
 Taylor Dayne,Lose You to Love Me,2024,,,True,False,,,,Taylor Dayne discography
 Taylor Swift,—,,,,True,False,,,,Taylor Swift singles discography
 Taylor Swift,Tim McGraw,2006,40,,True,True,Tim McGraw (song),over cap,,Taylor Swift singles discography
-Taylor Swift,God Bless the Children,2006,,,True,False,,,,Taylor Swift singles discography
+Taylor Swift,God Bless the Children,2006,,,False,False,,,,Taylor Swift singles discography
 Taylor Swift,Teardrops on My Guitar,2007,13,51,True,True,Teardrops on My Guitar,over cap,,Taylor Swift singles discography
 Taylor Swift,Our Song,2007,16,,True,True,Our Song,over cap,,Taylor Swift singles discography
 Taylor Swift,I'm Only Me When I'm with You,2007,,,True,False,,,,Taylor Swift singles discography
@@ -10482,7 +10482,7 @@ The Pointer Sisters,Neutron Dance,1984,6,31,True,True,Neutron Dance,beyond gener
 The Pointer Sisters,Baby Come and Get It,1985,44,76,True,False,,,,The Pointer Sisters discography
 The Pointer Sisters,Dare Me,1985,11,17,True,True,Dare Me (song),beyond generation target,pop style in infobox,The Pointer Sisters discography
 The Pointer Sisters,Freedom,1985,59,,True,False,,,,The Pointer Sisters discography
-The Pointer Sisters,We Are the World,1985,1,,True,True,We Are the World,selected,pop style in infobox,The Pointer Sisters discography
+The Pointer Sisters,We Are the World,1985,1,,False,True,,,,The Pointer Sisters discography
 The Pointer Sisters,Twist My Arm,1986,83,,True,False,,,,The Pointer Sisters discography
 The Pointer Sisters,Back in My Arms,1986,,,True,False,,,,The Pointer Sisters discography
 The Pointer Sisters,Goldmine,1986,33,78,True,True,,no song article,,The Pointer Sisters discography
@@ -10496,7 +10496,7 @@ The Pointer Sisters,Power of Persuasion,1988,,,True,False,,,,The Pointer Sisters
 The Pointer Sisters,Friends' Advice (Don't Take It),1990,,97,True,False,,,,The Pointer Sisters discography
 The Pointer Sisters,After You,1990,,,True,False,,,,The Pointer Sisters discography
 The Pointer Sisters,Insanity,1990,,,True,False,,,,The Pointer Sisters discography
-The Pointer Sisters,Voices That Care,1991,11,,True,True,Voices That Care,,,The Pointer Sisters discography
+The Pointer Sisters,Voices That Care,1991,11,,False,True,,,,The Pointer Sisters discography
 The Pointer Sisters,Don't Walk Away,1993,,,True,False,,,,The Pointer Sisters discography
 The Pointer Sisters,Sisters Are Doing It for Themselves,2005,,,True,False,,,,The Pointer Sisters discography
 The Pointer Sisters,Christmas in New York,2005,,,True,False,,,,The Pointer Sisters discography
@@ -10543,9 +10543,9 @@ The Saturdays,—,,,,True,False,,,,The Saturdays discography
 The Saturdays,If This Is Love,2008,,8,True,True,If This Is Love,beyond generation target,"no infobox genre: kept as a roster act, flagged",The Saturdays discography
 The Saturdays,Up,2008,,5,True,True,Up (The Saturdays song),beyond generation target,pop style in infobox,The Saturdays discography
 The Saturdays,Issues,2009,,4,True,True,Issues (The Saturdays song),beyond generation target,pop style in infobox,The Saturdays discography
-The Saturdays,Just Can't Get Enough,2009,,2,True,True,Just Can't Get Enough (Depeche Mode song),selected,pop style in infobox,The Saturdays discography
+The Saturdays,Just Can't Get Enough,2009,,2,True,True,Just Can't Get Enough (Depeche Mode song),beyond generation target,pop style in infobox,The Saturdays discography
 The Saturdays,Work,2009,,22,True,False,,,,The Saturdays discography
-The Saturdays,Forever Is Over,2009,,2,True,True,Forever Is Over,selected,pop style in infobox,The Saturdays discography
+The Saturdays,Forever Is Over,2009,,2,True,True,Forever Is Over,beyond generation target,pop style in infobox,The Saturdays discography
 The Saturdays,Ego,2010,,9,True,True,Ego (The Saturdays song),beyond generation target,pop style in infobox,The Saturdays discography
 The Saturdays,Missing You,2010,,3,True,True,Missing You (The Saturdays song),beyond generation target,pop style in infobox,The Saturdays discography
 The Saturdays,Higher,2010,,10,True,True,Higher (The Saturdays song),beyond generation target,pop style in infobox,The Saturdays discography
@@ -10705,7 +10705,7 @@ The Supremes,"Love, I Never Knew You Could Feel So Good",1977,,,True,False,,,,Th
 The Supremes,Medley of Hits,1980,,,True,False,,,,The Supremes discography
 The Three Degrees,—,,,,True,False,,,,The Three Degrees discography
 The Three Degrees,Gee Baby (I'm Sorry),1965,,,True,False,,,,The Three Degrees discography
-The Three Degrees,Let's Shindig,1965,,,True,False,,,,The Three Degrees discography
+The Three Degrees,Let's Shindig,1965,,,False,False,,,,The Three Degrees discography
 The Three Degrees,I'm Gonna Need You,1965,,,True,False,,,,The Three Degrees discography
 The Three Degrees,Close Your Eyes,1965,,,True,False,,,,The Three Degrees discography
 The Three Degrees,Eve of Tomorrow,1965,,,False,False,,,,The Three Degrees discography
@@ -10779,7 +10779,7 @@ Tiffany,I Always Thought I'd See You Again,1990,,,True,False,,,,Tiffany discogra
 Tiffany,New Inside,1990,,,True,False,,,,Tiffany discography
 Tiffany,Here in My Heart,1990,,,True,False,,,,Tiffany discography
 Tiffany,Back in the Groove,1991,,,True,False,,,,Tiffany discography
-Tiffany,Voices That Care,1991,11,,True,True,Voices That Care,,,Tiffany discography
+Tiffany,Voices That Care,1991,11,,False,True,,,,Tiffany discography
 Tiffany,If Love Is Blind,1993,,,True,False,,,,Tiffany discography
 Tiffany,Can't You See,1994,,,True,False,,,,Tiffany discography
 Tiffany,I'm Not Sleeping,2000,,,True,False,,,,Tiffany discography
@@ -10915,7 +10915,7 @@ Toni Braxton,Take This Ring,2005,,,True,False,,,,Toni Braxton discography
 Toni Braxton,Suddenly,2006,,,True,False,,,,Toni Braxton discography
 Toni Braxton,The Time of Our Lives,2006,,,True,False,,,,Toni Braxton discography
 Toni Braxton,Yesterday,2009,,50,True,False,,,,Toni Braxton discography
-Toni Braxton,We Are the World 25 for Haiti,2010,2,50,True,True,We Are the World 25 for Haiti,,,Toni Braxton discography
+Toni Braxton,We Are the World 25 for Haiti,2010,2,50,False,True,,,,Toni Braxton discography
 Toni Braxton,Live Out Your Love,2020,,,False,False,,,,Toni Braxton discography
 Tove Lo,—,,,,True,False,,,,Tove Lo discography
 Tove Lo,Love Ballad,2012,,,True,False,,,,Tove Lo discography
@@ -11045,8 +11045,8 @@ Whitney Houston,Thinking About You,1985,,,True,False,,,,Whitney Houston singles 
 Whitney Houston,How Will I Know,1985,1,5,True,True,How Will I Know,selected,pop style in infobox,Whitney Houston singles discography
 Whitney Houston,Someone for Me,1985,,118,True,False,,,,Whitney Houston singles discography
 Whitney Houston,Greatest Love of All,1986,1,8,True,True,Greatest Love of All (Whitney Houston recording),selected,pop style in infobox,Whitney Houston singles discography
-Whitney Houston,Stop the Madness,1986,,,True,False,,,,Whitney Houston singles discography
-Whitney Houston,King Holiday,1986,,,True,False,,,,Whitney Houston singles discography
+Whitney Houston,Stop the Madness,1986,,,False,False,,,,Whitney Houston singles discography
+Whitney Houston,King Holiday,1986,,,False,False,,,,Whitney Houston singles discography
 Whitney Houston,I Wanna Dance with Somebody (Who Loves Me),1987,1,1,True,True,I Wanna Dance with Somebody (Who Loves Me),selected,pop style in infobox,Whitney Houston singles discography
 Whitney Houston,Didn't We Almost Have It All,1987,1,14,True,True,Didn't We Almost Have It All,selected,pop style in infobox,Whitney Houston singles discography
 Whitney Houston,So Emotional,1987,1,5,True,True,So Emotional,selected,pop style in infobox,Whitney Houston singles discography
@@ -11183,7 +11183,7 @@ Zara Larsson,Now You're Gone,2019,,79,False,False,,,,Zara Larsson discography
 Zara Larsson,Like It Is,2020,,49,True,False,,,,Zara Larsson discography
 Zara Larsson,Love Me Land,2020,,,True,False,,,,Zara Larsson discography
 Zara Larsson,Wow,2020,,,True,False,,,,Zara Larsson discography
-Zara Larsson,Times Like These,2020,,1,True,True,Times Like These (Foo Fighters song),,,Zara Larsson discography
+Zara Larsson,Times Like These,2020,,1,False,True,,,,Zara Larsson discography
 Zara Larsson,Talk About Love,2021,,,True,False,,,,Zara Larsson discography
 Zara Larsson,Look What You've Done,2021,,,True,False,,,,Zara Larsson discography
 Zara Larsson,Need Someone,2021,,,True,False,,,,Zara Larsson discography

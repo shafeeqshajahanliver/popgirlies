@@ -205,6 +205,21 @@
     "confidence": "sourced"
   },
   {
+    "id": "1964-my-guy",
+    "year": 1964,
+    "title": "My Guy",
+    "artist": "Mary Wells",
+    "article": "My Guy",
+    "us_peak": 1,
+    "uk_peak": 5,
+    "genres_raw": [
+      "R&B"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Mary_Wells_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "1964-come-see-about-me",
     "year": 1964,
     "title": "Come See About Me",
@@ -591,6 +606,21 @@
     "confidence": "sourced"
   },
   {
+    "id": "1969-ill-never-fall-in-love-again",
+    "year": 1969,
+    "title": "I'll Never Fall in Love Again",
+    "artist": "Bobbie Gentry",
+    "article": "I'll Never Fall in Love Again",
+    "us_peak": null,
+    "uk_peak": 1,
+    "genres_raw": [
+      "Pop"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Bobbie_Gentry_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "1970-aint-no-mountain-high-enough",
     "year": 1970,
     "title": "Ain't No Mountain High Enough",
@@ -865,22 +895,6 @@
     "confidence": "sourced"
   },
   {
-    "id": "1974-jazzman",
-    "year": 1974,
-    "title": "Jazzman",
-    "artist": "Carole King",
-    "article": "Jazzman",
-    "us_peak": 2,
-    "uk_peak": null,
-    "genres_raw": [
-      "Pop",
-      "jazz"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Carole_King_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
     "id": "1975-theme-from-mahogany-do-you-know-where-youre-going-to",
     "year": 1975,
     "title": "Theme from Mahogany (Do You Know Where You're Going To)",
@@ -925,22 +939,6 @@
       "psychedelia"
     ],
     "source": "https://en.wikipedia.org/wiki/Donna_Summer_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "1975-when-will-i-be-loved",
-    "year": 1975,
-    "title": "When Will I Be Loved",
-    "artist": "Linda Ronstadt",
-    "article": "When Will I Be Loved",
-    "us_peak": 2,
-    "uk_peak": null,
-    "genres_raw": [
-      "Southern rock",
-      "soft rock"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Linda_Ronstadt_singles_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -1161,6 +1159,22 @@
       "soul"
     ],
     "source": "https://en.wikipedia.org/wiki/Donna_Summer_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "1979-no-more-tears-enough-is-enough-barbra-streisand",
+    "year": 1979,
+    "title": "No More Tears (Enough Is Enough)",
+    "artist": "Barbra Streisand",
+    "article": "No More Tears (Enough Is Enough)",
+    "us_peak": 1,
+    "uk_peak": 3,
+    "genres_raw": [
+      "Disco",
+      "soul"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Barbra_Streisand_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -1401,21 +1415,6 @@
     "confidence": "sourced"
   },
   {
-    "id": "1981-queen-of-hearts",
-    "year": 1981,
-    "title": "Queen of Hearts",
-    "artist": "Juice Newton",
-    "article": "Queen of Hearts (Hank DeVito song)",
-    "us_peak": 2,
-    "uk_peak": null,
-    "genres_raw": [
-      "Country pop"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Juice_Newton_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
     "id": "1982-mickey",
     "year": 1982,
     "title": "Mickey",
@@ -1612,22 +1611,6 @@
     "confidence": "sourced"
   },
   {
-    "id": "1984-do-they-know-its-christmas",
-    "year": 1984,
-    "title": "Do They Know It's Christmas?",
-    "artist": "Bananarama",
-    "article": "Do They Know It's Christmas?",
-    "us_peak": 13,
-    "uk_peak": 1,
-    "genres_raw": [
-      "Christmas music",
-      "synth-pop"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Bananarama_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
     "id": "1984-automatic",
     "year": 1984,
     "title": "Automatic",
@@ -1719,22 +1702,6 @@
       "R&B"
     ],
     "source": "https://en.wikipedia.org/wiki/Dionne_Warwick_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "1985-we-are-the-world",
-    "year": 1985,
-    "title": "We Are the World",
-    "artist": "The Pointer Sisters",
-    "article": "We Are the World",
-    "us_peak": 1,
-    "uk_peak": null,
-    "genres_raw": [
-      "Pop",
-      "gospel"
-    ],
-    "source": "https://en.wikipedia.org/wiki/The_Pointer_Sisters_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -1857,6 +1824,23 @@
       "Pop"
     ],
     "source": "https://en.wikipedia.org/wiki/Madonna_singles_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "1986-you-keep-me-hangin-on",
+    "year": 1986,
+    "title": "You Keep Me Hangin' On",
+    "artist": "Kim Wilde",
+    "article": "You Keep Me Hangin' On",
+    "us_peak": 1,
+    "uk_peak": 2,
+    "genres_raw": [
+      "Hi-NRG",
+      "dance-pop<ref name=\"Molanphy 2024\">{{Cite podcast",
+      "url=https://slate.com/podcasts/hit-parade/2024/03/what-fast-car-by-luke-combs-tells-us-about-the-art-of-the-cover-song"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Kim_Wilde_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -2148,22 +2132,6 @@
       "Hi-NRG"
     ],
     "source": "https://en.wikipedia.org/wiki/Kylie_Minogue_singles_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "1987-let-it-be",
-    "year": 1987,
-    "title": "Let It Be",
-    "artist": "Bananarama",
-    "article": "Let It Be (song)",
-    "us_peak": null,
-    "uk_peak": 1,
-    "genres_raw": [
-      "Rock",
-      "soft rock"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Bananarama_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -2698,6 +2666,22 @@
     "confidence": "sourced"
   },
   {
+    "id": "1989-wouldnt-change-a-thing",
+    "year": 1989,
+    "title": "Wouldn't Change a Thing",
+    "artist": "Kylie Minogue",
+    "article": "Wouldn't Change a Thing (Kylie Minogue song)",
+    "us_peak": null,
+    "uk_peak": 2,
+    "genres_raw": [
+      "Dance-pop",
+      "teen pop"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Kylie_Minogue_singles_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "1990-vogue",
     "year": 1990,
     "title": "Vogue",
@@ -2897,6 +2881,21 @@
       "Pop"
     ],
     "source": "https://en.wikipedia.org/wiki/Bette_Midler_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "1990-better-the-devil-you-know",
+    "year": 1990,
+    "title": "Better the Devil You Know",
+    "artist": "Kylie Minogue",
+    "article": "Better the Devil You Know",
+    "us_peak": null,
+    "uk_peak": 2,
+    "genres_raw": [
+      "Dance-pop"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Kylie_Minogue_singles_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -3365,21 +3364,6 @@
     "uk_peak": 32,
     "genres_raw": [],
     "source": "https://en.wikipedia.org/wiki/Monica_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "1995-no-more-i-love-yous",
-    "year": 1995,
-    "title": "No More 'I Love You's'",
-    "artist": "Annie Lennox",
-    "article": "No More \"I Love You's\"",
-    "us_peak": 23,
-    "uk_peak": 2,
-    "genres_raw": [
-      "Pop"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Annie_Lennox_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -3869,6 +3853,19 @@
     "confidence": "sourced"
   },
   {
+    "id": "1998-lady-marmalade",
+    "year": 1998,
+    "title": "Lady Marmalade",
+    "artist": "All Saints",
+    "article": "Lady Marmalade",
+    "us_peak": null,
+    "uk_peak": 1,
+    "genres_raw": [],
+    "source": "https://en.wikipedia.org/wiki/All_Saints_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "1998-to-you-i-belong",
     "year": 1998,
     "title": "To You I Belong",
@@ -3936,22 +3933,6 @@
       "R&B"
     ],
     "source": "https://en.wikipedia.org/wiki/Whitney_Houston_singles_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "1998-stop",
-    "year": 1998,
-    "title": "Stop",
-    "artist": "Spice Girls",
-    "article": "Stop (Spice Girls song)",
-    "us_peak": 16,
-    "uk_peak": 2,
-    "genres_raw": [
-      "Dance-pop",
-      "soul-pop"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Spice_Girls_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -4528,15 +4509,53 @@
     "confidence": "sourced"
   },
   {
-    "id": "2000-gotta-tell-you",
-    "year": 2000,
-    "title": "Gotta Tell You",
-    "artist": "Samantha Mumba",
-    "article": "Gotta Tell You (song)",
-    "us_peak": 4,
-    "uk_peak": 2,
-    "genres_raw": [],
-    "source": "https://en.wikipedia.org/wiki/Samantha_Mumba_discography",
+    "id": "2001-lady-marmalade",
+    "year": 2001,
+    "title": "Lady Marmalade",
+    "artist": "Christina Aguilera",
+    "article": "Lady Marmalade",
+    "us_peak": 1,
+    "uk_peak": 1,
+    "genres_raw": [
+      "Pop",
+      "hip-hop soul",
+      "R&B"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Christina_Aguilera_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2001-lady-marmalade-pink",
+    "year": 2001,
+    "title": "Lady Marmalade",
+    "artist": "Pink",
+    "article": "Lady Marmalade",
+    "us_peak": 1,
+    "uk_peak": 1,
+    "genres_raw": [
+      "Pop",
+      "hip-hop soul",
+      "R&B"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Pink_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2001-lady-marmalade-mya",
+    "year": 2001,
+    "title": "Lady Marmalade",
+    "artist": "Mýa",
+    "article": "Lady Marmalade",
+    "us_peak": 1,
+    "uk_peak": 1,
+    "genres_raw": [
+      "Pop",
+      "hip-hop soul",
+      "R&B"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Mýa_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -4636,6 +4655,21 @@
     "confidence": "sourced"
   },
   {
+    "id": "2001-eternal-flame",
+    "year": 2001,
+    "title": "Eternal Flame",
+    "artist": "Atomic Kitten",
+    "article": "Eternal Flame (song)",
+    "us_peak": null,
+    "uk_peak": 1,
+    "genres_raw": [
+      "Pop"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Atomic_Kitten_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "2001-its-raining-men",
     "year": 2001,
     "title": "It's Raining Men",
@@ -4662,41 +4696,6 @@
       "Pop rock"
     ],
     "source": "https://en.wikipedia.org/wiki/Emma_Bunton_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2001-get-the-party-started",
-    "year": 2001,
-    "title": "Get the Party Started",
-    "artist": "Pink",
-    "article": "Get the Party Started",
-    "us_peak": 4,
-    "uk_peak": 2,
-    "genres_raw": [
-      "Dance-pop",
-      "pop rock",
-      "electro",
-      "boogie"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Pink_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2001-whenever-wherever",
-    "year": 2001,
-    "title": "Whenever, Wherever",
-    "artist": "Shakira",
-    "article": "Whenever, Wherever",
-    "us_peak": 6,
-    "uk_peak": 2,
-    "genres_raw": [
-      "Worldbeat",
-      "Latin pop",
-      "pop rock"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Shakira_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -5615,6 +5614,19 @@
     "confidence": "sourced"
   },
   {
+    "id": "2006-a-moment-like-this",
+    "year": 2006,
+    "title": "A Moment Like This",
+    "artist": "Leona Lewis",
+    "article": "A Moment Like This",
+    "us_peak": null,
+    "uk_peak": 1,
+    "genres_raw": [],
+    "source": "https://en.wikipedia.org/wiki/Leona_Lewis_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "2006-the-sweet-escape",
     "year": 2006,
     "title": "The Sweet Escape",
@@ -5774,6 +5786,22 @@
       "R&B"
     ],
     "source": "https://en.wikipedia.org/wiki/Beyoncé_singles_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2007-beautiful-liar-shakira",
+    "year": 2007,
+    "title": "Beautiful Liar",
+    "artist": "Shakira",
+    "article": "Beautiful Liar",
+    "us_peak": 3,
+    "uk_peak": 1,
+    "genres_raw": [
+      "Latin pop",
+      "R&B"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Shakira_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -6315,38 +6343,6 @@
     "confidence": "sourced"
   },
   {
-    "id": "2009-just-cant-get-enough",
-    "year": 2009,
-    "title": "Just Can't Get Enough",
-    "artist": "The Saturdays",
-    "article": "Just Can't Get Enough (Depeche Mode song)",
-    "us_peak": null,
-    "uk_peak": 2,
-    "genres_raw": [
-      "Dance-pop",
-      "electropop",
-      "synth-pop"
-    ],
-    "source": "https://en.wikipedia.org/wiki/The_Saturdays_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2009-forever-is-over",
-    "year": 2009,
-    "title": "Forever Is Over",
-    "artist": "The Saturdays",
-    "article": "Forever Is Over",
-    "us_peak": null,
-    "uk_peak": 2,
-    "genres_raw": [
-      "Pop rock"
-    ],
-    "source": "https://en.wikipedia.org/wiki/The_Saturdays_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
     "id": "2010-california-gurls",
     "year": 2010,
     "title": "California Gurls",
@@ -6498,23 +6494,6 @@
       "Dance-pop"
     ],
     "source": "https://en.wikipedia.org/wiki/Lady_Gaga_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2010-everybody-hurts",
-    "year": 2010,
-    "title": "Everybody Hurts",
-    "artist": "Kylie Minogue",
-    "article": "Everybody Hurts",
-    "us_peak": null,
-    "uk_peak": 1,
-    "genres_raw": [
-      "Rock",
-      "soft rock",
-      "gospel"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Kylie_Minogue_singles_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -6795,21 +6774,6 @@
     "confidence": "sourced"
   },
   {
-    "id": "2011-wishing-on-a-star",
-    "year": 2011,
-    "title": "Wishing on a Star",
-    "artist": "Little Mix",
-    "article": "Wishing on a Star",
-    "us_peak": null,
-    "uk_peak": 1,
-    "genres_raw": [
-      "Soul/R&B"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Little_Mix_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
     "id": "2011-lights",
     "year": 2011,
     "title": "Lights",
@@ -7024,19 +6988,6 @@
     "confidence": "sourced"
   },
   {
-    "id": "2012-he-aint-heavy-hes-my-brother",
-    "year": 2012,
-    "title": "He Ain't Heavy, He's My Brother",
-    "artist": "Melanie C",
-    "article": "He Ain't Heavy, He's My Brother",
-    "us_peak": null,
-    "uk_peak": 1,
-    "genres_raw": [],
-    "source": "https://en.wikipedia.org/wiki/Melanie_C_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
     "id": "2012-what-about-us",
     "year": 2012,
     "title": "What About Us",
@@ -7180,6 +7131,22 @@
       "Soul"
     ],
     "source": "https://en.wikipedia.org/wiki/Emeli_Sandé_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2012-blow-me-one-last-kiss",
+    "year": 2012,
+    "title": "Blow Me (One Last Kiss)",
+    "artist": "Pink",
+    "article": "Blow Me (One Last Kiss)",
+    "us_peak": 5,
+    "uk_peak": 3,
+    "genres_raw": [
+      "Electropop",
+      "pop rock"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Pink_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -7345,6 +7312,22 @@
     "confidence": "sourced"
   },
   {
+    "id": "2013-heart-attack",
+    "year": 2013,
+    "title": "Heart Attack",
+    "artist": "Demi Lovato",
+    "article": "Heart Attack (Demi Lovato song)",
+    "us_peak": 10,
+    "uk_peak": 3,
+    "genres_raw": [
+      "Electropop",
+      "power pop"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Demi_Lovato_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "2014-all-about-that-bass",
     "year": 2014,
     "title": "All About That Bass",
@@ -7437,6 +7420,36 @@
       "Pop-soul"
     ],
     "source": "https://en.wikipedia.org/wiki/Jessie_J_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2014-bang-bang-ariana-grande",
+    "year": 2014,
+    "title": "Bang Bang",
+    "artist": "Ariana Grande",
+    "article": "Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)",
+    "us_peak": 3,
+    "uk_peak": 1,
+    "genres_raw": [
+      "Pop-soul"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Ariana_Grande_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2014-bang-bang-nicki-minaj",
+    "year": 2014,
+    "title": "Bang Bang",
+    "artist": "Nicki Minaj",
+    "article": "Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)",
+    "us_peak": 3,
+    "uk_peak": 1,
+    "genres_raw": [
+      "Pop-soul"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Nicki_Minaj_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -7676,6 +7689,41 @@
     "confidence": "sourced"
   },
   {
+    "id": "2015-fourfiveseconds",
+    "year": 2015,
+    "title": "FourFiveSeconds",
+    "artist": "Rihanna",
+    "article": "FourFiveSeconds",
+    "us_peak": 4,
+    "uk_peak": 3,
+    "genres_raw": [
+      "Folk pop",
+      "pop rock",
+      "pop soul"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Rihanna_singles_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2015-worth-it",
+    "year": 2015,
+    "title": "Worth It",
+    "artist": "Fifth Harmony",
+    "article": "Worth It (Fifth Harmony song)",
+    "us_peak": 12,
+    "uk_peak": 3,
+    "genres_raw": [
+      "Flat list",
+      "Dance-pop",
+      "R&B",
+      "endflatlist"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Fifth_Harmony_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "2016-work",
     "year": 2016,
     "title": "Work",
@@ -7878,45 +7926,6 @@
       "Electropop",
       "tropical house"
     ],
-    "source": "https://en.wikipedia.org/wiki/Dua_Lipa_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2017-bridge-over-troubled-water",
-    "year": 2017,
-    "title": "Bridge over Troubled Water",
-    "artist": "Geri Halliwell",
-    "article": "Bridge over Troubled Water (song)",
-    "us_peak": null,
-    "uk_peak": 1,
-    "genres_raw": [],
-    "source": "https://en.wikipedia.org/wiki/Geri_Halliwell_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2017-bridge-over-troubled-water-pixie-lott",
-    "year": 2017,
-    "title": "Bridge over Troubled Water",
-    "artist": "Pixie Lott",
-    "article": "Bridge over Troubled Water (song)",
-    "us_peak": null,
-    "uk_peak": 1,
-    "genres_raw": [],
-    "source": "https://en.wikipedia.org/wiki/Pixie_Lott_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2017-bridge-over-troubled-water-dua-lipa",
-    "year": 2017,
-    "title": "Bridge over Troubled Water",
-    "artist": "Dua Lipa",
-    "article": "Bridge over Troubled Water (song)",
-    "us_peak": null,
-    "uk_peak": 1,
-    "genres_raw": [],
     "source": "https://en.wikipedia.org/wiki/Dua_Lipa_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
@@ -8274,6 +8283,38 @@
     "confidence": "sourced"
   },
   {
+    "id": "2019-dont-call-me-angel-ariana-grande",
+    "year": 2019,
+    "title": "Don't Call Me Angel",
+    "artist": "Ariana Grande",
+    "article": "Don't Call Me Angel",
+    "us_peak": 13,
+    "uk_peak": 2,
+    "genres_raw": [
+      "Pop",
+      "trap"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Ariana_Grande_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2019-dont-call-me-angel-lana-del-rey",
+    "year": 2019,
+    "title": "Don't Call Me Angel",
+    "artist": "Lana Del Rey",
+    "article": "Don't Call Me Angel",
+    "us_peak": 13,
+    "uk_peak": 2,
+    "genres_raw": [
+      "Pop",
+      "trap"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Lana_Del_Rey_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
     "id": "2019-higher-love",
     "year": 2019,
     "title": "Higher Love",
@@ -8323,21 +8364,6 @@
     "confidence": "sourced"
   },
   {
-    "id": "2019-everything-i-wanted",
-    "year": 2019,
-    "title": "Everything I Wanted",
-    "artist": "Billie Eilish",
-    "article": "Everything I Wanted",
-    "us_peak": 8,
-    "uk_peak": 3,
-    "genres_raw": [
-      "Alternative pop"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Billie_Eilish_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
     "id": "2020-rain-on-me",
     "year": 2020,
     "title": "Rain on Me",
@@ -8351,6 +8377,23 @@
       "disco"
     ],
     "source": "https://en.wikipedia.org/wiki/Lady_Gaga_discography",
+    "retrieved": "2026-10-17",
+    "confidence": "sourced"
+  },
+  {
+    "id": "2020-rain-on-me-ariana-grande",
+    "year": 2020,
+    "title": "Rain on Me",
+    "artist": "Ariana Grande",
+    "article": "Rain on Me (Lady Gaga and Ariana Grande song)",
+    "us_peak": 1,
+    "uk_peak": 1,
+    "genres_raw": [
+      "House",
+      "dance-pop",
+      "disco"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Ariana_Grande_discography",
     "retrieved": "2026-10-17",
     "confidence": "sourced"
   },
@@ -9606,41 +9649,6 @@
     "uk_peak": 6,
     "genres_raw": [
       "Pop"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Tate_McRae_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2025-abracadabra",
-    "year": 2025,
-    "title": "Abracadabra",
-    "artist": "Lady Gaga",
-    "article": "Abracadabra (Lady Gaga song)",
-    "us_peak": 13,
-    "uk_peak": 3,
-    "genres_raw": [
-      "Dance",
-      "dance-pop",
-      "electropop",
-      "synth-pop",
-      "acid techno"
-    ],
-    "source": "https://en.wikipedia.org/wiki/Lady_Gaga_discography",
-    "retrieved": "2026-10-17",
-    "confidence": "sourced"
-  },
-  {
-    "id": "2025-sports-car",
-    "year": 2025,
-    "title": "Sports Car",
-    "artist": "Tate McRae",
-    "article": "Sports Car (song)",
-    "us_peak": 16,
-    "uk_peak": 3,
-    "genres_raw": [
-      "Pop",
-      "dance-pop"
     ],
     "source": "https://en.wikipedia.org/wiki/Tate_McRae_discography",
     "retrieved": "2026-10-17",

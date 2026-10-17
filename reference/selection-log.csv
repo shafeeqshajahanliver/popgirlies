@@ -2,20 +2,41 @@ artist,song,decision,rule
 Lulu,Relight My Fire,excluded,not lead credit
 Linda Ronstadt,Different Drum,excluded,not lead credit
 Linda Ronstadt,An American Dream,excluded,not lead credit
+Helen Reddy,Voices That Care,excluded,not lead credit
 Kim Carnes,Don't Fall in Love with a Dreamer,excluded,not lead credit
 Kim Carnes,What About Me?,excluded,not lead credit
+The Pointer Sisters,We Are the World,excluded,not lead credit
+The Pointer Sisters,Voices That Care,excluded,not lead credit
 Dolly Parton,Islands in the Stream,excluded,not lead credit
 Dolly Parton,When I Get Where I'm Going,excluded,not lead credit
+Bananarama,Do They Know It's Christmas?,excluded,not lead credit
+Bananarama,Let It Be,excluded,not lead credit
 Madonna,Me Against the Music,excluded,not lead credit
+Cyndi Lauper,We Are the World,excluded,not lead credit
+Tiffany,Voices That Care,excluded,not lead credit
 Kylie Minogue,Higher,excluded,not lead credit
+Kylie Minogue,Do They Know It's Christmas?,excluded,not lead credit
+Kylie Minogue,Everybody Hurts,excluded,not lead credit
+Kylie Minogue,God Only Knows,excluded,not lead credit
+Kylie Minogue,Stop Crying Your Heart Out,excluded,not lead credit
+Gloria Estefan,Almost Like Praying,excluded,not lead credit
+Sinéad O'Connor,Do They Know It's Christmas?,excluded,not lead credit
 Mariah Carey,U Make Me Wanna,excluded,not lead credit
+Mariah Carey,Just Stand Up!,excluded,not lead credit
+Mariah Carey,Everybody Hurts,excluded,not lead credit
 En Vogue,So What the Fuss,excluded,not lead credit
 Jody Watley,This Is for the Lover in You,excluded,not lead credit
+Lisa Stansfield,Do They Know It's Christmas?,excluded,not lead credit
 Yazz,Doctorin' the House,excluded,not lead credit
+Bette Midler,We Are the World,excluded,not lead credit
 Toni Braxton,Give U My Heart,excluded,not lead credit
+Toni Braxton,We Are the World 25 for Haiti,excluded,not lead credit
 TLC,Crooked Smile,excluded,not lead credit
+Spice Girls,(How Does It Feel to Be) On Top of the World,excluded,not lead credit
+Spice Girls,It's Only Rock 'n Roll (But I Like It),excluded,not lead credit
 Destiny's Child,The Girl Is Mine,excluded,not lead credit
 Britney Spears,S&M,excluded,not lead credit
+Britney Spears,What's Going On,excluded,not lead credit
 Christina Aguilera,Tilt Ya Head Back,excluded,not lead credit
 Christina Aguilera,Tell Me,excluded,not lead credit
 Christina Aguilera,Moves like Jagger,excluded,not lead credit
@@ -24,27 +45,42 @@ Shania Twain,Unhealthy,excluded,not lead credit
 Aaliyah,Up Jumps da Boogie,excluded,not lead credit
 Jennifer Lopez,Control Myself,excluded,not lead credit
 Jennifer Lopez,T.H.E. (The Hardest Ever),excluded,not lead credit
+Jennifer Lopez,What's Going On,excluded,not lead credit
+Jennifer Lopez,Almost Like Praying,excluded,not lead credit
+Geri Halliwell,Bridge over Troubled Water,excluded,not lead credit
 Melanie C,When You're Gone,excluded,not lead credit
+Melanie C,"He Ain't Heavy, He's My Brother",excluded,not lead credit
+Sugababes,Do They Know It's Christmas?,excluded,not lead credit
 LeAnn Rimes,Written in the Stars,excluded,not lead credit
 LeAnn Rimes,Last Thing on My Mind,excluded,not lead credit
 Faith Hill,It's Your Love,excluded,not lead credit
 Dido,Stan,excluded,not lead credit
 Dido,One Step Too Far,excluded,not lead credit
+Dido,Do They Know It's Christmas?,excluded,not lead credit
+Pink,We Are the World 25 for Haiti,excluded,not lead credit
 Sophie Ellis-Bextor,Heartbreak (Make Me a Dancer),excluded,not lead credit
 Christina Milian,Between Me and You,excluded,not lead credit
 Christina Milian,It's All Gravy,excluded,not lead credit
+Nelly Furtado,What's Going On,excluded,not lead credit
 Nelly Furtado,Give It to Me,excluded,not lead credit
 Nelly Furtado,Broken Strings,excluded,not lead credit
 Nelly Furtado,Morning After Dark,excluded,not lead credit
 Des'ree,Delicate,excluded,not lead credit
 Mýa,Ghetto Supastar,excluded,not lead credit
 Mýa,Girls Dem Sugar,excluded,not lead credit
+Mýa,We Are the World 25 for Haiti,excluded,not lead credit
 Gwen Stefani,South Side,excluded,not lead credit
 Gwen Stefani,Let Me Blow Ya Mind,excluded,not lead credit
+Gwen Stefani,What's Going On,excluded,not lead credit
 Gwen Stefani,Can I Have It Like That,excluded,not lead credit
 Gwen Stefani,Happy Anywhere,excluded,not lead credit
 Fergie,Party People,excluded,not lead credit
 Fergie,Gettin' Over You,excluded,not lead credit
+Fergie,Just Stand Up!,excluded,not lead credit
+Fergie,We Are the World 25 for Haiti,excluded,not lead credit
+Leona Lewis,Just Stand Up!,excluded,not lead credit
+Leona Lewis,Everybody Hurts,excluded,not lead credit
+Leona Lewis,Bridge over Troubled Water,excluded,not lead credit
 Lady Gaga,Chillin,excluded,not lead credit
 Katy Perry,Starstrukk,excluded,not lead credit
 Katy Perry,If We Ever Meet Again,excluded,not lead credit
@@ -64,6 +100,7 @@ Rihanna,Too Good,excluded,not lead credit
 Rihanna,Selfish,excluded,not lead credit
 Rihanna,Wild Thoughts,excluded,not lead credit
 Rihanna,Loyalty,excluded,not lead credit
+Rihanna,Just Stand Up!,excluded,not lead credit
 Beyoncé,'03 Bonnie & Clyde,excluded,not lead credit
 Beyoncé,Love in This Club Part II,excluded,not lead credit
 Beyoncé,Telephone,excluded,not lead credit
@@ -85,6 +122,8 @@ Ashanti,Into You,excluded,not lead credit
 Ashanti,Wonderful,excluded,not lead credit
 Ashanti,Southside,excluded,not lead credit
 Ashanti,Body on Me,excluded,not lead credit
+Natasha Bedingfield,Just Stand Up!,excluded,not lead credit
+Rachel Stevens,Do They Know It's Christmas?,excluded,not lead credit
 Lily Allen,Oh My God,excluded,not lead credit
 Lily Allen,Just Be Good to Green,excluded,not lead credit
 Lily Allen,5 O'Clock,excluded,not lead credit
@@ -99,25 +138,37 @@ Taylor Swift,Us,excluded,not lead credit
 Miley Cyrus,23,excluded,not lead credit
 Miley Cyrus,Feelin' Myself,excluded,not lead credit
 Miley Cyrus,Nothing Breaks Like a Heart,excluded,not lead credit
+Miley Cyrus,Just Stand Up!,excluded,not lead credit
+Miley Cyrus,Everybody Hurts,excluded,not lead credit
+Miley Cyrus,We Are the World 25 for Haiti,excluded,not lead credit
+Jordin Sparks,We Are the World 25 for Haiti,excluded,not lead credit
 Kesha,Right Round,excluded,not lead credit
 Kesha,Dirty Picture,excluded,not lead credit
 Kesha,My First Kiss,excluded,not lead credit
 Kesha,Timber,excluded,not lead credit
 Kesha,Till the World Ends,excluded,not lead credit
+Pixie Lott,I Got Soul,excluded,not lead credit
 Pixie Lott,Bright Lights,excluded,not lead credit
+Pixie Lott,Bridge over Troubled Water,excluded,not lead credit
 Alesha Dixon,Dance for Me,excluded,not lead credit
 Cheryl,Heartbreaker,excluded,not lead credit
+Cheryl,Everybody Hurts,excluded,not lead credit
 Cheryl,Check It Out (Special Mix),excluded,not lead credit
+Joss Stone,Do They Know It's Christmas?,excluded,not lead credit
 Ellie Goulding,Wonderman,excluded,not lead credit
 Ellie Goulding,I Need Your Love,excluded,not lead credit
 Ellie Goulding,Outside,excluded,not lead credit
+Ellie Goulding,Do They Know It's Christmas?,excluded,not lead credit
+Ellie Goulding,Times Like These,excluded,not lead credit
 Jessie J,Calling All Hearts,excluded,not lead credit
+Jessie J,Bridge over Troubled Water,excluded,not lead credit
 Ariana Grande,Bed,excluded,not lead credit
 Ariana Grande,Defying Gravity,excluded,not lead credit
 Ariana Grande,Sympathy Is a Knife,excluded,not lead credit
 Selena Gomez,I Want You to Know,excluded,not lead credit
 Selena Gomez,We Don't Talk Anymore,excluded,not lead credit
 Selena Gomez,Taki Taki,excluded,not lead credit
+Demi Lovato,We Rock,excluded,not lead credit
 Demi Lovato,Somebody to You,excluded,not lead credit
 Demi Lovato,Up,excluded,not lead credit
 Demi Lovato,No Promises,excluded,not lead credit
@@ -131,18 +182,25 @@ Rita Ora,Hot Right Now,excluded,not lead credit
 Rita Ora,Lay Down Your Weapons,excluded,not lead credit
 Rita Ora,Black Widow,excluded,not lead credit
 Rita Ora,Doing It,excluded,not lead credit
+Rita Ora,Bridge over Troubled Water,excluded,not lead credit
 Rita Ora,Lonely Together,excluded,not lead credit
+Rita Ora,Times Like These,excluded,not lead credit
 Jess Glynne,Rather Be,excluded,not lead credit
 Jess Glynne,My Love,excluded,not lead credit
 Jess Glynne,Not Letting Go,excluded,not lead credit
 Jess Glynne,These Days,excluded,not lead credit
+Jess Glynne,Times Like These,excluded,not lead credit
 Zara Larsson,Girls Like,excluded,not lead credit
 Zara Larsson,This One's for You,excluded,not lead credit
 Zara Larsson,Symphony,excluded,not lead credit
+Zara Larsson,Times Like These,excluded,not lead credit
 Tove Lo,Heroes (We Could Be),excluded,not lead credit
 Tove Lo,Close,excluded,not lead credit
 Anne-Marie,Rockabye,excluded,not lead credit
+Anne-Marie,Bridge over Troubled Water,excluded,not lead credit
 Anne-Marie,Don't Leave Me Alone,excluded,not lead credit
+Anne-Marie,Times Like These,excluded,not lead credit
+Little Mix,Wishing on a Star,excluded,not lead credit
 Nicki Minaj,My Chick Bad,excluded,not lead credit
 Nicki Minaj,Lil Freak,excluded,not lead credit
 Nicki Minaj,Bottoms Up,excluded,not lead credit
@@ -188,6 +246,7 @@ Nicki Minaj,Plain Jane,excluded,not lead credit
 Nicki Minaj,Dark Side of the Moon,excluded,not lead credit
 Ella Henderson,Glitterball,excluded,not lead credit
 Ella Henderson,Here for You,excluded,not lead credit
+Ella Henderson,Bridge over Troubled Water,excluded,not lead credit
 Ella Henderson,This Is Real,excluded,not lead credit
 Ella Henderson,21 Reasons,excluded,not lead credit
 Halsey,Closer,excluded,not lead credit
@@ -197,8 +256,13 @@ Halsey,Die for Me,excluded,not lead credit
 Bebe Rexha,Take Me Home,excluded,not lead credit
 Bebe Rexha,Hey Mama,excluded,not lead credit
 Bebe Rexha,Back to You,excluded,not lead credit
+Hailee Steinfeld,Times Like These,excluded,not lead credit
 Lana Del Rey,Snow on the Beach,excluded,not lead credit
 Paloma Faith,Changing,excluded,not lead credit
+Paloma Faith,"He Ain't Heavy, He's My Brother",excluded,not lead credit
+Paloma Faith,Do They Know It's Christmas?,excluded,not lead credit
+Paloma Faith,Bridge over Troubled Water,excluded,not lead credit
+Paloma Faith,Times Like These,excluded,not lead credit
 Emeli Sandé,Diamond Rings,excluded,not lead credit
 Emeli Sandé,Never Be Your Woman,excluded,not lead credit
 Emeli Sandé,Read All About It,excluded,not lead credit
@@ -206,8 +270,10 @@ Emeli Sandé,Wonder,excluded,not lead credit
 Emeli Sandé,Beneath Your Beautiful,excluded,not lead credit
 Emeli Sandé,Lifted,excluded,not lead credit
 Emeli Sandé,What I Did for Love,excluded,not lead credit
+Emeli Sandé,Bridge over Troubled Water,excluded,not lead credit
 Ella Eyre,Waiting All Night,excluded,not lead credit
 Ella Eyre,Gravity,excluded,not lead credit
+Ella Eyre,Bridge over Troubled Water,excluded,not lead credit
 Alessia Cara,1-800-273-8255,excluded,not lead credit
 Julia Michaels,I Miss You,excluded,not lead credit
 Julia Michaels,If the World Was Ending,excluded,not lead credit
@@ -216,12 +282,16 @@ Iggy Azalea,No Mediocre,excluded,not lead credit
 Iggy Azalea,Booty,excluded,not lead credit
 Becky Hill,Afterglow,excluded,not lead credit
 Mabel,Ring Ring,excluded,not lead credit
+Mabel,Times Like These,excluded,not lead credit
 Mabel,I Wish,excluded,not lead credit
 Marina and the Diamonds,Baby,excluded,not lead credit
 Dua Lipa,No Lie,excluded,not lead credit
 Dua Lipa,Prisoner,excluded,not lead credit
 Dua Lipa,Demeanor,excluded,not lead credit
+Dua Lipa,Bridge over Troubled Water,excluded,not lead credit
+Dua Lipa,Times Like These,excluded,not lead credit
 Camila Cabello,Know No Better,excluded,not lead credit
+Camila Cabello,Almost Like Praying,excluded,not lead credit
 Camila Cabello,Beautiful,excluded,not lead credit
 Camila Cabello,South of the Border,excluded,not lead credit
 Billie Eilish,Guess,excluded,not lead credit
@@ -251,6 +321,7 @@ Cardi B,On Me,excluded,not lead credit
 Cardi B,Wish Wish,excluded,not lead credit
 Raye,By Your Side,excluded,not lead credit
 Raye,You Don't Know Me,excluded,not lead credit
+Raye,Bridge over Troubled Water,excluded,not lead credit
 Raye,Ferrari Horses,excluded,not lead credit
 Raye,Born Again,excluded,not lead credit
 Karol G,X,excluded,not lead credit
@@ -263,135 +334,6 @@ SZA,I Do,excluded,not lead credit
 SZA,Staring at the Sun,excluded,not lead credit
 SZA,Beautiful,excluded,not lead credit
 SZA,Telekinesis,excluded,not lead credit
-Petula Clark,Downtown '88,duplicate,"duet counted once, under Petula Clark"
-Diana Ross,Chain Reaction '93,duplicate,"duet counted once, under Diana Ross"
-Dionne Warwick,Anyone Who Had a Heart,duplicate,"duet counted once, under Cilla Black"
-Dionne Warwick,I Just Don't Know What to Do with Myself,duplicate,"duet counted once, under Dusty Springfield"
-Dionne Warwick,Alfie,duplicate,"duet counted once, under Cilla Black"
-Aretha Franklin,I Say a Little Prayer,duplicate,"duet counted once, under Dionne Warwick"
-Aretha Franklin,Son of a Preacher Man,duplicate,"duet counted once, under Dusty Springfield"
-Aretha Franklin,A Brand New Me,duplicate,"duet counted once, under Dusty Springfield"
-Carole King,One Fine Day,duplicate,"duet counted once, under The Chiffons"
-Gloria Gaynor,"Reach Out, I'll Be There",duplicate,"duet counted once, under Diana Ross"
-Gloria Gaynor,I Will Survive,duplicate,"duet counted once, under Diana Ross"
-Helen Reddy,You're My World,duplicate,"duet counted once, under Cilla Black"
-Barbra Streisand,No More Tears (Enough Is Enough),duplicate,"duet counted once, under Donna Summer"
-Sheena Easton,We've Got Tonight,duplicate,"duet counted once, under Lulu"
-The Pointer Sisters,Voices That Care,duplicate,"duet counted once, under Helen Reddy"
-Bananarama,Nathan Jones,duplicate,"duet counted once, under The Supremes"
-Bananarama,Cruel Summer '89,duplicate,"duet counted once, under Bananarama"
-Mary Wells,You Lost the Sweetest Boy,duplicate,"duet counted once, under The Supremes"
-Mary Wells,My Guy,duplicate,"duet counted once, under Sister Sledge"
-Bobbie Gentry,I'll Never Fall in Love Again,duplicate,"duet counted once, under Dionne Warwick"
-Cyndi Lauper,We Are the World,duplicate,"duet counted once, under The Pointer Sisters"
-Debbie Gibson,You're the One That I Want,duplicate,"duet counted once, under Olivia Newton-John"
-Tiffany,Voices That Care,duplicate,"duet counted once, under Helen Reddy"
-Kylie Minogue,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-Sinéad O'Connor,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-Samantha Fox,I Only Wanna Be with You,duplicate,"duet counted once, under Dusty Springfield"
-Kim Wilde,You Keep Me Hangin' On,duplicate,"duet counted once, under The Supremes"
-Mariah Carey,Endless Love,duplicate,"duet counted once, under Diana Ross"
-Mariah Carey,When You Believe,duplicate,"duet counted once, under Whitney Houston"
-En Vogue,Giving Him Something He Can Feel,duplicate,"duet counted once, under Aretha Franklin"
-Lisa Stansfield,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-Salt-N-Pepa,Whatta Man,duplicate,"duet counted once, under En Vogue"
-Bette Midler,We Are the World,duplicate,"duet counted once, under The Pointer Sisters"
-Mica Paris,Where Is the Love,duplicate,"duet counted once, under Roberta Flack"
-Celine Dion,Tell Him,duplicate,"duet counted once, under Barbra Streisand"
-Celine Dion,The First Time Ever I Saw Your Face,duplicate,"duet counted once, under Roberta Flack"
-Celine Dion,Voices That Care,duplicate,"duet counted once, under Helen Reddy"
-Toni Braxton,We Are the World 25 for Haiti,duplicate,"duet counted once, under Celine Dion"
-All Saints,Lady Marmalade,duplicate,"duet counted once, under Labelle"
-Britney Spears,What's Going On,duplicate,"duet counted once, under Cyndi Lauper"
-Christina Aguilera,Lady Marmalade,duplicate,"duet counted once, under Labelle"
-Christina Aguilera,What's Going On,duplicate,"duet counted once, under Cyndi Lauper"
-Jessica Simpson,These Boots Are Made for Walkin',duplicate,"duet counted once, under Nancy Sinatra"
-Sheryl Crow,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Jennifer Lopez,What's Going On,duplicate,"duet counted once, under Cyndi Lauper"
-Jennifer Lopez,Almost Like Praying,duplicate,"duet counted once, under Gloria Estefan"
-Atomic Kitten,Eternal Flame,duplicate,"duet counted once, under The Bangles"
-Atomic Kitten,Right Now 2004,duplicate,"duet counted once, under Atomic Kitten"
-Atomic Kitten,Southgate You're the One,duplicate,"duet counted once, under Atomic Kitten"
-Billie Piper,Thank ABBA for the Music,duplicate,"duet counted once, under B*Witched"
-Melanie C,Stop Crying Your Heart Out,duplicate,"duet counted once, under Kylie Minogue"
-Emma Bunton,Downtown,duplicate,"duet counted once, under Petula Clark"
-Eternal,Angel of Mine,duplicate,"duet counted once, under Monica"
-Sugababes,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-LeAnn Rimes,You Light Up My Life,duplicate,"duet counted once, under Debby Boone"
-LeAnn Rimes,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Faith Hill,Forever Country,duplicate,"duet counted once, under Dolly Parton"
-Dido,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-Pink,Lady Marmalade,duplicate,"duet counted once, under Labelle"
-Pink,We Are the World 25 for Haiti,duplicate,"duet counted once, under Celine Dion"
-Mýa,Lady Marmalade,duplicate,"duet counted once, under Labelle"
-Mýa,We Are the World 25 for Haiti,duplicate,"duet counted once, under Celine Dion"
-Gwen Stefani,What's Going On,duplicate,"duet counted once, under Cyndi Lauper"
-Fergie,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Fergie,We Are the World 25 for Haiti,duplicate,"duet counted once, under Celine Dion"
-Leona Lewis,A Moment Like This,duplicate,"duet counted once, under Kelly Clarkson"
-Leona Lewis,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Leona Lewis,Everybody Hurts,duplicate,"duet counted once, under Kylie Minogue"
-Leona Lewis,Bridge over Troubled Water,duplicate,"duet counted once, under Geri Halliwell"
-Rihanna,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Beyoncé,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Beyoncé,Jolene,duplicate,"duet counted once, under Dolly Parton"
-Ciara,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Ashanti,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Shakira,Beautiful Liar,duplicate,"duet counted once, under Beyoncé"
-Natasha Bedingfield,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Girls Aloud,Walk This Way,duplicate,"duet counted once, under Sugababes"
-Rachel Stevens,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-Miley Cyrus,II Most Wanted,duplicate,"duet counted once, under Beyoncé"
-Miley Cyrus,Just Stand Up!,duplicate,"duet counted once, under Mariah Carey"
-Miley Cyrus,Everybody Hurts,duplicate,"duet counted once, under Kylie Minogue"
-Miley Cyrus,We Are the World 25 for Haiti,duplicate,"duet counted once, under Celine Dion"
-Jordin Sparks,We Are the World 25 for Haiti,duplicate,"duet counted once, under Celine Dion"
-Cheryl,Everybody Hurts,duplicate,"duet counted once, under Mariah Carey"
-Joss Stone,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-Ellie Goulding,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-Jessie J,Bridge over Troubled Water,duplicate,"duet counted once, under Geri Halliwell"
-Ariana Grande,Bang Bang,duplicate,"duet counted once, under Jessie J"
-Ariana Grande,Don't Call Me Angel,duplicate,"duet counted once, under Miley Cyrus"
-Ariana Grande,Rain on Me,duplicate,"duet counted once, under Lady Gaga"
-Ariana Grande,"Santa, Can't You Hear Me",duplicate,"duet counted once, under Kelly Clarkson"
-Selena Gomez,Send It On,duplicate,"duet counted once, under Miley Cyrus"
-Demi Lovato,Send It On,duplicate,"duet counted once, under Miley Cyrus"
-Rita Ora,Bridge over Troubled Water,duplicate,"duet counted once, under Aretha Franklin"
-Jess Glynne,Times Like These,duplicate,"duet counted once, under Ellie Goulding"
-Jess Glynne,Stop Crying Your Heart Out,duplicate,"duet counted once, under Kylie Minogue"
-Zara Larsson,Times Like These,duplicate,"duet counted once, under Ellie Goulding"
-Anne-Marie,Bridge over Troubled Water,duplicate,"duet counted once, under Geri Halliwell"
-Anne-Marie,Times Like These,duplicate,"duet counted once, under Ellie Goulding"
-Little Mix,Kiss My (Uh-Oh),duplicate,"duet counted once, under Anne-Marie"
-Nicki Minaj,Bang Bang,duplicate,"duet counted once, under Jessie J"
-Ella Henderson,Alibi,duplicate,"duet counted once, under Natasha Bedingfield"
-Ella Henderson,Bridge over Troubled Water,duplicate,"duet counted once, under Geri Halliwell"
-Hailee Steinfeld,Times Like These,duplicate,"duet counted once, under Ellie Goulding"
-Lana Del Rey,Don't Call Me Angel,duplicate,"duet counted once, under Miley Cyrus"
-Paloma Faith,"He Ain't Heavy, He's My Brother",duplicate,"duet counted once, under Melanie C"
-Paloma Faith,God Only Knows,duplicate,"duet counted once, under Kylie Minogue"
-Paloma Faith,Do They Know It's Christmas?,duplicate,"duet counted once, under Bananarama"
-Paloma Faith,Bridge over Troubled Water,duplicate,"duet counted once, under Geri Halliwell"
-Paloma Faith,Times Like These,duplicate,"duet counted once, under Ellie Goulding"
-Paloma Faith,Stop Crying Your Heart Out,duplicate,"duet counted once, under Kylie Minogue"
-Emeli Sandé,Bridge over Troubled Water,duplicate,"duet counted once, under Geri Halliwell"
-Ella Eyre,Just Got Paid,duplicate,"duet counted once, under Meghan Trainor"
-Ella Eyre,Bridge over Troubled Water,duplicate,"duet counted once, under Geri Halliwell"
-Ella Eyre,Stop Crying Your Heart Out,duplicate,"duet counted once, under Kylie Minogue"
-Iggy Azalea,Pretty Girls,duplicate,"duet counted once, under Britney Spears"
-Becky Hill,Crazy What Love Can Do,duplicate,"duet counted once, under Ella Henderson"
-Mabel,Times Like These,duplicate,"duet counted once, under Ellie Goulding"
-Dua Lipa,Times Like These,duplicate,"duet counted once, under Rita Ora"
-Camila Cabello,Almost Like Praying,duplicate,"duet counted once, under Gloria Estefan"
-Doja Cat,Motive,duplicate,"duet counted once, under Ariana Grande"
-Ava Max,Stop Crying Your Heart Out,duplicate,"duet counted once, under Kylie Minogue"
-Megan Thee Stallion,Sweetest Pie,duplicate,"duet counted once, under Dua Lipa"
-Raye,Bridge over Troubled Water,duplicate,"duet counted once, under Geri Halliwell"
-Blackpink,Ice Cream,duplicate,"duet counted once, under Selena Gomez"
-Blackpink,Sour Candy,duplicate,"duet counted once, under Lady Gaga"
-Karol G,TQG,duplicate,"duet counted once, under Shakira"
-Ice Spice,Princess Diana,duplicate,"duet counted once, under Nicki Minaj"
-Ice Spice,Barbie World,duplicate,"duet counted once, under Nicki Minaj"
 The Shirelles,Don't Say Goodnight and Mean Goodbye,excluded,no Wikipedia article for genre test
 The Shirelles,Stop the Music,excluded,no Wikipedia article for genre test
 The Ronettes,Sleigh Ride,excluded,no pop style in infobox (Christmas)
@@ -444,6 +386,7 @@ Carly Simon,Anticipation,excluded,no pop style in infobox (Rock)
 Roberta Flack,Back Together Again,excluded,no Wikipedia article for genre test
 Roberta Flack,Jesse,excluded,no Wikipedia article for genre test
 Donna Summer,Love Is in Control (Finger on the Trigger),excluded,no pop style in infobox (Synth-funk; dance)
+Gloria Gaynor,I Will Survive,excluded,no pop style in infobox (hlist)
 Linda Ronstadt,You're No Good,excluded,no pop style in infobox (Rock; southern rock)
 Linda Ronstadt,Heat Wave,excluded,no pop style in infobox (Rock)
 Linda Ronstadt,It's So Easy,excluded,no pop style in infobox (Rock)
@@ -456,6 +399,7 @@ Linda Ronstadt,Poor Poor Pitiful Me,excluded,no pop style in infobox (Country ro
 Linda Ronstadt,Tumbling Dice,excluded,no pop style in infobox (Rock)
 Linda Ronstadt,I Knew You When,excluded,no pop style in infobox (Rock)
 Helen Reddy,Ain't No Way to Treat a Lady,excluded,no pop style in infobox (Easy listening)
+Helen Reddy,You're My World,excluded,no pop style in infobox (Easy listening)
 Helen Reddy,Somewhere in the Night,excluded,no pop style in infobox (Easy listening)
 Helen Reddy,Emotion,excluded,no pop style in infobox (Easy listening)
 Helen Reddy,I Can't Hear You No More,excluded,no pop style in infobox (Easy listening)
@@ -474,6 +418,7 @@ Kate Bush,The Sensual World,excluded,no pop style in infobox (Art rock)
 Kate Bush,Rocket Man,excluded,no pop style in infobox (Reggae; ska)
 Kate Bush,Breathing,excluded,no pop style in infobox (Progressive rock)
 Kim Carnes,Does It Make You Remember,excluded,no pop style in infobox (Rock)
+Sheena Easton,We've Got Tonight,excluded,no pop style in infobox (Country)
 Sheena Easton,When He Shines,excluded,no Wikipedia article for genre test
 Sheena Easton,Do It for Love,excluded,no Wikipedia article for genre test
 The Pointer Sisters,Yes We Can Can,excluded,no pop style in infobox (Funk)
@@ -495,6 +440,7 @@ Juice Newton,Break It to Me Gently,excluded,no pop style in infobox (Vocal; coun
 Juice Newton,Heart of the Night,excluded,no Wikipedia article for genre test
 Bonnie Tyler,It's a Heartache,excluded,no pop style in infobox (Country; folk rock)
 Bananarama,Preacher Man,excluded,no pop style in infobox (Indie dance)
+Mary Wells,You Lost the Sweetest Boy,excluded,no pop style in infobox (Rock)
 Little Eva,Loco-Motion,excluded,no Wikipedia article for genre test
 Bobbie Gentry,Ode to Billie Joe,excluded,no pop style in infobox (Blues; Country)
 Madonna,Like a Virgin,excluded,no pop style in infobox (Dance-rock)
@@ -528,10 +474,8 @@ Salt-N-Pepa,Get Up Everybody (Get Up),excluded,no Wikipedia article for genre te
 Salt-N-Pepa,Expression,excluded,no pop style in infobox (Hip hop)
 Salt-N-Pepa,Ain't Nuthin' But a She Thing,excluded,no Wikipedia article for genre test
 Tracy Chapman,Give Me One Reason,excluded,no pop style in infobox (Blues rock)
-Spice Girls,It's Only Rock 'n Roll (But I Like It),excluded,no pop style in infobox (Hard rock)
 All Saints,Bootie Call,excluded,no pop style in infobox (Electro-funk)
 Destiny's Child,Soldier,excluded,no pop style in infobox (Southern hip-hop)
-Christina Aguilera,The Christmas Song (Chestnuts Roasting on an Open Fire),excluded,no pop style in infobox (Christmas)
 Alanis Morissette,Ironic,excluded,no pop style in infobox (Alternative rock; folk rock)
 Alanis Morissette,You Learn,excluded,no pop style in infobox (Rock)
 Sheryl Crow,Picture,excluded,no pop style in infobox (Country)
@@ -546,6 +490,8 @@ Eternal,Crazy,excluded,no pop style in infobox (Gospel)
 Sugababes,Walk This Way,excluded,no pop style in infobox (Dance-rock)
 LeAnn Rimes,Big Deal,excluded,no pop style in infobox (Country)
 LeAnn Rimes,Blue,excluded,no pop style in infobox (Country)
+LeAnn Rimes,You Light Up My Life,excluded,no pop style in infobox (Country)
+Faith Hill,Forever Country,excluded,no pop style in infobox (Country)
 Faith Hill,Cry,excluded,no pop style in infobox (Country)
 Faith Hill,Mississippi Girl,excluded,no pop style in infobox (Country)
 Faith Hill,Let Me Let Go,excluded,no pop style in infobox (Country)
@@ -572,6 +518,7 @@ Ciara,"1, 2 Step",excluded,no pop style in infobox (Electro)
 Ciara,Get Up,excluded,no pop style in infobox (Crunk&B)
 Shakira,Underneath Your Clothes,excluded,no pop style in infobox (Rock<ref>{{cite news; url=https://www.chron.com/neighborhood)
 Ashlee Simpson,Invisible,excluded,no pop style in infobox (Rock)
+Girls Aloud,Walk This Way,excluded,no pop style in infobox (Dance-rock)
 Girls Aloud,No Good Advice,excluded,no pop style in infobox (flat list; Indie rock; dance-rock)
 Girls Aloud,Something New,excluded,no pop style in infobox (Dance)
 Girls Aloud,Sexy! No No No...,excluded,no pop style in infobox (Electropunk)
@@ -582,16 +529,15 @@ Adele,Cold Shoulder,excluded,no pop style in infobox (Funk; trip hop)
 Adele,My Little Love,excluded,no Wikipedia article for genre test
 KT Tunstall,Black Horse and the Cherry Tree,excluded,no Wikipedia article for genre test
 Taylor Swift,Willow,excluded,no pop style in infobox (Chamber folk)
+Miley Cyrus,II Most Wanted,excluded,no pop style in infobox (Country)
 Miley Cyrus,See You Again,excluded,no pop style in infobox (Dance-rock)
 Miley Cyrus,Fly on the Wall,excluded,no pop style in infobox (Rock)
 Miley Cyrus,Hoedown Throwdown,excluded,no pop style in infobox (Country rap)
 Kesha,Sleazy,excluded,no pop style in infobox (Electro-hop; hip hop)
 Alesha Dixon,Drummer Boy,excluded,no pop style in infobox (Dancehall)
 Mis-Teeq,B with Me,excluded,no pop style in infobox (UK garage)
-Ellie Goulding,Times Like These,excluded,no pop style in infobox (Alternative rock; hard rock)
 Ellie Goulding,Miracle,excluded,no pop style in infobox (Trance)
 Selena Gomez,Wolves,excluded,no pop style in infobox (EDM)
-Rita Ora,Times Like These,excluded,no pop style in infobox (Alternative rock; hard rock)
 Rita Ora,Coming Home,excluded,no pop style in infobox (Drum and bass)
 Nicki Minaj,Trollz,excluded,no pop style in infobox (Hip hop)
 Nicki Minaj,Anaconda,excluded,no pop style in infobox (Dirty rap; hip-hop)
@@ -601,12 +547,12 @@ Nicki Minaj,Seeing Green,excluded,no Wikipedia article for genre test
 Nicki Minaj,No Frauds,excluded,no pop style in infobox (Hip hop)
 Nicki Minaj,Barbie Dreams,excluded,no pop style in infobox (Hip hop)
 Nicki Minaj,Megatron,excluded,no pop style in infobox (Dancehall; hip hop)
-Nicki Minaj,Big Foot,excluded,no pop style in infobox (Hip hop)
 Halsey,Be Kind,excluded,no pop style in infobox (EDM)
 Bebe Rexha,In the Name of Love,excluded,no pop style in infobox (Future bass)
 Lana Del Rey,Say Yes to Heaven,excluded,no pop style in infobox (Ambient; downbeat)
 Ella Eyre,Answerphone,excluded,no pop style in infobox (Electro; dancehall)
 Ella Eyre,Together,excluded,no pop style in infobox (Drum and bass)
+Iggy Azalea,Pretty Girls,excluded,no pop style in infobox (Electro-hop)
 Iggy Azalea,Work,excluded,no pop style in infobox (Hip hop; snap)
 Becky Hill,Disconnect,excluded,no pop style in infobox (Drum and bass)
 Mabel,West Ten,excluded,no pop style in infobox (UK garage)

@@ -103,6 +103,9 @@ def lead_credit(title_cell, artist):
         # charity and ensemble records: Band Aid, Artists for Grenfell, X Factor finalists, USA for Africa
         if low.startswith(("as part of", "amongst", "among ", "as a member of", "as one of", "credited to")):
             return False
+        if re.search(r"band aid|artists for|usa for africa|finalists|ferry aid|comic relief|children in need|"
+                     r"various artists|all[- ]star|voices that care|the x factor", low):
+            return False
         if low.startswith(("featuring", "feat.", "with ", "and ", "vs")):
             continue
         if re.search(r"\b(featuring|feat\.|with|and|&|x)\b", low) and norm(artist)[:6] in norm(p):
