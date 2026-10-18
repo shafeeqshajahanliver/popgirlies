@@ -1,0 +1,38 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/276506",
+    "title": "We Belong Together",
+    "performer": "Mariah Carey",
+    "is_original": true,
+    "first_release_date": "2005-04-12",
+    "releases": [
+      {
+        "title": "The Emancipation of Mimi",
+        "uri": "https://api.secondhandsongs.com/release/101837",
+        "performer": "Mariah Carey"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 19,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/133464",
+    "title": "We Belong Together",
+    "language": "English",
+    "writers": [
+      "Johntá Austin",
+      "Mariah Carey",
+      "Jermaine Dupri",
+      "Manuel Seal"
+    ],
+    "original_performer": "Mariah Carey",
+    "versions": 20,
+    "based_on": [],
+    "derived_works": []
+  }
+}

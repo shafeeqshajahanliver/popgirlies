@@ -1,0 +1,440 @@
+{
+  "id": "1988-the-only-way-is-up",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "The Only Way Is Up",
+  "wikidata": {
+    "qid": "Q7755155",
+    "label": "The Only Way Is Up",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q436051",
+          "label": "Yazz"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1980-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q164444",
+          "label": "funk"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q5287533",
+          "label": "Doctorin' the House"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q7598115",
+          "label": "Stand Up for Your Love Rights"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "a088aa6e-096d-4ad2-80e5-780d60cf8797"
+      ],
+      "youtube_video_id": [
+        "vjD3EVC1-zU"
+      ],
+      "has_quality": [
+        {
+          "qid": "Q66624698",
+          "label": "debut single"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group c2cb6106-5f8c-4de8-8cde-d7de718d9e04 (1988-06-11); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "9fa0a0b0-8b36-48a7-b653-f8e44cb859c6",
+    "title": "The Only Way Is Up",
+    "length_ms": 241000,
+    "first_release_date": "1988-06-11",
+    "artist_credit": "Yazz & The Plastic Population",
+    "artists": [
+      {
+        "name": "Yazz",
+        "mbid": "6041bca6-d070-4894-8019-da9538f2c33d"
+      },
+      {
+        "name": "The Plastic Population",
+        "mbid": "0d6b3841-283e-4ad9-81f6-88acef21234e"
+      }
+    ],
+    "isrcs": [
+      "GBAKW8801029"
+    ],
+    "recording_credits": [
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Coldcut",
+        "mbid": "cedd2cc6-c77f-4104-b333-0547b29e0b71"
+      }
+    ],
+    "urls": [],
+    "genres": [
+      "acid house",
+      "dance",
+      "disco",
+      "downtempo",
+      "electronic",
+      "house",
+      "jazz",
+      "mainstream rock",
+      "new wave",
+      "pop",
+      "reggae",
+      "reggae-pop",
+      "soul",
+      "soul jazz"
+    ],
+    "tags": [
+      "pop",
+      "dance",
+      "acid house",
+      "adult contemporary",
+      "disco",
+      "downtempo",
+      "electronic",
+      "house",
+      "jazz",
+      "mainstream rock"
+    ],
+    "releases": [
+      {
+        "id": "3b09aa56-ca48-4ec0-ab41-e42847da95c6",
+        "title": "Hits of the Year: 16 International Top Hits",
+        "date": "1988",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "5dbb52d7-0937-3424-8283-0b148f7e7472",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "cb0ad591-dc0e-457d-b6a6-4493a8c3dd32",
+        "title": "Rap Trax!",
+        "date": "1988",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "5b08ebef-7172-46ce-a3d7-d741bcab9975",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7a93cd35-0d38-4f52-8b81-8ba6e848c83e",
+        "title": "Super Willi's Super Hits",
+        "date": "1988",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "07a4e2c6-246d-4d26-801b-5c526e320b93",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8f711800-bb39-4ca7-b444-ab271cb19232",
+        "title": "The Greatest Hits of 1988",
+        "date": "1988",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "7bc8e37b-d1a7-4600-8ed2-2d3a7173d32e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dc53943e-7e92-4014-823a-6b1fc2ffdcf9",
+        "title": "The Only Way Is Up",
+        "date": "1988",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "c2cb6106-5f8c-4de8-8cde-d7de718d9e04",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "93a2f0f6-75b2-48d6-9082-0b704527d4f9",
+        "title": "Top Hits ’88, Volume 1",
+        "date": "1988",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "d3535b98-9f68-4daa-9e3c-5717b2bc9b3b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f1be33dc-5f00-48aa-b7c8-42e5639221d5",
+        "title": "The Only Way Is Up",
+        "date": "1988-06-11",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "c2cb6106-5f8c-4de8-8cde-d7de718d9e04",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "0747a708-27b8-4fbe-a332-bd6bb79ffb6c",
+        "title": "The Only Way Is Up",
+        "date": "1988-07",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "c2cb6106-5f8c-4de8-8cde-d7de718d9e04",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "22750f01-9315-4787-b10c-5c96bef76100",
+        "title": "Now That’s What I Call Music XIII",
+        "date": "1988-11-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6234c4c8-e4e9-3313-9664-8173410993d5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a1b8f7b6-ef58-3e20-8a3b-db6d7bb4af41",
+        "title": "Now That’s What I Call Music XIII",
+        "date": "1988-11-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6234c4c8-e4e9-3313-9664-8173410993d5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "91805c6d-4d5f-4793-8d8a-3017daab69a1",
+        "title": "Now That’s What I Call Music XIII",
+        "date": "1988-11-21",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6234c4c8-e4e9-3313-9664-8173410993d5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ed248267-364e-4d7f-befa-b867b003a5e9",
+        "title": "Summer ’89",
+        "date": "1988-12-05",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "95db1afc-55c6-4558-b1ab-32325fddd5ce",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e0fb7f22-67bf-41d1-9a88-ccbbc47806ac",
+        "title": "The Hit Collection, Volume 2",
+        "date": "1989",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "3c0e12d1-8a4a-493b-a2b3-511eba0a3d23",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3bdd62d9-bace-4c72-ace7-4566ba00545b",
+        "title": "The 80’s: The Album of the Decade",
+        "date": "1989-10-01",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "dbad4be8-caa6-3b46-967e-f39c5a84a036",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "991dc4f5-87ab-4510-978d-ae65c8bc9b1c",
+        "title": "Summer Chart Party",
+        "date": "1990",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "46f79ea4-6764-300c-a098-d18c4bfd472f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "989df358-6754-47b2-88b2-7f2532b1685f",
+        "title": "Dance Classics Into the 80’s, Volume 2",
+        "date": "1991",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "2ed865d6-2c47-39dd-b521-9e224e273442",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e71190ae-d6d9-4135-9108-2284cddcbf9d",
+        "title": "So Long, Baby!",
+        "date": "1992",
+        "country": null,
+        "status": "Official",
+        "release_group": "04584729-48ce-46e7-9f3b-1f70a1c1069a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9bbaeb46-3bea-3dd1-834c-ba4131df16c7",
+        "title": "So Long, Baby!",
+        "date": "1992",
+        "country": null,
+        "status": "Official",
+        "release_group": "04584729-48ce-46e7-9f3b-1f70a1c1069a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1fac20c5-5e65-4df9-9bdf-6b33b3cd01b4",
+        "title": "Stompin Party",
+        "date": "1992",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "9f22bdce-5bf7-4e52-adfd-c8370b65c3b1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a4842fbc-cfbb-442a-bfce-1868eb6fb117",
+        "title": "The Greatest Hits of Dance",
+        "date": "1992",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4a85cd10-1920-4446-97ad-57ebb3b45719",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "65569c39-c93b-47db-a3e2-3f0a2e54fd3b",
+        "title": "Keep On Dancing",
+        "date": "1993",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "2de343e4-3763-35f0-a474-7ac1edd3ff31",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "85fe1816-495a-4c66-b55a-99e818957c72",
+        "title": "Monster Hits of Dance (36 Monster Dance Hits From the 80’s & 90’s)",
+        "date": "1993",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4d8a6e68-6dda-493b-8b5c-0e9bc57cac9e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0a8b9730-c476-4e1b-bbd8-5c2e7b936de0",
+        "title": "The Best Dance Album in the World… Ever! Part 2",
+        "date": "1993",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1f0f6f8a-47e4-3197-a297-628c8d71ab28",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "97a69be2-e7c7-4b02-bdc9-492080fa4008",
+        "title": "The Best Dance Album In The World... Ever! Part 2",
+        "date": "1993",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1f0f6f8a-47e4-3197-a297-628c8d71ab28",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "cce55dc6-ce30-4bef-8b0b-b1f895592412",
+        "title": "Now That’s What I Call Music! 1988",
+        "date": "1993-09-13",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "16a7444f-44b1-3809-b9bb-092f7d62ccd6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "a088aa6e-096d-4ad2-80e5-780d60cf8797",
+      "title": "The Only Way Is Up",
+      "iswcs": [
+        "T-070.242.768-6"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Johnny Henderson",
+          "mbid": "425519da-b73c-4079-b63b-b66c6e89da88"
+        },
+        {
+          "role": "writer",
+          "name": "George Jackson",
+          "mbid": "d09d86d8-8db3-4e18-8246-99e4925c4b09"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/133478",
+        "https://www.wikidata.org/wiki/Q7755155"
+      ]
+    },
+    "main_artist": {
+      "name": "Yazz",
+      "type": "Person",
+      "country": "GB",
+      "area": "United Kingdom",
+      "begin_area": null
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

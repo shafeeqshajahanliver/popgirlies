@@ -1,0 +1,77 @@
+{
+  "retrieved": "2026-10-18",
+  "songs": 30,
+  "matched_per_source": {
+    "mcgill_billboard": 0,
+    "harmonix": 2,
+    "rolling_stone": 0,
+    "isophonics": 0
+  },
+  "by_song": {
+    "1961-sailor": [],
+    "1964-my-guy": [],
+    "1965-back-in-my-arms-again": [],
+    "1976-love-hangover": [],
+    "1981-slow-hand": [],
+    "1985-crazy-for-you": [],
+    "1988-the-only-way-is-up": [],
+    "1989-wind-beneath-my-wings": [],
+    "1990-love-will-lead-you-back": [],
+    "1991-lets-talk-about-sex": [],
+    "1996-wannabe": [],
+    "1996-because-you-loved-me": [],
+    "1998-because-we-want-to": [],
+    "2000-oops-i-did-it-again": [],
+    "2001-im-real": [],
+    "2003-hole-in-the-head": [],
+    "2003-scandalous": [],
+    "2005-we-belong-together": [
+      "harmonix"
+    ],
+    "2008-so-what": [],
+    "2008-single-ladies-put-a-ring-on-it": [],
+    "2011-the-edge-of-glory": [],
+    "2011-till-the-world-ends": [
+      "harmonix"
+    ],
+    "2015-one-last-time": [],
+    "2016-shout-out-to-my-ex": [],
+    "2017-havana": [],
+    "2018-without-me": [],
+    "2019-boyfriend": [],
+    "2020-sweet-melody": [],
+    "2025-where-is-my-husband": [],
+    "2025-xmas": []
+  },
+  "sources": {
+    "mcgill_billboard": {
+      "licence": "CC0 1.0 (per the DDMAL release, as quoted in the mirdata loader)"
+    },
+    "harmonix": {
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio"
+    },
+    "rolling_stone": {
+      "licence": "CC BY 4.0 (credit: Trevor de Clercq and David Temperley, rock corpus)"
+    },
+    "isophonics": {
+      "licence": "No licence stated on the Isophonics page; cite Harte (2010) / Mauch et al. (2009)"
+    }
+  },
+  "downloads": {
+    "mcgill/billboard-2.0-index.csv": "https://www.dropbox.com/s/o0olz0uwl9z9stb/billboard-2.0-index.csv?dl=1",
+    "mcgill/billboard-2.0-salami_chords.tar.gz": "https://www.dropbox.com/s/2lvny9ves8kns4o/billboard-2.0-salami_chords.tar.gz?dl=1",
+    "rs/rs200.txt": "https://rockcorpus.midside.com/overview/rs200.txt",
+    "rs/rs200_harmony.zip": "https://rockcorpus.midside.com/harmonic_analyses/rs200_harmony.zip",
+    "rs/rs200_harmony_clt.zip": "https://rockcorpus.midside.com/harmonic_analyses/rs200_harmony_clt.zip",
+    "rs/timing_data.zip": "https://rockcorpus.midside.com/timing_data/timing_data.zip",
+    "rs/audio_sources.txt": "https://rockcorpus.midside.com/timing_data/audio_sources.txt",
+    "isophonics/The_Beatles_Annotations.tar.gz": "https://isophonics.net/files/annotations/The%20Beatles%20Annotations.tar.gz",
+    "harmonix/metadata.csv": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/metadata.csv"
+  },
+  "notes": {
+    "mcgill_billboard": "DDMAL project page returns 404; files fetched from the Dropbox links used by mirdata (index CSV + salami_chords). Covers sampled Hot 100 entries 1958-1991.",
+    "harmonix": "Annotations of the audio Harmonix used (often game or compilation edits); durations compared.",
+    "rolling_stone": "Two independent analysts (dt, tdc) kept as separate sources.",
+    "isophonics": "Beatles annotations cover the 12 UK studio albums plus Magical Mystery Tour; non-album singles such as 'I Want to Hold Your Hand' are not included."
+  }
+}

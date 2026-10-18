@@ -1,0 +1,70 @@
+{
+  "id": "2003-hole-in-the-head",
+  "preview": {
+    "service": "deezer",
+    "track_id": 898831202,
+    "matched_by": "isrc",
+    "isrc": "GBAAN0300442",
+    "title": "Hole In The Head",
+    "artist": "Sugababes",
+    "album": "Female Pop Hits",
+    "track_duration_s": 217,
+    "link": "https://www.deezer.com/track/898831202",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 128.0,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      63.0,
+      83.4
+    ],
+    "beats_detected": 63,
+    "key": "F# minor",
+    "key_tonic": "F#",
+    "key_mode": "minor",
+    "key_correlation": 0.601,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.564,
+    "chroma_profile": [
+      0.647,
+      0.646,
+      0.669,
+      0.685,
+      0.883,
+      0.792,
+      1.0,
+      0.762,
+      0.905,
+      0.93,
+      0.629,
+      0.831
+    ],
+    "rms_dbfs": -8.35,
+    "rms_dbfs_p95_frame": -5.49,
+    "peak_dbfs": 2.5,
+    "loudness_lufs_approx": -8.1,
+    "spectral_centroid_hz_mean": 2994.1,
+    "spectral_centroid_hz_median": 2995.9,
+    "onsets": 126,
+    "onset_density_per_s": 4.202,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 898831202",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -8.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/898831202",
+    "retrieved": "2026-10-18",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

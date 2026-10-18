@@ -1,0 +1,44 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35403894,
+  "kind": "synced",
+  "matched": {
+    "track": "Love Will Lead You Back",
+    "artist": "Taylor Dayne",
+    "album": "Love Will Lead You Back",
+    "duration_s": 257.0
+  },
+  "duration_matched_to": "musicbrainz recording length (257s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 257.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 278.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 22,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37529199 (Love Will Lead You Back / Taylor Dayne / The Best Of, 264.0s): duration matches no reference length",
+    "lrclib 37225774 (Love Will Lead You Back / Taylor Dayne / Music, 272.0s): duration matches no reference length",
+    "lrclib 37240989 (Love Will Lead You Back / Taylor Dayne / Chicken Soup for the Women's Soul, 266.0s): duration matches no reference length",
+    "lrclib 34908253 (Love Will Lead You Back / Taylor Dayne / Love Will Lead You Back, 272.0s): duration matches no reference length",
+    "lrclib 33561705 (Love Will Lead You Back / Taylor Dayne / All for Love (disc 2), 263.0s): duration matches no reference length",
+    "lrclib 33682632 (Love Will Lead You Back / Taylor Dayne / Love Will Lead You Back, 266.0s): duration matches no reference length",
+    "lrclib 33766349 (Love Will Lead You Back / Taylor Dayne / Readers Digest Straight From The Heart, 267.0s): duration matches no reference length",
+    "lrclib 35375067 (Love Will Lead You Back / Taylor Dayne / Timeless Pop: Taylor Dayne, 549.0s): duration matches no reference length",
+    "lrclib 16827364 (Love Will Lead You Back / Taylor Dayne / Taylor Dayne: Greatest Hits, 266.323667s): duration matches no reference length",
+    "lrclib 18549641 (Love Will Lead You Back / Taylor Dayne / Platinum & Gold Collection: Taylor Dayne, 265.888167s): duration matches no reference length",
+    "lrclib 32039802 (Love Will Lead You Back / Taylor Dayne / Best of Taylor Dayne: Live, 461.0s): live/remix/other version",
+    "lrclib 18651080 (Love Will Lead You Back / Taylor Dayne / Playlist: The Very Best of Taylor Dayne, 264.253243s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

@@ -1,0 +1,42 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/525344",
+    "title": "Hole in the Head",
+    "performer": "Sugababes",
+    "is_original": true,
+    "first_release_date": "2003-10-27",
+    "releases": [
+      {
+        "title": "Three",
+        "uri": "https://api.secondhandsongs.com/release/74235",
+        "performer": "Sugababes"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 2,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/161182",
+    "title": "Hole in the Head",
+    "language": "English",
+    "writers": [
+      "Keisha Buchanan",
+      "Mutya Buena",
+      "Nick Coler",
+      "Miranda Cooper",
+      "Brian Higgins",
+      "Tim Powell",
+      "Heidi Range",
+      "Niara Scarlett"
+    ],
+    "original_performer": "Sugababes",
+    "versions": 3,
+    "based_on": [],
+    "derived_works": []
+  }
+}

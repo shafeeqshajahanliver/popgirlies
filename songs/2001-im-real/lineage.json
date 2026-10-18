@@ -1,0 +1,43 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/19286",
+    "title": "I'm Real",
+    "performer": "Jennifer Lopez",
+    "is_original": true,
+    "first_release_date": "2001",
+    "releases": [
+      {
+        "title": "J.Lo",
+        "uri": "https://api.secondhandsongs.com/release/5055",
+        "performer": "Jennifer Lopez"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 5,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/19286",
+    "title": "I'm Real",
+    "language": "English",
+    "writers": [
+      "L.E.S.",
+      "Jennifer Lopez",
+      "Troy Oliver",
+      "Cory Rooney"
+    ],
+    "original_performer": "Jennifer Lopez",
+    "versions": 6,
+    "based_on": [],
+    "derived_works": []
+  }
+}

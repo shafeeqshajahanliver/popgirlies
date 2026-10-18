@@ -1,0 +1,97 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "80465fe3-0016-4fc9-abbf-c2053f59de15",
+      "release_title": "boyfriend",
+      "release_date": "2019",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/13723e41-32d5-4eeb-a9cb-98056cfb9ccd/23719174860-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/13723e41-32d5-4eeb-a9cb-98056cfb9ccd",
+      "image_id": 23719174860,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        300,
+        300
+      ],
+      "measures": {
+        "brightness": 0.618,
+        "saturation": 0.13,
+        "dark_share": 0.003,
+        "palette": [
+          {
+            "hex": "#968990",
+            "share": 0.268
+          },
+          {
+            "hex": "#aea29d",
+            "share": 0.214
+          },
+          {
+            "hex": "#685b71",
+            "share": 0.206
+          },
+          {
+            "hex": "#b4afa3",
+            "share": 0.185
+          },
+          {
+            "hex": "#c0b3a5",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/72/58/7c/72587c96-e6e8-bdb6-b138-6a6bb00f4d8f/19UMGIM68898.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Boyfriend - Single",
+      "collection_id": 1474641551,
+      "track_id": 1474641583,
+      "artist_name": "Ariana Grande & Social House",
+      "release_date": "2019-08-02T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.61,
+        "saturation": 0.109,
+        "dark_share": 0.005,
+        "palette": [
+          {
+            "hex": "#958c90",
+            "share": 0.272
+          },
+          {
+            "hex": "#aca39d",
+            "share": 0.213
+          },
+          {
+            "hex": "#665e71",
+            "share": 0.209
+          },
+          {
+            "hex": "#b6aea3",
+            "share": 0.189
+          },
+          {
+            "hex": "#bcb5a7",
+            "share": 0.117
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

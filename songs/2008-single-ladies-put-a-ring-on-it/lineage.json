@@ -1,0 +1,43 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/119324",
+    "title": "Single Ladies (Put a Ring on It)",
+    "performer": "Beyoncé",
+    "is_original": true,
+    "first_release_date": "2008-10-08",
+    "releases": [
+      {
+        "title": "If I Were a Boy",
+        "uri": "https://api.secondhandsongs.com/release/47152",
+        "performer": "Beyoncé"
+      },
+      {
+        "title": "I Am... Sasha Fierce",
+        "uri": "https://api.secondhandsongs.com/release/47153",
+        "performer": "Beyoncé"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 47,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/112698",
+    "title": "Single Ladies (Put a Ring on It)",
+    "language": "English",
+    "writers": [
+      "Kuk Harrell",
+      "Beyoncé",
+      "The-Dream",
+      "Tricky Stewart"
+    ],
+    "original_performer": "Beyoncé",
+    "versions": 48,
+    "based_on": [],
+    "derived_works": []
+  }
+}

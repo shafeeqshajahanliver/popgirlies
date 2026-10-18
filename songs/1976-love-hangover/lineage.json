@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/18029",
+    "title": "Love Hangover",
+    "performer": "Diana Ross",
+    "is_original": true,
+    "first_release_date": "1976-02-10",
+    "releases": [
+      {
+        "title": "Diana Ross [1976]",
+        "uri": "https://api.secondhandsongs.com/release/7381",
+        "performer": "Diana Ross"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 32,
+  "samples_used": [],
+  "sampled_by": [
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    },
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/18029",
+    "title": "Love Hangover",
+    "language": "English",
+    "writers": [
+      "Marilyn McLeod",
+      "Pam Sawyer"
+    ],
+    "original_performer": "Diana Ross",
+    "versions": 33,
+    "based_on": [],
+    "derived_works": []
+  }
+}

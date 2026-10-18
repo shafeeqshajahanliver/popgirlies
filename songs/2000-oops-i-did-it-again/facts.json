@@ -1,0 +1,582 @@
+{
+  "id": "2000-oops-i-did-it-again",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Oops!... I Did It Again (song)",
+  "wikidata": {
+    "qid": "Q733931",
+    "label": "Oops!... I Did It Again",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q11975",
+          "label": "Britney Spears"
+        },
+        {
+          "qid": "Q880318",
+          "label": "Black Ingvars"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q384159",
+          "label": "Rami Yacoub"
+        },
+        {
+          "qid": "Q318223",
+          "label": "Max Martin"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q318223",
+          "label": "Max Martin"
+        },
+        {
+          "qid": "Q384159",
+          "label": "Rami Yacoub"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1999-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q739138",
+          "label": "teen pop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q152999",
+          "label": "Oops!… I Did It Again"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "19862b40-6a25-3499-8b8c-2a647007d1bb"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 6b3d5e28-8367-3044-8e94-4ac730a0c66d (2000-04-25)",
+  "musicbrainz": {
+    "recording_id": "44abd7d3-c593-4587-a109-6d9582f13f36",
+    "title": "Oops!…I Did It Again",
+    "length_ms": 211706,
+    "first_release_date": "2000-04-25",
+    "artist_credit": "Britney Spears",
+    "artists": [
+      {
+        "name": "Britney Spears",
+        "mbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+      }
+    ],
+    "isrcs": [
+      "USJ110000100",
+      "USJI10000100",
+      "USJI10900628"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "John Amatiello",
+        "mbid": "267ad35a-5878-42ca-b7f9-cff2ad57e91a"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Johan Carlberg",
+        "mbid": "fd1c731c-2bc6-4e79-9aa7-e92a93aa5379"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "electric bass guitar"
+        ],
+        "name": "Tomas Lindberg",
+        "mbid": "d28391e0-6f5a-4e46-b32b-373f2ebd4663"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Esbjörn Öhrwall",
+        "mbid": "549a6152-19ee-480c-8fff-cde87cc55b9d"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Rami",
+        "mbid": "b13f0288-830a-4ad7-9c60-830f545e5e2b"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Rami",
+        "mbid": "b13f0288-830a-4ad7-9c60-830f545e5e2b"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Rami",
+        "mbid": "b13f0288-830a-4ad7-9c60-830f545e5e2b"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Rami",
+        "mbid": "b13f0288-830a-4ad7-9c60-830f545e5e2b"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Rami",
+        "mbid": "b13f0288-830a-4ad7-9c60-830f545e5e2b"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "other vocals"
+        ],
+        "name": "“The Fanchoir”",
+        "mbid": "b9a13710-28dd-41f8-bd03-ce0b3ae406d5"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Nana Hedin",
+        "mbid": "bb59221a-bb93-48e8-9100-54e5988403ae"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals",
+          "spoken vocals"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals",
+          "lead vocals",
+          "spoken vocals"
+        ],
+        "name": "Britney Spears",
+        "mbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Britney Spears",
+        "mbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/2tex5GELzJlOFxlBhIiYQ9"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3363471171"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/1813910287"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/1813910287"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/435487231"
+      }
+    ],
+    "genres": [
+      "ballad",
+      "contemporary r&b",
+      "dance-pop",
+      "electro",
+      "electronic",
+      "europop",
+      "hip hop",
+      "pop",
+      "pop rock",
+      "synth-pop",
+      "teen pop"
+    ],
+    "tags": [
+      "pop",
+      "dance-pop",
+      "teen pop",
+      "synth-pop",
+      "contemporary r&b",
+      "ballad",
+      "electro",
+      "electronic",
+      "europop",
+      "hip hop"
+    ],
+    "releases": [
+      {
+        "id": "b7cc9c4b-f345-4d41-8a3f-4cb0812bcd4b",
+        "title": "Promo Only: Mainstream Radio, May 2000",
+        "date": "2000-04",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "e0a43d44-a663-36ef-abeb-a998add69f7c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "de0f4587-0fd8-48b5-b8c5-85c501c834aa",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-04-25",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "6b3d5e28-8367-3044-8e94-4ac730a0c66d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "5d8ace2f-56e9-4435-bd53-e104a57077ce",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-04-25",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "6b3d5e28-8367-3044-8e94-4ac730a0c66d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "e6ccf9b3-7d41-47a8-b53a-5325c9b9a693",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-01",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6b3d5e28-8367-3044-8e94-4ac730a0c66d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "70dfb8b4-983e-4422-94b5-22f8e9deb2e2",
+        "title": "Oops!...I Did It Again",
+        "date": "2000-05-11",
+        "country": "UA",
+        "status": "Bootleg",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ee9b865d-8c40-42b4-9355-e58b5205032e",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-15",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "fbcc9b6e-d30c-32f7-899d-0114f8c856a9",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-15",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "09f0b80e-7f4d-4d0a-92d0-bce774bc54d4",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-15",
+        "country": "CH",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a49d2901-af8d-39d6-809e-5032e65ad397",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-16",
+        "country": "HK",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8ef0eb85-4e3d-4d5b-9c45-8d157fc32d34",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-16",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b51fc656-4df6-492f-a3f3-977c78305965",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-16",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "98220728-c3e0-36b1-a6b5-ee71a182171f",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-16",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d37032b0-1121-4f23-86a5-2e42fce2c1fd",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-16",
+        "country": "US",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2d8fc8d9-e903-4c9c-abb4-c12587b077b2",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-30",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "bce40d97-58db-4aa4-9af8-99b63f94c488",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-05-30",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f96f9224-efc8-3238-86fe-ba5ac5a85e18",
+        "title": "Oops!…I Did It Again",
+        "date": "2000-06-14",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "6b3d5e28-8367-3044-8e94-4ac730a0c66d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "de30274c-feae-4529-9213-768d2566e670",
+        "title": "Oops!…I Did It Again Remixes",
+        "date": "2000-06-26",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6b3d5e28-8367-3044-8e94-4ac730a0c66d",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "54a4224a-bd3e-41db-8ed0-4515e10748e4",
+        "title": "TMF Hitzone 11",
+        "date": "2000-07-14",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "6294bdff-c4dc-31d0-81ae-d161b060b325",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bb535658-8d90-49e8-9a42-97b0d23b2034",
+        "title": "Now That's What I Call Music! 46",
+        "date": "2000-07-24",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6c1c902f-a8aa-3678-ad40-549f36ec8089",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "148a6c9f-cd51-475e-9425-a1dfe3eb11cc",
+        "title": "Now That’s What I Call Music! 46",
+        "date": "2000-07-24",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6c1c902f-a8aa-3678-ad40-549f36ec8089",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d555186e-c3a4-4fc1-86dd-3183825ba85a",
+        "title": "Now That’s What I Call Music! 46",
+        "date": "2000-07-24",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "6c1c902f-a8aa-3678-ad40-549f36ec8089",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "51d48ba2-d179-4c3a-b474-f422bd75e2c9",
+        "title": "Just the Best 3/2000",
+        "date": "2000-08-04",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "9fdc40b1-353e-3798-b6f2-fb5bcf6947ae",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6da18dfb-e0c3-45c8-bc73-a73b8029bb2d",
+        "title": "Bravo Hits 30",
+        "date": "2000-08-11",
+        "country": "CH",
+        "status": "Official",
+        "release_group": "cef149f7-9c5c-318c-ada8-be0f61bce289",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "41b0a392-086e-45b0-9323-db56ba682941",
+        "title": "Bravo Hits 30",
+        "date": "2000-08-11",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "cef149f7-9c5c-318c-ada8-be0f61bce289",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "87e0c5fb-9ca6-4e0b-b633-ce254d3129e3",
+        "title": "Absolute Music 34",
+        "date": "2000-08-24",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "9f007e22-48f7-3cbc-ae70-8a6b69d93f26",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "19862b40-6a25-3499-8b8c-2a647007d1bb",
+      "title": "Oops!…I Did It Again",
+      "iswcs": [
+        "T-000.155.930-3"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Max Martin",
+          "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+        },
+        {
+          "role": "writer",
+          "name": "Rami",
+          "mbid": "b13f0288-830a-4ad7-9c60-830f545e5e2b"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/6287",
+        "https://www.wikidata.org/wiki/Q733931"
+      ]
+    },
+    "main_artist": {
+      "name": "Britney Spears",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "McComb"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

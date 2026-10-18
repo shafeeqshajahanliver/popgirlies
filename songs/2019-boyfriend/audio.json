@@ -1,0 +1,70 @@
+{
+  "id": "2019-boyfriend",
+  "preview": {
+    "service": "deezer",
+    "track_id": 724038592,
+    "matched_by": "isrc",
+    "isrc": "USUG11902591",
+    "title": "boyfriend",
+    "artist": "Ariana Grande",
+    "album": "boyfriend",
+    "track_duration_s": 186,
+    "link": "https://www.deezer.com/track/724038592",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 94.9,
+    "tempo_bpm_grid": 94.0,
+    "tempo_candidates_bpm": [
+      47.9,
+      95.7,
+      184.6
+    ],
+    "beats_detected": 48,
+    "key": "Bb minor",
+    "key_tonic": "Bb",
+    "key_mode": "minor",
+    "key_correlation": 0.722,
+    "key_runner_up": "Eb minor",
+    "key_runner_up_correlation": 0.65,
+    "chroma_profile": [
+      0.697,
+      0.759,
+      0.633,
+      0.919,
+      0.655,
+      1.0,
+      0.92,
+      0.661,
+      0.746,
+      0.709,
+      0.949,
+      0.596
+    ],
+    "rms_dbfs": -6.62,
+    "rms_dbfs_p95_frame": -3.12,
+    "peak_dbfs": 1.53,
+    "loudness_lufs_approx": -7.28,
+    "spectral_centroid_hz_mean": 2381.6,
+    "spectral_centroid_hz_median": 2368.0,
+    "onsets": 84,
+    "onset_density_per_s": 2.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 724038592",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 95.04,
+    "gain": -7.8,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/724038592",
+    "retrieved": "2026-10-18",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": []
+}

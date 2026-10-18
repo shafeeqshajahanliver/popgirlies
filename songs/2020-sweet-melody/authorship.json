@@ -1,0 +1,38 @@
+{
+  "writers": [
+    "Brian Garcia",
+    "MNEK",
+    "Oliver Frid",
+    "Rissi",
+    "Tayla Parx"
+  ],
+  "producers": [
+    "Emenike",
+    "Frid",
+    "MNEK",
+    "Morten Ristorp",
+    "Oliver Frid",
+    "Parx",
+    "Peoples",
+    "Rissi",
+    "Tayla Parx",
+    "Taylor Parks"
+  ],
+  "n_writers": 5,
+  "n_producers": 10,
+  "act": "Little Mix",
+  "group_members": [
+    "JADE",
+    "Jesy Nelson",
+    "Leigh‐Anne",
+    "Perrie"
+  ],
+  "star_is_writer": false,
+  "star_writer_names": [],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

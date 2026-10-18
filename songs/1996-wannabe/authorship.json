@@ -1,0 +1,40 @@
+{
+  "writers": [
+    "Emma Bunton",
+    "Geri Halliwell",
+    "Matt Rowe",
+    "Melanie Brown",
+    "Melanie C",
+    "Richard “Biff” Stannard",
+    "Victoria Beckham"
+  ],
+  "producers": [
+    "Matt Rowe",
+    "Richard Stannard",
+    "Richard “Biff” Stannard"
+  ],
+  "n_writers": 7,
+  "n_producers": 3,
+  "act": "Spice Girls",
+  "group_members": [
+    "Emma Bunton",
+    "Geri Halliwell",
+    "Melanie Brown",
+    "Melanie C",
+    "Victoria Beckham"
+  ],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "Emma Bunton",
+    "Geri Halliwell",
+    "Melanie Brown",
+    "Melanie C",
+    "Victoria Beckham"
+  ],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

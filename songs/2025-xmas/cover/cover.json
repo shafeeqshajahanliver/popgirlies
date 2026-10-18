@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "237af528-1f11-44ee-a470-6ba9768f5bca",
+      "release_title": "XMAS (Amazon Music Original)",
+      "release_date": "2025-11-05",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/a61bbf3f-f6ed-4ec2-bc1e-70f620eed9d7/43499900842-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/a61bbf3f-f6ed-4ec2-bc1e-70f620eed9d7",
+      "image_id": 43499900842,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        716,
+        716
+      ],
+      "measures": {
+        "brightness": 0.68,
+        "saturation": 0.241,
+        "dark_share": 0.142,
+        "palette": [
+          {
+            "hex": "#f4b8c1",
+            "share": 0.264
+          },
+          {
+            "hex": "#2a1120",
+            "share": 0.252
+          },
+          {
+            "hex": "#cecece",
+            "share": 0.211
+          },
+          {
+            "hex": "#b47c6e",
+            "share": 0.188
+          },
+          {
+            "hex": "#dbdbdb",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2d459476-efb5-4cc5-97b1-0d31c8a3c570",
+      "release_title": "Kylie Christmas",
+      "release_date": "2025-12-05",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Kylie Christmas (Fully Wrapped)",
+      "url": "http://coverartarchive.org/release/e56b042f-2d88-45c8-a58b-40215349430c/13296794217-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/e56b042f-2d88-45c8-a58b-40215349430c",
+      "image_id": 13296794217,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.877,
+        "saturation": 0.253,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#b83531",
+            "share": 0.24
+          },
+          {
+            "hex": "#debcad",
+            "share": 0.234
+          },
+          {
+            "hex": "#f4f3f4",
+            "share": 0.192
+          },
+          {
+            "hex": "#f0eaea",
+            "share": 0.172
+          },
+          {
+            "hex": "#f8f8f8",
+            "share": 0.162
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/04/53/460453db-a937-a90f-5246-98e36d8d436d/5026854149585.jpg/1200x1200bb.jpg",
+      "collection": "Kylie Christmas (Fully Wrapped)",
+      "collection_id": 6796030567,
+      "track_id": 6796030715,
+      "artist_name": "Kylie Minogue",
+      "release_date": "2025-11-05T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.774,
+        "saturation": 0.517,
+        "dark_share": 0.011,
+        "palette": [
+          {
+            "hex": "#f9a9b2",
+            "share": 0.377
+          },
+          {
+            "hex": "#6c1328",
+            "share": 0.258
+          },
+          {
+            "hex": "#624d89",
+            "share": 0.19
+          },
+          {
+            "hex": "#e79ea4",
+            "share": 0.094
+          },
+          {
+            "hex": "#f6c9cc",
+            "share": 0.08
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

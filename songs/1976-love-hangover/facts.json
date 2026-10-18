@@ -1,0 +1,467 @@
+{
+  "id": "1976-love-hangover",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Love Hangover",
+  "wikidata": {
+    "qid": "Q6690595",
+    "label": "Love Hangover",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q36290",
+          "label": "Diana Ross"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q5640741",
+          "label": "Hal Davis"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q43327",
+          "label": "Motown"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1976-03-16"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q58339",
+          "label": "disco"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "a94ecbf3-4369-37bc-bd70-bd8319cd693d"
+      ],
+      "youtube_video_id": [
+        "Tcn73q_4Ujs"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 1c1a208e-11f6-477c-a0ee-027b9c01bb7a (1976-03-16); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "7e4146da-2e84-427a-870d-e21df18175a4",
+    "title": "Love Hangover",
+    "length_ms": 226093,
+    "first_release_date": "1976-03-16",
+    "artist_credit": "Diana Ross",
+    "artists": [
+      {
+        "name": "Diana Ross",
+        "mbid": "60d41417-feda-4734-bbbf-7dcc30e08a83"
+      }
+    ],
+    "isrcs": [
+      "USMO17600377"
+    ],
+    "recording_credits": [
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Dave Blumberg",
+        "mbid": "397c6422-efef-46b0-accc-8828dad5c183"
+      },
+      {
+        "role": "arranger",
+        "attributes": [],
+        "name": "Clay Drayton",
+        "mbid": "4fb2d413-32ab-43b0-9ac3-803cb83e32da"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Hal Davis",
+        "mbid": "ee5a60d7-760c-4126-9d17-f458970bfbc7"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/06MV6q1N7NIewoszRElmrZ"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/729586112"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/fr/song/1471566397"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/fr/song/1471566397"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/115095021"
+      }
+    ],
+    "genres": [
+      "blues",
+      "disco",
+      "motown",
+      "philly soul",
+      "pop",
+      "pop soul",
+      "r&b",
+      "soul"
+    ],
+    "tags": [
+      "soul",
+      "disco",
+      "pop",
+      "r&b",
+      "blues",
+      "electronic/trance/pop/jazz",
+      "motown",
+      "philly soul",
+      "pop soul",
+      "urban"
+    ],
+    "releases": [
+      {
+        "id": "e468d10e-48d9-455d-b886-479d01034ba8",
+        "title": "Love Hangover / Kiss Me Now",
+        "date": "1976-03-16",
+        "country": "US",
+        "status": "Official",
+        "release_group": "1c1a208e-11f6-477c-a0ee-027b9c01bb7a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "0c67f339-4d49-4dc7-8f64-9dd605db4390",
+        "title": "20 Golden Greats",
+        "date": "1979-11-02",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "0b22af78-eb30-4d25-b059-f6081cb65a70",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "419c3d48-697a-45db-b39d-3e2a1117f0f0",
+        "title": "The Motown 20th Anniversary Album",
+        "date": "1980-06-06",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "863b3e18-d06c-461a-b50f-d800c5efcad5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "c8dcc93c-2f51-428f-9c68-d41e4e37a29b",
+        "title": "All the Great Hits",
+        "date": "1981-10",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a62b82af-ce82-3e2b-b3a5-c7d69e8f0de0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "21aa79f4-abe1-44d4-bfbd-b9a512a62162",
+        "title": "Motown 50 Certified Original No.1 Hits: A Motown Anniversary Collection",
+        "date": "1983",
+        "country": "US",
+        "status": "Official",
+        "release_group": "00cb2cf2-c64a-38f0-9c6f-78cb4a1c431d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "9852dfb0-152c-4cfd-addb-de737453558c",
+        "title": "Portrait: All Her Greatest Hits Volume 1 & 2",
+        "date": "1983",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "055f38ca-9594-4135-a0ad-028d40cdced2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b8e95747-3e0a-4046-84d8-9222f57a710e",
+        "title": "Portrait: Her Greatest Hits, Volume 1",
+        "date": "1983",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "5774d81f-eb0d-3f99-a051-05c03d04c5a9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6d9d8022-aeab-4cbd-b3f9-7d2dff2ae17a",
+        "title": "Every Great Motown Song: The first 25 years. Vol.2: The 1970’s",
+        "date": "1984",
+        "country": "US",
+        "status": "Official",
+        "release_group": "6b2d32b9-8277-3f39-93b8-e5a5f553c0e9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4cdd0dce-81c4-49a7-aa90-376e2d97fc29",
+        "title": "Motown Grammy Rhythm & Blues Performances of the 1960’s & 1970’s",
+        "date": "1984-09-15",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "41e91a2d-e8c6-45ce-95d4-2b8de1de441c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bec6e8f2-4e1b-4c6b-a3e7-9dbf92e0a506",
+        "title": "20 Greatest Songs in Motown History",
+        "date": "1985",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "9c319cb4-ee0d-30c8-861f-fda067fac8de",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4306083f-0f3a-4441-b282-cc4887cb1270",
+        "title": "Motown Hits of Gold, Volume 7",
+        "date": "1985",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4dafb0d5-0e3a-3b4f-bd25-775c92fd14f2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "93884ab2-218f-45c4-8c63-10c00ff0da08",
+        "title": "Anthology",
+        "date": "1986",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "87bbebf1-3cc5-3110-b859-b12e529b61d7",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b0b79621-7a1c-44b8-ae42-cfea3f52423b",
+        "title": "Anthology",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "87bbebf1-3cc5-3110-b859-b12e529b61d7",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "42811471-6ab5-420d-8956-f0922963d771",
+        "title": "Every Great Motown Song: The First 25 Years As Originally Recorded Volume I & II",
+        "date": "1986",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5c411ee9-87e7-35d3-9cf5-4b4b5f40ee0c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4bce5fec-e88e-33df-a17b-fdf145f999a9",
+        "title": "Portrait: Her Greatest Hits, Volume 1",
+        "date": "1986",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "5774d81f-eb0d-3f99-a051-05c03d04c5a9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e33ac977-410a-44f7-8f97-5825d17d09a1",
+        "title": "Sisters Are Doin’ It",
+        "date": "1986",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "8c8881a2-e528-4853-a9db-d1845838483d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6a4ea8d4-35ea-4aff-b9e1-722e9f42ff50",
+        "title": "Love Songs",
+        "date": "1987",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "5baedc41-91da-44c9-8289-6619a853e635",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3f7ab236-8364-39be-bc64-211f02641291",
+        "title": "Love Songs",
+        "date": "1987",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "5baedc41-91da-44c9-8289-6619a853e635",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f91ef9f3-f203-4951-af9a-4e1fa20a1f0d",
+        "title": "Love Songs",
+        "date": "1987",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "5baedc41-91da-44c9-8289-6619a853e635",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a191ad74-8ef5-41d2-99ff-2dfa4e7e261d",
+        "title": "The Supreme Lady",
+        "date": "1987",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c97929de-c867-303a-8451-080349b5952c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "68ea3ff5-6b26-4493-8783-086d10f7b1bc",
+        "title": "Motown Hits of Gold, Volume 7",
+        "date": "1988",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4dafb0d5-0e3a-3b4f-bd25-775c92fd14f2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2c1ba206-d57e-46d6-b8f5-e8d0e6b28e50",
+        "title": "Groove Zone, Sector One",
+        "date": "1989",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a0460c5d-685a-4176-855a-259ce610bb7b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b4482419-4fee-43c3-831c-324eebd69627",
+        "title": "Mega Hits Dance Classics, Volume 2",
+        "date": "1989",
+        "country": "US",
+        "status": "Official",
+        "release_group": "78998b72-f17f-3b5f-8ca5-36bb7e419dfc",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0010b186-752e-4e82-b5ed-174920cce22a",
+        "title": "Every Great Motown Song, Volume 2: The 1970’s",
+        "date": "1989-07-17",
+        "country": "US",
+        "status": "Official",
+        "release_group": "6b2d32b9-8277-3f39-93b8-e5a5f553c0e9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0fa6e69d-ad23-46f9-95b8-c9db4cdbc440",
+        "title": "The Disco Years, Volume 1: Turn The Beat Around (1974-1978)",
+        "date": "1990-06-12",
+        "country": "US",
+        "status": "Official",
+        "release_group": "93862a4b-de0c-3f64-a78d-5efbeb07ebfe",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "a94ecbf3-4369-37bc-bd70-bd8319cd693d",
+      "title": "Love Hangover",
+      "iswcs": [
+        "T-070.099.938-7"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Marilyn McLeod",
+          "mbid": "00c5fa06-67a5-4116-a6dc-f83988717212"
+        },
+        {
+          "role": "writer",
+          "name": "Pam Sawyer",
+          "mbid": "03d75983-1230-48d1-9699-742273423e16"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/18029",
+        "https://www.wikidata.org/wiki/Q6690595"
+      ]
+    },
+    "main_artist": {
+      "name": "Diana Ross",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Detroit"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

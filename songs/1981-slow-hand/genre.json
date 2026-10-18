@@ -1,0 +1,32 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Soul",
+        "R&B"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "rhythm and blues"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [],
+      "tags": [],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "R&B-pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "R&B-pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

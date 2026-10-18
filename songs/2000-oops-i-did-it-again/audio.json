@@ -1,0 +1,72 @@
+{
+  "id": "2000-oops-i-did-it-again",
+  "preview": {
+    "service": "deezer",
+    "track_id": 13132166,
+    "matched_by": "isrc",
+    "isrc": "USJI10000100",
+    "title": "Oops!...I Did It Again",
+    "artist": "Britney Spears",
+    "album": "Greatest Hits: My Prerogative",
+    "track_duration_s": 210,
+    "link": "https://www.deezer.com/track/13132166",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 96.0,
+    "tempo_bpm_grid": 94.8,
+    "tempo_candidates_bpm": [
+      95.7,
+      184.6,
+      198.8
+    ],
+    "beats_detected": 49,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.816,
+    "key_runner_up": "E major",
+    "key_runner_up_correlation": 0.599,
+    "chroma_profile": [
+      0.724,
+      0.832,
+      0.581,
+      0.729,
+      0.77,
+      0.646,
+      0.727,
+      0.667,
+      1.0,
+      0.768,
+      0.786,
+      0.878
+    ],
+    "rms_dbfs": -10.06,
+    "rms_dbfs_p95_frame": -6.22,
+    "peak_dbfs": 2.01,
+    "loudness_lufs_approx": -8.6,
+    "spectral_centroid_hz_mean": 2785.7,
+    "spectral_centroid_hz_median": 2688.9,
+    "onsets": 70,
+    "onset_density_per_s": 2.334,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 13132166",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -9.1,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/13132166",
+    "retrieved": "2026-10-18",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc USJ110000100: matched but no preview available (readable=False)"
+  ]
+}

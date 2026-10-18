@@ -1,0 +1,56 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Club-pop",
+        "electro-R&B"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "pop music",
+        "contemporary R&B",
+        "electro-R&B",
+        "electronic dance music"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "contemporary r&b",
+        "electronic",
+        "indie pop",
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "alternative",
+        "contemporary r&b",
+        "electro-r&b",
+        "electronic",
+        "electronic dance music",
+        "indie",
+        "indie pop",
+        "pop music",
+        "sexy"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance",
+    "synth and electronic"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "synth and electronic",
+    "other pop",
+    "R&B-pop",
+    "art and baroque"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

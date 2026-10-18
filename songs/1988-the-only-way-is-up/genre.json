@@ -1,0 +1,64 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Dance-pop",
+        "acid house",
+        "house"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "funk"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "acid house",
+        "dance",
+        "disco",
+        "downtempo",
+        "electronic",
+        "house",
+        "jazz",
+        "mainstream rock",
+        "new wave",
+        "pop",
+        "reggae",
+        "reggae-pop",
+        "soul",
+        "soul jazz"
+      ],
+      "tags": [
+        "pop",
+        "dance",
+        "acid house",
+        "adult contemporary",
+        "disco",
+        "downtempo",
+        "electronic",
+        "house",
+        "jazz",
+        "mainstream rock"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "R&B-pop",
+    "synth and electronic",
+    "rock-pop",
+    "other pop",
+    "Latin and global"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

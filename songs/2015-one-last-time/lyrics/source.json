@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 33364378,
+  "kind": "synced",
+  "matched": {
+    "track": "One Last Time (Attends-Moi) (Paused)",
+    "artist": "Ariana Grande",
+    "album": "My Everything (Deluxe)",
+    "duration_s": 196.0
+  },
+  "duration_matched_to": "musicbrainz recording length (195s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 195.213,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 194.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 197.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 43,
+  "agreement_with_other_candidates": 0.503,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36848463 (One Last Time / Ariana Grande / My Everything (Deluxe), Nones): duration matches no reference length",
+    "lrclib 34469290 (One Last Time / Ariana Grande / My Everything (Deluxe), 220.0s): duration matches no reference length",
+    "lrclib 34957721 (One Last Time / Ariana Grande / My Everything (Deluxe), 2916.0s): duration matches no reference length",
+    "lrclib 34957761 (One Last Time / Ariana Grande / My Everything (Deluxe), 2946.0s): duration matches no reference length",
+    "lrclib 34957783 (One Last Time / Ariana Grande / My Everything (Deluxe), 2974.0s): duration matches no reference length",
+    "lrclib 34958125 (One Last Time / Ariana Grande / My Everything (Deluxe), 2990.0s): duration matches no reference length",
+    "lrclib 34957650 (One Last Time / Ariana Grande / My Everything (Deluxe), 2806.0s): duration matches no reference length",
+    "lrclib 34957655 (One Last Time / Ariana Grande / My Everything (Deluxe), 2826.0s): duration matches no reference length",
+    "lrclib 36859431 (One Last Time (Acoustic) / Ariana Grande / Ariana Grande, 206.0s): live/remix/other version",
+    "lrclib 9862888 (One Last Time (Official Video) / Ariana Grande / Ariana Grande, 249.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

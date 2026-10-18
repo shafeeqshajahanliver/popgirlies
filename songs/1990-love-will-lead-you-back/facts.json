@@ -1,0 +1,113 @@
+{
+  "id": "1990-love-will-lead-you-back",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Love Will Lead You Back",
+  "wikidata": {
+    "qid": "Q6691510",
+    "label": "Love Will Lead You Back",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q168274",
+          "label": "Taylor Dayne"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q237354",
+          "label": "Diane Warren"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q7322493",
+          "label": "Ric Wake"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q664167",
+          "label": "Arista Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1990-01-20"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q8027980",
+          "label": "With Every Beat of My Heart"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q5965742",
+          "label": "I'll Be Your Shelter"
+        },
+        {
+          "qid": "Q5215019",
+          "label": "Dance"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "5e99289d-73d7-49e8-a59b-9cba2b39329e"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 95f2ed9b-6694-4c1a-b84f-3ee445918cdf (1990)",
+  "musicbrainz": {
+    "recording_id": "388eb79b-3f46-4598-9673-57396f66fdcc",
+    "title": "Love Will Lead You Back",
+    "length_ms": 257000,
+    "first_release_date": "1990",
+    "artist_credit": "Taylor Dayne",
+    "artists": [
+      {
+        "name": "Taylor Dayne",
+        "mbid": "c0cd3de7-4654-482b-913b-6fd7dc4ce9a4"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "3eb33b8e-7084-4425-aff8-8b96e02e41df",
+        "title": "Love Will Lead You Back",
+        "date": "1990",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "95f2ed9b-6694-4c1a-b84f-3ee445918cdf",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "main_artist": {
+      "name": "Taylor Dayne",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Baldwin"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

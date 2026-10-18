@@ -1,0 +1,43 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Traditional pop",
+        "schlager"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "traditional pop"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "disco",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "pop",
+        "disco",
+        "rock"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "girl-group and early pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "girl-group and early pop",
+    "disco and dance",
+    "other pop",
+    "rock-pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

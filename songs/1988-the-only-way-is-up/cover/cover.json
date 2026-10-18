@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "c2cb6106-5f8c-4de8-8cde-d7de718d9e04",
+      "release_title": "The Only Way Is Up",
+      "release_date": "1988",
+      "release_country": "BE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/f1be33dc-5f00-48aa-b7c8-42e5639221d5/17441792151-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/f1be33dc-5f00-48aa-b7c8-42e5639221d5",
+      "image_id": 17441792151,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1057
+      ],
+      "measures": {
+        "brightness": 0.803,
+        "saturation": 0.841,
+        "dark_share": 0.069,
+        "palette": [
+          {
+            "hex": "#fcef14",
+            "share": 0.379
+          },
+          {
+            "hex": "#8fae79",
+            "share": 0.201
+          },
+          {
+            "hex": "#324b43",
+            "share": 0.199
+          },
+          {
+            "hex": "#faeb0b",
+            "share": 0.197
+          },
+          {
+            "hex": "#fcf01e",
+            "share": 0.024
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a3cae9a0-f26c-3fb6-8cbc-60ac8d8420b3",
+      "release_title": "Wanted",
+      "release_date": "1988",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Wanted",
+      "url": "http://coverartarchive.org/release/82db1792-9dcc-4fa5-9b2f-e71ffb4acd30/37272500323-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/82db1792-9dcc-4fa5-9b2f-e71ffb4acd30",
+      "image_id": 37272500323,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        596
+      ],
+      "measures": {
+        "brightness": 0.47,
+        "saturation": 0.325,
+        "dark_share": 0.416,
+        "palette": [
+          {
+            "hex": "#efe1c7",
+            "share": 0.291
+          },
+          {
+            "hex": "#1b1c14",
+            "share": 0.216
+          },
+          {
+            "hex": "#17160d",
+            "share": 0.199
+          },
+          {
+            "hex": "#949179",
+            "share": 0.177
+          },
+          {
+            "hex": "#41343a",
+            "share": 0.116
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0f/66/68/0f666815-dd9c-e2c0-41ff-ae86b1903456/00602557447606.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Wanted",
+      "collection_id": 1444012555,
+      "track_id": 1444012754,
+      "artist_name": "Yazz",
+      "release_date": "1988-11-14T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.346,
+        "saturation": 0.277,
+        "dark_share": 0.51,
+        "palette": [
+          {
+            "hex": "#020202",
+            "share": 0.289
+          },
+          {
+            "hex": "#ddceb5",
+            "share": 0.269
+          },
+          {
+            "hex": "#6f5d60",
+            "share": 0.206
+          },
+          {
+            "hex": "#010202",
+            "share": 0.153
+          },
+          {
+            "hex": "#0c0b0d",
+            "share": 0.084
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

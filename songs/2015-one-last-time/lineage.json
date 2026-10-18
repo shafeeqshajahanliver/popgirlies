@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/345925",
+    "title": "One Last Time",
+    "performer": "Ariana Grande",
+    "is_original": true,
+    "first_release_date": "2014-08-22",
+    "releases": [
+      {
+        "title": "One Last Time",
+        "uri": "https://api.secondhandsongs.com/release/116034",
+        "performer": "Ariana Grande"
+      },
+      {
+        "title": "My Everything",
+        "uri": "https://api.secondhandsongs.com/release/119991",
+        "performer": "Ariana Grande"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 46,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/141766",
+    "title": "One Last Time",
+    "language": "English",
+    "writers": [
+      "Carl Falk",
+      "David Guetta",
+      "Savan Kotecha",
+      "Rami Yacoub",
+      "Giorgio Tuinfort"
+    ],
+    "original_performer": "Ariana Grande",
+    "versions": 47,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "One Last Time",
+        "uri": "https://api.secondhandsongs.com/work/275034"
+      }
+    ]
+  }
+}

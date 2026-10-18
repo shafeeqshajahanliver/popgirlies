@@ -1,0 +1,53 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "R&B"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "contemporary R&B"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "ballad",
+        "contemporary r&b",
+        "dance-pop",
+        "house",
+        "pop",
+        "r&b",
+        "soul"
+      ],
+      "tags": [
+        "pop",
+        "r&b",
+        "adult contemporary",
+        "dance-pop",
+        "soul",
+        "ballad",
+        "contemporary r&b",
+        "house",
+        "neo-soul/adult alternative rock",
+        "other pop"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "R&B-pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "R&B-pop",
+    "singer-songwriter and ballad",
+    "disco and dance",
+    "other pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "album": {
+      "release_group": "3099b832-dcaa-30fe-bd37-1dc993fb3397",
+      "release_title": "Honey to the B",
+      "release_date": "1998-10-19",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Honey to the B",
+      "url": "https://coverartarchive.org/release/ce71d6d0-31d2-426b-b8b3-7eb003bdc352/45197984169-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ce71d6d0-31d2-426b-b8b3-7eb003bdc352",
+      "image_id": 45197984169,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.762,
+        "saturation": 0.516,
+        "dark_share": 0.005,
+        "palette": [
+          {
+            "hex": "#c57e47",
+            "share": 0.327
+          },
+          {
+            "hex": "#daad85",
+            "share": 0.221
+          },
+          {
+            "hex": "#d39864",
+            "share": 0.191
+          },
+          {
+            "hex": "#915537",
+            "share": 0.188
+          },
+          {
+            "hex": "#e1cdb2",
+            "share": 0.072
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e2/17/be/e217be2a-f172-ba2d-54cb-6e51b548c806/23UM1IM58962.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Because We Want To - EP",
+      "collection_id": 1718553017,
+      "track_id": 1718553022,
+      "artist_name": "Billie Piper",
+      "release_date": "1998-06-29T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.498,
+        "saturation": 0.374,
+        "dark_share": 0.405,
+        "palette": [
+          {
+            "hex": "#b84843",
+            "share": 0.262
+          },
+          {
+            "hex": "#241c1a",
+            "share": 0.251
+          },
+          {
+            "hex": "#dec5ad",
+            "share": 0.24
+          },
+          {
+            "hex": "#1f1917",
+            "share": 0.166
+          },
+          {
+            "hex": "#4f2526",
+            "share": 0.081
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

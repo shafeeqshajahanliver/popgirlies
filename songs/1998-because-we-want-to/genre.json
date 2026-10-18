@@ -1,0 +1,48 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Pop"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "pop music"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "bubblegum pop",
+        "dance-pop",
+        "europop",
+        "pop",
+        "progressive house",
+        "teen pop"
+      ],
+      "tags": [
+        "pop",
+        "europop",
+        "teen pop",
+        "bubblegum pop",
+        "dance-pop",
+        "progressive house"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "other pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "other pop",
+    "teen and bubblegum",
+    "disco and dance",
+    "Latin and global"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

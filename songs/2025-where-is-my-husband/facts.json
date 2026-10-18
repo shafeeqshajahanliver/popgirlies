@@ -1,0 +1,489 @@
+{
+  "id": "2025-where-is-my-husband",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Where Is My Husband!",
+  "wikidata": {
+    "qid": "Q136352145",
+    "label": null,
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q28071144",
+          "label": "Raye"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q28071144",
+          "label": "Raye"
+        },
+        {
+          "qid": "Q85478402",
+          "label": "Mike Sabath"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q28071144",
+          "label": "Raye"
+        },
+        {
+          "qid": "Q85478402",
+          "label": "Mike Sabath"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2025-09-19"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q850412",
+          "label": "contemporary R&B"
+        },
+        {
+          "qid": "Q11700065",
+          "label": "pop soul"
+        },
+        {
+          "qid": "Q105756581",
+          "label": "big band music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q137852576",
+          "label": "This Music May Contain Hope."
+        }
+      ],
+      "duration": [
+        {
+          "amount": "196",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_release_group_id": [
+        "0b17e3ac-1bf2-4df9-9eef-e12babb3e56f"
+      ],
+      "genius_song_id": [
+        "Raye-where-is-my-husband-lyrics"
+      ],
+      "youtube_video_id": [
+        "rK5TyISxZ_M"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 0b17e3ac-1bf2-4df9-9eef-e12babb3e56f (2025-09-19); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "8493b88b-faf1-4735-b329-2366ad52b955",
+    "title": "WHERE IS MY HUSBAND!",
+    "length_ms": 196907,
+    "first_release_date": "2025-09-19",
+    "artist_credit": "RAYE",
+    "artists": [
+      {
+        "name": "RAYE",
+        "mbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e"
+      }
+    ],
+    "isrcs": [
+      "QMFME2535037"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Isaac Allan",
+        "mbid": "61490059-a30f-4b2e-8631-4843fba1d3fe"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Mollie Crammond",
+        "mbid": "0b8af27e-f232-4061-8f8f-965fa3807ace"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Cecilia Griffin",
+        "mbid": "c51db371-4714-4114-bda9-2b9914ae760b"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Alex Pyle",
+        "mbid": "076d2d16-0bd2-4691-909e-7214f6e41eb7"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Alex Robinson",
+        "mbid": "2d72401d-0d82-4b94-8baf-0f8257a018f8"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "violin"
+        ],
+        "name": "Yasmeen Al-Mazeedi",
+        "mbid": "ecc3370e-ad32-4602-ac28-1781650ce0ed"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "viola"
+        ],
+        "name": "Rita Andrade",
+        "mbid": "c527a599-821c-432c-8ed8-fc5ad80ea54b"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "saxophone"
+        ],
+        "name": "Graeme Blevins",
+        "mbid": "0b52471a-760b-41eb-9854-9e8004bfc580"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "trumpet"
+        ],
+        "name": "Mike Cordone",
+        "mbid": "44877a94-bc3d-4c40-b3db-def8b498a9ff"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "cello"
+        ],
+        "name": "Distant Cowboy",
+        "mbid": "69a4f714-cd9b-4529-9019-9285853e4114"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "percussion"
+        ],
+        "name": "Dan Ellis",
+        "mbid": "703fb569-3132-40fe-88b4-35c1067591bb"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass guitar"
+        ],
+        "name": "Chris Hill",
+        "mbid": "c1197abf-778c-4bfc-a88f-81d14420a9c5"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "piano"
+        ],
+        "name": "Chris Hill",
+        "mbid": "c1197abf-778c-4bfc-a88f-81d14420a9c5"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "trumpet"
+        ],
+        "name": "Aaron Janik",
+        "mbid": "b10bca77-d5f9-4f9e-b091-3ae82a2c09bc"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "trombone"
+        ],
+        "name": "Ivan Malespin",
+        "mbid": "545e9bbf-6e82-4865-8772-190bf06502e4"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass guitar"
+        ],
+        "name": "Mike Sabath",
+        "mbid": "b61e2b15-53e4-45d6-9b9e-62c65f36c2ca"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Mike Sabath",
+        "mbid": "b61e2b15-53e4-45d6-9b9e-62c65f36c2ca"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Tony Maserati",
+        "mbid": "79b5b0be-348f-4532-b78b-3ab6052bb5d8"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "RAYE",
+        "mbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Mike Sabath",
+        "mbid": "b61e2b15-53e4-45d6-9b9e-62c65f36c2ca"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "RAYE",
+        "mbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/67m9nhQFZcgd0NaVHWpVLS"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3650952312"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3917435541"
+      },
+      {
+        "type": "other databases",
+        "url": "https://www.offiziellecharts.de/charts/titel-details-2564117"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/1871085734"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/368511991"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/404404703"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/1871085734"
+      },
+      {
+        "type": "streaming",
+        "url": "https://open.qobuz.com/track/368511991"
+      },
+      {
+        "type": "streaming",
+        "url": "https://open.qobuz.com/track/404404703"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/473310992"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/509536323"
+      }
+    ],
+    "genres": [
+      "pop"
+    ],
+    "tags": [
+      "5+ wochen",
+      "billboard hot 100",
+      "billboard hot 100 2025",
+      "billboard hot 100 2026",
+      "offizielle charts",
+      "pop"
+    ],
+    "releases": [
+      {
+        "id": "b5d05036-5f6a-43ce-93f4-ab13879a7820",
+        "title": "WHERE IS MY HUSBAND!",
+        "date": "2025-09-19",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "0b17e3ac-1bf2-4df9-9eef-e12babb3e56f",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "89b6ea45-62f8-4231-9f21-5a85319f9ec4",
+        "title": "NOW That's What I Call Music! 122",
+        "date": "2025-11-14",
+        "country": "IE",
+        "status": "Official",
+        "release_group": "09ebb5e3-d69a-4616-b6a5-bc99cd7d3ed0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5d10ffd0-7370-422c-9818-2f213df409d1",
+        "title": "NOW That's What I Call Music! 122",
+        "date": "2025-11-14",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "09ebb5e3-d69a-4616-b6a5-bc99cd7d3ed0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "53f72042-2e67-4bd0-892c-1b7d8dc720e3",
+        "title": "Now That’s What I Call Music! 122",
+        "date": "2025-11-14",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "09ebb5e3-d69a-4616-b6a5-bc99cd7d3ed0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "160d2eb2-1d7f-45ec-a2e0-27f08e03dc3f",
+        "title": "WHERE IS MY HUSBAND! (Remix)",
+        "date": "2025-11-14",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "edbaa5d6-cfe6-4045-8fd1-4f1ffa840f33",
+        "primary_type": "EP",
+        "secondary_types": [
+          "Remix"
+        ]
+      },
+      {
+        "id": "d44683b4-3749-4489-a633-5bba9d341cb0",
+        "title": "Megahits 2026: Die Erste",
+        "date": "2026-01-09",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "d983fafb-a9c9-407f-83d2-743baa45d94c",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f7d8f88a-752d-4a93-b5d1-520018ba8891",
+        "title": "THIS MUSIC MAY CONTAIN HOPE.",
+        "date": "2026-03-27",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "ae1ff272-3682-4e39-8f9b-2a9eb30eddc3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "06348de9-a1be-4996-88fd-9bbceb6d779a",
+        "title": "THIS MUSIC MAY CONTAIN HOPE.",
+        "date": "2026-03-27",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "ae1ff272-3682-4e39-8f9b-2a9eb30eddc3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d174af14-93f2-475a-a649-76fbfda4798b",
+        "title": "THIS MUSIC MAY CONTAIN HOPE.",
+        "date": "2026-03-27",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "ae1ff272-3682-4e39-8f9b-2a9eb30eddc3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ef2dba2a-e41f-4ba3-bff8-8287534facf0",
+        "title": "THIS MUSIC MAY CONTAIN HOPE.",
+        "date": "2026-03-27",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "ae1ff272-3682-4e39-8f9b-2a9eb30eddc3",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c2414068-184f-4ef5-b88b-591a43d1eae8",
+        "title": "THIS MUSIC MAY CONTAIN HOPE.",
+        "date": "2026-03-27",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ae1ff272-3682-4e39-8f9b-2a9eb30eddc3",
+        "primary_type": "Album",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "ec2ea61f-7528-4d20-8d88-41a589ba63d1",
+      "title": "WHERE IS MY HUSBAND!",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "RAYE",
+          "mbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e"
+        },
+        {
+          "role": "composer",
+          "name": "Mike Sabath",
+          "mbid": "b61e2b15-53e4-45d6-9b9e-62c65f36c2ca"
+        },
+        {
+          "role": "lyricist",
+          "name": "RAYE",
+          "mbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e"
+        }
+      ],
+      "urls": []
+    },
+    "main_artist": {
+      "name": "RAYE",
+      "type": "Person",
+      "country": "GB",
+      "area": "United Kingdom",
+      "begin_area": "Tooting"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

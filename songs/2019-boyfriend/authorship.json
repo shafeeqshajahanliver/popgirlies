@@ -1,0 +1,31 @@
+{
+  "writers": [
+    "Ariana Grande",
+    "Edgar Barrera",
+    "Michael “Mikey” Foster",
+    "Mr. Franks",
+    "Scootie",
+    "TBHits"
+  ],
+  "producers": [
+    "Edgar Barrera",
+    "Mr. Franks",
+    "Steven Franks",
+    "TBHits",
+    "Tommy Brown"
+  ],
+  "n_writers": 6,
+  "n_producers": 5,
+  "act": "Ariana Grande",
+  "group_members": [],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "Ariana Grande"
+  ],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

@@ -1,0 +1,54 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "album": {
+      "release_group": "e774d274-e3ee-434a-a5c0-4a113b3b5d8f",
+      "release_title": "Camila",
+      "release_date": "2018-01-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Camila",
+      "url": "http://coverartarchive.org/release/d5d56374-0f39-4f54-a604-3fd9005deb02/18513060312-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/d5d56374-0f39-4f54-a604-3fd9005deb02",
+      "image_id": 18513060312,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.437,
+        "saturation": 0.589,
+        "dark_share": 0.298,
+        "palette": [
+          {
+            "hex": "#090530",
+            "share": 0.271
+          },
+          {
+            "hex": "#3a202e",
+            "share": 0.25
+          },
+          {
+            "hex": "#b57d54",
+            "share": 0.187
+          },
+          {
+            "hex": "#825039",
+            "share": 0.182
+          },
+          {
+            "hex": "#e0b184",
+            "share": 0.11
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "id": "2020-sweet-melody",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Sweet Melody",
+  "wikidata": {
+    "qid": "Q100711723",
+    "label": "Sweet Melody",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q158419",
+          "label": "Little Mix"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q435807",
+          "label": "Taylor Parks"
+        },
+        {
+          "qid": "Q6716905",
+          "label": "MNEK"
+        },
+        {
+          "qid": "Q23664397",
+          "label": "Morten Ristorp"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q50074604",
+          "label": "RCA"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2020-10-23"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q56071491",
+          "label": "Little Mix singles discography"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "213",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "d51e4761-6602-4552-bf3d-63eddc016247"
+      ],
+      "genius_song_id": [
+        "Little-mix-sweet-melody-lyrics"
+      ],
+      "youtube_video_id": [
+        "r4P-WOOUPk4"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 2af0772b-d631-4afa-853d-780a7960a9dc (2020-10-23); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "ece5f285-c5c4-4080-a28d-70409fb802fe",
+    "title": "Sweet Melody",
+    "length_ms": 213693,
+    "first_release_date": "2020-10-23",
+    "artist_credit": "Little Mix",
+    "artists": [
+      {
+        "name": "Little Mix",
+        "mbid": "38f59974-2f4d-4bfa-b2e3-d2696de1b675"
+      }
+    ],
+    "isrcs": [
+      "GBHMU2000062"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Paul Norris",
+        "mbid": "63760f1b-51b6-415e-9d6d-4a722a1db100"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "drums (drum set)"
+        ],
+        "name": "Oliver Frid",
+        "mbid": "3eb1aef3-377e-4bc7-b92f-0ba435bdf2a2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Oliver Frid",
+        "mbid": "3eb1aef3-377e-4bc7-b92f-0ba435bdf2a2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Oliver Frid",
+        "mbid": "3eb1aef3-377e-4bc7-b92f-0ba435bdf2a2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "bass"
+        ],
+        "name": "Oliver Frid",
+        "mbid": "3eb1aef3-377e-4bc7-b92f-0ba435bdf2a2"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Phil Tan",
+        "mbid": "14102906-da3c-469c-96b0-3e9ca2bf48de"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Bill Zimmerman",
+        "mbid": "8fc180c4-cade-4166-97aa-3b5db2bf97ea"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Oliver Frid",
+        "mbid": "3eb1aef3-377e-4bc7-b92f-0ba435bdf2a2"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "MNEK",
+        "mbid": "27e7c2e8-badc-4a97-8b93-24b6c530b038"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "task"
+        ],
+        "name": "MNEK",
+        "mbid": "27e7c2e8-badc-4a97-8b93-24b6c530b038"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Tayla Parx",
+        "mbid": "d1a6f4f1-fbda-4898-80a2-9226d54bbd17"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Peoples",
+        "mbid": "0c6ef118-62f8-492b-b9e3-8c79545c5bd5"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Rissi",
+        "mbid": "65871bf2-ffdf-43ba-93fe-3da5031393ed"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Oliver Frid",
+        "mbid": "3eb1aef3-377e-4bc7-b92f-0ba435bdf2a2"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "JADE",
+        "mbid": "f4108df8-cf1f-4279-a840-599b2a291127"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Leigh‐Anne",
+        "mbid": "7ca99f66-9cb3-4e2c-acfc-d66e9f7b67f4"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Jesy Nelson",
+        "mbid": "e3b812c9-96ca-4ecc-86e1-f019a494d399"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Perrie",
+        "mbid": "8c95b354-a580-4778-86bd-c2834d6144d3"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/25GuTPJAbB6t2v0ijeTFc7"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/1540131022"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/1581465729"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/128941210"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/1581465729"
+      },
+      {
+        "type": "streaming",
+        "url": "https://open.qobuz.com/track/128941210"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/203551093"
+      }
+    ],
+    "genres": [
+      "contemporary r&b",
+      "dance-pop",
+      "pop"
+    ],
+    "tags": [
+      "contemporary r&b",
+      "dance pop",
+      "dance-pop",
+      "party",
+      "pop"
+    ],
+    "releases": [
+      {
+        "id": "1c03a1c8-2dee-436d-a6ea-84601943cf21",
+        "title": "So Fresh: The Hits of Summer 2021",
+        "date": "2020",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "8214091f-5e91-4f88-9018-08312d0cd86a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dbb247b9-6aef-4f19-8fc7-f4ca1ed211cf",
+        "title": "Sweet Melody",
+        "date": "2020-10-23",
+        "country": null,
+        "status": "Official",
+        "release_group": "2af0772b-d631-4afa-853d-780a7960a9dc",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "1e169643-d4ad-46c7-8324-81e56ccabaee",
+        "title": "DMC DJ Promo 261",
+        "date": "2020-10-30",
+        "country": "GB",
+        "status": "Promotion",
+        "release_group": "0ba92d79-21d1-4510-9cb9-662c23059169",
+        "primary_type": null,
+        "secondary_types": []
+      },
+      {
+        "id": "d98c4101-370f-42ac-91e9-f445a850ed9c",
+        "title": "Confetti",
+        "date": "2020-11-06",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1a06adad-a1f9-4c1f-8a99-8ad2ea5be289",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "afe7e666-2640-44cb-8878-07e1e17a48ba",
+        "title": "Confetti",
+        "date": "2020-11-06",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "1a06adad-a1f9-4c1f-8a99-8ad2ea5be289",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3399ee06-1789-4f96-8b98-f8cbb96690c6",
+        "title": "Confetti",
+        "date": "2020-11-06",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "1a06adad-a1f9-4c1f-8a99-8ad2ea5be289",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "3907c437-a144-433b-aff7-b172d45a2f3c",
+        "title": "Confetti",
+        "date": "2020-11-06",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1a06adad-a1f9-4c1f-8a99-8ad2ea5be289",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "79b076ec-d3c2-4f6c-bee2-22bd3cce0452",
+        "title": "Confetti",
+        "date": "2020-11-06",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "1a06adad-a1f9-4c1f-8a99-8ad2ea5be289",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "84ef25bc-5735-49d9-bc53-1d21e47847c9",
+        "title": "Confetti",
+        "date": "2020-11-06",
+        "country": null,
+        "status": "Official",
+        "release_group": "1a06adad-a1f9-4c1f-8a99-8ad2ea5be289",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c2ba1fe8-b5b9-44b3-a4ba-e82f4760750f",
+        "title": "Now That’s What I Call Music! 107",
+        "date": "2020-11-27",
+        "country": "IE",
+        "status": "Official",
+        "release_group": "cd3e3a7c-f98e-4cb7-abed-02143fcb20f0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "99623a42-617a-483f-9f35-ae8623c8fa67",
+        "title": "Now That’s What I Call Music! 107",
+        "date": "2020-11-27",
+        "country": "IE",
+        "status": "Official",
+        "release_group": "cd3e3a7c-f98e-4cb7-abed-02143fcb20f0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7a35905c-ea27-4ecd-9b13-07cf80142ed1",
+        "title": "Now That’s What I Call Music! 107",
+        "date": "2020-11-27",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "cd3e3a7c-f98e-4cb7-abed-02143fcb20f0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a3c703e4-f127-48a6-9e9a-62f3511ce270",
+        "title": "NOW That’s What I Call Music! 107",
+        "date": "2020-11-27",
+        "country": "IE",
+        "status": "Official",
+        "release_group": "cd3e3a7c-f98e-4cb7-abed-02143fcb20f0",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "488ae401-a14c-405f-b073-737954565d0a",
+        "title": "The Dome, Vol. 96",
+        "date": "2020-11-27",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "780b48ed-1eeb-4a05-b720-beeb26402a98",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e7ef7590-37a1-4ea6-944d-c37b9d8921b8",
+        "title": "The Dome, Vol. 96",
+        "date": "2020-11-27",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "780b48ed-1eeb-4a05-b720-beeb26402a98",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f696c881-304f-4da6-a21b-7834b4e81a2a",
+        "title": "Booom 2021: The First",
+        "date": "2020-12-11",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "a107a5ad-b3a8-49f0-a5d9-a0ee70feaee2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3739ca59-073f-41bf-854d-63dccd05b648",
+        "title": "Confetti",
+        "date": "2020-12-11",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "1a06adad-a1f9-4c1f-8a99-8ad2ea5be289",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "636a2ac7-99dd-4a29-8c79-ab826bada2c1",
+        "title": "Between Us",
+        "date": "2021-11-12",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "035ca43b-354f-4cec-a2fd-c1c669c75df8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "85e5eef1-be7d-4fdf-9d61-23579360d68f",
+        "title": "Between Us",
+        "date": "2021-11-12",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "035ca43b-354f-4cec-a2fd-c1c669c75df8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "943e9857-5056-4c41-9868-0b07af5cc4a3",
+        "title": "Between Us",
+        "date": "2021-11-12",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "035ca43b-354f-4cec-a2fd-c1c669c75df8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b25e401d-1280-4e37-b34f-fcbe8a77fa22",
+        "title": "Between Us",
+        "date": "2021-11-12",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "035ca43b-354f-4cec-a2fd-c1c669c75df8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "12591923-989d-445b-bfe6-e79253761bd5",
+        "title": "Between Us",
+        "date": "2021-11-12",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "035ca43b-354f-4cec-a2fd-c1c669c75df8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "afc69f1d-f768-4ddf-99c8-698d72a68b9e",
+        "title": "Between Us",
+        "date": "2021-11-12",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "035ca43b-354f-4cec-a2fd-c1c669c75df8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2e6502c8-6425-404a-9bf5-0516233ade6b",
+        "title": "Between Us",
+        "date": "2021-11-12",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "035ca43b-354f-4cec-a2fd-c1c669c75df8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f4687b76-a891-4158-b5ca-9fd62df3335e",
+        "title": "Between Us",
+        "date": "2021-11-12",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "035ca43b-354f-4cec-a2fd-c1c669c75df8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "d51e4761-6602-4552-bf3d-63eddc016247",
+      "title": "Sweet Melody",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Oliver Frid",
+          "mbid": "3eb1aef3-377e-4bc7-b92f-0ba435bdf2a2"
+        },
+        {
+          "role": "writer",
+          "name": "Brian Garcia",
+          "mbid": "d0a7368a-eefb-463c-b4f7-295753a6bc6d"
+        },
+        {
+          "role": "writer",
+          "name": "MNEK",
+          "mbid": "27e7c2e8-badc-4a97-8b93-24b6c530b038"
+        },
+        {
+          "role": "writer",
+          "name": "Tayla Parx",
+          "mbid": "d1a6f4f1-fbda-4898-80a2-9226d54bbd17"
+        },
+        {
+          "role": "writer",
+          "name": "Rissi",
+          "mbid": "65871bf2-ffdf-43ba-93fe-3da5031393ed"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q100711723"
+      ]
+    },
+    "main_artist": {
+      "name": "Little Mix",
+      "type": "Group",
+      "country": "GB",
+      "area": "England",
+      "begin_area": "London"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

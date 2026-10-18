@@ -1,0 +1,590 @@
+{
+  "id": "2016-shout-out-to-my-ex",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Shout Out to My Ex",
+  "wikidata": {
+    "qid": "Q27510952",
+    "label": "Shout Out to My Ex",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q158419",
+          "label": "Little Mix"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q7659636",
+          "label": "Syco Music"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2016-10-16"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q27465906",
+          "label": "Glory Days"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "246",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q20888587",
+          "label": "Hair"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q28055859",
+          "label": "Touch"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "07a8044e-d695-485e-a14d-002efb63dcc8"
+      ],
+      "musicbrainz_release_group_id": [
+        "a6447ad2-0df9-4a80-b991-5706ab384680"
+      ],
+      "youtube_video_id": [
+        "bFDzhKdrN9M"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group a6447ad2-0df9-4a80-b991-5706ab384680 (2016-10-18); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "67f5daf2-e49b-4e94-a81d-20df5a3dede0",
+    "title": "Shout Out to My Ex",
+    "length_ms": 246240,
+    "first_release_date": "2016-10-18",
+    "artist_credit": "Little Mix",
+    "artists": [
+      {
+        "name": "Little Mix",
+        "mbid": "38f59974-2f4d-4bfa-b2e3-d2696de1b675"
+      }
+    ],
+    "isrcs": [
+      "GBHMU1600060"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Chris Bishop",
+        "mbid": "50e16be3-1fd6-41cf-9f59-cc2f43567ebf"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Maegan Cottone",
+        "mbid": "1e7088ff-7442-42bc-96ab-f483d6699dd4"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Electric",
+        "mbid": "6de7acb7-af32-428d-ab94-37ac1e123d4e"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "John Hanes",
+        "mbid": "8cb2b8cd-34e5-4197-8a51-7eaf795b65c1"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Alex Reid",
+        "mbid": "eee5d020-bab7-4e1d-a0bc-5ee2abac57a4"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Edvard Førre Erfjord",
+        "mbid": "ff7a4fb0-2fc2-45f2-92a0-252438af7b8b"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Henrik Barman Michelsen",
+        "mbid": "c02286db-5ab7-4fdc-afa2-0342bcabd667"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Serban Ghenea",
+        "mbid": "d1f01df7-fcac-4c64-a530-0f49aacf98bb"
+      },
+      {
+        "role": "performer",
+        "attributes": [],
+        "name": "Little Mix",
+        "mbid": "38f59974-2f4d-4bfa-b2e3-d2696de1b675"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Maegan Cottone",
+        "mbid": "1e7088ff-7442-42bc-96ab-f483d6699dd4"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Electric",
+        "mbid": "6de7acb7-af32-428d-ab94-37ac1e123d4e"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Edvard Førre Erfjord",
+        "mbid": "ff7a4fb0-2fc2-45f2-92a0-252438af7b8b"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Henrik Barman Michelsen",
+        "mbid": "c02286db-5ab7-4fdc-afa2-0342bcabd667"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "JADE",
+        "mbid": "f4108df8-cf1f-4279-a840-599b2a291127"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "other vocals"
+        ],
+        "name": "Kamille",
+        "mbid": "d02d9f30-80fb-402a-8f3b-e69ed9e252d2"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Kamille",
+        "mbid": "d02d9f30-80fb-402a-8f3b-e69ed9e252d2"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Leigh‐Anne",
+        "mbid": "7ca99f66-9cb3-4e2c-acfc-d66e9f7b67f4"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Jesy Nelson",
+        "mbid": "e3b812c9-96ca-4ecc-86e1-f019a494d399"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Perrie",
+        "mbid": "8c95b354-a580-4778-86bd-c2834d6144d3"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/3WTIiBfOsXIzfeLH17l6WS"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/1540130942"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/1581465567"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/128941202"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/1581465567"
+      },
+      {
+        "type": "streaming",
+        "url": "https://open.qobuz.com/track/128941202"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/203551084"
+      }
+    ],
+    "genres": [
+      "dance-pop",
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "dance-pop",
+      "party"
+    ],
+    "releases": [
+      {
+        "id": "df1b2478-7b31-4733-8b74-9bfc6d4d49ed",
+        "title": "Shout Out to My Ex",
+        "date": "2016-10-18",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "a6447ad2-0df9-4a80-b991-5706ab384680",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "f1d56abf-e2f2-4bb6-88e7-cd28899ace7c",
+        "title": "Glory Days",
+        "date": "2016-11-18",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "53a8e6a5-e236-4b10-83fc-80fd14b35f06",
+        "title": "Glory Days",
+        "date": "2016-11-18",
+        "country": null,
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "114f064d-de54-42d4-bdcd-e671150f5c52",
+        "title": "Glory Days",
+        "date": "2016-11-18",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "77bf585d-ca04-439d-9721-75de31a9e673",
+        "title": "Glory Days",
+        "date": "2016-11-18",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0ecce80f-f528-4e8e-9fe3-a865e378b84d",
+        "title": "Glory Days",
+        "date": "2016-11-18",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "db7d3b55-9fae-4276-82f4-d7afd973c5c7",
+        "title": "Glory Days",
+        "date": "2016-11-23",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "41a12699-1bdd-4598-8a04-6ebf25080057",
+        "title": "Glory Days",
+        "date": "2016-11-23",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "6d35544a-ffa3-4cdf-89fa-f8cf4dffdfcf",
+        "title": "Glory Days",
+        "date": "2016-11-23",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a79f73a9-72f5-489a-8621-2858b2cbd452",
+        "title": "Glory Days: Japan Edition",
+        "date": "2016-11-23",
+        "country": "JP",
+        "status": "Promotion",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c5a3cf85-85f0-4608-b3be-a4fcc4ff313a",
+        "title": "MNM Big Hits: Best of 2016",
+        "date": "2016-11-25",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "59c21922-e384-4c24-b35e-cfa342da5ebf",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0a35e3e6-4b40-44b9-85ee-781f7ba69a04",
+        "title": "So Fresh: The Hits of Summer 2017",
+        "date": "2016-11-25",
+        "country": null,
+        "status": "Withdrawn",
+        "release_group": "24ac58bb-60eb-4d5e-a852-b4b0c0b4e940",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4e327c0c-411b-40f7-b645-3d1594033a3a",
+        "title": "So Fresh: The Hits Of Summer 2017 + Best Of 2016",
+        "date": "2016-11-25",
+        "country": null,
+        "status": "Withdrawn",
+        "release_group": "cc6baa51-66f8-4d83-bd8b-cf9f84b7d4c5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f19e3532-54c0-4245-a77b-561572158e1d",
+        "title": "Toggo Music 44",
+        "date": "2016-11-25",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "8326cbf2-c525-4b39-bb86-557785fc3e64",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ff4db1a0-2b46-44a0-9ccd-a93596592754",
+        "title": "So Fresh: The Hits of Summer 2017",
+        "date": "2016-12-02",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "24ac58bb-60eb-4d5e-a852-b4b0c0b4e940",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "340902ae-8004-4310-88b6-6db6caae1695",
+        "title": "So Fresh: The Hits of Summer 2017 + The Best of 2016",
+        "date": "2016-12-02",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "cc6baa51-66f8-4d83-bd8b-cf9f84b7d4c5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "af592726-98e7-4d26-be39-26519497380e",
+        "title": "The Dome, Vol. 80",
+        "date": "2016-12-02",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "8a2c9410-bbf1-4d58-8b6c-eb6d609aa783",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fdba4a52-e636-4452-861e-fc5935ca679e",
+        "title": "The Dome, Vol. 80",
+        "date": "2016-12-02",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "8a2c9410-bbf1-4d58-8b6c-eb6d609aa783",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "6a7fd250-af91-4e63-a285-2f32865f4a3a",
+        "title": "Booom 2017: The First",
+        "date": "2016-12-16",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "3cb8453f-1799-4065-9f82-6951c11cbb0e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "e9353c2b-a7dc-4494-9903-87916d50f63c",
+        "title": "NRJ Hits 2017",
+        "date": "2016-12-23",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "2bbfc500-7225-4674-a7ae-0192455f055e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "456f2105-2ccd-4ba9-a2cd-bdeda431f22c",
+        "title": "NRJ Winter Hits 2017",
+        "date": "2017-01-13",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "d20d35ea-e981-4448-ab92-9ae064d9a0cd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "83b72d02-1513-4a8b-af14-4d58acdf97e1",
+        "title": "538: Hitzone 80",
+        "date": "2017-02-03",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "422afcb1-442b-4e4f-a566-3e0303982d3f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8f090beb-4c88-4cc9-94dc-051d6842eaef",
+        "title": "I Am Woman",
+        "date": "2017-03-03",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "71282718-3757-479b-bc25-52799ba9137a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f2e97aac-6929-4d53-8f91-33ff11853cb8",
+        "title": "Glory Days",
+        "date": "2017-04-21",
+        "country": "US",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "d5b396f4-f6d6-49d6-987b-870bf486ef06",
+        "title": "Glory Days",
+        "date": "2017-04-22",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+        "primary_type": "Album",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "07a8044e-d695-485e-a14d-002efb63dcc8",
+      "title": "Shout Out to My Ex",
+      "iswcs": [],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Edvard Førre Erfjord",
+          "mbid": "ff7a4fb0-2fc2-45f2-92a0-252438af7b8b"
+        },
+        {
+          "role": "writer",
+          "name": "JADE",
+          "mbid": "f4108df8-cf1f-4279-a840-599b2a291127"
+        },
+        {
+          "role": "writer",
+          "name": "Iain James",
+          "mbid": "0be9d659-2be8-42dc-b915-2612cc080a78"
+        },
+        {
+          "role": "writer",
+          "name": "Kamille",
+          "mbid": "d02d9f30-80fb-402a-8f3b-e69ed9e252d2"
+        },
+        {
+          "role": "writer",
+          "name": "Leigh‐Anne",
+          "mbid": "7ca99f66-9cb3-4e2c-acfc-d66e9f7b67f4"
+        },
+        {
+          "role": "writer",
+          "name": "Henrik Barman Michelsen",
+          "mbid": "c02286db-5ab7-4fdc-afa2-0342bcabd667"
+        },
+        {
+          "role": "writer",
+          "name": "Jesy Nelson",
+          "mbid": "e3b812c9-96ca-4ecc-86e1-f019a494d399"
+        },
+        {
+          "role": "writer",
+          "name": "Perrie",
+          "mbid": "8c95b354-a580-4778-86bd-c2834d6144d3"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q27510952"
+      ]
+    },
+    "main_artist": {
+      "name": "Little Mix",
+      "type": "Group",
+      "country": "GB",
+      "area": "England",
+      "begin_area": "London"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

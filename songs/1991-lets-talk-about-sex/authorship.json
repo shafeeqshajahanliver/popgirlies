@@ -1,0 +1,29 @@
+{
+  "writers": [
+    "Hurby Azor"
+  ],
+  "producers": [
+    "Hurby Luv Bug",
+    "the Invincibles"
+  ],
+  "n_writers": 1,
+  "n_producers": 2,
+  "act": "Salt‐N‐Pepa",
+  "group_members": [
+    "DJ Spinderella",
+    "Hurby Azor",
+    "Keith Reber",
+    "Pepa",
+    "Salt"
+  ],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "Hurby Azor"
+  ],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

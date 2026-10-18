@@ -1,0 +1,163 @@
+{
+  "id": "2008-so-what",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "So What (Pink song)",
+  "wikidata": {
+    "qid": "Q1044354",
+    "label": "So What",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q160009",
+          "label": "Pink"
+        },
+        {
+          "qid": "Q10438866",
+          "label": "CC & Lee"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q160009",
+          "label": "Pink"
+        },
+        {
+          "qid": "Q286501",
+          "label": "Shellback"
+        },
+        {
+          "qid": "Q318223",
+          "label": "Max Martin"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q160009",
+          "label": "Pink"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q318223",
+          "label": "Max Martin"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1338446",
+          "label": "LaFace Records"
+        },
+        {
+          "qid": "Q27184",
+          "label": "Jive Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2008-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q484641",
+          "label": "pop rock"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q166299",
+          "label": "Funhouse"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q283910",
+          "label": "F-sharp minor"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "award_received": [
+        {
+          "qid": "Q31155",
+          "label": "MTV Europe Music Award for Best Song"
+        }
+      ],
+      "nominated_for": [
+        {
+          "qid": "Q31155",
+          "label": "MTV Europe Music Award for Best Song"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "8c640f4f-d189-3255-b6da-83f5ce90883d"
+      ],
+      "musicbrainz_release_group_id": [
+        "9a18ded5-130d-3f07-8768-4efd5767c7f6"
+      ],
+      "youtube_video_id": [
+        "FJfFZqTlWrQ"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
+  "musicbrainz": {
+    "recording_id": "85121de2-33f7-4881-a55d-e069ce31cd53",
+    "title": "So What",
+    "length_ms": 213786,
+    "first_release_date": "2010",
+    "artist_credit": "Pink",
+    "artists": [
+      {
+        "name": "Pink",
+        "mbid": "8d53ba6e-968c-4f72-9571-4a4f3ed4b3f0"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "e20e52d2-f956-41cd-bb4c-8ad25fdf44b2",
+        "title": "100 tubes pour courir",
+        "date": "2010",
+        "country": null,
+        "status": "Official",
+        "release_group": "3ed294bb-065c-49f6-bc61-64c332e44c85",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "main_artist": {
+      "name": "Pink",
+      "type": "Person",
+      "country": "DE",
+      "area": "Germany",
+      "begin_area": null
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

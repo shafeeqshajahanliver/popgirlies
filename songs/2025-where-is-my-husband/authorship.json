@@ -1,0 +1,27 @@
+{
+  "writers": [
+    "Mike Sabath",
+    "RAYE"
+  ],
+  "producers": [
+    "Mike Sabath",
+    "RAYE",
+    "Raye"
+  ],
+  "n_writers": 2,
+  "n_producers": 3,
+  "act": "RAYE",
+  "group_members": [],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "RAYE"
+  ],
+  "star_is_producer": true,
+  "star_producer_names": [
+    "RAYE"
+  ],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

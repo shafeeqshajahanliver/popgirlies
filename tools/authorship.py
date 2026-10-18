@@ -11,7 +11,9 @@ MB = "https://musicbrainz.org/ws/2/"
 
 def split_names(v):
     v = re.sub(r"\{\{[^|}]*\|", "", v or "")
-    return [p.strip(" *}{") for p in re.split(r"\n|,|\band\b|&|\{\{|\}\}|<br\s*/?>", v) if len(p.strip(" *}{")) > 2]
+    v = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", v)
+    parts = [p.strip(" *}{") for p in re.split(r"\n|,|\||\band\b|&|\{\{|\}\}|<br\s*/?>", v)]
+    return [p for p in parts if len(p) > 2 and not re.match(r"(?i)^(hlist|flatlist|ubl|plainlist|unbulleted list)$", p)]
 
 
 def members(mbid):
@@ -37,10 +39,16 @@ def main():
         mb = f.get("musicbrainz") or {}
         ib = w.get("infobox") or {}
         writers = {c["name"] for c in (mb.get("work") or {}).get("credits", []) if c["role"] in ("composer", "lyricist", "writer")}
-        writers |= set(split_names(ib.get("writer") or ib.get("writers") or ib.get("songwriter")))
+        ib_writers = split_names(ib.get("writer") or ib.get("writers") or ib.get("songwriter"))
+        # Wikipedia mixes stage names and legal names (Frank Dukes / Adam Feeney), so counting both
+        # double-counts people. Count MusicBrainz's legal-name credits when it has them, else Wikipedia's.
+        if not writers:
+            writers = set(ib_writers)
         producers = {c["name"] for c in mb.get("recording_credits", []) if c["role"] == "producer"}
         producers |= {c.get("label") for c in ((f.get("wikidata") or {}).get("claims") or {}).get("producer", []) if isinstance(c, dict) and c.get("label")}
-        producers |= set(split_names(ib.get("producer")))
+        for n in split_names(ib.get("producer")):
+            if not any(same(n, p_) for p_ in producers if p_):
+                producers.add(n)
         star = [a["name"] for a in mb.get("artists", [])[:1]] or [s["artist"]]
         main_mbid = (mb.get("artists") or [{}])[0].get("mbid")
         crew = members(main_mbid) if s.get("act_type") == "group" else []

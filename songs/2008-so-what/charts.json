@@ -1,0 +1,149 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "P!nk"
+  ],
+  "title_as_charted": [
+    "So What"
+  ],
+  "debut_week": "2008-09-06",
+  "debut_position": 9,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "2008-09-27",
+  "weeks_to_peak": 3,
+  "weeks_on_chart": 31,
+  "last_week": "2009-04-04",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "2008-09-06",
+      9
+    ],
+    [
+      "2008-09-13",
+      3
+    ],
+    [
+      "2008-09-20",
+      2
+    ],
+    [
+      "2008-09-27",
+      1
+    ],
+    [
+      "2008-10-04",
+      2
+    ],
+    [
+      "2008-10-11",
+      2
+    ],
+    [
+      "2008-10-18",
+      3
+    ],
+    [
+      "2008-10-25",
+      4
+    ],
+    [
+      "2008-11-01",
+      3
+    ],
+    [
+      "2008-11-08",
+      4
+    ],
+    [
+      "2008-11-15",
+      3
+    ],
+    [
+      "2008-11-22",
+      6
+    ],
+    [
+      "2008-11-29",
+      5
+    ],
+    [
+      "2008-12-06",
+      8
+    ],
+    [
+      "2008-12-13",
+      8
+    ],
+    [
+      "2008-12-20",
+      14
+    ],
+    [
+      "2008-12-27",
+      16
+    ],
+    [
+      "2009-01-03",
+      16
+    ],
+    [
+      "2009-01-10",
+      14
+    ],
+    [
+      "2009-01-17",
+      14
+    ],
+    [
+      "2009-01-24",
+      16
+    ],
+    [
+      "2009-01-31",
+      19
+    ],
+    [
+      "2009-02-07",
+      23
+    ],
+    [
+      "2009-02-14",
+      26
+    ],
+    [
+      "2009-02-21",
+      31
+    ],
+    [
+      "2009-02-28",
+      32
+    ],
+    [
+      "2009-03-07",
+      33
+    ],
+    [
+      "2009-03-14",
+      38
+    ],
+    [
+      "2009-03-21",
+      42
+    ],
+    [
+      "2009-03-28",
+      46
+    ],
+    [
+      "2009-04-04",
+      49
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "match": "title variant (sowhat / pnk)"
+}

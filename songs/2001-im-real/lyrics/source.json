@@ -1,0 +1,58 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21017358,
+  "kind": "synced",
+  "matched": {
+    "track": "I'm real",
+    "artist": "Jennifer Lopez",
+    "album": "J.Lo - (III Country Versions)",
+    "duration_s": 298.422857
+  },
+  "duration_matched_to": "deezer preview track matched by search (295s)",
+  "duration_diff_s": 3.4,
+  "reference_lengths": [
+    {
+      "seconds": 186.333,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 295.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 298.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 17,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [
+    "duration matched deezer preview track matched by search (295s), not the MusicBrainz recording length (missing or another edit)"
+  ],
+  "rejected_candidates": [
+    "lrclib 36961550 (I’m Real / Jennifer Lopez / Promo Only: Mainstream Radio, July 2001, 195.0s): duration matches no reference length",
+    "lrclib 34381025 (I'm Real / Jennifer Lopez / J.Lo (25th Anniversary Edition), 262.0s): duration matches no reference length",
+    "lrclib 33374248 (I'm Real / Jennifer Lopez / J.Lo [Bonus Track], 326.0s): duration matches no reference length",
+    "lrclib 33392678 (I'm Real / Jennifer Lopez / Now That's What I Call Music! 10, 194.0s): duration matches no reference length",
+    "lrclib 34238532 (I’m Real / Jennifer Lopez / Greatest Hits, 197.0s): duration matches no reference length",
+    "lrclib 20094702 (I'm Real / Jennifer Lopez / Now That's What I Call Music! Vol. 8, 194.668813s): duration matches no reference length",
+    "lrclib 21146682 (I'm Real / Jennifer Lopez / Dance Again... The Hits, 258.9466624s): duration matches no reference length",
+    "lrclib 37899352 (I'm Real (Murder Remix) (feat. Ja Rule) / Jennifer Lopez / Jennifer Lopez, 262.0s): live/remix/other version",
+    "lrclib 20770356 (I'm Real (Murder) / Jennifer Lopez / Best Of Jennifer Lopez, 260.759583s): duration matches no reference length",
+    "lrclib 21700170 (I'm Real (Remix) (feat. Ja Rule) / Jennifer Lopez / Jennifer Lopez Songs, 246.0s): live/remix/other version",
+    "lrclib 11119755 (I'm Real (Remix) (feat. Ja Rule) / Jennifer Lopez / Jennifer Lopez Videos, 246.0s): live/remix/other version",
+    "lrclib 22234200 (I'm Real (Murder Remix Feat. Ja Rule) (Bonus Track) / Jennifer Lopez / Essentials - Jennifer Lopez, 262.8179589s): live/remix/other version",
+    "lrclib 3695069 (I'm Real (Murder Remix Feat. Ja Rule) (Bonus Track) / Jennifer Lopez / Jennifer Lopez Essentials, 262.0s): live/remix/other version",
+    "lrclib 22680930 (I'm Real (feat. Ja Rule) [Remix] / Jennifer Lopez / Jennifer Lopez - The Hits, 259.004082s): live/remix/other version",
+    "lrclib 29653166 (I'm Real / Jennifer Lopez / I'm Real (single), 261.0s): duration matches no reference length",
+    "lrclib 22970990 (I'm Real (Album Version) / Jennifer Lopez / I’m Real, 258.984s): duration matches no reference length",
+    "lrclib 26465838 (I'm Real (Murder remix) / Jennifer Lopez / I’m Real, 257.893333s): live/remix/other version",
+    "lrclib 9858624 (I’m Real (Murder remix) / Jennifer Lopez / I’m Real, 261.0s): live/remix/other version",
+    "lrclib 15529006 (I'm real [rmx by Murder] [ft Ja Rule] / Jennifer Lopez / TIDAL, Jennifer Lopez essentials [hit], 263.0s): duration matches no reference length",
+    "lrclib 21707153 (I'm real (Murder remix) / Jennifer Lopez / I'm Real  (#2), 256.862041s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

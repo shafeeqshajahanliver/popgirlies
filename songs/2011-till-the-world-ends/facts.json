@@ -1,0 +1,704 @@
+{
+  "id": "2011-till-the-world-ends",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Till the World Ends",
+  "wikidata": {
+    "qid": "Q184920",
+    "label": "Till the World Ends",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q11975",
+          "label": "Britney Spears"
+        },
+        {
+          "qid": "Q33605",
+          "label": "Kesha"
+        },
+        {
+          "qid": "Q162202",
+          "label": null
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q350588",
+          "label": null
+        },
+        {
+          "qid": "Q28101393",
+          "label": "Bob Singleton"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q318223",
+          "label": "Max Martin"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q350588",
+          "label": null
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q27184",
+          "label": "Jive Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2011-03-04"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q188450",
+          "label": "electropop"
+        },
+        {
+          "qid": "Q211756",
+          "label": "dance-pop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q167554",
+          "label": "Femme Fatale"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q309994",
+          "label": "C minor"
+        }
+      ],
+      "beats_per_minute": [
+        {
+          "amount": "132.00",
+          "unit": "1"
+        }
+      ],
+      "duration": [
+        {
+          "amount": "237",
+          "unit": "Q11574"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q115800",
+          "label": "Hold It Against Me"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q179715",
+          "label": "I Wanna Go"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "636f3cc8-e550-3555-a37e-875fd153c8de"
+      ],
+      "musicbrainz_release_group_id": [
+        "96adaad0-c7b0-4910-aad8-936aea34f95a"
+      ],
+      "youtube_video_id": [
+        "qzU9OrZlKb8",
+        "M3Lqg-46mDo",
+        "n4T3KrE-n_U",
+        "kAVlvCiySms"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 96adaad0-c7b0-4910-aad8-936aea34f95a (2011-03-04)",
+  "musicbrainz": {
+    "recording_id": "c0a6ef98-6284-48d4-9e44-fd38bcbae5ad",
+    "title": "Till the World Ends",
+    "length_ms": 238000,
+    "first_release_date": "2011-03-04",
+    "artist_credit": "Britney Spears",
+    "artists": [
+      {
+        "name": "Britney Spears",
+        "mbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+      }
+    ],
+    "isrcs": [
+      "USJI11100074"
+    ],
+    "recording_credits": [
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Aniela Gottwald",
+        "mbid": "db980e53-a9d1-44fc-b300-b1f54cedd0ca"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "task"
+        ],
+        "name": "John Hanes",
+        "mbid": "8cb2b8cd-34e5-4197-8a51-7eaf795b65c1"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Sam Holland",
+        "mbid": "f34721e5-6c0f-47c2-a232-187447c9a94c"
+      },
+      {
+        "role": "engineer",
+        "attributes": [
+          "assistant",
+          "task"
+        ],
+        "name": "Tim Roberts",
+        "mbid": "f2c15d10-f694-4d19-b5f6-e9f46e91ab5e"
+      },
+      {
+        "role": "engineer",
+        "attributes": [],
+        "name": "Emily Wright",
+        "mbid": "3a1f07ce-4ee7-4cdf-b899-20f6b5ec28e2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Billboard",
+        "mbid": "3b7ab3bd-a1db-43be-acf0-9914eb73f938"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Alexander Kronlund",
+        "mbid": "9989820c-9d09-4af7-8bee-82659075d401"
+      },
+      {
+        "role": "instrument",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "misc",
+        "attributes": [
+          "task"
+        ],
+        "name": "Clint Gibbs",
+        "mbid": "3ae6ee9b-d2c6-47ea-9b6e-4227ed7d9b26"
+      },
+      {
+        "role": "misc",
+        "attributes": [
+          "task"
+        ],
+        "name": "Irene Richter",
+        "mbid": "c72c230e-c84a-49cf-8f1e-51e86d6d6531"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Serban Ghenea",
+        "mbid": "d1f01df7-fcac-4c64-a530-0f49aacf98bb"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Billboard",
+        "mbid": "3b7ab3bd-a1db-43be-acf0-9914eb73f938"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "producer",
+        "attributes": [
+          "task"
+        ],
+        "name": "Emily Wright",
+        "mbid": "3a1f07ce-4ee7-4cdf-b899-20f6b5ec28e2"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Billboard",
+        "mbid": "3b7ab3bd-a1db-43be-acf0-9914eb73f938"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Dr. Luke",
+        "mbid": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Alexander Kronlund",
+        "mbid": "9989820c-9d09-4af7-8bee-82659075d401"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Stacey Barnett",
+        "mbid": "3a3c47ed-8104-4719-94e4-1c6015b36019"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Łukasz Gottwald",
+        "mbid": "b67bf15d-03c3-40a4-9d17-769a964d5005"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Sam Holland",
+        "mbid": "f34721e5-6c0f-47c2-a232-187447c9a94c"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Myah Marie",
+        "mbid": "4515dd40-bef5-4a0b-b41e-b315ab16f770"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Max Martin",
+        "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Bonnie McKee",
+        "mbid": "0faaba05-d9b3-4bde-85d1-bbbbcb838ece"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Patrizia Rogosch",
+        "mbid": "7092f485-a508-43b5-a479-79666d88ee89"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Britney Spears",
+        "mbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/4jCZebg0Wbgtntd8hpy8Dg"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/3606225632"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=qzU9OrZlKb8"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=sdjEXoJhCLw"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/song/1846689587"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/song/1846689587"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/467441324"
+      }
+    ],
+    "genres": [
+      "dance",
+      "dance-pop",
+      "electronic",
+      "electropop",
+      "pop",
+      "synth-pop"
+    ],
+    "tags": [
+      "dance-pop",
+      "pop",
+      "dance",
+      "electropop",
+      "synth-pop",
+      "américain",
+      "electronic",
+      "party"
+    ],
+    "releases": [
+      {
+        "id": "afc6ce74-50ab-4485-a3de-4a02c38dd37b",
+        "title": "Femme Fatale",
+        "date": "2011-03",
+        "country": "IN",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e25f9b95-3b5b-499b-8ee5-03df6998e762",
+        "title": "Femme Fatale",
+        "date": "2011-03",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ccecfcf5-aff0-4d10-ad66-1da55b24406b",
+        "title": "Till the World Ends",
+        "date": "2011-03-04",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "96adaad0-c7b0-4910-aad8-936aea34f95a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "7a6bde27-b115-4af7-9f26-69c61be82c81",
+        "title": "Promo Only: Mainstream Radio, April 2011",
+        "date": "2011-03-17",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "41bad64b-d9cb-4444-a4c2-069a7dfdf294",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a68b6e8c-4e03-3ebd-a3f9-a9a82b9838d9",
+        "title": "Femme Fatale",
+        "date": "2011-03-25",
+        "country": null,
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "31cd7d4a-9616-4dc0-8683-e0614bc522e9",
+        "title": "Femme Fatale",
+        "date": "2011-03-25",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "de19ab1b-7c22-3e71-a3e9-072352b2fc8d",
+        "title": "Femme Fatale",
+        "date": "2011-03-25",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b9d2195b-197c-34d2-b06d-efca53a9b316",
+        "title": "Femme Fatale",
+        "date": "2011-03-25",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c3eeeb71-ddad-4654-a84a-5975f734b8f3",
+        "title": "Femme Fatale",
+        "date": "2011-03-25",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2b8c047e-34b4-3cb6-b09f-6aacee10735d",
+        "title": "Femme Fatale",
+        "date": "2011-03-28",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "994f8ea0-503c-4ff9-9e7c-2ab7300fea46",
+        "title": "Femme Fatale",
+        "date": "2011-03-29",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "76658887-8e15-43db-9b5b-46df81cdf52e",
+        "title": "Femme Fatale",
+        "date": "2011-03-29",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f1c8ae2f-ee9f-4682-b6d9-ff5178fa8521",
+        "title": "Femme Fatale",
+        "date": "2011-03-29",
+        "country": "US",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "7ba904c5-9f96-4cb5-91f3-e495dfaaca6b",
+        "title": "Hits, Volume 31: April–May 2011",
+        "date": "2011-04-01",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "607e6d76-6b9f-46e0-9a1f-893a57670ae2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "81b1415b-028c-4716-8e18-f7f54f791c7e",
+        "title": "Femme Fatale",
+        "date": "2011-04-06",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "27512e6c-9c2e-4e61-8f31-ecd70d8940cc",
+        "title": "Femme Fatale",
+        "date": "2011-04-14",
+        "country": "MX",
+        "status": "Official",
+        "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "debbf9a5-cca1-4d25-8b2b-96b7ffab0551",
+        "title": "Till the World Ends",
+        "date": "2011-04-15",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "96adaad0-c7b0-4910-aad8-936aea34f95a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "dbf86b76-d7c6-403c-bb7d-528b49c82fb4",
+        "title": "Till the World Ends (The Remixes)",
+        "date": "2011-04-15",
+        "country": "US",
+        "status": "Official",
+        "release_group": "96adaad0-c7b0-4910-aad8-936aea34f95a",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "819f7bc4-7c52-4b59-8a88-0822d1e9a45b",
+        "title": "Bravo Hits 73",
+        "date": "2011-04-29",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "72669b65-997d-4c1e-8cea-47ca30cb3de8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "503189a5-ae15-4e91-82fe-88a2555a2298",
+        "title": "Bravo Hits 73",
+        "date": "2011-04-29",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "72669b65-997d-4c1e-8cea-47ca30cb3de8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "13524b4a-399d-4987-8f28-aff60bb11ba2",
+        "title": "Bravo Hits 73",
+        "date": "2011-04-29",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "72669b65-997d-4c1e-8cea-47ca30cb3de8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "79f5f124-a127-4fe7-88d3-ecf3b689268b",
+        "title": "Los números 1 de Cadena 100",
+        "date": "2011-05-03",
+        "country": "ES",
+        "status": "Official",
+        "release_group": "565568fa-85ed-434d-bd89-3900d3895f93",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0c2a7b1b-633e-4a07-80df-e4b12cc69f9d",
+        "title": "Club Sounds: The Ultimate Club Dance Collection, Vol. 57",
+        "date": "2011-05-13",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "34bb7fe5-139a-455f-b32d-d2397e0362c3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation",
+          "DJ-mix"
+        ]
+      },
+      {
+        "id": "c7835194-e703-4e99-886a-55cee98be0d5",
+        "title": "Leijonat 2011: Virallinen Leijonat -kokoelma",
+        "date": "2011-06-01",
+        "country": "FI",
+        "status": "Official",
+        "release_group": "057f272d-c0c8-4dab-bc9d-6140b4ea93e2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5675725d-57a1-4e3b-8bce-39113d06b4ed",
+        "title": "Absolute Dance Summer 2011",
+        "date": "2011-06-08",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "ea14efbf-a0a2-4633-902e-093b365dd29a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "636f3cc8-e550-3555-a37e-875fd153c8de",
+      "title": "Till the World Ends",
+      "iswcs": [
+        "T-906.055.607-2"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Łukasz Gottwald",
+          "mbid": "b67bf15d-03c3-40a4-9d17-769a964d5005"
+        },
+        {
+          "role": "writer",
+          "name": "Kesha",
+          "mbid": "fab34286-b8e1-4879-bce3-194e1358fbd2"
+        },
+        {
+          "role": "writer",
+          "name": "Alexander Kronlund",
+          "mbid": "9989820c-9d09-4af7-8bee-82659075d401"
+        },
+        {
+          "role": "writer",
+          "name": "Max Martin",
+          "mbid": "6622a50e-5206-44d0-9ad5-96047a726dcf"
+        }
+      ],
+      "urls": [
+        "https://www.allmusic.com/song/mt0042158511",
+        "https://genius.com/Britney-spears-till-the-world-ends-alex-suarez-club-remix-lyrics",
+        "https://secondhandsongs.com/work/121496",
+        "https://www.songfacts.com/facts/britney-spears/till-the-world-ends",
+        "https://www.wikidata.org/wiki/Q184920"
+      ]
+    },
+    "main_artist": {
+      "name": "Britney Spears",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "McComb"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

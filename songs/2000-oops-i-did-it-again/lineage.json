@@ -1,0 +1,50 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/6287",
+    "title": "Oops!... I Did It Again",
+    "performer": "Britney Spears",
+    "is_original": true,
+    "first_release_date": "2000-04-25",
+    "releases": [
+      {
+        "title": "Oops!... I Did It Again [JP]",
+        "uri": "https://api.secondhandsongs.com/release/3149",
+        "performer": "Britney Spears"
+      },
+      {
+        "title": "Oops!...I Did It Again",
+        "uri": "https://api.secondhandsongs.com/release/53307",
+        "performer": "Britney Spears"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 50,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/6287",
+    "title": "Oops!... I Did It Again",
+    "language": "English",
+    "writers": [
+      "Rami Yacoub",
+      "Max Martin [SE]"
+    ],
+    "original_performer": "Britney Spears",
+    "versions": 51,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Oj!...Det hände igen",
+        "uri": "https://api.secondhandsongs.com/work/241506"
+      },
+      {
+        "title": "2002",
+        "uri": "https://api.secondhandsongs.com/work/286057"
+      }
+    ]
+  }
+}

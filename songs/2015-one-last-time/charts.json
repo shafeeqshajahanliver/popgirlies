@@ -1,0 +1,105 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Ariana Grande"
+  ],
+  "title_as_charted": [
+    "One Last Time"
+  ],
+  "debut_week": "2015-02-28",
+  "debut_position": 80,
+  "peak_position": 13,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "2015-05-02",
+  "weeks_to_peak": 9,
+  "weeks_on_chart": 20,
+  "last_week": "2015-07-11",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2015-02-28",
+      80
+    ],
+    [
+      "2015-03-07",
+      34
+    ],
+    [
+      "2015-03-14",
+      30
+    ],
+    [
+      "2015-03-21",
+      22
+    ],
+    [
+      "2015-03-28",
+      18
+    ],
+    [
+      "2015-04-04",
+      16
+    ],
+    [
+      "2015-04-11",
+      16
+    ],
+    [
+      "2015-04-18",
+      16
+    ],
+    [
+      "2015-04-25",
+      15
+    ],
+    [
+      "2015-05-02",
+      13
+    ],
+    [
+      "2015-05-09",
+      14
+    ],
+    [
+      "2015-05-16",
+      19
+    ],
+    [
+      "2015-05-23",
+      19
+    ],
+    [
+      "2015-05-30",
+      24
+    ],
+    [
+      "2015-06-06",
+      40
+    ],
+    [
+      "2015-06-13",
+      46
+    ],
+    [
+      "2015-06-20",
+      51
+    ],
+    [
+      "2015-06-27",
+      52
+    ],
+    [
+      "2015-07-04",
+      59
+    ],
+    [
+      "2015-07-11",
+      63
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

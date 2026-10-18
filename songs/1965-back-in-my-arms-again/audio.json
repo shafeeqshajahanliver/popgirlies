@@ -1,0 +1,76 @@
+{
+  "id": "1965-back-in-my-arms-again",
+  "preview": {
+    "service": "deezer",
+    "track_id": 548823232,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "USMO16582605",
+    "title": "Back In My Arms Again",
+    "artist": "The Supremes",
+    "album": "50th Anniversary: The Singles Collection 1961-1969",
+    "track_duration_s": 171,
+    "link": "https://www.deezer.com/track/548823232",
+    "duration_matched_to": "musicbrainz recording length (170s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 121.3,
+    "tempo_bpm_grid": 121.6,
+    "tempo_candidates_bpm": [
+      123.0,
+      60.1,
+      117.5
+    ],
+    "beats_detected": 61,
+    "key": "C major",
+    "key_tonic": "C",
+    "key_mode": "major",
+    "key_correlation": 0.629,
+    "key_runner_up": "A minor",
+    "key_runner_up_correlation": 0.565,
+    "chroma_profile": [
+      1.0,
+      0.346,
+      0.273,
+      0.238,
+      0.331,
+      0.319,
+      0.369,
+      0.54,
+      0.466,
+      0.61,
+      0.482,
+      0.57
+    ],
+    "rms_dbfs": -8.33,
+    "rms_dbfs_p95_frame": -5.52,
+    "peak_dbfs": -0.47,
+    "loudness_lufs_approx": -8.19,
+    "spectral_centroid_hz_mean": 2847.4,
+    "spectral_centroid_hz_median": 2774.0,
+    "onsets": 80,
+    "onset_density_per_s": 2.668,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 548823232",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 120.89,
+    "gain": -8.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/548823232",
+    "retrieved": "2026-10-18",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer 1176282: version (Back In My Arms Again (2003 Remix))",
+    "deezer 80111668: version (Back In My Arms Again (Live At The Copa/1965))",
+    "deezer 3991902731: version (Back In My Arms Again (Live At The Roostertail, Detroit, MI/1966))",
+    "deezer 549241652: duration 198s matches no reference length"
+  ]
+}

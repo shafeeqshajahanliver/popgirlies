@@ -1,0 +1,48 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "R&B",
+        "soul",
+        "pop",
+        "big band",
+        "gospel"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "contemporary R&B",
+        "pop soul",
+        "big band music"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "pop"
+      ],
+      "tags": [
+        "5+ wochen",
+        "billboard hot 100",
+        "billboard hot 100 2025",
+        "billboard hot 100 2026",
+        "offizielle charts",
+        "pop"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "R&B-pop",
+    "other pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "R&B-pop",
+    "other pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

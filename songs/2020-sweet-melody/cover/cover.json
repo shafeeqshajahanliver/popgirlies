@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "2af0772b-d631-4afa-853d-780a7960a9dc",
+      "release_title": "Sweet Melody",
+      "release_date": "2020-10-23",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/dbb247b9-6aef-4f19-8fc7-f4ca1ed211cf/27593680864-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/dbb247b9-6aef-4f19-8fc7-f4ca1ed211cf",
+      "image_id": 27593680864,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.26,
+        "saturation": 0.431,
+        "dark_share": 0.643,
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.467
+          },
+          {
+            "hex": "#d49844",
+            "share": 0.237
+          },
+          {
+            "hex": "#391507",
+            "share": 0.16
+          },
+          {
+            "hex": "#0c0000",
+            "share": 0.1
+          },
+          {
+            "hex": "#000001",
+            "share": 0.035
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1a06adad-a1f9-4c1f-8a99-8ad2ea5be289",
+      "release_title": "Confetti",
+      "release_date": "2020-11-06",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Confetti",
+      "url": "https://coverartarchive.org/release/afe7e666-2640-44cb-8878-07e1e17a48ba/27716785800-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/afe7e666-2640-44cb-8878-07e1e17a48ba",
+      "image_id": 27716785800,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.484,
+        "saturation": 0.474,
+        "dark_share": 0.217,
+        "palette": [
+          {
+            "hex": "#15111d",
+            "share": 0.271
+          },
+          {
+            "hex": "#562c37",
+            "share": 0.226
+          },
+          {
+            "hex": "#9d6366",
+            "share": 0.205
+          },
+          {
+            "hex": "#b39288",
+            "share": 0.189
+          },
+          {
+            "hex": "#c0b8ad",
+            "share": 0.109
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dd/03/0c/dd030cfa-850c-6190-d30d-7a4b330302bd/886448960140.jpg/1200x1200bb.jpg",
+      "collection": "Confetti (Expanded Edition)",
+      "collection_id": 1544239196,
+      "track_id": 1544239203,
+      "artist_name": "Little Mix",
+      "release_date": "2020-10-23T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.486,
+        "saturation": 0.457,
+        "dark_share": 0.209,
+        "palette": [
+          {
+            "hex": "#171520",
+            "share": 0.285
+          },
+          {
+            "hex": "#9a6368",
+            "share": 0.255
+          },
+          {
+            "hex": "#582e38",
+            "share": 0.209
+          },
+          {
+            "hex": "#daae9f",
+            "share": 0.152
+          },
+          {
+            "hex": "#889b9a",
+            "share": 0.1
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

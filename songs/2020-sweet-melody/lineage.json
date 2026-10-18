@@ -1,0 +1,44 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/1192070",
+    "title": "Sweet Melody",
+    "performer": "Little Mix",
+    "is_original": true,
+    "first_release_date": "2020-10-23",
+    "releases": [
+      {
+        "title": "Sweet Melody",
+        "uri": "https://api.secondhandsongs.com/release/323538",
+        "performer": "Little Mix"
+      },
+      {
+        "title": "Confetti",
+        "uri": "https://api.secondhandsongs.com/release/327220",
+        "performer": "Little Mix"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 4,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/256474",
+    "title": "Sweet Melody",
+    "language": "English",
+    "writers": [
+      "MNEK",
+      "Brian Garcia",
+      "Morten Ristorp",
+      "Oliver Frid",
+      "Tayla Parx"
+    ],
+    "original_performer": "Little Mix",
+    "versions": 5,
+    "based_on": [],
+    "derived_works": []
+  }
+}

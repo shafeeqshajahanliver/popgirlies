@@ -1,0 +1,41 @@
+{
+  "id": "2000-oops-i-did-it-again",
+  "lyrics_kind": "synced",
+  "lrclib_id": 25487699,
+  "lines": 57,
+  "words": 329,
+  "unique_words": 100,
+  "type_token_ratio": 0.304,
+  "repeated_line_share": 0.456,
+  "distinct_lines": 31,
+  "zlib_compression_ratio": 0.304,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "oops i did it again",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 38,
+    "second": 18,
+    "first_plural": 1
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 12.23,
+  "last_line_s": 206.95,
+  "sung_time_s": 193.0,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 102.3,
+  "words_per_minute_track": 93.2,
+  "longest_gap_between_lines_s": 6.93,
+  "longest_gap_starts_at_s": 73.91,
+  "first_repeated_block": {
+    "first_at_s": 50.3,
+    "recurs_at_s": 100.61,
+    "lines": [
+      "Oops, I did it again",
+      "I played with your heart"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 25487699",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

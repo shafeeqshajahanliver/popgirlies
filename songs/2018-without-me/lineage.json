@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/805333",
+    "title": "Without Me",
+    "performer": "Halsey",
+    "is_original": true,
+    "first_release_date": "2018-10-04",
+    "releases": [
+      {
+        "title": "Without Me",
+        "uri": "https://api.secondhandsongs.com/release/233691",
+        "performer": "Halsey"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 42,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/204459",
+    "title": "Without Me",
+    "language": "English",
+    "writers": [
+      "Amy Allen",
+      "Delacey",
+      "Louis Bell",
+      "Halsey",
+      "Timbaland",
+      "Scott Storch",
+      "Justin Timberlake"
+    ],
+    "original_performer": "Halsey",
+    "versions": 43,
+    "based_on": [],
+    "derived_works": []
+  }
+}

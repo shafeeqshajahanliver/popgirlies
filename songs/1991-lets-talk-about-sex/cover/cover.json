@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "1a314175-74f6-34e6-a9ab-9721a11e0f29",
+      "release_title": "Let’s Talk About Sex",
+      "release_date": "1991",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/0fefce35-ea5e-4991-8571-0df39f97ab90/17695170052-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/0fefce35-ea5e-4991-8571-0df39f97ab90",
+      "image_id": 17695170052,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.58,
+        "saturation": 0.526,
+        "dark_share": 0.22,
+        "palette": [
+          {
+            "hex": "#931940",
+            "share": 0.291
+          },
+          {
+            "hex": "#110707",
+            "share": 0.27
+          },
+          {
+            "hex": "#f5f6f1",
+            "share": 0.162
+          },
+          {
+            "hex": "#b18c5e",
+            "share": 0.139
+          },
+          {
+            "hex": "#f5f0ab",
+            "share": 0.138
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "1530b3d2-8819-3662-96c5-73f92fa91923",
+      "release_title": "Blacks’ Magic",
+      "release_date": "1990-01-01",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Blacks' Magic",
+      "url": "https://coverartarchive.org/release/b5c6d53d-a985-43f7-9f75-e1f9388349b3/46448121354-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b5c6d53d-a985-43f7-9f75-e1f9388349b3",
+      "image_id": 46448121354,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        630
+      ],
+      "measures": {
+        "brightness": 0.822,
+        "saturation": 0.1,
+        "dark_share": 0.07,
+        "palette": [
+          {
+            "hex": "#f8f8f8",
+            "share": 0.731
+          },
+          {
+            "hex": "#604d48",
+            "share": 0.23
+          },
+          {
+            "hex": "#f8f8f7",
+            "share": 0.021
+          },
+          {
+            "hex": "#f7f8f8",
+            "share": 0.012
+          },
+          {
+            "hex": "#f9f9f9",
+            "share": 0.005
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/8f/64/398f64f4-8338-1d57-63e2-c43653f4324f/13UAAIM41973.rgb.jpg/1200x1200bb.jpg",
+      "collection": "The To Do List (Music From the Motion Picture)",
+      "collection_id": 1442981682,
+      "track_id": 1442982212,
+      "artist_name": "Salt-N-Pepa",
+      "release_date": "1990-03-19T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.821,
+        "saturation": 0.193,
+        "dark_share": 0.019,
+        "palette": [
+          {
+            "hex": "#ededed",
+            "share": 0.521
+          },
+          {
+            "hex": "#844b5b",
+            "share": 0.245
+          },
+          {
+            "hex": "#cab9b7",
+            "share": 0.179
+          },
+          {
+            "hex": "#f3f3f1",
+            "share": 0.034
+          },
+          {
+            "hex": "#eeebe7",
+            "share": 0.021
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

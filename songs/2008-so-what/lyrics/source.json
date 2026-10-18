@@ -1,0 +1,40 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 29335172,
+  "kind": "synced",
+  "matched": {
+    "track": "So What",
+    "artist": "Pink",
+    "album": "So What",
+    "duration_s": 214.0
+  },
+  "duration_matched_to": "musicbrainz recording length (214s)",
+  "duration_diff_s": 0.2,
+  "reference_lengths": [
+    {
+      "seconds": 213.786,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 215.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 31,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 33522401 (So What / Pink / Greatest Hits, 225.0s): duration matches no reference length",
+    "lrclib 18705161 (So What / Pink / All I Know So Far: Setlist, 413.693333s): duration matches no reference length",
+    "lrclib 20197316 (So What / Pink / Greatest Hits... So Far!!!, 200.150204s): duration matches no reference length",
+    "lrclib 19169446 (So What / Pink / Nederlandse Top 40 - Week 42, 224.236775s): duration matches no reference length",
+    "lrclib 30494137 (So What / Pink / So What (Single), 204.0s): duration matches no reference length",
+    "lrclib 28358111 (So What (Main Version) / Pink / So What (Single,Explicit), 214.0s): live/remix/other version",
+    "lrclib 32096839 (So what / Pink / Pink Funhouse-Tour - Live in Australia, 225.0s): live/remix/other version",
+    "lrclib 26876235 (So What / Pink / Greatest Hits... So Far 2019!!!, 232.362375s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

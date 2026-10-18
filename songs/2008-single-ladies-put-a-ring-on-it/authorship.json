@@ -1,0 +1,31 @@
+{
+  "writers": [
+    "Beyoncé",
+    "Christopher Stewart",
+    "Kuk Harrell",
+    "The‐Dream"
+  ],
+  "producers": [
+    "Beyoncé",
+    "Christopher Stewart",
+    "Knowles",
+    "The‐Dream",
+    "Tricky Stewart"
+  ],
+  "n_writers": 4,
+  "n_producers": 5,
+  "act": "Beyoncé",
+  "group_members": [],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "Beyoncé"
+  ],
+  "star_is_producer": true,
+  "star_producer_names": [
+    "Beyoncé"
+  ],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

@@ -1,0 +1,248 @@
+{
+  "id": "2011-till-the-world-ends",
+  "updated": "2026-10-18",
+  "note": "Sections per source. 'label' is the source's own label; 'normalised' maps it to intro/verse/prechorus/chorus/bridge/solo/instrumental/outro/other (mapping in docs/schema.md). Times in seconds from the start of the audio the annotators used.",
+  "sources": [
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0517_tilltheworldends",
+      "match": {
+        "title": "Till the World Ends",
+        "artist": "Britney Spears",
+        "release": "Now That's What I Call Music! 39",
+        "musicbrainz_id": "c0a6ef98-6284-48d4-9e44-fd38bcbae5ad",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0517_tilltheworldends.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0517_tilltheworldends.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-18",
+      "confidence": "expert",
+      "annotated_duration": 234.814,
+      "bpm": 132.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 2.017,
+          "end": 9.29,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 9.29,
+          "end": 22.926,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 22.926,
+          "end": 37.926,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 37.926,
+          "end": 52.471,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 52.471,
+          "end": 67.017,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 67.017,
+          "end": 82.017,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 82.017,
+          "end": 95.653,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 8
+        },
+        {
+          "start": 95.653,
+          "end": 110.653,
+          "label": "prechorus",
+          "normalised": "prechorus",
+          "bars": 8
+        },
+        {
+          "start": 110.653,
+          "end": 125.199,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 125.199,
+          "end": 139.744,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 139.744,
+          "end": 153.835,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 153.835,
+          "end": 187.017,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 18
+        },
+        {
+          "start": 187.017,
+          "end": 201.562,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 201.562,
+          "end": 215.653,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 215.653,
+          "end": 231.107,
+          "label": "bridge",
+          "normalised": "bridge",
+          "bars": 8
+        }
+      ],
+      "bridge": "yes",
+      "bridge_basis": "a segment labelled 'bridge'"
+    },
+    {
+      "key": "harmonix",
+      "dataset": "Harmonix Set",
+      "source_id": "0953_tilltheworldends2",
+      "match": {
+        "title": "Till the World Ends",
+        "artist": "Britney Spears",
+        "release": "Club Sounds: The Ultimate Club Dance Collection, Vol. 57",
+        "musicbrainz_id": "c0a6ef98-6284-48d4-9e44-fd38bcbae5ad",
+        "same_recording_as_ours": true
+      },
+      "source": "Harmonix Set, dataset/segments/0953_tilltheworldends2.txt (Nieto et al. 2019)",
+      "url": "https://raw.githubusercontent.com/urinieto/harmonixset/master/dataset/segments/0953_tilltheworldends2.txt",
+      "licence": "MIT licence (repository LICENSE); annotations only, no audio",
+      "retrieved": "2026-10-18",
+      "confidence": "expert",
+      "annotated_duration": 236.566,
+      "bpm": 128.0,
+      "time_signature": "4/4",
+      "version_check": "same MusicBrainz recording",
+      "sections": [
+        {
+          "start": 0.059,
+          "end": 7.559,
+          "label": "intro",
+          "normalised": "intro",
+          "bars": 4
+        },
+        {
+          "start": 7.559,
+          "end": 37.559,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 16
+        },
+        {
+          "start": 37.559,
+          "end": 82.559,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 24
+        },
+        {
+          "start": 82.559,
+          "end": 127.559,
+          "label": "verse",
+          "normalised": "verse",
+          "bars": 24
+        },
+        {
+          "start": 127.559,
+          "end": 172.559,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 24
+        },
+        {
+          "start": 172.559,
+          "end": 185.684,
+          "label": "transition",
+          "normalised": "other",
+          "bars": 7
+        },
+        {
+          "start": 185.684,
+          "end": 191.309,
+          "label": "break",
+          "normalised": "instrumental",
+          "bars": 3
+        },
+        {
+          "start": 191.309,
+          "end": 206.309,
+          "label": "transition2",
+          "normalised": "other",
+          "bars": 8
+        },
+        {
+          "start": 206.309,
+          "end": 221.309,
+          "label": "chorus",
+          "normalised": "chorus",
+          "bars": 8
+        },
+        {
+          "start": 221.309,
+          "end": 236.309,
+          "label": "outro",
+          "normalised": "outro",
+          "bars": 8
+        }
+      ],
+      "bridge": "no",
+      "bridge_basis": "no segment labelled 'bridge'"
+    }
+  ],
+  "comparison": {
+    "form_by_source": {
+      "harmonix": "intro verse chorus verse chorus instrumental chorus outro"
+    },
+    "section_order": [],
+    "section_order_agree": true,
+    "bridge_by_source": {
+      "harmonix": "no"
+    },
+    "bridge_agree": true,
+    "bridge_expert_value": "disputed",
+    "notes": [],
+    "method": "Forms are the normalised labels in order with repeats merged and 'other' dropped. Edit distance counts inserted, deleted or changed sections.",
+    "computed": "2026-10-18",
+    "confidence": "computed"
+  }
+}

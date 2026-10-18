@@ -1,0 +1,50 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Dance-pop",
+        "EDM"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "dance-pop",
+        "electronic dance music"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "chanson française",
+        "contemporary r&b",
+        "dance-pop",
+        "latin",
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "chanson française",
+        "contemporary r&b",
+        "dance-pop",
+        "electronic dance music",
+        "latin",
+        "vocal"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "R&B-pop",
+    "Latin and global",
+    "other pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

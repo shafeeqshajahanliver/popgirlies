@@ -1,0 +1,53 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 17310246,
+  "kind": "synced",
+  "matched": {
+    "track": "Shout Out to My Ex [FazMusic.Net]",
+    "artist": "Little Mix",
+    "album": "Shout Out to My Ex - Single",
+    "duration_s": 246.308571
+  },
+  "duration_matched_to": "musicbrainz recording length (246s)",
+  "duration_diff_s": 0.1,
+  "reference_lengths": [
+    {
+      "seconds": 246.24,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 243.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 247.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 20,
+  "agreement_with_other_candidates": 0.867,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37174926 (Shout Out To My Ex / Little Mix / Kids Top 100 2017, 237.0s): duration matches no reference length",
+    "lrclib 33438496 (Shout Out to My Ex / Little Mix / Spotify Singles, 163.0s): duration matches no reference length",
+    "lrclib 36118927 (Shout Out to My Ex / Little Mix / The Hits Album: The Car Album, 227.0s): duration matches no reference length",
+    "lrclib 34149263 (Shout Out to My Ex / Little Mix / Glory Days (Expanded Edition), 437.0s): duration matches no reference length",
+    "lrclib 34149058 (Shout Out to My Ex / Little Mix / Glory Days (Expanded Edition), 277.0s): duration matches no reference length",
+    "lrclib 34149322 (Shout Out to My Ex / Little Mix / Glory Days (Expanded Edition), 474.0s): duration matches no reference length",
+    "lrclib 34149076 (Shout Out to My Ex / Little Mix / Glory Days (Expanded Edition), 307.0s): duration matches no reference length",
+    "lrclib 34149150 (Shout Out to My Ex / Little Mix / Glory Days (Expanded Edition), 367.0s): duration matches no reference length",
+    "lrclib 34149110 (Shout Out to My Ex / Little Mix / Glory Days (Expanded Edition), 337.0s): duration matches no reference length",
+    "lrclib 19081200 (Shout Out to My Ex / Little Mix / Shout Out to My Ex, 226.853333s): duration matches no reference length",
+    "lrclib 24059234 (Shout Out to My Ex / Little Mix / Shout Out to My Ex, 257.700312s): duration matches no reference length",
+    "lrclib 29575971 (Shout out to My Ex (Acoustic) / Little Mix / Little Mix - Shout out to My Ex (Acoustic) [Single], 246.0s): live/remix/other version",
+    "lrclib 17581342 (Shout Out to My Ex (acoustic) / Little Mix / Shout Out to My Ex (acoustic), 246.282449s): live/remix/other version",
+    "lrclib 35462142 (Shout out to My Ex (Acoustic) / Little Mix / Shout out to My Ex (Acoustic) - Single, 246.0s): live/remix/other version",
+    "lrclib 1805066 (Shout Out to My Ex (Steve Smart Epic Edit) / Little Mix / Shout Out to My Ex (Steve Smart Epic Edit), 221.0s): duration matches no reference length",
+    "lrclib 14819699 (Shout Out to My Ex (live at the BRITs) / Little Mix / Shout Out to My Ex (live at the BRITs), 307.0s): live/remix/other version",
+    "lrclib 38227507 (Shout Out to My Ex (Steve Smart Epic Edit) / Little Mix / Shout Out to My Ex (Steve Smart Epic Edit) - Single, 221.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

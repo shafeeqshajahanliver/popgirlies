@@ -1,0 +1,75 @@
+{
+  "id": "1988-the-only-way-is-up",
+  "preview": {
+    "service": "deezer",
+    "track_id": 143782586,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": "GBAKW0201571",
+    "title": "The Only Way Is Up",
+    "artist": "Yazz",
+    "album": "Wanted",
+    "track_duration_s": 264,
+    "link": "https://www.deezer.com/track/143782586",
+    "duration_matched_to": "wikipedia infobox length (267s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 124.0,
+    "tempo_bpm_grid": 124.5,
+    "tempo_candidates_bpm": [
+      123.0,
+      83.4,
+      234.9
+    ],
+    "beats_detected": 61,
+    "key": "B major",
+    "key_tonic": "B",
+    "key_mode": "major",
+    "key_correlation": 0.389,
+    "key_runner_up": "B minor",
+    "key_runner_up_correlation": 0.371,
+    "chroma_profile": [
+      0.842,
+      0.775,
+      0.639,
+      0.655,
+      0.527,
+      0.413,
+      0.536,
+      0.504,
+      0.622,
+      0.56,
+      0.762,
+      1.0
+    ],
+    "rms_dbfs": -10.91,
+    "rms_dbfs_p95_frame": -8.43,
+    "peak_dbfs": 0.75,
+    "loudness_lufs_approx": -10.91,
+    "spectral_centroid_hz_mean": 3129.4,
+    "spectral_centroid_hz_median": 3168.9,
+    "onsets": 181,
+    "onset_density_per_s": 6.036,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 143782586",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 124.53,
+    "gain": -11.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/143782586",
+    "retrieved": "2026-10-18",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between B major and B minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc GBAKW8801029: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 18416778,
+  "kind": "synced",
+  "matched": {
+    "track": "Sweet Melody",
+    "artist": "Little Mix",
+    "album": "Between Us (Deluxe)",
+    "duration_s": 213.733878
+  },
+  "duration_matched_to": "musicbrainz recording length (214s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 213.693,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 213.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 213.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 18,
+  "agreement_with_other_candidates": 0.887,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37055640 (Sweet Melody / Little Mix / Mastermix - Grandmaster 2020 Part Two, 180.0s): duration matches no reference length",
+    "lrclib 37379750 (Sweet Melody / Little Mix / Mastermix - Grandmaster 2020 Part Two, 219.0s): duration matches no reference length",
+    "lrclib 36345825 (Sweet Melody / Little Mix / Confetti, 206.0s): duration matches no reference length",
+    "lrclib 35477839 (Sweet Melody / Little Mix / Confetti, 342.0s): duration matches no reference length",
+    "lrclib 20208830 (Sweet Melody / Little Mix / Mastermix: DJ Beats Chart Vol. 86, 237.635918s): duration matches no reference length",
+    "lrclib 21836593 (Sweet Melody / Little Mix / Confetti, 201.0s): duration matches no reference length",
+    "lrclib 9004329 (Sweet Melody / Little Mix / Between Us (Deluxe Version), 213.0s): live/remix/other version",
+    "lrclib 25917250 (Sweet Melody / Little Mix / Sweet Melody, 226.245417s): duration matches no reference length",
+    "lrclib 10583974 (Sweet Melody (PS1 remix) / Little Mix / Sweet Melody (PS1 remix), 211.0s): live/remix/other version",
+    "lrclib 19608320 (Sweet Melody (karaoke version) / Little Mix / Sweet Melody (karaoke version) (single), 210.298095s): live/remix/other version",
+    "lrclib 19726308 (Sweet Melody (Alle Farben Remix) / Little Mix / Sweet Melody (Alle Farben Remix), 201.377959s): live/remix/other version",
+    "lrclib 19725857 (Sweet Melody (Alle Farben remix) / Little Mix / Sweet Melody (Alle Farben remix) (single), 201.343129s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

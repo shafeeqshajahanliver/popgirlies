@@ -1,0 +1,147 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "1c1a208e-11f6-477c-a0ee-027b9c01bb7a",
+      "release_title": "Love Hangover / Kiss Me Now",
+      "release_date": "1976-03-16",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/e468d10e-48d9-455d-b886-479d01034ba8/15204031911-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/e468d10e-48d9-455d-b886-479d01034ba8",
+      "image_id": 15204031911,
+      "types": [
+        "Front",
+        "Medium"
+      ],
+      "comment": "Side A",
+      "file": "cover/single.jpg",
+      "original_size": [
+        499,
+        500
+      ],
+      "measures": {
+        "brightness": 0.685,
+        "saturation": 0.296,
+        "dark_share": 0.0,
+        "palette": [
+          {
+            "hex": "#fafaf8",
+            "share": 0.325
+          },
+          {
+            "hex": "#332e7b",
+            "share": 0.274
+          },
+          {
+            "hex": "#656785",
+            "share": 0.173
+          },
+          {
+            "hex": "#aeb2b6",
+            "share": 0.126
+          },
+          {
+            "hex": "#384075",
+            "share": 0.103
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "01591d78-3ba9-31a2-88d7-1f994be5e945",
+      "release_title": "Diana Ross",
+      "release_date": "1976-02-10",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Diana Ross",
+      "url": "http://coverartarchive.org/release/a58dc949-9aaa-42e9-aaeb-938e046de51e/7343626704-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/a58dc949-9aaa-42e9-aaeb-938e046de51e",
+      "image_id": "7343626704",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        200,
+        200
+      ],
+      "measures": {
+        "brightness": 0.277,
+        "saturation": 0.464,
+        "dark_share": 0.638,
+        "palette": [
+          {
+            "hex": "#05030c",
+            "share": 0.425
+          },
+          {
+            "hex": "#c6ccbe",
+            "share": 0.256
+          },
+          {
+            "hex": "#02040a",
+            "share": 0.182
+          },
+          {
+            "hex": "#30322b",
+            "share": 0.124
+          },
+          {
+            "hex": "#05010b",
+            "share": 0.013
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/c0/13/abc01397-9a17-3964-3be3-7d9c4d96f04f/12UMGIM00393.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Diana Ross (1976) [Expanded Edition]",
+      "collection_id": 1444055084,
+      "track_id": 1444055935,
+      "artist_name": "Diana Ross",
+      "release_date": "1976-02-10T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.253,
+        "saturation": 0.21,
+        "dark_share": 0.706,
+        "palette": [
+          {
+            "hex": "#14171c",
+            "share": 0.711
+          },
+          {
+            "hex": "#6e7073",
+            "share": 0.264
+          },
+          {
+            "hex": "#13171b",
+            "share": 0.009
+          },
+          {
+            "hex": "#111419",
+            "share": 0.009
+          },
+          {
+            "hex": "#14171b",
+            "share": 0.007
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

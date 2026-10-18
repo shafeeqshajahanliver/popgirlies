@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "6b3d5e28-8367-3044-8e94-4ac730a0c66d",
+      "release_title": "Oops!…I Did It Again",
+      "release_date": "2000-04-25",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/de0f4587-0fd8-48b5-b8c5-85c501c834aa/12106612247-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/de0f4587-0fd8-48b5-b8c5-85c501c834aa",
+      "image_id": 12106612247,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.633,
+        "saturation": 0.862,
+        "dark_share": 0.04,
+        "palette": [
+          {
+            "hex": "#bb0831",
+            "share": 0.267
+          },
+          {
+            "hex": "#509baa",
+            "share": 0.234
+          },
+          {
+            "hex": "#2f3e66",
+            "share": 0.221
+          },
+          {
+            "hex": "#cc0a38",
+            "share": 0.165
+          },
+          {
+            "hex": "#780924",
+            "share": 0.112
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "f2708dcf-14e6-31f1-90e0-b3e933a0c8a3",
+      "release_title": "Oops!…I Did It Again",
+      "release_date": "2000-05-15",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Oops!... I Did It Again",
+      "url": "https://coverartarchive.org/release/8ef0eb85-4e3d-4d5b-9c45-8d157fc32d34/39412866933-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8ef0eb85-4e3d-4d5b-9c45-8d157fc32d34",
+      "image_id": 39412866933,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1188
+      ],
+      "measures": {
+        "brightness": 0.583,
+        "saturation": 0.462,
+        "dark_share": 0.108,
+        "palette": [
+          {
+            "hex": "#885439",
+            "share": 0.253
+          },
+          {
+            "hex": "#b17e49",
+            "share": 0.242
+          },
+          {
+            "hex": "#392a23",
+            "share": 0.239
+          },
+          {
+            "hex": "#d2ab74",
+            "share": 0.144
+          },
+          {
+            "hex": "#ead9b4",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/5c/a1/f95ca173-51a1-fc58-0624-b75f67e73660/196872753585.jpg/1200x1200bb.jpg",
+      "collection": "Oops!... I Did It Again",
+      "collection_id": 1813910284,
+      "track_id": 1813910300,
+      "artist_name": "Britney Spears",
+      "release_date": "2000-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.654,
+        "saturation": 0.755,
+        "dark_share": 0.008,
+        "palette": [
+          {
+            "hex": "#b91934",
+            "share": 0.256
+          },
+          {
+            "hex": "#335e7c",
+            "share": 0.223
+          },
+          {
+            "hex": "#53a4b5",
+            "share": 0.211
+          },
+          {
+            "hex": "#c12657",
+            "share": 0.191
+          },
+          {
+            "hex": "#83203a",
+            "share": 0.119
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

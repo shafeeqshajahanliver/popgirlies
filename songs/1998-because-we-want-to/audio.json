@@ -1,0 +1,74 @@
+{
+  "id": "1998-because-we-want-to",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3361574,
+    "matched_by": "isrc",
+    "isrc": "GBAAA9800884",
+    "title": "Because We Want To",
+    "artist": "Billie Piper",
+    "album": "The Very Best Of Billie Piper",
+    "track_duration_s": 225,
+    "link": "https://www.deezer.com/track/3361574",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 106.9,
+    "tempo_bpm_grid": 107.7,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      71.8
+    ],
+    "beats_detected": 53,
+    "key": "C# minor",
+    "key_tonic": "C#",
+    "key_mode": "minor",
+    "key_correlation": 0.487,
+    "key_runner_up": "Ab minor",
+    "key_runner_up_correlation": 0.481,
+    "chroma_profile": [
+      0.877,
+      0.952,
+      0.696,
+      0.756,
+      0.741,
+      0.616,
+      0.91,
+      0.767,
+      1.0,
+      0.937,
+      0.781,
+      0.973
+    ],
+    "rms_dbfs": -9.24,
+    "rms_dbfs_p95_frame": -5.23,
+    "peak_dbfs": 1.75,
+    "loudness_lufs_approx": -8.74,
+    "spectral_centroid_hz_mean": 3319.7,
+    "spectral_centroid_hz_median": 3198.6,
+    "onsets": 114,
+    "onset_density_per_s": 3.801,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3361574",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 106.8,
+    "gain": -9.2,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3361574",
+    "retrieved": "2026-10-18",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "key is close between C# minor and Ab minor"
+  ],
+  "rejected_candidates": [
+    "deezer isrc GBAAA9800953: version: Because We Want To (Radio Mix)"
+  ]
+}

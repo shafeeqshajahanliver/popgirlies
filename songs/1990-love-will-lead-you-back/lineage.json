@@ -1,0 +1,48 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/45426",
+    "title": "Love Will Lead You Back",
+    "performer": "Taylor Dayne",
+    "is_original": true,
+    "first_release_date": "1989-10-31",
+    "releases": [
+      {
+        "title": "Can't Fight Fate",
+        "uri": "https://api.secondhandsongs.com/release/17920",
+        "performer": "Taylor Dayne"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 18,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/45426",
+    "title": "Love Will Lead You Back",
+    "language": "English",
+    "writers": [
+      "Diane Warren"
+    ],
+    "original_performer": "Taylor Dayne",
+    "versions": 19,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Quién eres tú",
+        "uri": "https://api.secondhandsongs.com/work/159406"
+      },
+      {
+        "title": "Quem é você",
+        "uri": "https://api.secondhandsongs.com/work/159407"
+      },
+      {
+        "title": "仍是愛你一個",
+        "uri": "https://api.secondhandsongs.com/work/286542"
+      }
+    ]
+  }
+}

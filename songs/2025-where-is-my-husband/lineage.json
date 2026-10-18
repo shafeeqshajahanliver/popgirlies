@@ -1,0 +1,36 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/1833488",
+    "title": "Where Is My Husband!",
+    "performer": "RAYE",
+    "is_original": true,
+    "first_release_date": "2025-09-19",
+    "releases": [
+      {
+        "title": "Where Is My Husband!",
+        "uri": "https://api.secondhandsongs.com/release/494177",
+        "performer": "RAYE"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 1,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/341804",
+    "title": "Where Is My Husband!",
+    "language": "English",
+    "writers": [
+      "Raye",
+      "Mike Sabath"
+    ],
+    "original_performer": "RAYE",
+    "versions": 2,
+    "based_on": [],
+    "derived_works": []
+  }
+}

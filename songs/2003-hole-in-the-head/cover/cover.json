@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "ee776925-8064-38e4-9be7-405525e9dc36",
+      "release_title": "Hole in the Head",
+      "release_date": "2003-01-01",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/ba842beb-b45c-4807-9318-862a6e1ec652/26213398865-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/ba842beb-b45c-4807-9318-862a6e1ec652",
+      "image_id": 26213398865,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        600,
+        524
+      ],
+      "measures": {
+        "brightness": 0.75,
+        "saturation": 0.394,
+        "dark_share": 0.116,
+        "palette": [
+          {
+            "hex": "#e32a5e",
+            "share": 0.262
+          },
+          {
+            "hex": "#42292e",
+            "share": 0.23
+          },
+          {
+            "hex": "#dbb599",
+            "share": 0.206
+          },
+          {
+            "hex": "#f2e5d8",
+            "share": 0.154
+          },
+          {
+            "hex": "#fbfbf9",
+            "share": 0.148
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "afd8d6c6-e4a1-3e16-ba73-7ce75248f559",
+      "release_title": "Three",
+      "release_date": "2003",
+      "release_country": "UA",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Three",
+      "url": "http://coverartarchive.org/release/8eec6bab-9760-383a-8a8a-567d974a28d8/21663795668-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/8eec6bab-9760-383a-8a8a-567d974a28d8",
+      "image_id": 21663795668,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        550,
+        550
+      ],
+      "measures": {
+        "brightness": 0.57,
+        "saturation": 0.247,
+        "dark_share": 0.219,
+        "palette": [
+          {
+            "hex": "#0f0f0f",
+            "share": 0.252
+          },
+          {
+            "hex": "#bbac96",
+            "share": 0.243
+          },
+          {
+            "hex": "#7a5946",
+            "share": 0.236
+          },
+          {
+            "hex": "#fefefe",
+            "share": 0.185
+          },
+          {
+            "hex": "#eceae4",
+            "share": 0.085
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/87/c0/4e87c0e0-8a0e-eaad-eacb-e4c6d72abd7e/00602498658543.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Three",
+      "collection_id": 1444089689,
+      "track_id": 1444089694,
+      "artist_name": "Sugababes",
+      "release_date": "2003-10-13T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.615,
+        "saturation": 0.217,
+        "dark_share": 0.2,
+        "palette": [
+          {
+            "hex": "#161719",
+            "share": 0.248
+          },
+          {
+            "hex": "#bebfb4",
+            "share": 0.243
+          },
+          {
+            "hex": "#8a6f63",
+            "share": 0.233
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.196
+          },
+          {
+            "hex": "#e9ecea",
+            "share": 0.079
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

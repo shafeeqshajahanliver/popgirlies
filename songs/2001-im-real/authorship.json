@@ -1,0 +1,28 @@
+{
+  "writers": [
+    "Cory Rooney",
+    "Jennifer Lopez",
+    "L.E.S.",
+    "Martin Denny",
+    "Troy Oliver"
+  ],
+  "producers": [
+    "Cory Rooney",
+    "L.E.S.",
+    "Troy Oliver"
+  ],
+  "n_writers": 5,
+  "n_producers": 3,
+  "act": "Jennifer Lopez",
+  "group_members": [],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "Jennifer Lopez"
+  ],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

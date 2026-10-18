@@ -1,0 +1,49 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "pop music"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "ballad",
+        "pop",
+        "rock",
+        "soft rock",
+        "synth-pop"
+      ],
+      "tags": [
+        "pop",
+        "soft rock",
+        "ballad",
+        "rock",
+        "vocal",
+        "adult contemporary",
+        "falling into you",
+        "other pop",
+        "pop music",
+        "pop_ballad"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "other pop"
+  ],
+  "families_basis": "wikidata",
+  "families_any_source": [
+    "other pop",
+    "singer-songwriter and ballad",
+    "rock-pop",
+    "synth and electronic"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

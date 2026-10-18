@@ -1,0 +1,36 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Synth-pop",
+        "R&B"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "dance-pop",
+        "contemporary R&B"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [],
+      "tags": [],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "synth and electronic",
+    "R&B-pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "synth and electronic",
+    "R&B-pop",
+    "disco and dance"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

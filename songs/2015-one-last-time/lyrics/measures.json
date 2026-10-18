@@ -1,0 +1,41 @@
+{
+  "id": "2015-one-last-time",
+  "lyrics_kind": "synced",
+  "lrclib_id": 33364378,
+  "lines": 45,
+  "words": 398,
+  "unique_words": 90,
+  "type_token_ratio": 0.226,
+  "repeated_line_share": 0.444,
+  "distinct_lines": 25,
+  "zlib_compression_ratio": 0.245,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "one last time",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 63,
+    "second": 32,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.25,
+  "last_line_s": 188.21,
+  "sung_time_s": 180.7,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 132.1,
+  "words_per_minute_track": 122.3,
+  "longest_gap_between_lines_s": 8.65,
+  "longest_gap_starts_at_s": 126.93,
+  "first_repeated_block": {
+    "first_at_s": 24.06,
+    "recurs_at_s": 85.61,
+    "lines": [
+      "And I know, and I know, and I know she gives you everything",
+      "But, boy, I couldn't give it to you"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 33364378",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

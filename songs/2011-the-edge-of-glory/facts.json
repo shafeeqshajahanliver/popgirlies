@@ -1,0 +1,606 @@
+{
+  "id": "2011-the-edge-of-glory",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "The Edge of Glory",
+  "wikidata": {
+    "qid": "Q72646",
+    "label": "The Edge of Glory",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q19848",
+          "label": null
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q19848",
+          "label": null
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q19848",
+          "label": null
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q231694",
+          "label": "Interscope Records"
+        },
+        {
+          "qid": "Q946523",
+          "label": "KonLive Distribution"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2011-05-09"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q1298934",
+          "label": "synth-pop"
+        },
+        {
+          "qid": "Q211756",
+          "label": "dance-pop"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q164646",
+          "label": "Born This Way"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q277793",
+          "label": "A major"
+        }
+      ],
+      "beats_per_minute": [
+        {
+          "amount": "128",
+          "unit": "1"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q188766",
+          "label": "Judas"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q659417",
+          "label": "3-Way (The Golden Rule)"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "a0dceb22-ad31-46fc-a42c-07828dad322d"
+      ],
+      "musicbrainz_release_group_id": [
+        "353e50e2-c301-414f-8b39-7de2e9ad5999"
+      ],
+      "youtube_video_id": [
+        "QeWBS0JBNzQ"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 353e50e2-c301-414f-8b39-7de2e9ad5999 (2011-05-09); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "36119119-c128-4c87-bdc8-83af13021534",
+    "title": "The Edge of Glory",
+    "length_ms": 320533,
+    "first_release_date": "2011-05-09",
+    "artist_credit": "Lady Gaga",
+    "artists": [
+      {
+        "name": "Lady Gaga",
+        "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+      }
+    ],
+    "isrcs": [
+      "USUM71106458"
+    ],
+    "recording_credits": [
+      {
+        "role": "instrument",
+        "attributes": [
+          "saxophone"
+        ],
+        "name": "Clarence Clemons",
+        "mbid": "7e4bfa5f-a8b8-4fb0-81b5-f74f6ac72133"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "guitar"
+        ],
+        "name": "Kareem Devlin",
+        "mbid": "e1dc3f24-9f20-4524-b479-f244373b9ee6"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Garibay",
+        "mbid": "6b364d44-a10a-4de3-a8d9-53386d39644f"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Lady Gaga",
+        "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Al Carlson",
+        "mbid": "50f1661d-aeff-4d72-b4e1-6046d39675c8"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Kevin Porter",
+        "mbid": "ebd22d4a-2528-4c1c-8a7a-13016c73f3df"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Dave Russell",
+        "mbid": "73a50ba5-6132-4d18-ab9c-00b151f60153"
+      },
+      {
+        "role": "mix",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Kenta Yonesaka",
+        "mbid": "d2bdaff7-75ef-46d5-88a9-a35bd327fcbe"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Garibay",
+        "mbid": "6b364d44-a10a-4de3-a8d9-53386d39644f"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Lady Gaga",
+        "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Garibay",
+        "mbid": "6b364d44-a10a-4de3-a8d9-53386d39644f"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "additional",
+          "drum machine"
+        ],
+        "name": "DJ White Shadow",
+        "mbid": "efc84232-36b5-4483-8a1d-6949ea6ebf91"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "Ken Knapstad",
+        "mbid": "31104210-6739-445a-902d-2d3d265dca82"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Dave Russell",
+        "mbid": "73a50ba5-6132-4d18-ab9c-00b151f60153"
+      },
+      {
+        "role": "recording",
+        "attributes": [
+          "assistant"
+        ],
+        "name": "George Tanderø",
+        "mbid": "f96f58d7-9782-427d-b14f-8f6a1e14a6e8"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Lady Gaga",
+        "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/0JNdS1n0ifOP25XvhwAMgM"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/2124682327"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.youtube.com/watch?v=QeWBS0JBNzQ"
+      },
+      {
+        "type": "other databases",
+        "url": "https://www.whosampled.com/Lady-Gaga/The-Edge-of-Glory/"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/song/1573483263"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://open.qobuz.com/track/38181990"
+      },
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/performance/263807"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/song/1573483263"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/188953840"
+      }
+    ],
+    "genres": [
+      "dance",
+      "dance-pop",
+      "electronic",
+      "electronic rock",
+      "electropop",
+      "experimental",
+      "pop",
+      "pop rock",
+      "synth-pop"
+    ],
+    "tags": [
+      "pop",
+      "dance-pop",
+      "synth-pop",
+      "club/dance",
+      "catchy",
+      "dance",
+      "electronic",
+      "electronic rock",
+      "electropop",
+      "experimental"
+    ],
+    "releases": [
+      {
+        "id": "d407a29d-36fa-445c-8667-7b2221fd23d6",
+        "title": "Born This Way",
+        "date": "2011-05",
+        "country": "IN",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "1d22ce5b-26b9-496d-840a-e1d18bbc76d8",
+        "title": "The Edge of Glory",
+        "date": "2011-05-09",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "353e50e2-c301-414f-8b39-7de2e9ad5999",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "b19d5cee-b579-400f-93ce-3327cc9d057a",
+        "title": "Born This Way",
+        "date": "2011-05-20",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "7057bbc3-ba54-3a8b-aa18-a324f8a63ad8",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "f4ecda8e-1ece-4f5c-8be7-471c14c6ab63",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "7d614b80-fcb0-4d5b-9e1c-e460207a345e",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "66a78273-e1ed-45ed-a994-b9ec84795dcb",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "CO",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c010ca0d-fc14-4696-9063-89dfab17d676",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e3f1db44-75ad-4e7b-b28a-07fc3a1d6dee",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "0371b43b-2f83-486a-835e-eff8fdd50c75",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "aae00b92-52c4-482f-9705-ecfaa34331cc",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "dab4bacd-e40e-4d27-80f3-2837b21c7f97",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "b695de30-91da-4cd4-8491-5740a4bbb6fb",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "XW",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "341eb76f-7a1b-4175-a8f4-d2ac9e0c8ffb",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "58bfb2db-54b5-469f-a19d-58e9ed0e7f75",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": null,
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "ab01852f-a60c-4dc6-b1f8-534925e9df21",
+        "title": "Born This Way",
+        "date": "2011-05-23",
+        "country": null,
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "a3b367be-aec6-475b-9109-71f34ad3a956",
+        "title": "Born This Way",
+        "date": "2011-06-07",
+        "country": "US",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "8f26be9a-026b-4978-919a-680a2f488c31",
+        "title": "Born This Way",
+        "date": "2011-06-20",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "9f78acaf-b54a-407a-b908-0c241c496da0",
+        "title": "The Dome: Summer 2011",
+        "date": "2011-07-08",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "ac6da86c-e841-4942-8f81-add55718f5f3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "23327653-dc43-4f0f-a39d-1e9ce71fdc3f",
+        "title": "Bravo Hits 74",
+        "date": "2011-07-29",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "cb24578e-1ab0-485a-a844-bdcaca42fbb3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2cd6fc13-a2ed-4c46-a997-bb05e14ee5ce",
+        "title": "R&B in the Mix 2011",
+        "date": "2011-08-22",
+        "country": null,
+        "status": "Official",
+        "release_group": "393ddabb-686e-4438-9f38-4768a0cac280",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "532fbfd3-fded-451d-b519-5740238dfaa6",
+        "title": "Bravo Black Hits, Vol. 25",
+        "date": "2011-09-09",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "8ecda770-4197-4a99-9cbc-a32044fc3562",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "85635ca6-00e8-415e-8eeb-730ba6c7aba8",
+        "title": "200% Hits 2011, Volume 2",
+        "date": "2011-09-12",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "66830a77-495d-4c6e-ae3d-61e550124f7d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "08c8a4bd-09c1-4256-a73a-c2d77d5e179e",
+        "title": "More Music 2011",
+        "date": "2011-10-31",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "67b65492-828d-4414-9a75-ccf94cb6b6ed",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d3f14d5e-eb2b-46b3-92ae-328ab9e89864",
+        "title": "Now That’s What I Call Music! 59",
+        "date": "2011-11-07",
+        "country": "ZA",
+        "status": "Promotion",
+        "release_group": "a7356fbc-475a-4595-805d-62ca2b48319e",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "a0dceb22-ad31-46fc-a42c-07828dad322d",
+      "title": "The Edge of Glory",
+      "iswcs": [
+        "T-906.369.930-9"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Garibay",
+          "mbid": "6b364d44-a10a-4de3-a8d9-53386d39644f"
+        },
+        {
+          "role": "writer",
+          "name": "Lady Gaga",
+          "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+        },
+        {
+          "role": "writer",
+          "name": "DJ White Shadow",
+          "mbid": "efc84232-36b5-4483-8a1d-6949ea6ebf91"
+        }
+      ],
+      "urls": [
+        "https://www.allmusic.com/song/mt0041201818",
+        "https://genius.com/Lady-gaga-the-edge-of-glory-lyrics",
+        "https://secondhandsongs.com/work/131520",
+        "https://www.songfacts.com/facts/lady-gaga/the-edge-of-glory",
+        "https://www.wikidata.org/wiki/Q72646"
+      ]
+    },
+    "main_artist": {
+      "name": "Lady Gaga",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Upper East Side"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

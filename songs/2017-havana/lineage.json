@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/628544",
+    "title": "Havana",
+    "performer": "Camila Cabello feat. Young Thug",
+    "is_original": true,
+    "first_release_date": "2017-08-05",
+    "releases": [
+      {
+        "title": "Havana",
+        "uri": "https://api.secondhandsongs.com/release/190427",
+        "performer": "Camila Cabello feat. Young Thug"
+      },
+      {
+        "title": "Camila",
+        "uri": "https://api.secondhandsongs.com/release/233049",
+        "performer": "Camila Cabello"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 65,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/175943",
+    "title": "Havana",
+    "language": "English",
+    "writers": [
+      "Louis Bell",
+      "Camila Cabello",
+      "Frank Dukes",
+      "Starrah",
+      "Kaan Güneşberk",
+      "Brian Lee",
+      "Ali Tamposi",
+      "Young Thug",
+      "Pharrell Williams",
+      "Andrew Watt"
+    ],
+    "original_performer": "Camila Cabello feat. Young Thug",
+    "versions": 66,
+    "based_on": [],
+    "derived_works": []
+  }
+}

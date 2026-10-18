@@ -1,0 +1,119 @@
+{
+  "id": "1981-slow-hand",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Slow Hand",
+  "wikidata": {
+    "qid": "Q7542020",
+    "label": "Slow Hand",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q1161836",
+          "label": "The Pointer Sisters"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q7201159",
+          "label": "Planet Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1981-05-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q45981",
+          "label": "rhythm and blues"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q7723510",
+          "label": "The Clown"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q7977521",
+          "label": "We Did But Now You Don't"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "8f0d8f13-7194-31d7-ab4b-265cace25923"
+      ],
+      "musicbrainz_release_group_id": [
+        "b4bed230-4eeb-44b1-aa13-0b213628895b"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
+  "musicbrainz": {
+    "recording_id": "f5c2bffb-8be3-4df9-a704-dd14a7b22a73",
+    "title": "Slow Hand",
+    "length_ms": 231106,
+    "first_release_date": "1988",
+    "artist_credit": "The Pointer Sisters",
+    "artists": [
+      {
+        "name": "The Pointer Sisters",
+        "mbid": "81bac815-97c5-4723-8f0b-4d8edfad1010"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "502a5fd7-d5d7-44df-8da3-131eb5656168",
+        "title": "Love Songs",
+        "date": "1988",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c10ab90b-04d2-3910-bda1-3d6f2193a04a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "8f0d8f13-7194-31d7-ab4b-265cace25923",
+      "title": "Slow Hand",
+      "iswcs": [
+        "T-070.144.362-0"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Michael Clark",
+          "mbid": "2449940d-6c7d-4eec-bb08-3bb87916d269"
+        },
+        {
+          "role": "lyricist",
+          "name": "John Bettis",
+          "mbid": "3241363a-f7c0-4d3d-b154-d0b7132067b4"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/125592",
+        "https://www.wikidata.org/wiki/Q7542020"
+      ]
+    },
+    "main_artist": {
+      "name": "The Pointer Sisters",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Oakland"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

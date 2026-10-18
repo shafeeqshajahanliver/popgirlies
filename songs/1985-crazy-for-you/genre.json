@@ -1,0 +1,37 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Pop"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "pop music",
+        "sentimental ballad"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "ballad"
+      ],
+      "tags": [
+        "ballad"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "other pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "other pop",
+    "singer-songwriter and ballad"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

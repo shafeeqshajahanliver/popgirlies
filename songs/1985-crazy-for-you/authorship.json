@@ -1,0 +1,22 @@
+{
+  "writers": [
+    "John Bettis",
+    "Jon Lind"
+  ],
+  "producers": [
+    "Jellybean",
+    "John Benitez"
+  ],
+  "n_writers": 2,
+  "n_producers": 2,
+  "act": "Madonna",
+  "group_members": [],
+  "star_is_writer": false,
+  "star_writer_names": [],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

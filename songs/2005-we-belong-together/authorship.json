@@ -1,0 +1,36 @@
+{
+  "writers": [
+    "Babyface",
+    "Bobby Womack",
+    "Darnell Bristol",
+    "Jermaine Dupri",
+    "Johntá Austin",
+    "Manuel Seal",
+    "Mariah Carey",
+    "Patrick Moten",
+    "Sandra Sully",
+    "Sid Johnson",
+    "Sidney DeWayne"
+  ],
+  "producers": [
+    "Jermaine Dupri",
+    "Manuel Seal",
+    "Mariah Carey"
+  ],
+  "n_writers": 11,
+  "n_producers": 3,
+  "act": "Mariah Carey",
+  "group_members": [],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "Mariah Carey"
+  ],
+  "star_is_producer": true,
+  "star_producer_names": [
+    "Mariah Carey"
+  ],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

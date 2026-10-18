@@ -1,0 +1,56 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Disco",
+        "pop"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "disco"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "blues",
+        "disco",
+        "motown",
+        "philly soul",
+        "pop",
+        "pop soul",
+        "r&b",
+        "soul"
+      ],
+      "tags": [
+        "soul",
+        "disco",
+        "pop",
+        "r&b",
+        "blues",
+        "electronic/trance/pop/jazz",
+        "motown",
+        "philly soul",
+        "pop soul",
+        "urban"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance",
+    "other pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "other pop",
+    "girl-group and early pop",
+    "R&B-pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

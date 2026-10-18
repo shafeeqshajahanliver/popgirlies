@@ -1,0 +1,27 @@
+{
+  "writers": [
+    "John Bettis",
+    "Michael Clark"
+  ],
+  "producers": [],
+  "n_writers": 2,
+  "n_producers": 0,
+  "act": "The Pointer Sisters",
+  "group_members": [
+    "Anita Pointer",
+    "Bonnie Pointer",
+    "Issa Pointer",
+    "Jeff Breeh",
+    "June Pointer",
+    "Ruth Pointer",
+    "Sadako Pointer"
+  ],
+  "star_is_writer": false,
+  "star_writer_names": [],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

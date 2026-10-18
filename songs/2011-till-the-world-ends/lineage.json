@@ -1,0 +1,38 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/183343",
+    "title": "Till the World Ends",
+    "performer": "Britney Spears",
+    "is_original": true,
+    "first_release_date": "2011-03-04",
+    "releases": [
+      {
+        "title": "Till the World Ends",
+        "uri": "https://api.secondhandsongs.com/release/68204",
+        "performer": "Britney Spears"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 12,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/121496",
+    "title": "Till the World Ends",
+    "language": "English",
+    "writers": [
+      "Dr. Luke",
+      "Alexander Kronlund",
+      "Max Martin [SE]",
+      "Ke$ha"
+    ],
+    "original_performer": "Britney Spears",
+    "versions": 13,
+    "based_on": [],
+    "derived_works": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1976-love-hangover",
+  "preview": {
+    "service": "deezer",
+    "track_id": 1176296,
+    "matched_by": "isrc",
+    "isrc": "USMO17600377",
+    "title": "Love Hangover",
+    "artist": "Diana Ross",
+    "album": "The #1's",
+    "track_duration_s": 228,
+    "link": "https://www.deezer.com/track/1176296",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 150.8,
+    "tempo_bpm_grid": 152.0,
+    "tempo_candidates_bpm": [
+      152.0,
+      76.0,
+      161.5
+    ],
+    "beats_detected": 75,
+    "key": "Eb minor",
+    "key_tonic": "Eb",
+    "key_mode": "minor",
+    "key_correlation": 0.802,
+    "key_runner_up": "F# major",
+    "key_runner_up_correlation": 0.636,
+    "chroma_profile": [
+      0.62,
+      0.866,
+      0.611,
+      1.0,
+      0.574,
+      0.595,
+      0.78,
+      0.553,
+      0.723,
+      0.611,
+      0.761,
+      0.633
+    ],
+    "rms_dbfs": -11.11,
+    "rms_dbfs_p95_frame": -7.72,
+    "peak_dbfs": 0.88,
+    "loudness_lufs_approx": -9.79,
+    "spectral_centroid_hz_mean": 2714.3,
+    "spectral_centroid_hz_median": 2469.8,
+    "onsets": 83,
+    "onset_density_per_s": 2.768,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 1176296",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": 112.7,
+    "gain": -9.7,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/1176296",
+    "retrieved": "2026-10-18",
+    "confidence": "sourced"
+  },
+  "flags": [
+    "tempo differs from Deezer's bpm (112.7) by 34%"
+  ],
+  "rejected_candidates": []
+}

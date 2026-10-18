@@ -1,0 +1,41 @@
+{
+  "id": "2003-hole-in-the-head",
+  "lyrics_kind": "synced",
+  "lrclib_id": 21108105,
+  "lines": 91,
+  "words": 503,
+  "unique_words": 144,
+  "type_token_ratio": 0.286,
+  "repeated_line_share": 0.385,
+  "distinct_lines": 56,
+  "zlib_compression_ratio": 0.306,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "hole in the head",
+  "title_phrase_occurrences": 5,
+  "pronouns": {
+    "first_singular": 41,
+    "second": 27,
+    "first_plural": 0
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 3.72,
+  "last_line_s": 206.57,
+  "sung_time_s": 201.5,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 149.8,
+  "words_per_minute_track": 139.1,
+  "longest_gap_between_lines_s": 7.35,
+  "longest_gap_starts_at_s": 19.23,
+  "first_repeated_block": {
+    "first_at_s": 30.83,
+    "recurs_at_s": 38.32,
+    "lines": [
+      "Why you cry",
+      "For the guy?"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 21108105",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

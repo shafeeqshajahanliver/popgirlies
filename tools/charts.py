@@ -51,7 +51,13 @@ def main():
             cands = [k for k in weeks if close(k)
                      and any(r["chart_week"][:4] in (str(y), str(y - 1)) for r in weeks[k])]
             same = [k for k in cands if a[:4] in k[1]]
-            keys = same or (cands if len({k[1] for k in cands}) == 1 else [])
+            # the performer must resemble the act: a shared word (Dawn in "Tony Orlando and Dawn") or a
+            # close spelling (Ke$ha / Kesha, P!nk / Pink). Same-title songs by other acts never match.
+            import difflib
+            words = {norm(w) for w in re.split(r"[\s&,]+", s["artist"]) if len(norm(w)) >= 4 and norm(w) not in ("the", "and", "featuring")}
+            def resembles(perf):
+                return any(w in perf for w in words) or difflib.SequenceMatcher(None, a, perf[:len(a) + 2]).ratio() >= 0.75
+            keys = same or [k for k in cands if resembles(k[1])]
             how = "title variant (%s)" % ", ".join("%s / %s" % k for k in keys)
         if not keys:
             print("NO MATCH", s["id"]); open(song_dir(s["id"], "charts.none"), "w").close(); continue

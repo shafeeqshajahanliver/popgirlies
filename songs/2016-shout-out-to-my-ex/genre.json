@@ -1,0 +1,39 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Dance-pop"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "pop music"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "dance-pop",
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "dance-pop",
+        "party"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "other pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

@@ -1,0 +1,54 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "album": {
+      "release_group": "20e97b35-a3e2-3928-ac27-74415829258b",
+      "release_title": "Funhouse",
+      "release_date": "1998-02-17",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Funhouse",
+      "url": "https://coverartarchive.org/release/bc123d16-eb31-45d7-9287-329bce3e0f56/39094626444-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/bc123d16-eb31-45d7-9287-329bce3e0f56",
+      "image_id": 39094626444,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "measures": {
+        "brightness": 0.484,
+        "saturation": 0.509,
+        "dark_share": 0.275,
+        "palette": [
+          {
+            "hex": "#18182b",
+            "share": 0.276
+          },
+          {
+            "hex": "#dde0c6",
+            "share": 0.265
+          },
+          {
+            "hex": "#506f77",
+            "share": 0.187
+          },
+          {
+            "hex": "#111b31",
+            "share": 0.166
+          },
+          {
+            "hex": "#441c34",
+            "share": 0.106
+          }
+        ],
+        "confidence": "computed"
+      }
+    }
+  }
+}

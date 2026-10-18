@@ -1,0 +1,105 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "Britney Spears"
+  ],
+  "title_as_charted": [
+    "Oops!...I Did It Again"
+  ],
+  "debut_week": "2000-04-22",
+  "debut_position": 67,
+  "peak_position": 9,
+  "weeks_at_peak": 2,
+  "first_week_at_peak": "2000-06-10",
+  "weeks_to_peak": 7,
+  "weeks_on_chart": 20,
+  "last_week": "2000-09-02",
+  "weeks_at_number_one": 0,
+  "run": [
+    [
+      "2000-04-22",
+      67
+    ],
+    [
+      "2000-04-29",
+      38
+    ],
+    [
+      "2000-05-06",
+      26
+    ],
+    [
+      "2000-05-13",
+      19
+    ],
+    [
+      "2000-05-20",
+      15
+    ],
+    [
+      "2000-05-27",
+      13
+    ],
+    [
+      "2000-06-03",
+      12
+    ],
+    [
+      "2000-06-10",
+      9
+    ],
+    [
+      "2000-06-17",
+      9
+    ],
+    [
+      "2000-06-24",
+      10
+    ],
+    [
+      "2000-07-01",
+      14
+    ],
+    [
+      "2000-07-08",
+      15
+    ],
+    [
+      "2000-07-15",
+      17
+    ],
+    [
+      "2000-07-22",
+      24
+    ],
+    [
+      "2000-07-29",
+      35
+    ],
+    [
+      "2000-08-05",
+      49
+    ],
+    [
+      "2000-08-12",
+      77
+    ],
+    [
+      "2000-08-19",
+      85
+    ],
+    [
+      "2000-08-26",
+      90
+    ],
+    [
+      "2000-09-02",
+      96
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

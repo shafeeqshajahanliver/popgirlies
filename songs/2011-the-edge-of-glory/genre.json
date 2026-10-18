@@ -1,0 +1,63 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Pop",
+        "electro-rock",
+        "arena rock",
+        "disco"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "synth-pop",
+        "dance-pop"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "dance",
+        "dance-pop",
+        "electronic",
+        "electronic rock",
+        "electropop",
+        "experimental",
+        "pop",
+        "pop rock",
+        "synth-pop"
+      ],
+      "tags": [
+        "pop",
+        "dance-pop",
+        "synth-pop",
+        "club/dance",
+        "catchy",
+        "dance",
+        "electronic",
+        "electronic rock",
+        "electropop",
+        "experimental"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "other pop",
+    "synth and electronic",
+    "rock-pop",
+    "disco and dance"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "other pop",
+    "synth and electronic",
+    "rock-pop",
+    "disco and dance",
+    "art and baroque"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

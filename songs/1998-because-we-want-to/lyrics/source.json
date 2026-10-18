@@ -1,0 +1,49 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 35514176,
+  "kind": "synced",
+  "matched": {
+    "track": "Because We Want To",
+    "artist": "Billie Piper",
+    "album": "Now That's What I Call Music! 1998: The Millennium Series  (Compilation)",
+    "duration_s": 227.0
+  },
+  "duration_matched_to": "musicbrainz recording length (226s)",
+  "duration_diff_s": 0.8,
+  "reference_lengths": [
+    {
+      "seconds": 226.213,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 225.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 228.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 19,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37186298 (Because We Want To / Billie Piper / Music, 70.0s): duration matches no reference length",
+    "lrclib 37353737 (Because We Want To / Billie Piper / Now That’s What I Call Music! 1998: The Millennium Series, 239.0s): duration matches no reference length",
+    "lrclib 33600707 (Because We Want To / Billie Piper / Now That’s What I Call Music! 40, 254.0s): duration matches no reference length",
+    "lrclib 21897774 (Because We Want To / Billie Piper / Greatest Hits, 246.0s): duration matches no reference length",
+    "lrclib 26417067 (Because We Want To / Billie Piper / Honey to the B, 245.5278s): duration matches no reference length",
+    "lrclib 31864083 (Because We Want To / Billie Piper / Because We Want To, 530.0s): duration matches no reference length",
+    "lrclib 32170890 (Because We Want To (Tall Paul vs. Billie) / Billie Piper / Because We Want To, 530.0s): marked instrumental",
+    "lrclib 27075447 (Because We Want To (Street Mix) / Billie Piper / Because We Want To, 312.4666669s): live/remix/other version",
+    "lrclib 38105331 (Because We Want To (radio mix) / Billie Piper / Because We Want To, 228.0s): live/remix/other version",
+    "lrclib 26715451 (Because We Want To (Instrumental Radio Mix) / Billie Piper / Because We Want To, 228.226667s): live/remix/other version",
+    "lrclib 28297869 (Because We Want To (Sgt Rock 'Old Skool' Mix) / Billie Piper / Because We Want To, 500.0s): live/remix/other version",
+    "lrclib 38686313 (Because We Want To (Sgt Rock 'old Skool Mix-edit) / Billie Piper / Because We Want To, 255.0s): marked instrumental",
+    "lrclib 39024733 (Because We Want To / Billie Piper / Honey to the B, 301.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

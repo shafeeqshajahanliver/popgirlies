@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "album": {
+      "release_group": "a1387c6b-5c70-480c-9b25-84b80d4f0cfd",
+      "release_title": "Super Hitparade 1",
+      "release_date": "1992",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "earliest studio album with this recording (MusicBrainz)",
+      "url": "https://coverartarchive.org/release/5ec435ec-8b4f-4c1c-95a0-3e6d28aa03b9/45209674143-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/5ec435ec-8b4f-4c1c-95a0-3e6d28aa03b9",
+      "image_id": 45209674143,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        600,
+        600
+      ],
+      "measures": {
+        "brightness": 0.584,
+        "saturation": 0.25,
+        "dark_share": 0.246,
+        "palette": [
+          {
+            "hex": "#9285af",
+            "share": 0.331
+          },
+          {
+            "hex": "#121213",
+            "share": 0.272
+          },
+          {
+            "hex": "#f3d59d",
+            "share": 0.139
+          },
+          {
+            "hex": "#f6d9a1",
+            "share": 0.134
+          },
+          {
+            "hex": "#6f6383",
+            "share": 0.124
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d4/c7/f6/d4c7f669-912e-2bfc-4ee6-5e4948ceac69/5414939595370.jpg/1200x1200bb.jpg",
+      "collection": "The Pye Anthology",
+      "collection_id": 1439340973,
+      "track_id": 1439340992,
+      "artist_name": "Petula Clark",
+      "release_date": "1996-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.385,
+        "saturation": 0.369,
+        "dark_share": 0.403,
+        "palette": [
+          {
+            "hex": "#010101",
+            "share": 0.315
+          },
+          {
+            "hex": "#8e5a38",
+            "share": 0.272
+          },
+          {
+            "hex": "#cbae9c",
+            "share": 0.264
+          },
+          {
+            "hex": "#331911",
+            "share": 0.09
+          },
+          {
+            "hex": "#000000",
+            "share": 0.059
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

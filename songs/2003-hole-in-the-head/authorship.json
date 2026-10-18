@@ -1,0 +1,40 @@
+{
+  "writers": [
+    "Brian Higgins",
+    "Heidi Range",
+    "Keisha Buchanan",
+    "Miranda Cooper",
+    "Mutya Buena",
+    "Niara Scarlett",
+    "Nick Coler",
+    "Tim Powell"
+  ],
+  "producers": [
+    "Brian Higgins",
+    "Jeremy Wheatley",
+    "Xenomania"
+  ],
+  "n_writers": 8,
+  "n_producers": 3,
+  "act": "Sugababes",
+  "group_members": [
+    "Amelle Berrabah",
+    "Heidi Range",
+    "Jade Ewen",
+    "Keisha Buchanan",
+    "Mutya Buena",
+    "Siobhán Donaghy"
+  ],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "Heidi Range",
+    "Keisha Buchanan",
+    "Mutya Buena"
+  ],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

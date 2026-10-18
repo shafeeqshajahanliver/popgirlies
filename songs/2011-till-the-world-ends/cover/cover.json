@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "96adaad0-c7b0-4910-aad8-936aea34f95a",
+      "release_title": "Till the World Ends",
+      "release_date": "2011-03-04",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/ccecfcf5-aff0-4d10-ad66-1da55b24406b/3054661622-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/ccecfcf5-aff0-4d10-ad66-1da55b24406b",
+      "image_id": "3054661622",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.43,
+        "saturation": 0.217,
+        "dark_share": 0.227,
+        "palette": [
+          {
+            "hex": "#524b3c",
+            "share": 0.248
+          },
+          {
+            "hex": "#171613",
+            "share": 0.245
+          },
+          {
+            "hex": "#837b68",
+            "share": 0.24
+          },
+          {
+            "hex": "#aca595",
+            "share": 0.154
+          },
+          {
+            "hex": "#ddd8cc",
+            "share": 0.113
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "a7e9d7d2-3c60-472f-b2ba-829de5034179",
+      "release_title": "Femme Fatale",
+      "release_date": "2011-03",
+      "release_country": "IN",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Femme Fatale",
+      "url": "http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3",
+      "image_id": 4504244802,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        953,
+        953
+      ],
+      "measures": {
+        "brightness": 0.887,
+        "saturation": 0.19,
+        "dark_share": 0.004,
+        "palette": [
+          {
+            "hex": "#e6cdb0",
+            "share": 0.293
+          },
+          {
+            "hex": "#f0e1ce",
+            "share": 0.226
+          },
+          {
+            "hex": "#ba9a7b",
+            "share": 0.19
+          },
+          {
+            "hex": "#f7efe4",
+            "share": 0.147
+          },
+          {
+            "hex": "#fbf6ef",
+            "share": 0.144
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/b5/e1/f6b5e110-5ae3-1db4-ae81-e8d59d0e1c92/884977898842.jpg/1200x1200bb.jpg",
+      "collection": "Femme Fatale (Deluxe Version)",
+      "collection_id": 581774791,
+      "track_id": 581774806,
+      "artist_name": "Britney Spears",
+      "release_date": "2011-03-04T08:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.894,
+        "saturation": 0.201,
+        "dark_share": 0.001,
+        "palette": [
+          {
+            "hex": "#e4caae",
+            "share": 0.285
+          },
+          {
+            "hex": "#efdfcc",
+            "share": 0.229
+          },
+          {
+            "hex": "#c29e7a",
+            "share": 0.191
+          },
+          {
+            "hex": "#f6ede3",
+            "share": 0.155
+          },
+          {
+            "hex": "#fbf5ef",
+            "share": 0.14
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

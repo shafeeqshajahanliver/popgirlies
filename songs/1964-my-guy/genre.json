@@ -1,0 +1,44 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "R&B"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "soul",
+        "rhythm and blues"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "ballad",
+        "motown",
+        "r&b",
+        "soul"
+      ],
+      "tags": [
+        "soul",
+        "ballad",
+        "motown",
+        "r&b"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "R&B-pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "R&B-pop",
+    "singer-songwriter and ballad",
+    "girl-group and early pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

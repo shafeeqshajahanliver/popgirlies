@@ -1,0 +1,63 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Dance-pop",
+        "teen pop"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "teen pop"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "ballad",
+        "contemporary r&b",
+        "dance-pop",
+        "electro",
+        "electronic",
+        "europop",
+        "hip hop",
+        "pop",
+        "pop rock",
+        "synth-pop",
+        "teen pop"
+      ],
+      "tags": [
+        "pop",
+        "dance-pop",
+        "teen pop",
+        "synth-pop",
+        "contemporary r&b",
+        "ballad",
+        "electro",
+        "electronic",
+        "europop",
+        "hip hop"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance",
+    "teen and bubblegum"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "teen and bubblegum",
+    "singer-songwriter and ballad",
+    "R&B-pop",
+    "synth and electronic",
+    "Latin and global",
+    "other pop",
+    "rock-pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

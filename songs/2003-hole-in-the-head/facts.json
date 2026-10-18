@@ -1,0 +1,447 @@
+{
+  "id": "2003-hole-in-the-head",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Hole in the Head",
+  "wikidata": {
+    "qid": "Q2724128",
+    "label": "Hole in the Head",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q193697",
+          "label": "Sugababes"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q505581",
+          "label": "Brian Higgins"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q190585",
+          "label": "Island Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2003-10-13"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q2543696",
+          "label": "Shape"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q2720281",
+          "label": "Too Lost in You"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "8d3e21eb-e778-4f45-a0c0-b89611f8fa8a"
+      ],
+      "musicbrainz_release_group_id": [
+        "ee776925-8064-38e4-9be7-405525e9dc36"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group ee776925-8064-38e4-9be7-405525e9dc36 (2003-01-01); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "4a4d6dfa-388e-4d34-9b78-4ca8df8ad5c9",
+    "title": "Hole in the Head",
+    "length_ms": 217000,
+    "first_release_date": "2003-01-01",
+    "artist_credit": "Sugababes",
+    "artists": [
+      {
+        "name": "Sugababes",
+        "mbid": "dfa715ac-b536-44df-af43-570d3ea3edec"
+      }
+    ],
+    "isrcs": [
+      "GBAAN0300442",
+      "GBAAN0300522"
+    ],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [
+      "dance-pop",
+      "disco",
+      "electronic",
+      "house",
+      "pop",
+      "r&b",
+      "tech house",
+      "teen pop"
+    ],
+    "tags": [
+      "contemporary pop/rock",
+      "dance-pop",
+      "house",
+      "pop",
+      "disco",
+      "electronic",
+      "party",
+      "pop/rock",
+      "r&b",
+      "ragga hiphop"
+    ],
+    "releases": [
+      {
+        "id": "0feecd33-3833-4a8a-bf81-6d38d7927b46",
+        "title": "Three",
+        "date": "2003",
+        "country": "UA",
+        "status": "Official",
+        "release_group": "afd8d6c6-e4a1-3e16-ba73-7ce75248f559",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "47343f37-afcc-4d06-b40a-8a2942a3dff1",
+        "title": "Three",
+        "date": "2003",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "afd8d6c6-e4a1-3e16-ba73-7ce75248f559",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "fe70b5fe-7de1-47c3-b557-47da8a63e082",
+        "title": "Yorin Hitzone: Best of 2003",
+        "date": "2003",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "f31f5251-98b4-4442-b348-a8c2bd8166b6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f86ac755-d860-4e6d-b527-e2edfed123b3",
+        "title": "Hole in the Head",
+        "date": "2003-01-01",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ee776925-8064-38e4-9be7-405525e9dc36",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "764f6039-a0e4-4be5-a2b6-851a256d8ad0",
+        "title": "DMC DJ Only 56",
+        "date": "2003-09",
+        "country": "GB",
+        "status": "Promotion",
+        "release_group": "c0836f07-27cc-496c-9c83-4fda7becf191",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d6a44ead-403b-4bff-a842-154f1b42cbdc",
+        "title": "DJ Only DJO56",
+        "date": "2003-10",
+        "country": "GB",
+        "status": "Promotion",
+        "release_group": "0b80964b-2910-3df3-a5a8-f6e3be8a550a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ba842beb-b45c-4807-9318-862a6e1ec652",
+        "title": "Hole in the Head",
+        "date": "2003-10-13",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "ee776925-8064-38e4-9be7-405525e9dc36",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "8eec6bab-9760-383a-8a8a-567d974a28d8",
+        "title": "Three",
+        "date": "2003-10-27",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "afd8d6c6-e4a1-3e16-ba73-7ce75248f559",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "30a7e371-ef09-4123-8f26-7d7cceecd82e",
+        "title": "Three",
+        "date": "2003-10-27",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "afd8d6c6-e4a1-3e16-ba73-7ce75248f559",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "7395f74d-e2fc-4a10-927e-144ddb771272",
+        "title": "Three",
+        "date": "2003-10-27",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "afd8d6c6-e4a1-3e16-ba73-7ce75248f559",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "97b549fc-36c9-4b18-b126-f34934cf26e1",
+        "title": "Radioactivity Volume 03-11",
+        "date": "2003-11",
+        "country": "AU",
+        "status": "Promotion",
+        "release_group": "189780f8-b21d-4178-ba28-aa4d1f12b001",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8a36bd28-1dca-4600-9bf7-1339df8386d0",
+        "title": "Three",
+        "date": "2003-11-03",
+        "country": "US",
+        "status": "Official",
+        "release_group": "afd8d6c6-e4a1-3e16-ba73-7ce75248f559",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "19b6f19a-7b7c-49cc-9153-ce51ff749e8f",
+        "title": "Now That’s What I Call Music! 56",
+        "date": "2003-11-17",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "b5a4014a-ad97-35ce-8244-b74e15a35de6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "eabd7753-754f-42c6-843b-b388252b8bc1",
+        "title": "Now That’s What I Call Music! 56",
+        "date": "2003-11-17",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "b5a4014a-ad97-35ce-8244-b74e15a35de6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "36ef568d-5464-4387-b146-4bfdbf3ae63e",
+        "title": "Top of the Pops: The Year 2003",
+        "date": "2003-12-01",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "99ccbc49-c638-3334-ab25-30f8fbaedd70",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "53072edc-0e8c-45e2-968f-8638e3e6a2af",
+        "title": "The Dome, Volume 28",
+        "date": "2003-12-05",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "5c344ed9-2f59-48be-a81e-e44d0c30eafc",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "eccbe358-58d3-4266-827f-15588a2d91aa",
+        "title": "Ö3 Greatest Hits 24",
+        "date": "2003-12-07",
+        "country": "AT",
+        "status": "Official",
+        "release_group": "f924e791-78f9-440a-8781-ebe0b5156cc8",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f2e08468-efd3-3c9f-90ef-a2f4820b3a33",
+        "title": "Brit Awards 2004",
+        "date": "2004-02-09",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "9c8c02d2-747c-3dcf-97aa-eccf75407b1f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ca1a34b4-d786-4313-9be1-7421b47c9446",
+        "title": "Promo Only: Mainstream Radio, April 2004",
+        "date": "2004-03",
+        "country": "US",
+        "status": "Promotion",
+        "release_group": "57dfad2c-d090-30d7-96f4-8aafeb795042",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "98baef65-2623-4103-b65c-2137ec2a5a27",
+        "title": "Kiss Presents: Laydeez With Attitude",
+        "date": "2004-03-22",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "bde673b6-0394-3e46-b8ca-759c25039986",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "962a3c90-fcda-478b-a54f-bd060aebe780",
+        "title": "Fox Kids Hits 8",
+        "date": "2004-04-09",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "ffbd5978-197f-3084-90b1-a945b90305b1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0636eb33-8e87-43a4-b280-3539e678650a",
+        "title": "Hole in the Head",
+        "date": "2004-05-04",
+        "country": "US",
+        "status": "Official",
+        "release_group": "ee776925-8064-38e4-9be7-405525e9dc36",
+        "primary_type": "Single",
+        "secondary_types": []
+      },
+      {
+        "id": "8dba8bfb-b490-4a3d-b06f-f9ad8f690762",
+        "title": "Top Kids",
+        "date": "2004-05-24",
+        "country": "PL",
+        "status": "Official",
+        "release_group": "0fc2fe58-1d6a-46e9-a64e-ed349c8cb810",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "437080d3-22b0-43ad-b8da-eab2d9baa0b5",
+        "title": "Let’s Go Girls",
+        "date": "2004-10-11",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "d574cb1e-e09c-30a8-a18f-3b30d641d10a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2a83933f-0f83-4d7f-8edb-a93f1d16c530",
+        "title": "Pop Party 2",
+        "date": "2004-10-25",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "89c73551-2331-429a-8c55-4f2353770a2b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "8d3e21eb-e778-4f45-a0c0-b89611f8fa8a",
+      "title": "Hole in the Head",
+      "iswcs": [
+        "T-011.178.307-3"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Keisha Buchanan",
+          "mbid": "625491ed-5a7c-46c1-a6f9-6638a42e62dd"
+        },
+        {
+          "role": "writer",
+          "name": "Mutya Buena",
+          "mbid": "4d37c490-4b81-4cfc-995e-ed6605510baf"
+        },
+        {
+          "role": "writer",
+          "name": "Nick Coler",
+          "mbid": "f8a63f60-38c5-4807-b7f5-985a4351e733"
+        },
+        {
+          "role": "writer",
+          "name": "Miranda Cooper",
+          "mbid": "21154a43-a93e-418f-a8aa-2814e9da846f"
+        },
+        {
+          "role": "writer",
+          "name": "Brian Higgins",
+          "mbid": "f0e17f11-0748-447b-8dc2-ec44d2425650"
+        },
+        {
+          "role": "writer",
+          "name": "Tim Powell",
+          "mbid": "d3c62283-f789-4fa6-96d8-34280bf6e3b1"
+        },
+        {
+          "role": "writer",
+          "name": "Heidi Range",
+          "mbid": "f1423239-3856-46ae-b254-808e987a07ec"
+        },
+        {
+          "role": "writer",
+          "name": "Niara Scarlett",
+          "mbid": "fe2ec234-c860-4407-be3b-e93c41b3db44"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q2724128"
+      ]
+    },
+    "main_artist": {
+      "name": "Sugababes",
+      "type": "Group",
+      "country": "GB",
+      "area": "United Kingdom",
+      "begin_area": "London"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

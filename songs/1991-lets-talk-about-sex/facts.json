@@ -1,0 +1,141 @@
+{
+  "id": "1991-lets-talk-about-sex",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Let's Talk About Sex",
+  "wikidata": {
+    "qid": "Q3830996",
+    "label": "Let's Talk About Sex",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q1545961",
+          "label": "Salt-N-Pepa"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q7021106",
+          "label": "Next Plateau Entertainment"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1991-08-06"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q601235",
+          "label": "hip house"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q3640655",
+          "label": "Blacks' Magic"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q5286397",
+          "label": "Do You Want Me"
+        }
+      ],
+      "spotify_track_id": [
+        "6hTBP6QLwJdxbKyLlLXrGo"
+      ],
+      "musicbrainz_work_id": [
+        "d615f67e-3db5-3cbd-9cfb-4926e675da00"
+      ],
+      "musicbrainz_release_group_id": [
+        "1a314175-74f6-34e6-a9ab-9721a11e0f29"
+      ],
+      "isrc": [
+        "USIR20180412"
+      ],
+      "genius_song_id": [
+        "Salt-n-pepa-lets-talk-about-sex-lyrics"
+      ],
+      "youtube_video_id": [
+        "ydrtF45-y-g"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 1a314175-74f6-34e6-a9ab-9721a11e0f29 (1991)",
+  "musicbrainz": {
+    "recording_id": "902d86c0-c03d-4577-9d5c-020ee125c733",
+    "title": "Let’s Talk About Sex (Super Crispy)",
+    "length_ms": 284533,
+    "first_release_date": "1991",
+    "artist_credit": "Salt‐N‐Pepa",
+    "artists": [
+      {
+        "name": "Salt‐N‐Pepa",
+        "mbid": "26bcd35d-56a3-4e4d-8ad7-7bc5787c3af1"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [],
+    "urls": [],
+    "genres": [
+      "hip hop",
+      "pop rap"
+    ],
+    "tags": [
+      "hip hop",
+      "pop rap"
+    ],
+    "releases": [
+      {
+        "id": "0fefce35-ea5e-4991-8571-0df39f97ab90",
+        "title": "Let’s Talk About Sex",
+        "date": "1991",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1a314175-74f6-34e6-a9ab-9721a11e0f29",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "d615f67e-3db5-3cbd-9cfb-4926e675da00",
+      "title": "Let’s Talk About Sex",
+      "iswcs": [
+        "T-070.103.189-1"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Hurby Azor",
+          "mbid": "8115fe0f-2969-4a2f-96d7-a53dcd26b4c9"
+        },
+        {
+          "role": "lyricist",
+          "name": "Hurby Azor",
+          "mbid": "8115fe0f-2969-4a2f-96d7-a53dcd26b4c9"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/142137",
+        "https://www.wikidata.org/wiki/Q3830996"
+      ]
+    },
+    "main_artist": {
+      "name": "Salt‐N‐Pepa",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Queens"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

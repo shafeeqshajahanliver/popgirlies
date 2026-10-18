@@ -1,0 +1,72 @@
+{
+  "id": "1961-sailor",
+  "preview": {
+    "service": "deezer",
+    "track_id": 3803558042,
+    "matched_by": "isrc",
+    "isrc": "GBAJE6100001",
+    "title": "Sailor",
+    "artist": "Petula Clark",
+    "album": "The Pye Anthology",
+    "track_duration_s": 174,
+    "link": "https://www.deezer.com/track/3803558042",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "deezer preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.99,
+    "tempo_bpm": 97.9,
+    "tempo_bpm_grid": 98.4,
+    "tempo_candidates_bpm": [
+      99.4,
+      103.4,
+      49.7
+    ],
+    "beats_detected": 49,
+    "key": "Bb major",
+    "key_tonic": "Bb",
+    "key_mode": "major",
+    "key_correlation": 0.855,
+    "key_runner_up": "G minor",
+    "key_runner_up_correlation": 0.655,
+    "chroma_profile": [
+      0.519,
+      0.468,
+      0.89,
+      0.94,
+      0.61,
+      0.908,
+      0.481,
+      0.754,
+      0.432,
+      0.809,
+      1.0,
+      0.37
+    ],
+    "rms_dbfs": -11.77,
+    "rms_dbfs_p95_frame": -9.79,
+    "peak_dbfs": -1.47,
+    "loudness_lufs_approx": -11.68,
+    "spectral_centroid_hz_mean": 1951.0,
+    "spectral_centroid_hz_median": 1856.1,
+    "onsets": 58,
+    "onset_density_per_s": 1.934,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from deezer preview 3803558042",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": {
+    "bpm": null,
+    "gain": -12.6,
+    "note": "Deezer's own track metadata; bpm 0 means not set (recorded as null). gain is Deezer's replay-gain style value in dB.",
+    "source": "Deezer API track/3803558042",
+    "retrieved": "2026-10-18",
+    "confidence": "sourced"
+  },
+  "flags": [],
+  "rejected_candidates": [
+    "deezer isrc GBZTD1105459: matched but no preview available (readable=False)"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1991-lets-talk-about-sex",
+  "preview": {
+    "service": "itunes",
+    "track_id": 1442982212,
+    "matched_by": "search (artist, title, duration)",
+    "isrc": null,
+    "title": "Let's Talk About Sex",
+    "artist": "Salt-N-Pepa",
+    "album": "The To Do List (Music From the Motion Picture)",
+    "track_duration_s": 211.1,
+    "link": "https://music.apple.com/us/album/lets-talk-about-sex/1442981682?i=1442982212&uo=4",
+    "duration_matched_to": "wikipedia infobox length (213s)",
+    "segment_caveat": "30-second preview clip; where in the song it starts is not known, so values describe that clip, not the whole recording",
+    "retrieved": "2026-10-18",
+    "source": "itunes preview (kept only in _cache, not committed)"
+  },
+  "measures": {
+    "clip_seconds": 29.98,
+    "tempo_bpm": 109.6,
+    "tempo_bpm_grid": 106.6,
+    "tempo_candidates_bpm": [
+      215.3,
+      107.7,
+      71.8
+    ],
+    "beats_detected": 53,
+    "key": "Ab minor",
+    "key_tonic": "Ab",
+    "key_mode": "minor",
+    "key_correlation": 0.407,
+    "key_runner_up": "Ab major",
+    "key_runner_up_correlation": 0.379,
+    "chroma_profile": [
+      0.586,
+      0.628,
+      0.525,
+      0.547,
+      0.462,
+      0.471,
+      0.579,
+      0.796,
+      1.0,
+      0.808,
+      0.765,
+      0.617
+    ],
+    "rms_dbfs": -11.51,
+    "rms_dbfs_p95_frame": -7.07,
+    "peak_dbfs": -0.82,
+    "loudness_lufs_approx": -12.04,
+    "spectral_centroid_hz_mean": 3396.9,
+    "spectral_centroid_hz_median": 3273.6,
+    "onsets": 186,
+    "onset_density_per_s": 6.205,
+    "method": "librosa 1.0.0: beat_track tempo (hop 128, refined by a line fit through beat times), chroma_cqt + Krumhansl-Schmuckler key profiles, RMS, spectral centroid, onset_detect; loudness is BS.1770 K-weighted gated loudness on the clip (approximate LUFS, not the full track)",
+    "source": "computed from itunes preview 1442982212",
+    "retrieved": "2026-10-18",
+    "confidence": "computed"
+  },
+  "deezer_metadata": null,
+  "flags": [
+    "key is close between Ab minor and Ab major"
+  ],
+  "rejected_candidates": []
+}

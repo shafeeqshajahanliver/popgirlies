@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 30229320,
+  "kind": "synced",
+  "matched": {
+    "track": "Back in My Arms Again",
+    "artist": "The Supremes",
+    "album": "More Hits by the Supremes",
+    "duration_s": 170.0
+  },
+  "duration_matched_to": "musicbrainz recording length (170s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 170.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 171.0,
+      "source": "deezer preview track matched by search"
+    },
+    {
+      "seconds": 172.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 28,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37498480 (Back in My Arms Again / The Supremes / The 100 Greatest Girl Group Songs 1955-1970, 178.0s): duration matches no reference length",
+    "lrclib 35992420 (Back in My Arms Again / The Supremes / At the Copa, 161.0s): duration matches no reference length",
+    "lrclib 36600010 (Back in My Arms Again / The Supremes / Lifetime of Romance: Move Closer, 182.0s): duration matches no reference length",
+    "lrclib 35604243 (Back In My Arms Again / The Supremes / I Hear A Symphony: Expanded Edition, 157.0s): duration matches no reference length",
+    "lrclib 18636092 (Back In My Arms Again / The Supremes / Diana Ross & The Supremes The No. 1's, 181.106939s): duration matches no reference length",
+    "lrclib 19852972 (Back In My Arms Again / The Supremes / The 70's Soul, 180.595062s): duration matches no reference length",
+    "lrclib 28834121 (Back In My Arms Again / The Supremes / In Person - An Evening With The Supremes, 162.0s): duration matches no reference length",
+    "lrclib 38743826 (Back in My Arms Again / The Supremes / More Hits by the Supremes, 181.0s): duration matches no reference length",
+    "lrclib 7596258 (Back In My Arms Again / The Supremes / Number 1's: Diana Ross & The Supremes, 181.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

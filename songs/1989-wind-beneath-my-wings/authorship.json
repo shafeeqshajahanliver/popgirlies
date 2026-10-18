@@ -1,0 +1,21 @@
+{
+  "writers": [
+    "Jeff Silbar",
+    "Larry Henley"
+  ],
+  "producers": [
+    "Arif Mardin"
+  ],
+  "n_writers": 2,
+  "n_producers": 1,
+  "act": "Bette Midler",
+  "group_members": [],
+  "star_is_writer": false,
+  "star_writer_names": [],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

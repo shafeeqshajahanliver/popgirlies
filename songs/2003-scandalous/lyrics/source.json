@@ -1,0 +1,45 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 36935012,
+  "kind": "synced",
+  "matched": {
+    "track": "Scandalous",
+    "artist": "Mis-Teeq",
+    "album": "MOBO Presents: Urban Beats 2003",
+    "duration_s": 239.0
+  },
+  "duration_matched_to": "musicbrainz recording length (239s)",
+  "duration_diff_s": 0.0,
+  "reference_lengths": [
+    {
+      "seconds": 239.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 239.6,
+      "source": "itunes preview track matched by search"
+    },
+    {
+      "seconds": 239.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 24,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 36991485 (Scandalous / Mis-teeq / GTA V: Non Stop Pop, 252.0s): duration matches no reference length",
+    "lrclib 20966535 (Scandalous / Mis-Teeq / The Very Best Of Pure R&B (D1), 233.874286s): duration matches no reference length",
+    "lrclib 20906387 (Scandalous / Mis-Teeq / Best Of (CD Only Version), 238.0s): live/remix/other version",
+    "lrclib 18993788 (Scandalous / Mis-Teeq / The Very Best of Pure R&B the Summer Collection 2003 CD 1, 233.968625s): duration matches no reference length",
+    "lrclib 27220916 (Scandalous / Mis-Teeq / Mis-Teeq, 230.060375s): duration matches no reference length",
+    "lrclib 37485705 (Scandalous (Stargate Radio Mix) / Mis-Teeq / Mis-Teeq, 240.0s): live/remix/other version",
+    "lrclib 36659839 (Scandalous (Stargate Radio Mix) (feat. Stargate) / Mis-Teeq / Mis-Teeq, 240.0s): live/remix/other version",
+    "lrclib 35784473 (Scandalous (Stargate Radio Mix) (feat. Stargate) / Mis-Teeq / Mis-Teeq, 244.0s): live/remix/other version",
+    "lrclib 35784465 (Scandalous (Stargate Radio Mix) (feat. Stargate) / Mis-Teeq / Mis-Teeq, 236.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

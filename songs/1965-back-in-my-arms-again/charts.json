@@ -1,0 +1,69 @@
+{
+  "chart": "Billboard Hot 100",
+  "performer_as_charted": [
+    "The Supremes"
+  ],
+  "title_as_charted": [
+    "Back In My Arms Again"
+  ],
+  "debut_week": "1965-05-01",
+  "debut_position": 68,
+  "peak_position": 1,
+  "weeks_at_peak": 1,
+  "first_week_at_peak": "1965-06-12",
+  "weeks_to_peak": 6,
+  "weeks_on_chart": 11,
+  "last_week": "1965-07-10",
+  "weeks_at_number_one": 1,
+  "run": [
+    [
+      "1965-05-01",
+      68
+    ],
+    [
+      "1965-05-08",
+      38
+    ],
+    [
+      "1965-05-15",
+      15
+    ],
+    [
+      "1965-05-22",
+      6
+    ],
+    [
+      "1965-05-29",
+      3
+    ],
+    [
+      "1965-06-05",
+      3
+    ],
+    [
+      "1965-06-12",
+      1
+    ],
+    [
+      "1965-06-19",
+      5
+    ],
+    [
+      "1965-06-26",
+      11
+    ],
+    [
+      "1965-07-03",
+      15
+    ],
+    [
+      "1965-07-10",
+      37
+    ]
+  ],
+  "source": "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv",
+  "source_note": "Weekly Hot 100 history compiled from billboard.com by the University of Texas data-reporting course (utdata/rwd-billboard-data)",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "match": "exact title, artist contained"
+}

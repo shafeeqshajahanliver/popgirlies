@@ -1,0 +1,34 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Pop",
+        "rhythm and blues"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "pop music"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [],
+      "tags": [],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "other pop",
+    "R&B-pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "other pop",
+    "R&B-pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

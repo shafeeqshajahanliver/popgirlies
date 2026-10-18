@@ -1,0 +1,41 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Hip house",
+        "dance",
+        "pop rap"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "hip house"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "hip hop",
+        "pop rap"
+      ],
+      "tags": [
+        "hip hop",
+        "pop rap"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance",
+    "R&B-pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "R&B-pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

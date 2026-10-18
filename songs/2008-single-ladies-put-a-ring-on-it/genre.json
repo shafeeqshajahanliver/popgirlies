@@ -1,0 +1,67 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Dance-pop",
+        "R&B",
+        "bounce"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "dance-pop",
+        "bounce music",
+        "contemporary R&B"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "afrobeat",
+        "ambient",
+        "ballad",
+        "chillwave",
+        "club",
+        "contemporary r&b",
+        "dance",
+        "dance-pop",
+        "disco",
+        "europop",
+        "funk",
+        "pop",
+        "r&b",
+        "reggae",
+        "soul"
+      ],
+      "tags": [
+        "adult contemporary",
+        "pop",
+        "contemporary r&b",
+        "dance-pop",
+        "disco",
+        "r&b",
+        "soul",
+        "afrobeat",
+        "ambient",
+        "ballad"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance",
+    "R&B-pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "R&B-pop",
+    "Latin and global",
+    "singer-songwriter and ballad",
+    "other pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

@@ -1,0 +1,44 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Dance-pop",
+        "reggaeton}}"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "contemporary r&b",
+        "dance-pop",
+        "pop"
+      ],
+      "tags": [
+        "contemporary r&b",
+        "dance pop",
+        "dance-pop",
+        "party",
+        "pop"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance",
+    "Latin and global"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "Latin and global",
+    "R&B-pop",
+    "other pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

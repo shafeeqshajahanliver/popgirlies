@@ -1,0 +1,46 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 21108105,
+  "kind": "synced",
+  "matched": {
+    "track": "Hole In The Head",
+    "artist": "Sugababes",
+    "album": "Top Of The Pops (The Year 2003",
+    "duration_s": 216.711837
+  },
+  "duration_matched_to": "musicbrainz recording length (217s)",
+  "duration_diff_s": 0.3,
+  "reference_lengths": [
+    {
+      "seconds": 217.0,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 217.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 218.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 27,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37510745 (Hole In The Head / Sugababes / Full Intention Club Mix, 397.0s): duration matches no reference length",
+    "lrclib 37342582 (Hole In The Head / Sugababes / Clubland 4, 251.0s): duration matches no reference length",
+    "lrclib 35324831 (Hole In The Head / Sugababes / BodyPump 50, 315.0s): duration matches no reference length",
+    "lrclib 33474226 (Hole in the Head / Sugababes / Now That’s What I Call Music! 56, 244.0s): duration matches no reference length",
+    "lrclib 35689525 (Hole In the Head / Sugababes / DISCO CD20, 224.0s): duration matches no reference length",
+    "lrclib 35838135 (Hole In The Head / Sugababes / Three, Nones): duration matches no reference length",
+    "lrclib 31796509 (Hole In The Head / Sugababes / Hole In The Head, 306.0s): duration matches no reference length",
+    "lrclib 23377822 (Hole In The Head / Sugababes / Hole In The Head (Single), 146.6514369s): duration matches no reference length",
+    "lrclib 37311053 (Hole In The Head (Full Intention Vocal Mix) / Sugababes / Hole In The Head [Maxi], 436.0s): live/remix/other version",
+    "lrclib 35630419 (Hole In The Head (Live At V Festival) / Sugababes / The Essential Sugababes, 297.0s): live/remix/other version"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

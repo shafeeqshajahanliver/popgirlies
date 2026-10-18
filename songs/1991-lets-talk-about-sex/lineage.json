@@ -1,0 +1,49 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/348832",
+    "title": "Let's Talk About Sex",
+    "performer": "Salt-n-Pepa",
+    "is_original": true,
+    "first_release_date": "1990-03-19",
+    "releases": [
+      {
+        "title": "Black's Magic",
+        "uri": "https://api.secondhandsongs.com/release/3819",
+        "performer": "Salt-n-Pepa"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 6,
+  "samples_used": [
+    {
+      "title": null,
+      "uri": null
+    }
+  ],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/142137",
+    "title": "Let's Talk About Sex",
+    "language": "English",
+    "writers": [
+      "Hurby Luv Bug"
+    ],
+    "original_performer": "Salt-n-Pepa",
+    "versions": 7,
+    "based_on": [],
+    "derived_works": [
+      {
+        "title": "Sex",
+        "uri": "https://api.secondhandsongs.com/work/196107"
+      },
+      {
+        "title": "Let's Talk About Sex",
+        "uri": "https://api.secondhandsongs.com/work/234577"
+      }
+    ]
+  }
+}

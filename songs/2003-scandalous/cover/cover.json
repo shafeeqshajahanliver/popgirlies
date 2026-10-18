@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "8e729c1b-af07-37a4-a880-bc401be9a8b4",
+      "release_title": "Scandalous",
+      "release_date": "2004-06-14",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/dd7b0d99-890b-4a08-b31a-181fd6c0cce4/29969614603-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/dd7b0d99-890b-4a08-b31a-181fd6c0cce4",
+      "image_id": 29969614603,
+      "types": [
+        "Front"
+      ],
+      "comment": "cropped",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1011
+      ],
+      "measures": {
+        "brightness": 0.938,
+        "saturation": 0.116,
+        "dark_share": 0.007,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.641
+          },
+          {
+            "hex": "#af473d",
+            "share": 0.149
+          },
+          {
+            "hex": "#f2eae6",
+            "share": 0.117
+          },
+          {
+            "hex": "#fffffe",
+            "share": 0.073
+          },
+          {
+            "hex": "#feffff",
+            "share": 0.019
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "0e632069-2561-3031-9d87-f282ef34673b",
+      "release_title": "Eye Candy",
+      "release_date": "2003-03-29",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Eye Candy",
+      "url": "http://coverartarchive.org/release/1fc11220-3a27-46e4-9de8-9ce4e2e66b13/16672894893-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/1fc11220-3a27-46e4-9de8-9ce4e2e66b13",
+      "image_id": 16672894893,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        770,
+        770
+      ],
+      "measures": {
+        "brightness": 0.805,
+        "saturation": 0.176,
+        "dark_share": 0.071,
+        "palette": [
+          {
+            "hex": "#f2efea",
+            "share": 0.245
+          },
+          {
+            "hex": "#f0ebe6",
+            "share": 0.235
+          },
+          {
+            "hex": "#75404c",
+            "share": 0.226
+          },
+          {
+            "hex": "#dbbec3",
+            "share": 0.18
+          },
+          {
+            "hex": "#f4f3ee",
+            "share": 0.114
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/02/9d/33/029d3381-79b5-404d-cf70-8295d4f18a66/5037300808437.jpg/1200x1200bb.jpg",
+      "collection": "Eye Candy (Deluxe)",
+      "collection_id": 1162723273,
+      "track_id": 1162723451,
+      "artist_name": "Mis-Teeq",
+      "release_date": "2003-03-17T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.819,
+        "saturation": 0.167,
+        "dark_share": 0.064,
+        "palette": [
+          {
+            "hex": "#f2efea",
+            "share": 0.263
+          },
+          {
+            "hex": "#f0ece7",
+            "share": 0.222
+          },
+          {
+            "hex": "#7b4450",
+            "share": 0.218
+          },
+          {
+            "hex": "#e0c6cb",
+            "share": 0.171
+          },
+          {
+            "hex": "#f5f4ef",
+            "share": 0.125
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

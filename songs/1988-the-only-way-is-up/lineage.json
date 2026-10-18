@@ -1,0 +1,41 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/276652",
+    "title": "The Only Way Is Up",
+    "performer": "Yazz and The Plastic Population",
+    "is_original": false,
+    "first_release_date": "1988-07",
+    "releases": [
+      {
+        "title": "The Only Way Is Up",
+        "uri": "https://api.secondhandsongs.com/release/96167",
+        "performer": "Yazz and The Plastic Population"
+      }
+    ]
+  },
+  "originals": [
+    {
+      "title": "The Only Way Is Up",
+      "uri": "https://api.secondhandsongs.com/work/133478"
+    }
+  ],
+  "covers_of_this_recording": 0,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/133478",
+    "title": "The Only Way Is Up",
+    "language": "English",
+    "writers": [
+      "Johnny Henderson",
+      "George Jackson [US1]"
+    ],
+    "original_performer": "Otis Clay",
+    "versions": 11,
+    "based_on": [],
+    "derived_works": []
+  }
+}

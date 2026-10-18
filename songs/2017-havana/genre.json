@@ -1,0 +1,44 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Pop",
+        "Latin"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "pop music",
+        "Latin music"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "euro house",
+        "europop",
+        "pop"
+      ],
+      "tags": [
+        "euro house",
+        "europop",
+        "pop"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "other pop",
+    "Latin and global"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "other pop",
+    "Latin and global",
+    "disco and dance"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

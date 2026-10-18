@@ -1,0 +1,98 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "album": {
+      "release_group": "429aa6be-3ce2-370e-beaf-19899c32fcfa",
+      "release_title": "Black & White",
+      "release_date": "1981-06-12",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Black & White",
+      "url": "http://coverartarchive.org/release/7eb12f84-cd2e-4d0e-9f23-8b0cd1bf12ed/14973689180-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/7eb12f84-cd2e-4d0e-9f23-8b0cd1bf12ed",
+      "image_id": "14973689180",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.572,
+        "saturation": 0.244,
+        "dark_share": 0.287,
+        "palette": [
+          {
+            "hex": "#13150e",
+            "share": 0.291
+          },
+          {
+            "hex": "#ffffff",
+            "share": 0.233
+          },
+          {
+            "hex": "#543c29",
+            "share": 0.222
+          },
+          {
+            "hex": "#dbcbb7",
+            "share": 0.201
+          },
+          {
+            "hex": "#fdfffd",
+            "share": 0.053
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/be/14/26/be142611-7cab-866d-04fb-4ab482dc961d/mzi.wmionsug.jpg/1200x1200bb.jpg",
+      "collection": "Black & White (Expanded Edition)",
+      "collection_id": 452397775,
+      "track_id": 452398017,
+      "artist_name": "The Pointer Sisters",
+      "release_date": "1981-06-01T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        614,
+        600
+      ],
+      "measures": {
+        "brightness": 0.542,
+        "saturation": 0.243,
+        "dark_share": 0.366,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.272
+          },
+          {
+            "hex": "#161612",
+            "share": 0.223
+          },
+          {
+            "hex": "#ccb8a1",
+            "share": 0.187
+          },
+          {
+            "hex": "#281d15",
+            "share": 0.183
+          },
+          {
+            "hex": "#5d3923",
+            "share": 0.135
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

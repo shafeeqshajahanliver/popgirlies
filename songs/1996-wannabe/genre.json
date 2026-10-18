@@ -1,0 +1,67 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Dance-pop",
+        "pop rap}}"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "dance-pop",
+        "pop rap"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "ballad",
+        "dance",
+        "dance-pop",
+        "disco",
+        "electronic",
+        "euro house",
+        "europop",
+        "hip hop",
+        "house",
+        "indie rock",
+        "latin",
+        "pop",
+        "rock",
+        "soul",
+        "synth-pop"
+      ],
+      "tags": [
+        "pop",
+        "brit pop",
+        "dance-pop",
+        "electronic",
+        "ballad",
+        "europop",
+        "disco",
+        "euro house",
+        "vocal",
+        "band"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "disco and dance",
+    "R&B-pop"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "disco and dance",
+    "R&B-pop",
+    "singer-songwriter and ballad",
+    "synth and electronic",
+    "Latin and global",
+    "rock-pop",
+    "other pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

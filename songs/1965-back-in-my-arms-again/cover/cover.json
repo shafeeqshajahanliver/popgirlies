@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "d6d8b1ee-4186-37de-9158-db78c27fdad1",
+      "release_title": "Back in My Arms Again",
+      "release_date": "1965-04-15",
+      "release_country": "US",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "d61b11d2-9430-3102-9abb-bf29d025a6e4",
+      "release_title": "More Hits by the Supremes",
+      "release_date": "1965-07-23",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: More Hits by The Supremes",
+      "url": "http://coverartarchive.org/release/50598339-343f-4ce1-91e9-243953c06923/4303494397-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/50598339-343f-4ce1-91e9-243953c06923",
+      "image_id": 4303494397,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        620,
+        600
+      ],
+      "measures": {
+        "brightness": 0.522,
+        "saturation": 0.45,
+        "dark_share": 0.408,
+        "palette": [
+          {
+            "hex": "#ffffff",
+            "share": 0.314
+          },
+          {
+            "hex": "#011003",
+            "share": 0.253
+          },
+          {
+            "hex": "#bbaeae",
+            "share": 0.181
+          },
+          {
+            "hex": "#000f02",
+            "share": 0.152
+          },
+          {
+            "hex": "#5b2d2c",
+            "share": 0.1
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ed/98/55/ed9855d4-a771-ebde-d844-e6c49b93d615/14UMGIM62429.rgb.jpg/1200x1200bb.jpg",
+      "collection": "More Hits by The Supremes",
+      "collection_id": 1443173930,
+      "track_id": 1443174275,
+      "artist_name": "The Supremes",
+      "release_date": "1965-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.483,
+        "saturation": 0.102,
+        "dark_share": 0.443,
+        "palette": [
+          {
+            "hex": "#21201e",
+            "share": 0.343
+          },
+          {
+            "hex": "#f0efef",
+            "share": 0.254
+          },
+          {
+            "hex": "#a8908b",
+            "share": 0.237
+          },
+          {
+            "hex": "#3c2e31",
+            "share": 0.091
+          },
+          {
+            "hex": "#1d1c1a",
+            "share": 0.076
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

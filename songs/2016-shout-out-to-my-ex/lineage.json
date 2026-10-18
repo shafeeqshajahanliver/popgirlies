@@ -1,0 +1,47 @@
+{
+  "source": "SecondHandSongs API",
+  "retrieved": "2026-10-18",
+  "confidence": "crowd",
+  "performance": {
+    "uri": "https://api.secondhandsongs.com/performance/548972",
+    "title": "Shout Out to My Ex",
+    "performer": "Little Mix",
+    "is_original": true,
+    "first_release_date": "2016-10-16",
+    "releases": [
+      {
+        "title": "Shout Out to My Ex",
+        "uri": "https://api.secondhandsongs.com/release/167793",
+        "performer": "Little Mix"
+      },
+      {
+        "title": "Glory Days",
+        "uri": "https://api.secondhandsongs.com/release/190211",
+        "performer": "Little Mix"
+      }
+    ]
+  },
+  "originals": [],
+  "covers_of_this_recording": 9,
+  "samples_used": [],
+  "sampled_by": [],
+  "work": {
+    "uri": "https://api.secondhandsongs.com/work/164214",
+    "title": "Shout Out to My Ex",
+    "language": "English",
+    "writers": [
+      "Perrie Edwards",
+      "Edvard Erfjord",
+      "Iain James",
+      "Henrik Michelsen",
+      "Jesy Nelson",
+      "Leigh-Anne Pinnock",
+      "Camille Purcell",
+      "Jade Thirlwall"
+    ],
+    "original_performer": "Little Mix",
+    "versions": 10,
+    "based_on": [],
+    "derived_works": []
+  }
+}

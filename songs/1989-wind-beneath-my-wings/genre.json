@@ -1,0 +1,57 @@
+{
+  "labels": {
+    "wikipedia_infobox": {
+      "values": [
+        "Pop",
+        "soft rock"
+      ],
+      "confidence": "sourced"
+    },
+    "wikidata": {
+      "values": [
+        "soul"
+      ],
+      "confidence": "sourced"
+    },
+    "musicbrainz": {
+      "values": [
+        "alternative dance",
+        "ballad",
+        "cabaret",
+        "dance",
+        "pop",
+        "pop rock",
+        "rock",
+        "soft rock"
+      ],
+      "tags": [
+        "pop",
+        "adult contemporary",
+        "ballad",
+        "pop rock",
+        "soundtrack",
+        "alternative dance",
+        "cabaret",
+        "dance",
+        "film music",
+        "movie soundtrack"
+      ],
+      "confidence": "crowd"
+    }
+  },
+  "families": [
+    "other pop",
+    "singer-songwriter and ballad"
+  ],
+  "families_basis": "wikipedia infobox",
+  "families_any_source": [
+    "other pop",
+    "singer-songwriter and ballad",
+    "R&B-pop",
+    "disco and dance",
+    "rock-pop"
+  ],
+  "method": "first matching family per label, docs/genres.md; families from the best available source (infobox, else Wikidata, else MusicBrainz)",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

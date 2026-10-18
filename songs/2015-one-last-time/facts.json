@@ -1,0 +1,405 @@
+{
+  "id": "2015-one-last-time",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "One Last Time (Ariana Grande song)",
+  "wikidata": {
+    "qid": "Q18786661",
+    "label": "One Last Time",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q151892",
+          "label": "Ariana Grande"
+        }
+      ],
+      "composer": [
+        {
+          "qid": "Q5040121",
+          "label": "Carl Falk"
+        },
+        {
+          "qid": "Q384159",
+          "label": "Rami Yacoub"
+        },
+        {
+          "qid": "Q16774610",
+          "label": "Ilya Salmanzadeh"
+        },
+        {
+          "qid": "Q15501035",
+          "label": "Giorgio Tuinfort"
+        },
+        {
+          "qid": "Q3474456",
+          "label": "Savan Kotecha"
+        }
+      ],
+      "lyricist": [
+        {
+          "qid": "Q8298",
+          "label": null
+        },
+        {
+          "qid": "Q3474456",
+          "label": "Savan Kotecha"
+        },
+        {
+          "qid": "Q15501035",
+          "label": "Giorgio Tuinfort"
+        },
+        {
+          "qid": "Q384159",
+          "label": "Rami Yacoub"
+        },
+        {
+          "qid": "Q5040121",
+          "label": "Carl Falk"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q4413456",
+          "label": "Republic Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "2015-02-10"
+        },
+        {
+          "time": "2015-02-16"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q211756",
+          "label": "dance-pop"
+        },
+        {
+          "qid": "Q851213",
+          "label": "electronic dance music"
+        }
+      ],
+      "part_of": [
+        {
+          "qid": "Q17297888",
+          "label": "My Everything"
+        }
+      ],
+      "tonality": [
+        {
+          "qid": "Q719309",
+          "label": "A-flat major"
+        }
+      ],
+      "beats_per_minute": [
+        {
+          "amount": "125",
+          "unit": "1"
+        }
+      ],
+      "language": [
+        {
+          "qid": "Q1860",
+          "label": "English"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q18574928",
+          "label": "Santa Tell Me"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q21198197",
+          "label": "Focus"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "e89c9f93-2fa9-4134-b74f-1863433c6e38"
+      ],
+      "musicbrainz_release_group_id": [
+        "51922f10-c8df-41fa-b219-e501df30cf19"
+      ],
+      "youtube_video_id": [
+        "BPgEgaPk62M"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group 9ccac222-b337-4127-87b1-e6effcd214f3 (2014-08-20); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "0918cea9-3c3c-476d-ae83-2271645e7b5f",
+    "title": "One Last Time (Attends‐moi)",
+    "length_ms": 195213,
+    "first_release_date": "2014-08-20",
+    "artist_credit": "Ariana Grande feat. Kendji Girac",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387"
+      },
+      {
+        "name": "Kendji Girac",
+        "mbid": "8326a5ca-96f0-41ec-8f38-9bec3708e4ce"
+      }
+    ],
+    "isrcs": [
+      "USUM71417655"
+    ],
+    "recording_credits": [
+      {
+        "role": "recording",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Kendji Girac",
+        "mbid": "8326a5ca-96f0-41ec-8f38-9bec3708e4ce"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Kendji Girac",
+        "mbid": "8326a5ca-96f0-41ec-8f38-9bec3708e4ce"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Nazim Khaled",
+        "mbid": "a3841f2a-decd-4c57-8452-c5085dc7d054"
+      }
+    ],
+    "urls": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/track/6McECqsEsUv8WuWtz0WS0t"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/track/98408472"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/fr/song/1442600298"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/fr/song/1442600298"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/track/44663109"
+      }
+    ],
+    "genres": [
+      "chanson française",
+      "contemporary r&b",
+      "dance-pop",
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "chanson française",
+      "contemporary r&b",
+      "dance-pop",
+      "electronic dance music",
+      "latin",
+      "vocal"
+    ],
+    "releases": [
+      {
+        "id": "f7e5e0bd-6694-4f96-b640-42b01f9af617",
+        "title": "One Last Time (Attends‐moi)",
+        "date": "2014-08-20",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "9ccac222-b337-4127-87b1-e6effcd214f3",
+        "primary_type": "Single",
+        "secondary_types": [
+          "Remix"
+        ]
+      },
+      {
+        "id": "751ef29b-ef1e-4768-be9d-823fb13d2841",
+        "title": "My Everything",
+        "date": "2015",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "17fd3576-b584-4f32-8ff0-12206d4cb66c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c617cff8-2804-4e4c-a2dd-6765a2ec235c",
+        "title": "My Everything",
+        "date": "2015-04-13",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "17fd3576-b584-4f32-8ff0-12206d4cb66c",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "de3b481d-8871-48d6-a55a-6c29182042c8",
+        "title": "Kendji",
+        "date": "2015-05-04",
+        "country": "DZ",
+        "status": "Official",
+        "release_group": "6ab08fbf-3575-4ad0-942f-cf44deeab0a9",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "e2456826-e5fc-4420-8300-60bc28444118",
+        "title": "Kendji",
+        "date": "2015-05-04",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "6ab08fbf-3575-4ad0-942f-cf44deeab0a9",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "67884ee8-4737-4bc0-bb87-79dfd04200b2",
+        "title": "Kendji",
+        "date": "2015-05-04",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "6ab08fbf-3575-4ad0-942f-cf44deeab0a9",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "95e573ae-23f7-4da7-8779-153e26cf4aa1",
+        "title": "40 hits été 2015",
+        "date": "2015-06-29",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "f19042c1-ffb1-4252-9c6b-12181b071570",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "36236f7b-c4e6-4df7-b17e-5a266ea55532",
+        "title": "66 hits été 2015",
+        "date": "2015-07-31",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "3abebd92-87e6-4d01-b77f-be62d51d6ead",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "baa37bd5-8328-4e37-8122-00dafdc202c9",
+        "title": "60 Hits Summer 2015",
+        "date": "2015-08-07",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "ec5a5a09-d202-44ff-a634-a0634f97eba9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "847a5561-c79f-48cf-9b21-5bd02e930fb4",
+        "title": "Planète Rap 2015, Volume 2",
+        "date": "2015-08-07",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "ca5b82ce-fb33-4b6f-8124-a9412ea54e8d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "a63601fe-811d-4cda-a83c-826682e3b097",
+        "title": "Ultratop: Hit Connection 2015.2",
+        "date": "2016-06-15",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "68ea9310-94f2-4b8a-be92-1e7ecebf5ba9",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "7e3373c2-ed77-4052-8b86-a78e521330bd",
+        "title": "L’Intégrale",
+        "date": "2019",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "63246402-7a26-4135-bda3-c2c2d3b3cda6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "e89c9f93-2fa9-4134-b74f-1863433c6e38",
+      "title": "One Last Time",
+      "iswcs": [
+        "T-915.098.099-7"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Carl Falk",
+          "mbid": "eb811bf7-4c99-4781-84c0-10ba6b8e33b3"
+        },
+        {
+          "role": "writer",
+          "name": "David Guetta",
+          "mbid": "302bd7b9-d012-4360-897a-93b00c855680"
+        },
+        {
+          "role": "writer",
+          "name": "Savan Kotecha",
+          "mbid": "c8af4490-e48a-4f91-aef9-2b1e39369576"
+        },
+        {
+          "role": "writer",
+          "name": "Rami",
+          "mbid": "b13f0288-830a-4ad7-9c60-830f545e5e2b"
+        },
+        {
+          "role": "writer",
+          "name": "Giorgio Tuinfort",
+          "mbid": "df5274d8-1060-4097-a916-a5f888e400a9"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q18786661"
+      ]
+    },
+    "main_artist": {
+      "name": "Ariana Grande",
+      "type": "Person",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Boca Raton"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

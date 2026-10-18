@@ -1,0 +1,107 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "95f2ed9b-6694-4c1a-b84f-3ee445918cdf",
+      "release_title": "Love Will Lead You Back",
+      "release_date": "1990",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "missing": "no front image in Cover Art Archive"
+    },
+    "album": {
+      "release_group": "ac0124d2-7cda-3579-a1e6-449eac5e5492",
+      "release_title": "Can’t Fight Fate",
+      "release_date": "1989-10-31",
+      "release_country": null,
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Can't Fight Fate",
+      "url": "https://coverartarchive.org/release/6e61eadb-19ab-4b6c-8ae6-5db0bfac34ea/42866366196-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/6e61eadb-19ab-4b6c-8ae6-5db0bfac34ea",
+      "image_id": 42866366196,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.737,
+        "saturation": 0.431,
+        "dark_share": 0.026,
+        "palette": [
+          {
+            "hex": "#c19061",
+            "share": 0.297
+          },
+          {
+            "hex": "#d7af83",
+            "share": 0.218
+          },
+          {
+            "hex": "#70442c",
+            "share": 0.204
+          },
+          {
+            "hex": "#e4c9a0",
+            "share": 0.153
+          },
+          {
+            "hex": "#ebd9b6",
+            "share": 0.128
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/ad/c5/01adc535-1678-5207-12e6-9f8e2ec2d1a5/886446917634.jpg/1200x1200bb.jpg",
+      "collection": "Can't Fight Fate (Expanded Edition)",
+      "collection_id": 1329359112,
+      "track_id": 1329359336,
+      "artist_name": "Taylor Dayne",
+      "release_date": "1989-01-01T12:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.737,
+        "saturation": 0.432,
+        "dark_share": 0.027,
+        "palette": [
+          {
+            "hex": "#c08f60",
+            "share": 0.289
+          },
+          {
+            "hex": "#d6ae82",
+            "share": 0.225
+          },
+          {
+            "hex": "#6e422a",
+            "share": 0.202
+          },
+          {
+            "hex": "#e4c9a0",
+            "share": 0.155
+          },
+          {
+            "hex": "#ebd9b6",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

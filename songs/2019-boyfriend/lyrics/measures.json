@@ -1,0 +1,41 @@
+{
+  "id": "2019-boyfriend",
+  "lyrics_kind": "synced",
+  "lrclib_id": 8589388,
+  "lines": 66,
+  "words": 501,
+  "unique_words": 123,
+  "type_token_ratio": 0.246,
+  "repeated_line_share": 0.258,
+  "distinct_lines": 49,
+  "zlib_compression_ratio": 0.268,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "boyfriend",
+  "title_phrase_occurrences": 19,
+  "pronouns": {
+    "first_singular": 63,
+    "second": 48,
+    "first_plural": 9
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 9.24,
+  "last_line_s": 178.54,
+  "sung_time_s": 170.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 175.9,
+  "words_per_minute_track": 161.6,
+  "longest_gap_between_lines_s": 4.47,
+  "longest_gap_starts_at_s": 85.89,
+  "first_repeated_block": {
+    "first_at_s": 39.67,
+    "recurs_at_s": 90.36,
+    "lines": [
+      "You ain't my boyfriend (boyfriend)",
+      "And I ain't your girlfriend (girlfriend)"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 8589388",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

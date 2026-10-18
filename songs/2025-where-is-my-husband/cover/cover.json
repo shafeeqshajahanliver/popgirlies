@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "0b17e3ac-1bf2-4df9-9eef-e12babb3e56f",
+      "release_title": "WHERE IS MY HUSBAND!",
+      "release_date": "2025-09-19",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "https://coverartarchive.org/release/b5d05036-5f6a-43ce-93f4-ab13879a7820/43076714586-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/b5d05036-5f6a-43ce-93f4-ab13879a7820",
+      "image_id": 43076714586,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.567,
+        "saturation": 0.391,
+        "dark_share": 0.278,
+        "palette": [
+          {
+            "hex": "#04130e",
+            "share": 0.306
+          },
+          {
+            "hex": "#62353e",
+            "share": 0.202
+          },
+          {
+            "hex": "#ffeddf",
+            "share": 0.191
+          },
+          {
+            "hex": "#b6a7a6",
+            "share": 0.173
+          },
+          {
+            "hex": "#f2e0d4",
+            "share": 0.129
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "ae1ff272-3682-4e39-8f9b-2a9eb30eddc3",
+      "release_title": "THIS MUSIC MAY CONTAIN HOPE.",
+      "release_date": "2026-03-27",
+      "release_country": "XE",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: This Music May Contain Hope.",
+      "url": "https://coverartarchive.org/release/06348de9-a1be-4996-88fd-9bbceb6d779a/44454116000-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/06348de9-a1be-4996-88fd-9bbceb6d779a",
+      "image_id": 44454116000,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.36,
+        "saturation": 0.152,
+        "dark_share": 0.104,
+        "palette": [
+          {
+            "hex": "#5f5b52",
+            "share": 0.243
+          },
+          {
+            "hex": "#898485",
+            "share": 0.222
+          },
+          {
+            "hex": "#2f2f2c",
+            "share": 0.21
+          },
+          {
+            "hex": "#3f3e39",
+            "share": 0.165
+          },
+          {
+            "hex": "#4d4846",
+            "share": 0.16
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/1200x1200bb.jpg",
+      "collection": "WHERE IS MY HUSBAND! - Single",
+      "collection_id": 1838737596,
+      "track_id": 1838737598,
+      "artist_name": "RAYE",
+      "release_date": "2025-09-19T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.57,
+        "saturation": 0.368,
+        "dark_share": 0.279,
+        "palette": [
+          {
+            "hex": "#071612",
+            "share": 0.309
+          },
+          {
+            "hex": "#63353f",
+            "share": 0.198
+          },
+          {
+            "hex": "#ffeddf",
+            "share": 0.191
+          },
+          {
+            "hex": "#b5a5a5",
+            "share": 0.169
+          },
+          {
+            "hex": "#f2e0d4",
+            "share": 0.133
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

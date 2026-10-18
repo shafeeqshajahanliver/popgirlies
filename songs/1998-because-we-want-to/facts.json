@@ -1,0 +1,521 @@
+{
+  "id": "1998-because-we-want-to",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Because We Want To",
+  "wikidata": {
+    "qid": "Q4878492",
+    "label": "Because We Want To",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q151113",
+          "label": "Billie Piper"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q203059",
+          "label": "Virgin Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1998-00-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q5564517",
+          "label": "Girlfriend"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q5564517",
+          "label": "Girlfriend"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "3e21053a-2aa6-4263-b69e-5eec839fe4bc"
+      ],
+      "musicbrainz_release_group_id": [
+        "c24feca4-7f59-3f5b-b34a-09115a35e0d8"
+      ],
+      "has_quality": [
+        {
+          "qid": "Q66624698",
+          "label": "debut single"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
+  "musicbrainz": {
+    "recording_id": "9314d75a-3651-41ff-8443-a5d0d7c8c253",
+    "title": "Because We Want To",
+    "length_ms": 226213,
+    "first_release_date": "1998-07-06",
+    "artist_credit": "Billie Piper",
+    "artists": [
+      {
+        "name": "Billie Piper",
+        "mbid": "77e6c304-599d-46e0-8ba3-238207a43668"
+      }
+    ],
+    "isrcs": [
+      "GBAAA9800884",
+      "GBAAA9800953"
+    ],
+    "recording_credits": [
+      {
+        "role": "instrument",
+        "attributes": [
+          "additional",
+          "keyboard"
+        ],
+        "name": "Roger Jackson",
+        "mbid": "cf7b0e76-3d81-4656-85ec-6c666b3342d2"
+      },
+      {
+        "role": "instrument",
+        "attributes": [
+          "keyboard"
+        ],
+        "name": "Jim Marr",
+        "mbid": "94ac3748-bed5-4fb5-9a11-a8b0c3c97562"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Pete Craigie",
+        "mbid": "19b76c73-0419-489d-8d28-e46d419510f9"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Jim Marr",
+        "mbid": "94ac3748-bed5-4fb5-9a11-a8b0c3c97562"
+      },
+      {
+        "role": "mix",
+        "attributes": [],
+        "name": "Wendy Page",
+        "mbid": "34ee5935-2ad5-452c-98c9-9eb7425de836"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Jim Marr",
+        "mbid": "94ac3748-bed5-4fb5-9a11-a8b0c3c97562"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Wendy Page",
+        "mbid": "34ee5935-2ad5-452c-98c9-9eb7425de836"
+      },
+      {
+        "role": "programming",
+        "attributes": [
+          "additional"
+        ],
+        "name": "Yak Bondy",
+        "mbid": "e7b87bd4-1930-426d-8a56-3867d19dacc4"
+      },
+      {
+        "role": "programming",
+        "attributes": [],
+        "name": "Jim Marr",
+        "mbid": "94ac3748-bed5-4fb5-9a11-a8b0c3c97562"
+      },
+      {
+        "role": "recording",
+        "attributes": [],
+        "name": "Pete Craigie",
+        "mbid": "19b76c73-0419-489d-8d28-e46d419510f9"
+      },
+      {
+        "role": "vocal",
+        "attributes": [
+          "background vocals"
+        ],
+        "name": "Wendy Page",
+        "mbid": "34ee5935-2ad5-452c-98c9-9eb7425de836"
+      },
+      {
+        "role": "vocal",
+        "attributes": [],
+        "name": "Billie Piper",
+        "mbid": "77e6c304-599d-46e0-8ba3-238207a43668"
+      },
+      {
+        "role": "vocal arranger",
+        "attributes": [],
+        "name": "Wendy Page",
+        "mbid": "34ee5935-2ad5-452c-98c9-9eb7425de836"
+      }
+    ],
+    "urls": [],
+    "genres": [
+      "bubblegum pop",
+      "dance-pop",
+      "europop",
+      "pop",
+      "progressive house",
+      "teen pop"
+    ],
+    "tags": [
+      "pop",
+      "europop",
+      "teen pop",
+      "bubblegum pop",
+      "dance-pop",
+      "progressive house"
+    ],
+    "releases": [
+      {
+        "id": "de55e7c0-d99d-47fe-a52f-7b13645cf799",
+        "title": "1998 All Dance Hits",
+        "date": "1998",
+        "country": "TW",
+        "status": "Official",
+        "release_group": "e182b96a-c371-4222-b15e-875458cb8470",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "021af0b5-a9c4-460b-ad86-341046b3e912",
+        "title": "Absolute Dance Opus 21",
+        "date": "1998",
+        "country": "DK",
+        "status": "Official",
+        "release_group": "a68511f0-247f-3cc1-978d-1c2080d26bd7",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "edcbd91f-0459-4298-9387-6ad1aaf6bc1f",
+        "title": "Absolute Music 24",
+        "date": "1998",
+        "country": "NO",
+        "status": "Official",
+        "release_group": "51b2f074-0ffd-45d8-8dd6-3fafa55779e6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "584c51af-35eb-42f2-9b1f-06bdbfc4cec0",
+        "title": "The Box Hits 98, Vol. 3",
+        "date": "1998",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "13ba091e-718f-4459-abe4-249c332f203f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "61323d4e-e57a-40e9-a228-6a3504300a44",
+        "title": "The Best Dance Album in the World… Ever! Part 8",
+        "date": "1998-07-06",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "52bdbf86-9669-363e-90c9-64f1d4bee3e6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "8b71de91-68d2-4657-a0a5-4b49a9022552",
+        "title": "Radioactivity Volume 98-08",
+        "date": "1998-08",
+        "country": "AU",
+        "status": "Promotion",
+        "release_group": "3c728969-d9d3-404b-a243-36b968961e06",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "d20c8f7f-c313-496a-87bf-076f550d2173",
+        "title": "Now That's What I Call Music! 40",
+        "date": "1998-08-03",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e21f88b1-88b3-35ac-b5ef-ae8899561afd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f01963be-504f-4eb5-99f5-21a3f44d649f",
+        "title": "Now That’s What I Call Music! 40",
+        "date": "1998-08-03",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e21f88b1-88b3-35ac-b5ef-ae8899561afd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "11b3c49d-f043-4a84-9c80-409ca6bd77ae",
+        "title": "Absolute Music 28",
+        "date": "1998-08-26",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "3b91cdc6-71d6-3a53-84f7-5b5667e2c1ec",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b005e04e-1d12-4cc1-821f-9e42eb2c0f86",
+        "title": "Top of the Pops 1998, Volume 2",
+        "date": "1998-09-14",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1a9dd1fe-dd68-3cee-9f43-2addd39af5df",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "fe21531e-df81-4fad-8710-6274f68ef5d5",
+        "title": "The Dome, Volume 7",
+        "date": "1998-09-21",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "80b14231-7c99-39f8-9a57-06f8f4637c2b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b627dd57-415c-4d77-91bb-bfe52b1e9990",
+        "title": "Now Dance 98",
+        "date": "1998-10-12",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "91af162c-a3f2-3b0c-92ef-ec816eab3fe1",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ddf89d90-3142-3ec4-bb83-9ffcb440f0d0",
+        "title": "Honey to the B",
+        "date": "1998-10-19",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "3099b832-dcaa-30fe-bd37-1dc993fb3397",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "024929b0-e869-4a5c-ba3f-fa107a8643df",
+        "title": "Absolute '98: The Best of 1998",
+        "date": "1998-11-05",
+        "country": "SE",
+        "status": "Official",
+        "release_group": "ffa7fdd2-7a0f-34b4-90fc-84e255d5a4ca",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0e9639d2-ace6-4979-9b97-8a962620c9ef",
+        "title": "The Best 90’s Album in the World …Ever!",
+        "date": "1998-11-09",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "24de96bf-03ba-331f-973f-47ff32320cf3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "36c0d3ec-27f9-4850-80fa-8a55d9e808c7",
+        "title": "Now That’s What I Call Music! 9",
+        "date": "1998-12-02",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "3e019187-1806-478e-bf66-0272362014cb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "860c7307-5dc2-4164-a8e7-a1d23122192c",
+        "title": "Hits 99",
+        "date": "1998-12-07",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "7d662544-6067-3544-aae3-6c7ee85cfbc2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "60ebf041-7d5c-4c8b-b792-f3b67e6f739d",
+        "title": "Girls Night Out",
+        "date": "1999-01-19",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "cf13086d-0b52-4bcd-9400-73889ffd6816",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "aff163aa-eb95-4ee6-8fe6-c68df041b10a",
+        "title": "Honey to the B",
+        "date": "1999-01-20",
+        "country": "JP",
+        "status": "Official",
+        "release_group": "3099b832-dcaa-30fe-bd37-1dc993fb3397",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "2bd3688e-b843-47c2-ba8d-025f66146600",
+        "title": "Pepsi Max Hits: Volume One",
+        "date": "1999-03-08",
+        "country": "AU",
+        "status": "Official",
+        "release_group": "f4d15b16-6e93-4f36-b608-1856d1924344",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4b55710d-4076-4c86-94c3-852701348a49",
+        "title": "Only Girls",
+        "date": "1999-03-11",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "82b9e058-2a98-4a6f-9d57-abd99eb6ca02",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "944e06cf-d3d9-465a-a2fd-e67dc8c9e7f2",
+        "title": "Honey to the B",
+        "date": "1999-05-18",
+        "country": "US",
+        "status": "Official",
+        "release_group": "3099b832-dcaa-30fe-bd37-1dc993fb3397",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "c58c9f5e-5339-44f1-a2a3-d0068ef80e7d",
+        "title": "YM Hot Tracks, Volume 1",
+        "date": "1999-09-28",
+        "country": "US",
+        "status": "Official",
+        "release_group": "c212fc59-951c-3452-bd96-3e889a33fef6",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "b81f71af-7ba6-4f08-b432-4704918a073a",
+        "title": "Now That’s What I Call Music! 1998: The Millennium Series",
+        "date": "1999-10-04",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "71c3461e-a26f-3df5-9e01-07d05f6b1110",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f2c2de37-b0f5-4596-b52f-e7b64f84e85e",
+        "title": "Party Party",
+        "date": "2003",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "0b238d3b-6e64-3d8c-baa3-f7e27c9e4fea",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "3e21053a-2aa6-4263-b69e-5eec839fe4bc",
+      "title": "Because We Want To",
+      "iswcs": [
+        "T-900.088.409-3"
+      ],
+      "credits": [
+        {
+          "role": "writer",
+          "name": "Jim Marr",
+          "mbid": "94ac3748-bed5-4fb5-9a11-a8b0c3c97562"
+        },
+        {
+          "role": "writer",
+          "name": "Wendy Page",
+          "mbid": "34ee5935-2ad5-452c-98c9-9eb7425de836"
+        },
+        {
+          "role": "writer",
+          "name": "Dion Rambo",
+          "mbid": "13fa6fa2-c832-4541-a07e-f6bc8143ac09"
+        },
+        {
+          "role": "writer",
+          "name": "Jacques Richmond",
+          "mbid": "c2a7bc89-c34e-4d32-b7ab-3ce23649f372"
+        }
+      ],
+      "urls": [
+        "https://www.wikidata.org/wiki/Q4878492"
+      ]
+    },
+    "main_artist": {
+      "name": "Billie Piper",
+      "type": "Person",
+      "country": "GB",
+      "area": "United Kingdom",
+      "begin_area": "Swindon"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

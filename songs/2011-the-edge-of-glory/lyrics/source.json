@@ -1,0 +1,57 @@
+{
+  "source": "LRCLIB (lrclib.net)",
+  "lrclib_id": 53430,
+  "kind": "synced",
+  "matched": {
+    "track": "The Edge Of Glory",
+    "artist": "Lady Gaga",
+    "album": "Born This Way",
+    "duration_s": 321.0
+  },
+  "duration_matched_to": "musicbrainz recording length (321s)",
+  "duration_diff_s": 0.5,
+  "reference_lengths": [
+    {
+      "seconds": 320.533,
+      "source": "musicbrainz recording length"
+    },
+    {
+      "seconds": 320.0,
+      "source": "deezer track matched by ISRC"
+    },
+    {
+      "seconds": 260.0,
+      "source": "wikipedia infobox length"
+    },
+    {
+      "seconds": 320.0,
+      "source": "wikipedia infobox length"
+    }
+  ],
+  "matching_candidates": 15,
+  "agreement_with_other_candidates": 1.0,
+  "agreement_note": "median word-set Jaccard similarity to the other LRCLIB entries that passed the checks",
+  "checks": "artist and title match; not live/remix/karaoke/cover; not instrumental; duration within 5 s of a reference length; at least 60% of the title's words appear in the lyric. Preference: synced, agrees with most reference lengths, MusicBrainz length, agrees with other entries, own album/single",
+  "flags": [],
+  "rejected_candidates": [
+    "lrclib 37512820 (The Edge of Glory / Lady Gaga / Bravo Hits 74, 327.0s): duration matches no reference length",
+    "lrclib 34412701 (The Edge Of Glory / Lady Gaga / The Edge Of Glory, 399.0s): duration matches no reference length",
+    "lrclib 34412696 (The Edge Of Glory / Lady Gaga / The Edge Of Glory, 227.0s): duration matches no reference length",
+    "lrclib 34412692 (The Edge Of Glory / Lady Gaga / The Edge Of Glory, 393.0s): duration matches no reference length",
+    "lrclib 34412693 (The Edge Of Glory / Lady Gaga / The Edge Of Glory, 472.0s): duration matches no reference length",
+    "lrclib 34412716 (The Edge Of Glory / Lady Gaga / The Edge Of Glory, 370.0s): duration matches no reference length",
+    "lrclib 34702429 (The Edge Of Glory / Lady Gaga / Unknown, 328.0s): duration matches no reference length",
+    "lrclib 34412715 (The Edge Of Glory / Lady Gaga / The Edge Of Glory, 446.0s): duration matches no reference length",
+    "lrclib 25848394 (The Edge Of Glory (Funkagenda Remix) / Lady Gaga / Lady Gaga The Edge Of Glory, 472.653333s): live/remix/other version",
+    "lrclib 28218526 (The Edge Of Glory (Bare Noize Remix) / Lady Gaga / Lady Gaga The Edge Of Glory, 228.0s): live/remix/other version",
+    "lrclib 30074077 (The Edge Of Glory (Porter Robinson Remix) / Lady Gaga / Lady Gaga The Edge Of Glory, 400.0s): live/remix/other version",
+    "lrclib 31329318 (The Edge Of Glory (Cahill Club Mix) / Lady Gaga / Lady Gaga The Edge Of Glory, 447.0s): live/remix/other version",
+    "lrclib 25653184 (The Edge Of Glory (Foster The People Remix) / Lady Gaga / Lady Gaga The Edge Of Glory, 370.266667s): live/remix/other version",
+    "lrclib 29741296 (The Edge Of Glory (Sultan & Ned Shepard Remix) / Lady Gaga / Lady Gaga The Edge Of Glory, 394.0s): live/remix/other version",
+    "lrclib 35575473 (The_Edge_Of_Glory / Lady_GaGa / Edge_Of_Glory, 286.0s): duration matches no reference length",
+    "lrclib 18269075 (The Edge of Glory / Lady Gaga / The Edge of Glory, 310.0s): duration matches no reference length",
+    "lrclib 35010818 (The Edge Of Glory / Lady Gaga / Lady Gaga Songs, 328.0s): duration matches no reference length"
+  ],
+  "retrieved": "2026-10-18",
+  "confidence": "crowd"
+}

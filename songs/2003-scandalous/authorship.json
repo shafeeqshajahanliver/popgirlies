@@ -1,0 +1,34 @@
+{
+  "writers": [
+    "Alesha Dixon",
+    "Hallgeir Rustan",
+    "Mikkel Storleer Eriksen",
+    "Sabrina Washington",
+    "Su-Elise Nash",
+    "Tor Erik Hermansen"
+  ],
+  "producers": [
+    "StarGate"
+  ],
+  "n_writers": 6,
+  "n_producers": 1,
+  "act": "Mis-Teeq",
+  "group_members": [
+    "Alesha Dixon",
+    "Sabrina Washington",
+    "Su-Elise Nash",
+    "Zena McNally"
+  ],
+  "star_is_writer": true,
+  "star_writer_names": [
+    "Alesha Dixon",
+    "Sabrina Washington",
+    "Su-Elise Nash"
+  ],
+  "star_is_producer": false,
+  "star_producer_names": [],
+  "source": "MusicBrainz work and recording credits (CC0), Wikidata, Wikipedia infobox",
+  "retrieved": "2026-10-18",
+  "confidence": "sourced",
+  "note": "Name matching is loose (stage names, initials); check star_writer_names when it matters."
+}

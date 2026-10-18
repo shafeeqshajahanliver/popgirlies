@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "353e50e2-c301-414f-8b39-7de2e9ad5999",
+      "release_title": "The Edge of Glory",
+      "release_date": "2011-05-09",
+      "release_country": "GB",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/1d22ce5b-26b9-496d-840a-e1d18bbc76d8/3167458608-500.jpg",
+      "caa_release": "http://musicbrainz.org/release/1d22ce5b-26b9-496d-840a-e1d18bbc76d8",
+      "image_id": "3167458608",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        500
+      ],
+      "measures": {
+        "brightness": 0.421,
+        "saturation": 0.006,
+        "dark_share": 0.256,
+        "palette": [
+          {
+            "hex": "#474747",
+            "share": 0.276
+          },
+          {
+            "hex": "#131313",
+            "share": 0.235
+          },
+          {
+            "hex": "#818182",
+            "share": 0.206
+          },
+          {
+            "hex": "#b6b6b6",
+            "share": 0.162
+          },
+          {
+            "hex": "#e5e6e6",
+            "share": 0.121
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+      "release_title": "Born This Way",
+      "release_date": "2011-05",
+      "release_country": "IN",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Born This Way",
+      "url": "https://coverartarchive.org/release/97277195-b627-4c86-b23a-216c3272697b/29921321584-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/97277195-b627-4c86-b23a-216c3272697b",
+      "image_id": 29921321584,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        640,
+        640
+      ],
+      "measures": {
+        "brightness": 0.189,
+        "saturation": 0.313,
+        "dark_share": 0.718,
+        "palette": [
+          {
+            "hex": "#040809",
+            "share": 0.54
+          },
+          {
+            "hex": "#1a1c1c",
+            "share": 0.212
+          },
+          {
+            "hex": "#919091",
+            "share": 0.201
+          },
+          {
+            "hex": "#030506",
+            "share": 0.03
+          },
+          {
+            "hex": "#030809",
+            "share": 0.016
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/9f/0f/429f0fd2-30bd-b64e-27fc-76d8fbbd0988/11UMGIM12476.rgb.jpg/1200x1200bb.jpg",
+      "collection": "Born This Way (Special Edition)",
+      "collection_id": 1440857161,
+      "track_id": 1440858186,
+      "artist_name": "Lady Gaga",
+      "release_date": "2011-05-09T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.616,
+        "saturation": 0.052,
+        "dark_share": 0.113,
+        "palette": [
+          {
+            "hex": "#8e8c8c",
+            "share": 0.285
+          },
+          {
+            "hex": "#c2c0c0",
+            "share": 0.213
+          },
+          {
+            "hex": "#363333",
+            "share": 0.208
+          },
+          {
+            "hex": "#e1e0e0",
+            "share": 0.168
+          },
+          {
+            "hex": "#f6f4f4",
+            "share": 0.127
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}

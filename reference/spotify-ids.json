@@ -1,0 +1,492 @@
+{
+  "retrieved": "2026-10-18",
+  "method": "Chordonomicon (crowd) chords and section tags, matched by Spotify track ID.\n\nChordonomicon (ailsntua/Chordonomicon on Hugging Face, CC BY-NC 4.0) has chord\nsequences scraped from fan chord sites, with section tags like <verse_1>, and a\nSpotify track ID per row but no titles. So songs are matched only by Spotify ID.\n\nSpotify IDs come from no-login public routes only (never the Spotify Web API):\n  1. MusicBrainz url relations on our recording (already in facts.json)\n  2. Wikidata P2207 on the song item (facts.json)\n  3. MusicBrainz: other recordings sharing our recording's ISRCs, and other\n     recordings by the same artist with the same title and a similar length\n     (remasters, album/single reissues), each looked up for url relations.\n     1 request per second, cached in _cache/http.\nOdesli/song.link's public API was tried and now refuses keyless use (401\nPUBLIC_API_ACCESS_DEPRECATED), so it is recorded as a gap.",
+  "songs": {
+    "1961-sailor": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "6nKqt1nbSBEq3iUXD1Xgz8"
+      ],
+      "musicbrainz_recordings_checked": 3,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 22,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1964-my-guy": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "1cjZk1xXn3YCToNg3uJpA7"
+      ],
+      "musicbrainz_recordings_checked": 25,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 8,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1965-back-in-my-arms-again": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "0rXI0q8Cahq6numvPlloaq",
+        "57bUPid8xztkieZfS7OlEV"
+      ],
+      "musicbrainz_recordings_checked": 25,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 35,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1976-love-hangover": {
+      "spotify_track_ids": [
+        {
+          "id": "06MV6q1N7NIewoszRElmrZ",
+          "via": "MusicBrainz url relation on our recording 7e4146da-2e84-427a-870d-e21df18175a4"
+        }
+      ],
+      "spotify_artist_ids": [
+        "3MdG05syQeRYPPcClLaUGl"
+      ],
+      "musicbrainz_recordings_checked": 13,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 25,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1981-slow-hand": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "2kreKea2n96dXjcyAU9j5N"
+      ],
+      "musicbrainz_recordings_checked": 25,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 10,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1985-crazy-for-you": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "6tbjWDEIzxoDsBA1FuhfPW"
+      ],
+      "musicbrainz_recordings_checked": 13,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 127,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1988-the-only-way-is-up": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "5ApKaVHAStk5kAuyBW1wG8"
+      ],
+      "musicbrainz_recordings_checked": 25,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 0,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1989-wind-beneath-my-wings": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "13y0kncDD4J9wxCyfKr10W"
+      ],
+      "musicbrainz_recordings_checked": 4,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 19,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1990-love-will-lead-you-back": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "32lVGr0fSRGT6okLKHiP68"
+      ],
+      "musicbrainz_recordings_checked": 12,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 8,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1991-lets-talk-about-sex": {
+      "spotify_track_ids": [
+        {
+          "id": "6hTBP6QLwJdxbKyLlLXrGo",
+          "via": "Wikidata P2207 on Q3830996"
+        }
+      ],
+      "spotify_artist_ids": [
+        "7wqtxqI3eo7Gn1P7SpP6cQ"
+      ],
+      "musicbrainz_recordings_checked": 1,
+      "chordonomicon_rows": [
+        "98193"
+      ],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 4,
+      "status": "matched",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1996-wannabe": {
+      "spotify_track_ids": [
+        {
+          "id": "6eIACPSux7Bu8NnVST8nvG",
+          "via": "MusicBrainz url relation on our recording 640be329-70ad-4353-9026-80d74e5e1966"
+        },
+        {
+          "id": "6VLJcYFRlulCaFz6rhExXQ",
+          "via": "MusicBrainz url relation on our recording 640be329-70ad-4353-9026-80d74e5e1966"
+        },
+        {
+          "id": "76Seh2YzC2QzAmXmy9IJuO",
+          "via": "MusicBrainz url relation on our recording 640be329-70ad-4353-9026-80d74e5e1966"
+        }
+      ],
+      "spotify_artist_ids": [
+        "0uq5PttqEjj3IH1bzwcrXF"
+      ],
+      "musicbrainz_recordings_checked": 25,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 18,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1996-because-you-loved-me": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "4S9EykWXhStSc15wEx8QFK"
+      ],
+      "musicbrainz_recordings_checked": 10,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 126,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "1998-because-we-want-to": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "3RjnAn8EWb7zaLlGWVxQeP"
+      ],
+      "musicbrainz_recordings_checked": 25,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 4,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2000-oops-i-did-it-again": {
+      "spotify_track_ids": [
+        {
+          "id": "2tex5GELzJlOFxlBhIiYQ9",
+          "via": "MusicBrainz url relation on our recording 44abd7d3-c593-4587-a109-6d9582f13f36"
+        },
+        {
+          "id": "2jWEiSTx60NHZ89IJoBJAC",
+          "via": "MusicBrainz recording 2be04849-7161-471a-a995-5e9238b5860c, same artist and title, similar length"
+        },
+        {
+          "id": "3RIXyuF6XgeVIAnTZiSalz",
+          "via": "MusicBrainz recording 64b409fd-91aa-4b2d-a76c-08880af4a8e8, same artist and title, similar length"
+        }
+      ],
+      "spotify_artist_ids": [
+        "26dSoYclwsYLMAKD3tpOr4"
+      ],
+      "musicbrainz_recordings_checked": 13,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 79,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2001-im-real": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "2DlGxzQSjYe5N6G9nkYghR"
+      ],
+      "musicbrainz_recordings_checked": 18,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 31,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2003-hole-in-the-head": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "7rZNSLWMjTbwdLNskFbzFf"
+      ],
+      "musicbrainz_recordings_checked": 8,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 25,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2003-scandalous": {
+      "spotify_track_ids": [
+        {
+          "id": "3stnrhzN0lzZFskbaZ5sEw",
+          "via": "Wikidata P2207 on Q3951545"
+        }
+      ],
+      "spotify_artist_ids": [
+        "6csA2rxNLkQJXeEa7lyGXn"
+      ],
+      "musicbrainz_recordings_checked": 25,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 0,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2005-we-belong-together": {
+      "spotify_track_ids": [
+        {
+          "id": "241U1Sp7Uzh7o8T0Vr5KFF",
+          "via": "MusicBrainz url relation on our recording 1dfdf2b6-a5c5-463a-a8a6-3d70cb661793"
+        }
+      ],
+      "spotify_artist_ids": [
+        "4iHNK0tOyZPYnBU7nGAgpQ"
+      ],
+      "musicbrainz_recordings_checked": 11,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 103,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2008-so-what": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [],
+      "musicbrainz_recordings_checked": 0,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 0,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2008-single-ladies-put-a-ring-on-it": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "6HOb77B9Vyl7bdKj8YSfDS",
+        "6vWDO969PvNqNYHIOW5v0m"
+      ],
+      "musicbrainz_recordings_checked": 3,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 54,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2011-the-edge-of-glory": {
+      "spotify_track_ids": [
+        {
+          "id": "0JNdS1n0ifOP25XvhwAMgM",
+          "via": "MusicBrainz url relation on our recording 36119119-c128-4c87-bdc8-83af13021534"
+        }
+      ],
+      "spotify_artist_ids": [
+        "1HY2Jd0NmPuamShAr6KMms"
+      ],
+      "musicbrainz_recordings_checked": 4,
+      "chordonomicon_rows": [
+        "167782",
+        "587200"
+      ],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 93,
+      "status": "matched",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2011-till-the-world-ends": {
+      "spotify_track_ids": [
+        {
+          "id": "4jCZebg0Wbgtntd8hpy8Dg",
+          "via": "MusicBrainz url relation on our recording c0a6ef98-6284-48d4-9e44-fd38bcbae5ad"
+        }
+      ],
+      "spotify_artist_ids": [
+        "26dSoYclwsYLMAKD3tpOr4"
+      ],
+      "musicbrainz_recordings_checked": 9,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 79,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2015-one-last-time": {
+      "spotify_track_ids": [
+        {
+          "id": "6McECqsEsUv8WuWtz0WS0t",
+          "via": "MusicBrainz url relation on our recording 0918cea9-3c3c-476d-ae83-2271645e7b5f"
+        }
+      ],
+      "spotify_artist_ids": [
+        "66CXWjxzNUsdJxJ2JdwvnR"
+      ],
+      "musicbrainz_recordings_checked": 0,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 84,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2016-shout-out-to-my-ex": {
+      "spotify_track_ids": [
+        {
+          "id": "3WTIiBfOsXIzfeLH17l6WS",
+          "via": "MusicBrainz url relation on our recording 67f5daf2-e49b-4e94-a81d-20df5a3dede0"
+        }
+      ],
+      "spotify_artist_ids": [
+        "3e7awlrlDSwF3iM0WBjGMp"
+      ],
+      "musicbrainz_recordings_checked": 2,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 71,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2017-havana": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "4nDoRrQiYLoBzwC5BhVJzF"
+      ],
+      "musicbrainz_recordings_checked": 3,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 43,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2018-without-me": {
+      "spotify_track_ids": [
+        {
+          "id": "6FZDfxM3a3UCqtzo5pxSLZ",
+          "via": "MusicBrainz url relation on our recording 01552e9a-11b0-4b5d-bcd5-cd15850ebd29"
+        }
+      ],
+      "spotify_artist_ids": [
+        "26VFTg2z8YR0cCuwLzESi2"
+      ],
+      "musicbrainz_recordings_checked": 4,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 62,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2019-boyfriend": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "66CXWjxzNUsdJxJ2JdwvnR"
+      ],
+      "musicbrainz_recordings_checked": 2,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 84,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2020-sweet-melody": {
+      "spotify_track_ids": [
+        {
+          "id": "25GuTPJAbB6t2v0ijeTFc7",
+          "via": "MusicBrainz url relation on our recording ece5f285-c5c4-4080-a28d-70409fb802fe"
+        }
+      ],
+      "spotify_artist_ids": [
+        "3e7awlrlDSwF3iM0WBjGMp"
+      ],
+      "musicbrainz_recordings_checked": 3,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 71,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2025-where-is-my-husband": {
+      "spotify_track_ids": [
+        {
+          "id": "67m9nhQFZcgd0NaVHWpVLS",
+          "via": "MusicBrainz url relation on our recording 8493b88b-faf1-4735-b329-2366ad52b955"
+        },
+        {
+          "id": "7eYzn1CuiJK6VvUhf8zA6k",
+          "via": "MusicBrainz url relation on our recording 8493b88b-faf1-4735-b329-2366ad52b955"
+        }
+      ],
+      "spotify_artist_ids": [
+        "5KKpBU5eC2tJDzf0wmlRp2"
+      ],
+      "musicbrainz_recordings_checked": 0,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 24,
+      "status": "Spotify IDs found but none is in Chordonomicon",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    },
+    "2025-xmas": {
+      "spotify_track_ids": [],
+      "spotify_artist_ids": [
+        "4RVnAU35WRWra6OZ3CbbMA",
+        "5ohs9d8kIe6Hq5exybThql"
+      ],
+      "musicbrainz_recordings_checked": 0,
+      "chordonomicon_rows": [],
+      "rejected_rows": [],
+      "chordonomicon_rows_for_artist": 96,
+      "status": "no Spotify track ID found via MusicBrainz or Wikidata",
+      "source": "MusicBrainz (CC0) url relations; Wikidata (CC0)",
+      "confidence": "sourced"
+    }
+  },
+  "matched": 2,
+  "gaps": {
+    "odesli": "api.song.link public API returns 401 PUBLIC_API_ACCESS_DEPRECATED without a key",
+    "spotify_web_api": "needs a key; not used"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2008-so-what",
+  "lyrics_kind": "synced",
+  "lrclib_id": 29335172,
+  "lines": 95,
+  "words": 475,
+  "unique_words": 110,
+  "type_token_ratio": 0.232,
+  "repeated_line_share": 0.484,
+  "distinct_lines": 49,
+  "zlib_compression_ratio": 0.242,
+  "zlib_note": "compressed size / original size of the lower-cased lyric text; lower = more repetitive",
+  "title_phrase": "so what",
+  "title_phrase_occurrences": 7,
+  "pronouns": {
+    "first_singular": 73,
+    "second": 26,
+    "first_plural": 5
+  },
+  "pronoun_note": "word counts; contractions (I'm, you're, we're) count with their pronoun",
+  "first_vocal_s": 4.17,
+  "last_line_s": 211.85,
+  "sung_time_s": 208.9,
+  "sung_time_note": "sum of each lyric line's time to the next timestamp, capped at 8 s per line",
+  "words_per_minute_sung": 136.4,
+  "words_per_minute_track": 133.3,
+  "longest_gap_between_lines_s": 6.59,
+  "longest_gap_starts_at_s": 119.86,
+  "first_repeated_block": {
+    "first_at_s": 4.17,
+    "recurs_at_s": 7.92,
+    "lines": [
+      "Na-na-na-na, na-na, na",
+      "Na-na-na-na na-na"
+    ]
+  },
+  "first_repeated_block_note": "computed, chorus proxy: the earliest-recurring pair of consecutive distinct lines; first_at_s is when it is first sung, recurs_at_s when it comes back. A crude stand-in for time to first chorus.",
+  "source": "computed from LRCLIB 29335172",
+  "retrieved": "2026-10-18",
+  "confidence": "computed"
+}

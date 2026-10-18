@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-10-18",
+  "images": {
+    "single": {
+      "release_group": "a6447ad2-0df9-4a80-b991-5706ab384680",
+      "release_title": "Shout Out to My Ex",
+      "release_date": "2016-10-18",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "url": "http://coverartarchive.org/release/df1b2478-7b31-4733-8b74-9bfc6d4d49ed/14840953931-500.jpg",
+      "caa_release": "https://musicbrainz.org/release/df1b2478-7b31-4733-8b74-9bfc6d4d49ed",
+      "image_id": "14840953931",
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/single.jpg",
+      "original_size": [
+        500,
+        486
+      ],
+      "measures": {
+        "brightness": 0.602,
+        "saturation": 0.249,
+        "dark_share": 0.055,
+        "palette": [
+          {
+            "hex": "#3b2736",
+            "share": 0.265
+          },
+          {
+            "hex": "#775b60",
+            "share": 0.234
+          },
+          {
+            "hex": "#c0a39a",
+            "share": 0.205
+          },
+          {
+            "hex": "#e3cec9",
+            "share": 0.171
+          },
+          {
+            "hex": "#f7e7ea",
+            "share": 0.124
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "album": {
+      "release_group": "5f4251cf-80bf-4967-9b0e-a6eac6f8fcca",
+      "release_title": "Glory Days",
+      "release_date": "2016-11-18",
+      "release_country": "XW",
+      "source": "Cover Art Archive",
+      "confidence": "sourced",
+      "chosen_by": "Wikipedia infobox album: Glory Days",
+      "url": "https://coverartarchive.org/release/53a8e6a5-e236-4b10-83fc-80fd14b35f06/33133938562-1200.jpg",
+      "caa_release": "https://musicbrainz.org/release/53a8e6a5-e236-4b10-83fc-80fd14b35f06",
+      "image_id": 33133938562,
+      "types": [
+        "Front"
+      ],
+      "comment": "",
+      "file": "cover/album.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.659,
+        "saturation": 0.302,
+        "dark_share": 0.027,
+        "palette": [
+          {
+            "hex": "#e69cc4",
+            "share": 0.265
+          },
+          {
+            "hex": "#e3d0e6",
+            "share": 0.249
+          },
+          {
+            "hex": "#63455c",
+            "share": 0.245
+          },
+          {
+            "hex": "#412d49",
+            "share": 0.168
+          },
+          {
+            "hex": "#9d5b7a",
+            "share": 0.074
+          }
+        ],
+        "confidence": "computed"
+      }
+    },
+    "itunes": {
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/6c/95/35/6c953517-1617-a3bd-11ea-ab00fe09c3b7/886446031026.jpg/1200x1200bb.jpg",
+      "collection": "Glory Days (Deluxe Concert Film Edition)",
+      "collection_id": 1164491324,
+      "track_id": 1164491471,
+      "artist_name": "Little Mix",
+      "release_date": "2016-10-16T07:00:00Z",
+      "file": "cover/itunes.jpg",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "measures": {
+        "brightness": 0.435,
+        "saturation": 0.32,
+        "dark_share": 0.204,
+        "palette": [
+          {
+            "hex": "#d0b1c9",
+            "share": 0.263
+          },
+          {
+            "hex": "#3b2332",
+            "share": 0.207
+          },
+          {
+            "hex": "#4c2b38",
+            "share": 0.193
+          },
+          {
+            "hex": "#734f62",
+            "share": 0.171
+          },
+          {
+            "hex": "#140d16",
+            "share": 0.166
+          }
+        ],
+        "confidence": "computed"
+      },
+      "source": "iTunes Search API",
+      "confidence": "sourced",
+      "note": "current digital release artwork; may be a later reissue or compilation"
+    }
+  }
+}
