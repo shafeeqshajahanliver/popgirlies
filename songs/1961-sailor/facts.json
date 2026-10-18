@@ -1,0 +1,423 @@
+{
+  "id": "1961-sailor",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Sailor (song)",
+  "wikidata": {
+    "qid": "Q25188897",
+    "label": "Sailor",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q274056",
+          "label": "Anne Shelton"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q1536003",
+          "label": "Philips Records"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1961-01-00"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q1196752",
+          "label": "traditional pop"
+        }
+      ],
+      "musicbrainz_work_id": [
+        "1085c595-4954-45e7-a10f-ace6121ac257"
+      ],
+      "form_of_creative_work": [
+        {
+          "qid": "Q7366",
+          "label": "song"
+        }
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "recording search (exact title, length near the Wikipedia single where known, earliest release)",
+  "musicbrainz": {
+    "recording_id": "5ee1a5fd-566e-4d3a-9562-e2fd31b4bce0",
+    "title": "Sailor",
+    "length_ms": 176266,
+    "first_release_date": "1976",
+    "artist_credit": "Petula Clark",
+    "artists": [
+      {
+        "name": "Petula Clark",
+        "mbid": "40e69149-45a7-4dab-8128-c5a4d9654eeb"
+      }
+    ],
+    "isrcs": [
+      "GBAJE6100001",
+      "GBEEJ1500977",
+      "GBZTD1105459"
+    ],
+    "recording_credits": [
+      {
+        "role": "vocal",
+        "attributes": [
+          "lead vocals"
+        ],
+        "name": "Petula Clark",
+        "mbid": "40e69149-45a7-4dab-8128-c5a4d9654eeb"
+      }
+    ],
+    "urls": [],
+    "genres": [
+      "disco",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "disco",
+      "rock"
+    ],
+    "releases": [
+      {
+        "id": "b19a7b32-4d81-46f0-8c05-9f6b4d4a5587",
+        "title": "20 All Time Greatest",
+        "date": "1976",
+        "country": null,
+        "status": "Official",
+        "release_group": "ad4f58da-f68b-4eb6-be2c-e48422dadabb",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "10558f7e-6311-415b-9e39-a88dfcbbfdea",
+        "title": "Greatest Hits",
+        "date": "1984",
+        "country": "FR",
+        "status": "Official",
+        "release_group": "e5c3f803-0a54-4109-ae0f-74d0145666c3",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "82454615-64a1-4262-bb3e-87e3a91dcb1f",
+        "title": "This Is My Song",
+        "date": "1985",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "a543978d-3926-4449-8c21-0ce9031224c5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ccc17390-7372-4bdd-b32c-f1b075d0b0ed",
+        "title": "Souvenirs",
+        "date": "1986",
+        "country": "ZA",
+        "status": "Official",
+        "release_group": "34212770-cac0-42e1-9d35-266433398507",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f49ba1dc-9427-46be-8644-5088aac2c14a",
+        "title": "Greatest Hits",
+        "date": "1986-07",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "c3c3ee9b-a760-4c1d-8e94-bc335f6f628a",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "dc4062b8-7632-41fc-94ef-7a4fb3d5c67c",
+        "title": "The Hit Singles Collection",
+        "date": "1987",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "b802f454-e34a-3408-89e1-43bd87bf0068",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "395c5a10-8f87-4975-a651-645fe0ef40fc",
+        "title": "Downtown - The Petula Clark Collection",
+        "date": "1988",
+        "country": null,
+        "status": "Official",
+        "release_group": "767e65ef-cc24-3589-905c-991c43e71167",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0e0a9559-851d-4edb-9fcb-1ba780a8321e",
+        "title": "The Hit Singles Collection",
+        "date": "1988",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "866b96f0-d5e6-3483-8726-6268b6782392",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "27dd7f0a-5357-4a3b-94cd-6b0b739a8702",
+        "title": "30 Years of Number 1’s, Volume 3: 1961–1963",
+        "date": "1989",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "4096061e-8624-43ae-868e-88db15a08235",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "1fe9a2cf-56e0-460b-902d-099e87517c8c",
+        "title": "Downtown: 20 Greatest Hits",
+        "date": "1989",
+        "country": null,
+        "status": "Official",
+        "release_group": "1857a3f4-9554-3a48-9a03-927a64c7d369",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5f32c583-8c63-48c3-a092-b23f7ef2d9b3",
+        "title": "Nostalgia Anni",
+        "date": "1989",
+        "country": "IT",
+        "status": "Official",
+        "release_group": "8bab1b0d-6539-492b-a0fd-b03989671c0d",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "0dd26387-a104-42cf-b61b-5103c07a115f",
+        "title": "The Beautiful Music Collection",
+        "date": "1989",
+        "country": "NZ",
+        "status": "Official",
+        "release_group": "4010e0e6-81a4-42be-9ad8-54a54f38f9cd",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "bc558dee-62a4-4cae-94de-c4e9bbc8900d",
+        "title": "The Best of Petula Clark, Volume 1",
+        "date": "1990",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "cbcfdf86-0892-44b3-8ebf-d9724bb5a52f",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "4081f083-b734-4918-8e99-0fd9755e27b0",
+        "title": "The EP Collection",
+        "date": "1990",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "e0d46e0a-0a91-4666-b985-7c4cd29a6bd5",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "2f3c584e-dea9-4f19-96ad-a09bfb522a12",
+        "title": "The Hit Story of British Pop",
+        "date": "1990",
+        "country": "BE",
+        "status": "Official",
+        "release_group": "4d5e1e8b-e4c0-481f-968c-c78808bc315b",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "95ed93df-392b-4cfa-853a-99425281dfd0",
+        "title": "The Special Collection",
+        "date": "1990",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "3804db4b-fdeb-39ff-a5c0-4ba0b8ee1228",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "04b16d80-e467-4325-80bd-bc47827470bc",
+        "title": "Hits of the 60’s",
+        "date": "1991",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "3766d377-2cb5-3ea7-8575-d43f3e636a70",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "3c25a36a-da6b-4e1d-ab3e-3f36c4955058",
+        "title": "№1 HITS of the SIXTIES",
+        "date": "1991",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "762f240c-d670-4f75-8a82-3cd69da17112",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "46e81157-bc83-4575-b6a7-96b6f219f1ce",
+        "title": "The Wonder Years of 60’s Pop Music",
+        "date": "1991",
+        "country": "NL",
+        "status": "Official",
+        "release_group": "5c7ce864-11ad-4090-9396-71b8f95b5565",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "5ec435ec-8b4f-4c1c-95a0-3e6d28aa03b9",
+        "title": "Super Hitparade 1",
+        "date": "1992",
+        "country": null,
+        "status": "Official",
+        "release_group": "a1387c6b-5c70-480c-9b25-84b80d4f0cfd",
+        "primary_type": "Album",
+        "secondary_types": []
+      },
+      {
+        "id": "68bcbfc6-d713-45c9-ae82-437252db7ec4",
+        "title": "The Best of Petula Clark",
+        "date": "1992",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "f0231041-f6ac-43d4-9144-6e77895f84ad",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "26eaffc8-73c1-4e1e-ae25-a3d35173957a",
+        "title": "The Legendary British Hits",
+        "date": "1992",
+        "country": "DE",
+        "status": "Official",
+        "release_group": "64795c47-c40d-309b-b2f8-cecd43317040",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f2787a60-2d6e-42dd-aa59-2b672e83f885",
+        "title": "The Original Hits",
+        "date": "1992",
+        "country": "CA",
+        "status": "Official",
+        "release_group": "da8dbbaf-a392-43da-813f-310d86390a32",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "f76433ba-f6ce-4c94-9b0b-5925aa9f0df8",
+        "title": "I Know a Place",
+        "date": "1992-07-02",
+        "country": "GB",
+        "status": "Official",
+        "release_group": "1aec0b2f-556e-42c2-81da-b152e81ef0c2",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      },
+      {
+        "id": "ecd98d0d-cfc9-4aca-8255-dd5b729a71be",
+        "title": "Baby Boomers: Greatest Hits of the 60s & 70s",
+        "date": "1993",
+        "country": "XE",
+        "status": "Official",
+        "release_group": "70bbed5a-024e-4edd-bf57-f98972eb0c44",
+        "primary_type": "Album",
+        "secondary_types": [
+          "Compilation"
+        ]
+      }
+    ],
+    "work": {
+      "id": "1085c595-4954-45e7-a10f-ace6121ac257",
+      "title": "Sailor",
+      "iswcs": [
+        "T-042.624.410-1",
+        "T-801.329.144-7"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Werner Scharfenberger",
+          "mbid": "c75d1407-b64d-4b28-87f8-cf5f97419494"
+        },
+        {
+          "role": "lyricist",
+          "name": "Fini Busch",
+          "mbid": "5cb4dd43-747c-490d-a20f-dbdde4bfdeb2"
+        },
+        {
+          "role": "translator",
+          "name": "Norman Newell",
+          "mbid": "cb419a70-7a0e-4b78-9fdc-f4e299e48ae9"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/29960",
+        "https://www.wikidata.org/wiki/Q25188897"
+      ]
+    },
+    "main_artist": {
+      "name": "Petula Clark",
+      "type": "Person",
+      "country": "GB",
+      "area": "United Kingdom",
+      "begin_area": "Epsom"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

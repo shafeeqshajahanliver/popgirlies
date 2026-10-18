@@ -1,0 +1,151 @@
+{
+  "id": "1965-back-in-my-arms-again",
+  "retrieved": "2026-10-18",
+  "wikipedia_article": "Back in My Arms Again",
+  "wikidata": {
+    "qid": "Q2546767",
+    "label": "Back in My Arms Again",
+    "claims": {
+      "performer": [
+        {
+          "qid": "Q218837",
+          "label": "The Supremes"
+        }
+      ],
+      "producer": [
+        {
+          "qid": "Q944159",
+          "label": "Brian Holland"
+        }
+      ],
+      "record_label": [
+        {
+          "qid": "Q43327",
+          "label": "Motown"
+        }
+      ],
+      "publication_date": [
+        {
+          "time": "1965-04-15"
+        }
+      ],
+      "genre": [
+        {
+          "qid": "Q37073",
+          "label": "pop music"
+        }
+      ],
+      "country_of_origin": [
+        {
+          "qid": "Q30",
+          "label": "United States"
+        }
+      ],
+      "follows": [
+        {
+          "qid": "Q2394444",
+          "label": "Stop! In the Name of Love"
+        }
+      ],
+      "followed_by": [
+        {
+          "qid": "Q2200811",
+          "label": "Nothing but Heartaches"
+        },
+        {
+          "qid": "Q6917323",
+          "label": "Mother Dear"
+        },
+        {
+          "qid": "Q6315906",
+          "label": "Just Came Back"
+        }
+      ],
+      "musicbrainz_release_group_id": [
+        "d6d8b1ee-4186-37de-9158-db78c27fdad1"
+      ]
+    },
+    "source": "Wikidata (CC0)",
+    "confidence": "sourced"
+  },
+  "musicbrainz_match": "single release group d6d8b1ee-4186-37de-9158-db78c27fdad1 (1965-04-15); track closest to the Wikipedia single length",
+  "musicbrainz": {
+    "recording_id": "fe9a9653-09f7-493b-9490-f69fa7d4456e",
+    "title": "Back in My Arms Again",
+    "length_ms": 170000,
+    "first_release_date": "1965-04-15",
+    "artist_credit": "The Supremes",
+    "artists": [
+      {
+        "name": "The Supremes",
+        "mbid": "c1aa2ec9-53e7-4d90-8d36-bac75832e986"
+      }
+    ],
+    "isrcs": [],
+    "recording_credits": [
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Lamont Dozier",
+        "mbid": "b801e3ad-a23a-4ae8-9708-6c02a202e9e1"
+      },
+      {
+        "role": "producer",
+        "attributes": [],
+        "name": "Brian Holland",
+        "mbid": "de2dcddf-d398-4a3e-adfc-2f108317d6c4"
+      }
+    ],
+    "urls": [],
+    "genres": [],
+    "tags": [],
+    "releases": [
+      {
+        "id": "79a27c4d-29ce-4cd6-a31f-e08a547fd4ba",
+        "title": "Back in My Arms Again",
+        "date": "1965-04-15",
+        "country": "US",
+        "status": "Official",
+        "release_group": "d6d8b1ee-4186-37de-9158-db78c27fdad1",
+        "primary_type": "Single",
+        "secondary_types": []
+      }
+    ],
+    "work": {
+      "id": "4d817006-d051-3c1a-9fea-00a3c84ea265",
+      "title": "Back in My Arms Again",
+      "iswcs": [
+        "T-070.232.871-9"
+      ],
+      "credits": [
+        {
+          "role": "composer",
+          "name": "Lamont Dozier",
+          "mbid": "b801e3ad-a23a-4ae8-9708-6c02a202e9e1"
+        },
+        {
+          "role": "composer",
+          "name": "Brian Holland",
+          "mbid": "de2dcddf-d398-4a3e-adfc-2f108317d6c4"
+        },
+        {
+          "role": "lyricist",
+          "name": "Eddie Holland",
+          "mbid": "7f71aced-31f0-4d09-9198-0c407a2cc6e1"
+        }
+      ],
+      "urls": [
+        "https://secondhandsongs.com/work/52615"
+      ]
+    },
+    "main_artist": {
+      "name": "The Supremes",
+      "type": "Group",
+      "country": "US",
+      "area": "United States",
+      "begin_area": "Detroit"
+    },
+    "source": "MusicBrainz (CC0)",
+    "confidence": "sourced"
+  }
+}

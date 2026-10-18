@@ -72,9 +72,13 @@ def main():
     os.makedirs(os.path.join(ROOT, "reports"), exist_ok=True)
     with open(os.path.join(ROOT, "reports", "coverage.md"), "w") as f:
         f.write("\n".join(out) + "\n")
+    done = {s["id"]: s["status"] for s in songs}
+    full = load_songs(include_all=True)  # never truncate songs.csv when run on the pilot
+    for s in full:
+        s["status"] = done.get(s["id"], s["status"])
     with open(os.path.join(ROOT, "songs.csv"), "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(songs[0]))
-        w.writeheader(); w.writerows(songs)
+        w = csv.DictWriter(f, fieldnames=list(full[0]))
+        w.writeheader(); w.writerows(full)
 
 
 if __name__ == "__main__":
