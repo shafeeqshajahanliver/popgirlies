@@ -246,10 +246,12 @@ def mb_details(rid):
 
 
 def main(only=None):
-    songs = load_songs()
+    songs = load_songs(include_all=True)
     sel = {e["id"]: e for e in read_json(os.path.join(ROOT, "reference", "selection.json")) if "id" in e}
     for n, s in enumerate(songs):
         if only and s["id"] not in only:
+            continue
+        if not only and os.environ.get("PILOT") and s.get("pilot") != "yes":
             continue
         sid, e = s["id"], sel[s["id"]]
         done = read_json(os.path.join(SONGS, sid, "facts.json"))

@@ -32,7 +32,7 @@ def families(labels):
 
 
 def main():
-    songs = load_songs()
+    songs = load_songs(include_all=True)
     for s in songs:
         sid = s["id"]
         w = read_json(os.path.join(SONGS, sid, "wikipedia.json"))

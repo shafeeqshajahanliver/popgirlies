@@ -21,7 +21,7 @@ POP = re.compile(r"\bpop\b|dance-pop|synth-?pop|electropop|teen pop|bubblegum|di
                  r"girl group|brill building|new jack swing|new wave|power pop|pop[- ]punk|hyperpop|"
                  r"europop|k-pop|j-pop|motown|doo-?wop|baroque|chamber pop|art pop|dream pop|indie pop|"
                  r"electroclash|house|eurodisco|r&b|soul|soft rock|adult contemporary|country pop|"
-                 r"latin pop|reggaeton|trap", re.I)
+                 r"latin pop|reggaeton", re.I)
 # strictly pop-family labels (the rest above are accepted only alongside one of these, or alone for
 # the prologue era where infoboxes say "soul" or "R&B" for girl-group and Motown pop)
 CORE_POP = re.compile(r"pop|disco|hi-nrg|eurodance|girl group|brill building|bubblegum|new wave|"
@@ -136,15 +136,29 @@ def infobox_genres(article, artist=""):
     a = norm(artist)[:6]
     mine = [b for b in boxes if a and a in norm(re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1",
                                                     (re.search(r"\|\s*artist\s*=([^\n]*)", b) or [None, ""])[1]))]
-    out = []
+    out, credit = [], ""
     for b in (mine or boxes)[:1]:
+        am = re.search(r"\n\s*\|\s*artist\s*=([^\n]*)", b)
+        if am:
+            credit = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", am.group(1))
+            credit = re.sub(r"<.*?>|\{\{[^}]*\}\}|'{2,3}", "", credit).strip()
         g = re.search(r"\n\s*\|\s*genre\s*=(.*?)(?=\n\s*\|)", b, re.S)
         if g:
             raw = re.sub(r"<ref.*?(</ref>|/>)|<!--.*?-->", "", g.group(1), flags=re.S)
             raw = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", raw)
             raw = re.sub(r"\{\{(?:hlist|flatlist|ubl|unbulleted list|nowrap)\|", "", raw, flags=re.I)
             out = [x.strip(" *{}|\n") for x in re.split(r"\||\n|,|\*", raw) if x.strip(" *{}|\n")]
-    return article, out
+    return article, out, credit
+
+
+def leads(credit, artist):
+    """True when the act is the first-named artist in the song's own infobox credit
+    (Eastside is Benny Blanco's; Unholy is Sam Smith's). No credit found: trust the discography."""
+    if not credit:
+        return True
+    first = re.split(r",| and | & | featuring | feat\.| with | x ", credit, flags=re.I)[0]
+    a, f = norm(artist), norm(first)
+    return bool(f) and (a[:6] in f or f[:6] in a)
 
 
 def qualifies(genres, year):
@@ -224,7 +238,12 @@ def main():
                 c["fate"] = "over cap"; continue
             if not c["article"]:
                 c["fate"] = "no song article"; log.append({"artist": artist, "song": c["title"], "decision": "excluded", "rule": "no Wikipedia article for genre test"}); continue
-            c["article"], c["genres"] = infobox_genres(c["article"], artist)
+            c["article"], c["genres"], c["credit"] = infobox_genres(c["article"], artist)
+            if not leads(c["credit"], artist):
+                c["fate"] = "not lead (song credit)"
+                log.append({"artist": artist, "song": c["title"], "decision": "excluded",
+                            "rule": "not first-named in the song's credit: %s" % c["credit"][:60]})
+                continue
             ok, why = qualifies(c["genres"], c["year"])
             c["genre_rule"] = why
             if ok:

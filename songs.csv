@@ -1,7 +1,7 @@
 id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles,country,region,selection,pilot,wikidata,musicbrainz,status
 1960-my-heart-has-a-mind-of-its-own,My Heart Has a Mind of Its Own,Connie Francis,solo,1960,prologue,1,3,Country; pop; easy listening,,,,pop style in infobox,no,,,listed
 1960-will-you-love-me-tomorrow,Will You Love Me Tomorrow,The Shirelles,group,1960,prologue,1,4,Brill Building; doo-wop; pop; soul,,,,pop style in infobox,no,,,listed
-1961-sailor,Sailor,Petula Clark,solo,1961,prologue,,1,Traditional pop; schlager,,,,pop style in infobox,no,,,listed
+1961-sailor,Sailor,Petula Clark,solo,1961,prologue,,1,Traditional pop; schlager,,,,pop style in infobox,yes,,,listed
 1962-the-loco-motion,The Loco-Motion,Little Eva,solo,1962,prologue,1,2,Pop; rhythm and blues,,,,pop style in infobox,no,,,listed
 1962-hes-a-rebel,He's a Rebel,The Crystals,group,1962,prologue,1,19,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 1962-soldier-boy,Soldier Boy,The Shirelles,group,1962,prologue,1,23,R&B,,,,prologue: soul/R&B girl-group or Motown pop,no,,,listed
@@ -13,14 +13,14 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1964-baby-love,Baby Love,The Supremes,group,1964,prologue,1,1,Pop; rhythm and blues,,,,pop style in infobox,no,,,listed
 1964-where-did-our-love-go,Where Did Our Love Go,The Supremes,group,1964,prologue,1,3,Pop-soul; pop; R&B,,,,pop style in infobox,no,,,listed
 1964-my-guy,My Guy,Mary Wells,solo,1964,prologue,1,5,R&B,,,,prologue: soul/R&B girl-group or Motown pop,no,,,listed
-1964-come-see-about-me,Come See About Me,The Supremes,group,1964,prologue,1,27,Pop; R&B,,,,pop style in infobox,no,,,listed
+1964-come-see-about-me,Come See About Me,The Supremes,group,1964,prologue,1,27,Pop; R&B,,,,pop style in infobox,yes,,,listed
 1964-theres-always-something-there-to-remind-me,(There's) Always Something There to Remind Me,Sandie Shaw,solo,1964,prologue,52,1,Pop,,,,pop style in infobox,no,,,listed
 1964-anyone-who-had-a-heart,Anyone Who Had a Heart,Cilla Black,solo,1964,prologue,,1,Traditional pop,,,,pop style in infobox,no,,,listed
 1964-dancing-in-the-street,Dancing in the Street,Martha and the Vandellas,group,1964,prologue,2,4,R&B,,,,prologue: soul/R&B girl-group or Motown pop,no,,,listed
 1965-stop-in-the-name-of-love,Stop! In the Name of Love,The Supremes,group,1965,prologue,1,7,Pop; R&B; soul,,,,pop style in infobox,no,,,listed
 1965-i-hear-a-symphony,I Hear a Symphony,The Supremes,group,1965,prologue,1,39,Pop; R&B,,,,pop style in infobox,no,,,listed
 1965-back-in-my-arms-again,Back in My Arms Again,The Supremes,group,1965,prologue,1,40,Pop; rhythm and blues,,,,pop style in infobox,no,,,listed
-1965-long-live-love,Long Live Love,Sandie Shaw,solo,1965,prologue,97,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
+1965-long-live-love,Long Live Love,Sandie Shaw,solo,1965,prologue,97,1,,,,,"no infobox genre: kept as a roster act, flagged",yes,,,listed
 1966-you-cant-hurry-love,You Can't Hurry Love,The Supremes,group,1966,prologue,1,3,Pop; soul; R&B; Motown sound,,,,pop style in infobox,no,,,listed
 1966-you-keep-me-hangin-on,You Keep Me Hangin' On,The Supremes,group,1966,prologue,1,8,Rock; pop; psychedelic soul,,,,pop style in infobox,no,,,listed
 1966-you-dont-have-to-say-you-love-me,You Don't Have to Say You Love Me,Dusty Springfield,solo,1966,prologue,4,1,Pop,,,,pop style in infobox,no,,,listed
@@ -58,7 +58,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1975-theme-from-mahogany-do-you-know-where-youre-going-to,Theme from Mahogany (Do You Know Where You're Going To),Diana Ross,solo,1975,prologue,1,5,Soul,,,,prologue: soul/R&B girl-group or Motown pop,no,,,listed
 1975-have-you-never-been-mellow,Have You Never Been Mellow,Olivia Newton-John,solo,1975,prologue,1,,Pop; country; adult contemporary,,,,pop style in infobox,no,,,listed
 1975-love-to-love-you-baby,Love to Love You Baby,Donna Summer,solo,1975,prologue,2,4,Euro disco; psychedelia,,,,pop style in infobox,no,,,listed
-1976-evergreen-love-theme-from-a-star-is-born,Evergreen (Love Theme from A Star Is Born),Barbra Streisand,solo,1976,prologue,1,3,Vocal pop,,,,pop style in infobox,no,,,listed
+1976-evergreen-love-theme-from-a-star-is-born,Evergreen (Love Theme from A Star Is Born),Barbra Streisand,solo,1976,prologue,1,3,Vocal pop,,,,pop style in infobox,yes,,,listed
 1976-love-hangover,Love Hangover,Diana Ross,solo,1976,prologue,1,10,Disco; pop,,,,pop style in infobox,no,,,listed
 1977-you-light-up-my-life,You Light Up My Life,Debby Boone,solo,1977,prologue,1,48,Soft rock,,,,pop-adjacent style in infobox,no,,,listed
 1977-i-feel-love,I Feel Love,Donna Summer,solo,1977,prologue,6,1,Synth-pop; Eurodisco; dance,,,,pop style in infobox,no,,,listed
@@ -84,7 +84,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1980-magic,Magic,Olivia Newton-John,solo,1980,prologue,1,32,Pop; disco; soft rock,,,,pop style in infobox,no,,,listed
 1980-fame,Fame,Irene Cara,solo,1980,prologue,4,1,Pop; post-disco,,,,pop style in infobox,no,,,listed
 1980-xanadu,Xanadu,Olivia Newton-John,solo,1980,prologue,8,1,Disco; pop,,,,pop style in infobox,no,,,listed
-1981-endless-love,Endless Love,Diana Ross,solo,1981,prologue,1,7,R&B,,,,prologue: soul/R&B girl-group or Motown pop,no,,,listed
+1981-endless-love,Endless Love,Diana Ross,solo,1981,prologue,1,7,R&B,,,,prologue: soul/R&B girl-group or Motown pop,yes,,,listed
 1981-physical,Physical,Olivia Newton-John,solo,1981,prologue,1,7,Dance-pop; post-disco,,,,pop style in infobox,no,,,listed
 1981-bette-davis-eyes,Bette Davis Eyes,Kim Carnes,solo,1981,prologue,1,10,New wave; soft rock; synth-rock,,,,pop style in infobox,no,,,listed
 1981-slow-hand,Slow Hand,The Pointer Sisters,group,1981,prologue,2,10,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
@@ -97,7 +97,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1984-whats-love-got-to-do-with-it,What's Love Got to Do with It,Tina Turner,solo,1984,mtv,1,3,Pop rock; R&B,,,,pop style in infobox,no,,,listed
 1984-automatic,Automatic,The Pointer Sisters,group,1984,mtv,5,2,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 1984-holding-out-for-a-hero,Holding Out for a Hero,Bonnie Tyler,solo,1984,mtv,34,2,Hi-NRG; pop; power pop,,,,pop style in infobox,no,,,listed
-1985-saving-all-my-love-for-you,Saving All My Love for You,Whitney Houston,solo,1985,mtv,1,1,R&B; soul; quiet storm,,,,pop-adjacent style in infobox,no,,,listed
+1985-saving-all-my-love-for-you,Saving All My Love for You,Whitney Houston,solo,1985,mtv,1,1,R&B; soul; quiet storm,,,,pop-adjacent style in infobox,yes,,,listed
 1985-crazy-for-you,Crazy for You,Madonna,solo,1985,mtv,1,2,Pop,,,,pop style in infobox,no,,,listed
 1985-how-will-i-know,How Will I Know,Whitney Houston,solo,1985,mtv,1,5,Synth-funk; dance-pop,,,,pop style in infobox,no,,,listed
 1985-thats-what-friends-are-for,That's What Friends Are For,Dionne Warwick,solo,1985,mtv,1,16,Pop; soul; R&B,,,,pop style in infobox,no,,,listed
@@ -128,7 +128,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1987-seasons-change,Seasons Change,Exposé,group,1987,mtv,1,97,Synth-pop; R&B; freestyle,,,,pop style in infobox,no,,,listed
 1987-la-isla-bonita,La Isla Bonita,Madonna,solo,1987,mtv,4,1,Latin pop,,,,pop style in infobox,no,,,listed
 1987-i-should-be-so-lucky,I Should Be So Lucky,Kylie Minogue,solo,1987,mtv,28,1,Pop; Hi-NRG,,,,pop style in infobox,no,,,listed
-1987-respectable,Respectable,Mel and Kim,group,1987,mtv,,1,Dance-pop,,,,pop style in infobox,no,,,listed
+1987-respectable,Respectable,Mel and Kim,group,1987,mtv,,1,Dance-pop,,,,pop style in infobox,yes,,,listed
 1987-what-have-i-done-to-deserve-this,What Have I Done to Deserve This?,Dusty Springfield,solo,1987,mtv,2,2,Synth-pop; dance-pop,,,,pop style in infobox,no,,,listed
 1987-hazy-shade-of-winter,Hazy Shade of Winter,The Bangles,group,1987,mtv,2,11,Hard rock; pop rock,,,,pop style in infobox,no,,,listed
 1987-push-it,Push It,Salt-N-Pepa,group,1987,mtv,19,2,Hip hop; pop rap,,,,pop style in infobox,no,,,listed
@@ -158,14 +158,14 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1989-cold-hearted,Cold Hearted,Paula Abdul,solo,1989,mtv,1,46,New jack swing; dance-pop,,,,pop style in infobox,no,,,listed
 1989-all-around-the-world,All Around the World,Lisa Stansfield,solo,1989,mtv,3,1,R&B; new jack swing,,,,pop style in infobox,no,,,listed
 1989-hand-on-your-heart,Hand on Your Heart,Kylie Minogue,solo,1989,mtv,,1,Dance-pop,,,,pop style in infobox,no,,,listed
-1989-youll-never-stop-me-loving-you,You'll Never Stop Me Loving You,Sonia,solo,1989,mtv,,1,Dance-pop,,,,pop style in infobox,no,,,listed
+1989-youll-never-stop-me-loving-you,You'll Never Stop Me Loving You,Sonia,solo,1989,mtv,,1,Dance-pop,,,,pop style in infobox,yes,,,listed
 1989-dont-know-much,Don't Know Much,Linda Ronstadt,solo,1989,mtv,2,2,Pop,,,,pop style in infobox,no,,,listed
 1989-real-love,Real Love,Jody Watley,solo,1989,mtv,2,31,New jack swing,,,,pop style in infobox,no,,,listed
 1989-miss-you-like-crazy,Miss You Like Crazy,Natalie Cole,solo,1989,mtv,7,2,Pop,,,,pop style in infobox,no,,,listed
 1989-wouldnt-change-a-thing,Wouldn't Change a Thing,Kylie Minogue,solo,1989,mtv,,2,Dance-pop; teen pop,,,,pop style in infobox,no,,,listed
 1990-vogue,Vogue,Madonna,solo,1990,mtv,1,1,House,,,,pop style in infobox,no,,,listed
 1990-nothing-compares-2-u,Nothing Compares 2 U,Sinéad O'Connor,solo,1990,mtv,1,1,Pop,,,,pop style in infobox,no,,,listed
-1990-justify-my-love,Justify My Love,Madonna,solo,1990,mtv,1,2,Hip hop; dance; trip hop; trance; experimental pop,,,,pop style in infobox,no,,,listed
+1990-justify-my-love,Justify My Love,Madonna,solo,1990,mtv,1,2,Hip hop; dance; trip hop; trance; experimental pop,,,,pop style in infobox,yes,,,listed
 1990-im-your-baby-tonight,I'm Your Baby Tonight,Whitney Houston,solo,1990,mtv,1,5,R&B; new jack swing,,,,pop style in infobox,no,,,listed
 1990-hold-on,Hold On,Wilson Phillips,group,1990,mtv,1,6,Pop,,,,pop style in infobox,no,,,listed
 1990-vision-of-love,Vision of Love,Mariah Carey,solo,1990,mtv,1,9,Pop; soul; R&B,,,,pop style in infobox,no,,,listed
@@ -174,7 +174,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1990-love-takes-time,Love Takes Time,Mariah Carey,solo,1990,mtv,1,37,Pop; R&B,,,,pop style in infobox,no,,,listed
 1990-love-will-lead-you-back,Love Will Lead You Back,Taylor Dayne,solo,1990,mtv,1,69,Pop,,,,pop style in infobox,no,,,listed
 1990-tears-on-my-pillow,Tears on My Pillow,Kylie Minogue,solo,1990,mtv,,1,Pop,,,,pop style in infobox,no,,,listed
-1990-hold-on-en-vogue,Hold On,En Vogue,group,1990,mtv,2,5,R&B; new jack swing,,,,pop style in infobox,no,,,listed
+1990-hold-on-en-vogue,Hold On,En Vogue,group,1990,mtv,2,5,R&B; new jack swing,,,,pop style in infobox,yes,,,listed
 1990-from-a-distance,From a Distance,Bette Midler,solo,1990,mtv,2,6,Pop,,,,pop style in infobox,no,,,listed
 1990-better-the-devil-you-know,Better the Devil You Know,Kylie Minogue,solo,1990,mtv,,2,Dance-pop,,,,pop style in infobox,no,,,listed
 1991-rush-rush,Rush Rush,Paula Abdul,solo,1991,mtv,1,6,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
@@ -207,10 +207,10 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1995-exhale-shoop-shoop,Exhale (Shoop Shoop),Whitney Houston,solo,1995,cd,1,11,R&B,,,,pop-adjacent style in infobox,no,,,listed
 1995-red-light-special,Red Light Special,TLC,group,1995,cd,2,18,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 1995-dont-take-it-personal-just-one-of-dem-days,Don't Take It Personal (Just One of Dem Days),Monica,solo,1995,cd,2,32,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
-1996-wannabe,Wannabe,Spice Girls,group,1996,cd,1,1,Dance-pop; pop rap,,,,pop style in infobox,no,,,listed
+1996-wannabe,Wannabe,Spice Girls,group,1996,cd,1,1,Dance-pop; pop rap,,,,pop style in infobox,yes,,,listed
 1996-un-break-my-heart,Un-Break My Heart,Toni Braxton,solo,1996,cd,1,2,Pop; R&B,,,,pop style in infobox,no,,,listed
 1996-always-be-my-baby,Always Be My Baby,Mariah Carey,solo,1996,cd,1,3,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
-1996-because-you-loved-me,Because You Loved Me,Celine Dion,solo,1996,cd,1,5,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
+1996-because-you-loved-me,Because You Loved Me,Celine Dion,solo,1996,cd,1,5,,,,,"no infobox genre: kept as a roster act, flagged",yes,,,listed
 1996-youre-makin-me-high,You're Makin' Me High,Toni Braxton,solo,1996,cd,1,7,Jeep funk; R&B; West Coast hip-hop,,,,pop-adjacent style in infobox,no,,,listed
 1996-let-it-flow,Let It Flow,Toni Braxton,solo,1996,cd,1,,R&B,,,,pop-adjacent style in infobox,no,,,listed
 1996-say-youll-be-there,Say You'll Be There,Spice Girls,group,1996,cd,3,1,Dance-pop; R&B,,,,pop style in infobox,no,,,listed
@@ -240,7 +240,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 1998-viva-forever,Viva Forever,Spice Girls,group,1998,cd,,1,Pop; R&B; Latin pop,,,,pop style in infobox,no,,,listed
 1998-under-the-bridge,Under the Bridge,All Saints,group,1998,cd,,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 1998-lady-marmalade,Lady Marmalade,All Saints,group,1998,cd,,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
-1998-to-you-i-belong,To You I Belong,B*Witched,group,1998,cd,,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
+1998-to-you-i-belong,To You I Belong,B*Witched,group,1998,cd,,1,,,,,"no infobox genre: kept as a roster act, flagged",yes,,,listed
 1998-because-we-want-to,Because We Want To,Billie Piper,solo,1998,cd,,1,Pop,,,,pop style in infobox,no,,,listed
 1998-girlfriend,Girlfriend,Billie Piper,solo,1998,cd,,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 1998-youre-still-the-one,You're Still the One,Shania Twain,solo,1998,cd,2,10,Country pop,,,,pop style in infobox,no,,,listed
@@ -267,7 +267,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2000-try-again,Try Again,Aaliyah,solo,2000,cd,1,5,R&B; electro; dance-pop; trip hop,,,,pop style in infobox,no,,,listed
 2000-come-on-over-baby-all-i-want-is-you,Come on Over Baby (All I Want is You),Christina Aguilera,solo,2000,cd,1,8,Bubblegum pop; dance-pop; teen pop,,,,pop style in infobox,no,,,listed
 2000-love-dont-cost-a-thing,Love Don't Cost a Thing,Jennifer Lopez,solo,2000,cd,3,1,Pop; R&B,,,,pop style in infobox,no,,,listed
-2000-oops-i-did-it-again,Oops!... I Did It Again,Britney Spears,solo,2000,cd,9,1,Dance-pop; teen pop,,,,pop style in infobox,no,,,listed
+2000-oops-i-did-it-again,Oops!... I Did It Again,Britney Spears,solo,2000,cd,9,1,Dance-pop; teen pop,,,,pop style in infobox,yes,,,listed
 2000-cant-fight-the-moonlight,Can't Fight the Moonlight,LeAnn Rimes,solo,2000,cd,11,1,Pop,,,,pop style in infobox,no,,,listed
 2000-american-pie,American Pie,Madonna,solo,2000,cd,29,1,Dance-pop,,,,pop style in infobox,no,,,listed
 2000-spinning-around,Spinning Around,Kylie Minogue,solo,2000,cd,,1,Dance-pop; disco; synth-pop,,,,pop style in infobox,no,,,listed
@@ -283,7 +283,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2000-he-wasnt-man-enough,He Wasn't Man Enough,Toni Braxton,solo,2000,cd,2,5,R&B,,,,pop-adjacent style in infobox,no,,,listed
 2001-lady-marmalade,Lady Marmalade,Christina Aguilera,solo,2001,cd,1,1,Pop; hip-hop soul; R&B,,,,pop style in infobox,no,,,listed
 2001-lady-marmalade-pink,Lady Marmalade,Pink,solo,2001,cd,1,1,Pop; hip-hop soul; R&B,,,,pop style in infobox,no,,,listed
-2001-lady-marmalade-mya,Lady Marmalade,Mýa,solo,2001,cd,1,1,Pop; hip-hop soul; R&B,,,,pop style in infobox,no,,,listed
+2001-lady-marmalade-mya,Lady Marmalade,Mýa,solo,2001,cd,1,1,Pop; hip-hop soul; R&B,,,,pop style in infobox,yes,,,listed
 2001-bootylicious,Bootylicious,Destiny's Child,group,2001,cd,1,2,R&B,,,,pop-adjacent style in infobox,no,,,listed
 2001-im-real,I'm Real,Jennifer Lopez,solo,2001,cd,1,4,Synth-pop; R&B,,,,pop style in infobox,no,,,listed
 2001-survivor,Survivor,Destiny's Child,group,2001,cd,2,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
@@ -311,11 +311,11 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2003-crazy-in-love,Crazy in Love,Beyoncé,solo,2003,idol,1,1,Pop; hip-hop; R&B,,,,pop style in infobox,no,,,listed
 2003-baby-boy,Baby Boy,Beyoncé,solo,2003,idol,1,2,flat list; Dancehall; R&B,,,,pop-adjacent style in infobox,no,,,listed
 2003-slow,Slow,Kylie Minogue,solo,2003,idol,91,1,Electropop; synth-pop; minimal techno; space disco,,,,pop style in infobox,no,,,listed
-2003-hole-in-the-head,Hole in the Head,Sugababes,group,2003,idol,96,1,Pop; big beat; R&B,,,,pop style in infobox,no,,,listed
+2003-hole-in-the-head,Hole in the Head,Sugababes,group,2003,idol,96,1,Pop; big beat; R&B,,,,pop style in infobox,yes,,,listed
 2003-rock-wit-u-awww-baby,Rock wit U (Awww Baby),Ashanti,solo,2003,idol,2,7,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 2003-white-flag,White Flag,Dido,solo,2003,idol,18,2,Pop,,,,pop style in infobox,no,,,listed
 2003-me-against-the-music,Me Against the Music,Britney Spears,solo,2003,idol,35,2,Dance-pop; hip hop,,,,pop style in infobox,no,,,listed
-2003-scandalous,Scandalous,Mis-Teeq,group,2003,idol,35,2,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
+2003-scandalous,Scandalous,Mis-Teeq,group,2003,idol,35,2,,,,,"no infobox genre: kept as a roster act, flagged",yes,,,listed
 2003-jump,Jump,Girls Aloud,group,2003,idol,,2,Dance-pop; electropop; synth-pop,,,,pop style in infobox,no,,,listed
 2003-sweet-dreams-my-l-a-ex,Sweet Dreams My L.A. Ex,Rachel Stevens,solo,2003,idol,,2,Pop,,,,pop style in infobox,no,,,listed
 2004-toxic,Toxic,Britney Spears,solo,2004,idol,9,1,Dance-pop; techno-pop; breakbeat; disco,,,,pop style in infobox,no,,,listed
@@ -330,7 +330,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2004-the-show,The Show,Girls Aloud,group,2004,idol,,2,Dance-pop; electropop; Eurodance,,,,pop style in infobox,no,,,listed
 2004-love-machine,Love Machine,Girls Aloud,group,2004,idol,,2,Pop rock; rockabilly; skiffle; teen pop; length     = {{duration; m=3; s=27,,,,pop style in infobox,no,,,listed
 2004-some-girls,Some Girls,Rachel Stevens,solo,2004,idol,,2,Synth-pop; dance-pop; electropop,,,,pop style in infobox,no,,,listed
-2005-we-belong-together,We Belong Together,Mariah Carey,solo,2005,idol,1,2,R&B,,,,pop-adjacent style in infobox,no,,,listed
+2005-we-belong-together,We Belong Together,Mariah Carey,solo,2005,idol,1,2,R&B,,,,pop-adjacent style in infobox,yes,,,listed
 2005-check-on-it,Check on It,Beyoncé,solo,2005,idol,1,3,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 2005-hollaback-girl,Hollaback Girl,Gwen Stefani,solo,2005,idol,1,8,Pop; hip-hop; post-R&B,,,,pop style in infobox,no,,,listed
 2005-dont-forget-about-us,Don't Forget About Us,Mariah Carey,solo,2005,idol,1,11,R&B; hip-hop soul,,,,pop-adjacent style in infobox,no,,,listed
@@ -364,7 +364,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2007-beautiful-liar-shakira,Beautiful Liar,Shakira,solo,2007,idol,3,1,Latin pop; R&B,,,,pop style in infobox,no,,,listed
 2007-with-every-heartbeat,With Every Heartbeat,Robyn,solo,2007,idol,,1,Eurodisco; electro house; electropop; dance-pop,,,,pop style in infobox,no,,,listed
 2007-about-you-now,About You Now,Sugababes,group,2007,idol,,1,Pop rock; electropop; dance-pop; electronic rock,,,,pop style in infobox,no,,,listed
-2007-piece-of-me,Piece of Me,Britney Spears,solo,2007,idol,18,2,Electropop; dance-pop; EDM-pop,,,,pop style in infobox,no,,,listed
+2007-piece-of-me,Piece of Me,Britney Spears,solo,2007,idol,18,2,Electropop; dance-pop; EDM-pop,,,,pop style in infobox,yes,,,listed
 2007-foundations,Foundations,Kate Nash,solo,2007,idol,,2,Indie pop,,,,pop style in infobox,no,,,listed
 2008-so-what,So What,Pink,solo,2008,idol,1,1,Electronic rock; dance-rock; glam rock; pop rock,,,,pop style in infobox,no,,,listed
 2008-just-dance,Just Dance,Lady Gaga,solo,2008,idol,1,1,Electropop; synth-pop; dance-pop,,,,pop style in infobox,no,,,listed
@@ -372,7 +372,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2008-i-kissed-a-girl,I Kissed a Girl,Katy Perry,solo,2008,idol,1,1,Pop rock; electropop; bubblegum pop; club; disco,,,,pop style in infobox,no,,,listed
 2008-take-a-bow,Take a Bow,Rihanna,solo,2008,idol,1,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 2008-womanizer,Womanizer,Britney Spears,solo,2008,idol,1,3,Electropop; dance-pop,,,,pop style in infobox,no,,,listed
-2008-disturbia,Disturbia,Rihanna,solo,2008,idol,1,3,Dance-pop; electropop,,,,pop style in infobox,no,,,listed
+2008-disturbia,Disturbia,Rihanna,solo,2008,idol,1,3,Dance-pop; electropop,,,,pop style in infobox,yes,,,listed
 2008-touch-my-body,Touch My Body,Mariah Carey,solo,2008,idol,1,5,Pop; R&B,,,,pop style in infobox,no,,,listed
 2008-single-ladies-put-a-ring-on-it,Single Ladies (Put a Ring on It),Beyoncé,solo,2008,idol,1,7,Dance-pop; R&B; bounce,,,,pop style in infobox,no,,,listed
 2008-4-minutes,4 Minutes,Madonna,solo,2008,idol,3,1,Dance-pop,,,,pop style in infobox,no,,,listed
@@ -426,10 +426,10 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2011-lights,Lights,Ellie Goulding,solo,2011,streaming,2,49,Synth-pop; pop; EDM,,,,pop style in infobox,no,,,listed
 2011-heaven,Heaven,Emeli Sandé,solo,2011,streaming,,2,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 2011-the-edge-of-glory,The Edge of Glory,Lady Gaga,solo,2011,streaming,3,6,Pop; electro-rock; arena rock; disco,,,,pop style in infobox,no,,,listed
-2011-super-bass,Super Bass,Nicki Minaj,solo,2011,streaming,3,8,Pop rap; electropop,,,,pop style in infobox,no,,,listed
+2011-super-bass,Super Bass,Nicki Minaj,solo,2011,streaming,3,8,Pop rap; electropop,,,,pop style in infobox,yes,,,listed
 2011-the-one-that-got-away,The One That Got Away,Katy Perry,solo,2011,streaming,3,18,Pop,,,,pop style in infobox,no,,,listed
 2011-till-the-world-ends,Till the World Ends,Britney Spears,solo,2011,streaming,3,21,Flat list; Dance-pop; electropop,,,,pop style in infobox,no,,,listed
-2012-part-of-me,Part of Me,Katy Perry,solo,2012,streaming,1,1,Dance-pop; power pop,,,,pop style in infobox,no,,,listed
+2012-part-of-me,Part of Me,Katy Perry,solo,2012,streaming,1,1,Dance-pop; power pop,,,,pop style in infobox,yes,,,listed
 2012-diamonds,Diamonds,Rihanna,solo,2012,streaming,1,1,Pop; electronic; R&B,,,,pop style in infobox,no,,,listed
 2012-we-are-never-ever-getting-back-together,We Are Never Ever Getting Back Together,Taylor Swift,solo,2012,streaming,1,4,Bubblegum pop; dance-pop; electro-folk; electropop; Europop; pop-punk; pop rock,,,,pop style in infobox,no,,,listed
 2012-stronger-what-doesnt-kill-you,Stronger (What Doesn't Kill You),Kelly Clarkson,solo,2012,streaming,1,8,Dance-pop; electropop; pop rock,,,,pop style in infobox,no,,,listed
@@ -479,19 +479,19 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2015-black-magic,Black Magic,Little Mix,group,2015,streaming,67,1,Dance-pop; teen pop,,,,pop style in infobox,no,,,listed
 2015-hold-my-hand,Hold My Hand,Jess Glynne,solo,2015,streaming,86,1,Eurodance,,,,pop style in infobox,no,,,listed
 2015-dont-be-so-hard-on-yourself,Don't Be So Hard on Yourself,Jess Glynne,solo,2015,streaming,,1,Dance-pop; soul; house,,,,pop style in infobox,no,,,listed
-2015-one-last-time,One Last Time,Ariana Grande,solo,2015,streaming,13,2,Dance-pop; EDM,,,,pop style in infobox,no,,,listed
+2015-one-last-time,One Last Time,Ariana Grande,solo,2015,streaming,13,2,Dance-pop; EDM,,,,pop style in infobox,yes,,,listed
 2015-fourfiveseconds,FourFiveSeconds,Rihanna,solo,2015,streaming,4,3,Folk pop; pop rock; pop soul,,,,pop style in infobox,no,,,listed
 2015-worth-it,Worth It,Fifth Harmony,group,2015,streaming,12,3,Flat list; Dance-pop; R&B; endflatlist,,,,pop style in infobox,no,,,listed
 2016-work,Work,Rihanna,solo,2016,streaming,1,2,Dancehall; reggae-pop; R&B,,,,pop style in infobox,no,,,listed
 2016-shout-out-to-my-ex,Shout Out to My Ex,Little Mix,group,2016,streaming,69,1,Dance-pop,,,,pop style in infobox,no,,,listed
 2016-i-dont-wanna-live-forever,I Don't Wanna Live Forever,Taylor Swift,solo,2016,streaming,2,5,R&B; dance-pop; electropop,,,,pop style in infobox,no,,,listed
-2016-work-from-home,Work from Home,Fifth Harmony,group,2016,streaming,4,2,Pop; R&B,,,,pop style in infobox,no,,,listed
+2016-work-from-home,Work from Home,Fifth Harmony,group,2016,streaming,4,2,Pop; R&B,,,,pop style in infobox,yes,,,listed
 2016-i-would-like,I Would Like,Zara Larsson,solo,2016,streaming,,2,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 2016-good-as-hell,Good as Hell,Lizzo,solo,2016,streaming,3,7,Soul-pop; R&B; pop rap,,,,pop style in infobox,no,,,listed
 2016-no,No,Meghan Trainor,solo,2016,streaming,3,11,Dance-pop; R&B,,,,pop style in infobox,no,,,listed
 2017-look-what-you-made-me-do,Look What You Made Me Do,Taylor Swift,solo,2017,streaming,1,1,Electropop; dance-pop; progressive pop; synth-punk,,,,pop style in infobox,no,,,listed
 2017-havana,Havana,Camila Cabello,solo,2017,streaming,1,1,Pop; Latin,,,,pop style in infobox,no,,,listed
-2017-bodak-yellow,Bodak Yellow,Cardi B,solo,2017,streaming,1,24,Hip hop; trap,,,,pop-adjacent style in infobox,no,,,listed
+2017-bodak-yellow,Bodak Yellow,Cardi B,solo,2017,streaming,1,24,Hip hop; trap,,,,pop-adjacent style in infobox,yes,,,listed
 2017-truth-hurts,Truth Hurts,Lizzo,solo,2017,streaming,1,29,Trap; hip hop; pop,,,,pop style in infobox,no,,,listed
 2017-perfect-duet,Perfect Duet,Beyoncé,solo,2017,streaming,1,,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 2017-new-rules,New Rules,Dua Lipa,solo,2017,streaming,6,1,Electropop; tropical house,,,,pop style in infobox,no,,,listed
@@ -501,7 +501,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2018-thank-u-next,"Thank U, Next",Ariana Grande,solo,2018,tiktok,1,1,Pop; R&B,,,,pop style in infobox,no,,,listed
 2018-without-me,Without Me,Halsey,solo,2018,tiktok,1,3,Club-pop; electro-R&B,,,,pop style in infobox,no,,,listed
 2018-i-like-it,I Like It,Cardi B,solo,2018,tiktok,1,8,Latin trap; hip hop,,,,pop-adjacent style in infobox,no,,,listed
-2018-eastside,Eastside,Halsey,solo,2018,tiktok,9,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
+2018-eastside,Eastside,Halsey,solo,2018,tiktok,9,1,,,,,"no infobox genre: kept as a roster act, flagged",yes,,,listed
 2018-sweet-but-psycho,Sweet but Psycho,Ava Max,solo,2018,tiktok,10,1,Pop; dance-pop; electropop; synth-pop,,,,pop style in infobox,no,,,listed
 2018-one-kiss,One Kiss,Dua Lipa,solo,2018,tiktok,26,1,Dance-pop; diva house; tropical house,,,,pop style in infobox,no,,,listed
 2018-ill-be-there,I'll Be There,Jess Glynne,solo,2018,tiktok,,1,Pop; synth-pop,,,,pop style in infobox,no,,,listed
@@ -530,8 +530,8 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2020-stuck-with-u,Stuck with U,Ariana Grande,solo,2020,tiktok,1,4,Pop; R&B,,,,pop style in infobox,no,,,listed
 2020-cardigan,Cardigan,Taylor Swift,solo,2020,tiktok,1,6,Soft rock; folk; indie rock,,,,pop-adjacent style in infobox,no,,,listed
 2020-pink-pony-club,Pink Pony Club,Chappell Roan,solo,2020,tiktok,4,1,Pop; synth-pop; dance-pop; power pop; disco-pop; disco,,,,pop style in infobox,no,,,listed
-2020-no-time-to-die,No Time to Die,Billie Eilish,solo,2020,tiktok,16,1,Orchestral pop,,,,pop style in infobox,no,,,listed
-2020-sweet-melody,Sweet Melody,Little Mix,group,2020,tiktok,,1,Dance-pop; reggaeton,,,,pop style in infobox,no,,,listed
+2020-no-time-to-die,No Time to Die,Billie Eilish,solo,2020,tiktok,16,1,Orchestral pop,,,,pop style in infobox,yes,,,listed
+2020-sweet-melody,Sweet Melody,Little Mix,group,2020,tiktok,,1,Dance-pop; reggaeton,,,,pop style in infobox,yes,,,listed
 2020-therefore-i-am,Therefore I Am,Billie Eilish,solo,2020,tiktok,2,2,Dark pop; electropop; hip-pop; R&B,,,,pop style in infobox,no,,,listed
 2020-34-35,34+35,Ariana Grande,solo,2020,tiktok,2,3,Pop; R&B,,,,pop style in infobox,no,,,listed
 2021-easy-on-me,Easy on Me,Adele,solo,2021,tiktok,1,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
@@ -547,7 +547,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2021-kiss-me-more,Kiss Me More,Doja Cat,solo,2021,tiktok,3,3,Bubblegum pop; dance-pop; pop rap; R&B,,,,pop style in infobox,no,,,listed
 2021-deja-vu,Deja Vu,Olivia Rodrigo,solo,2021,tiktok,3,4,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 2022-anti-hero,Anti-Hero,Taylor Swift,solo,2022,tiktok,1,1,Pop rock; synth-pop; electro; electropop,,,,pop style in infobox,no,,,listed
-2022-unholy,Unholy,Kim Petras,solo,2022,tiktok,1,1,Electropop; synth-pop; dance-pop; EDM,,,,pop style in infobox,no,,,listed
+2022-unholy,Unholy,Kim Petras,solo,2022,tiktok,1,1,Electropop; synth-pop; dance-pop; EDM,,,,pop style in infobox,yes,,,listed
 2022-break-my-soul,Break My Soul,Beyoncé,solo,2022,tiktok,1,2,House; dance-pop; diva house; dance,,,,pop style in infobox,no,,,listed
 2022-about-damn-time,About Damn Time,Lizzo,solo,2022,tiktok,1,3,Nu-disco,,,,pop style in infobox,no,,,listed
 2022-super-freaky-girl,Super Freaky Girl,Nicki Minaj,solo,2022,tiktok,1,5,Pop rap,,,,pop style in infobox,no,,,listed
@@ -594,7 +594,7 @@ id,title,artist,act_type,chart_year,generation,us_peak,uk_peak,genres_raw,styles
 2025-the-fate-of-ophelia,The Fate of Ophelia,Taylor Swift,solo,2025,tiktok,1,1,Dance-pop; synth-pop; funk,,,,pop style in infobox,no,,,listed
 2025-manchild,Manchild,Sabrina Carpenter,solo,2025,tiktok,1,1,Country pop; bubblegum pop; pop rock; synth-pop,,,,pop style in infobox,no,,,listed
 2025-the-subway,The Subway,Chappell Roan,solo,2025,tiktok,3,1,Pop; alt-pop; dream pop; power pop,,,,pop style in infobox,no,,,listed
-2025-where-is-my-husband,Where Is My Husband!,Raye,solo,2025,tiktok,11,1,R&B; soul; pop; big band; gospel,,,,pop style in infobox,no,,,listed
+2025-where-is-my-husband,Where Is My Husband!,Raye,solo,2025,tiktok,11,1,R&B; soul; pop; big band; gospel,,,,pop style in infobox,yes,,,listed
 2025-xmas,XMAS,Kylie Minogue,solo,2025,tiktok,,1,,,,,"no infobox genre: kept as a roster act, flagged",no,,,listed
 2025-the-giver,The Giver,Chappell Roan,solo,2025,tiktok,5,2,Country; country pop,,,,pop style in infobox,no,,,listed
 2025-tears,Tears,Sabrina Carpenter,solo,2025,tiktok,3,3,Disco-pop; disco-R&B; nu-disco,,,,pop style in infobox,no,,,listed

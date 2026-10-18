@@ -89,10 +89,14 @@ def read_json(path):
         return json.load(f)
 
 
-def load_songs():
+def load_songs(include_all=False):
+    """All songs; with PILOT=1 in the environment, only rows marked pilot (unless include_all)."""
     import csv
     with open(os.path.join(ROOT, "songs.csv")) as f:
-        return list(csv.DictReader(f))
+        rows = list(csv.DictReader(f))
+    if os.environ.get("PILOT") and not include_all:
+        rows = [r for r in rows if r.get("pilot") == "yes"]
+    return rows
 
 
 def wiki_raw(title):
